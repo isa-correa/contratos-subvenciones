@@ -1,0 +1,615 @@
+{
+ "pr-05-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La preparación de contratos de poderes adjudicadores que no son Administración Pública es del orden contencioso-administrativo (**art. 27.1.c**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.c)"
+  ]
+ },
+ "pr-05-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La adjudicación de contratos de una Administración Pública es del orden contencioso-administrativo (**art. 27.1.a y b**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.a)"
+  ]
+ },
+ "pr-05-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es civil, no contencioso-administrativa. (art. 27.2)",
+   "Es esta. La interpretación afecta a los efectos del contrato, que en una entidad que no es Administración Pública son del orden civil (**art. 27.2.a y b**)."
+  ]
+ },
+ "pr-05-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La resolución de un contrato administrativo de obras de una Administración es contencioso-administrativa (**art. 27.1.a**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.a)"
+  ]
+ },
+ "pr-05-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.2.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es civil, no contencioso-administrativa. (art. 27.2.a)",
+   "Es esta. Los efectos de un contrato privado, como la suscripción a una publicación, son del orden civil (**art. 27.2.a**)."
+  ]
+ },
+ "pr-05-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La adjudicación de contratos de poderes adjudicadores que no son Administración Pública va al contencioso-administrativo (**art. 27.1.c**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.c)"
+  ]
+ },
+ "pr-05-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los efectos de un contrato administrativo de una Autoridad Administrativa Independiente van al contencioso-administrativo (**art. 27.1.a**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.a)"
+  ]
+ },
+ "pr-05-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es civil, no contencioso-administrativa. (art. 27.2)",
+   "Es esta. La liquidación forma parte de los efectos y la extinción de un contrato privado: orden civil (**art. 27.2.a y b**)."
+  ]
+ },
+ "pr-05-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El incumplimiento de un contrato administrativo del Ministerio va al contencioso-administrativo (**art. 27.1.a**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.a)"
+  ]
+ },
+ "pr-05-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La modificación de un contrato administrativo de una Diputación va al contencioso-administrativo (**art. 27.1.a**).",
+   "No. Es contencioso-administrativa, no civil. (art. 27.1.a)"
+  ]
+ },
+ "pr-06-001": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16.1, 26.1 y 21.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Arrendamiento de bienes muebles: suministro (**art. 16.1**), privado por la fundación (**art. 26.1.b**) y de regulación armonizada porque 250.000 supera 216.000 (**art. 21.1.b**).",
+   "No. Es suministro, no servicios: arrendar bienes muebles (**art. 16.1**).",
+   "No. Es privado: una fundación pública no es Administración Pública (**art. 26.1.b**).",
+   "No. Sí está sujeto: 250.000 supera el umbral de 216.000 (**art. 21.1.b**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-002": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 17, 25 y 22.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es servicios, no obras: redactar un proyecto es un servicio (**art. 17**).",
+   "Es esta. Servicios (la redacción de un proyecto lo es), administrativo (Ayuntamiento) y sujeto a regulación armonizada (230.000 supera 216.000) (**arts. 17, 25.1.a y 22.1.b**).",
+   "No. Sí está sujeto: 230.000 supera el umbral de 216.000 de un Ayuntamiento (**art. 22.1.b**).",
+   "No. Es administrativo: un Ayuntamiento es Administración Pública (**art. 25.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-003": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16.3.c, 25 y 21.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es suministro, no servicios: los de fabricación lo son (**art. 16.3.c**).",
+   "No. Sí está sujeto: 145.000 supera el umbral de 140.000 de la AGE (**art. 21.1.a**).",
+   "Es esta. Fabricación con características fijadas por el contratante: suministro (**art. 16.3.c**), administrativo (Ministerio) y sujeto a regulación armonizada (145.000 supera 140.000) (**art. 21.1.a**).",
+   "No. Es administrativo: un Ministerio es Administración Pública (**art. 25.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-004": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 15, 26.1 y 20",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es concesión de servicios, no un servicio: el adjudicatario asume el riesgo operacional (**art. 15**).",
+   "No. Sí está sujeto: 5.600.000 supera el umbral de 5.404.000 (**art. 20**).",
+   "No. Es privado: una Mutua no es Administración Pública (**art. 26.1.b**).",
+   "Es esta. Concesión de servicios (riesgo operacional del adjudicatario), privado (la Mutua no es Administración) y sujeto a regulación armonizada (5.600.000 supera 5.404.000) (**arts. 15, 26.1.b y 20**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-005": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16, 26.1 y 3.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está sujeto: una sociedad mercantil que actúa en el mercado no es poder adjudicador (**art. 3.3.d**).",
+   "Es esta. Suministro, privado (no es Administración) y no sujeto a regulación armonizada, porque una sociedad mercantil que actúa en el mercado no es poder adjudicador (**arts. 16.1, 26.1.b y 3.3.d**).",
+   "No. Es privado: una sociedad mercantil no es Administración Pública (**art. 26.1.b**).",
+   "No. Es suministro, no servicios: adquirir vehículos lo es (**art. 16.1**)."
+  ],
+  "ojo": "Depende de que Renfe Viajeros no cumpla el art. 3.3.d, es decir, que tenga carácter industrial o mercantil."
+ },
+ "pr-06-006": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 13, 25 y 20",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es obras, no servicios: reformar un edificio es obra (**art. 13**).",
+   "No. No está sujeto: 280.000 no alcanza el umbral de 5.404.000 de obras (**art. 20**).",
+   "Es esta. Obras, administrativo (Universidad pública) y no sujeto a regulación armonizada, porque 280.000 no alcanza 5.404.000 (**arts. 13, 25.1.a y 20**).",
+   "No. Es administrativo: una Universidad pública es Administración Pública (**art. 25.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-007": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 17, 25 y 22.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Servicios (programa a medida), administrativo (Organismo Autónomo) y no sujeto a regulación armonizada, porque 135.000 no alcanza 140.000 (**arts. 17, 25.1.a y 22.1.a**).",
+   "No. Es servicios, no suministro: un programa a medida es un servicio (**art. 17**).",
+   "No. No está sujeto: 135.000 no alcanza el umbral de 140.000 del Organismo Autónomo (**art. 22.1.a**).",
+   "No. Es administrativo: un Organismo Autónomo es Administración Pública (**art. 25.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-008": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16, 25 y 21.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No está sujeto: la AESA no es de las entidades del umbral de 140.000, sino del de 216.000 (**art. 21.1.b**).",
+   "No. Es suministro, no servicios: arrendar equipos lo es (**art. 16.3.b**).",
+   "Es esta. Suministro, administrativo y no sujeto a regulación armonizada: 180.000 no alcanza el umbral de 216.000 que corresponde a la AESA (**arts. 16.3.b, 25.1.a y 21.1.b**).",
+   "No. Es administrativo: una agencia estatal es Administración Pública (**art. 25.1.a**)."
+  ],
+  "ojo": "El umbral de 140.000 es solo para la AGE, sus Organismos Autónomos y las Entidades Gestoras y Servicios Comunes. Una agencia estatal queda en el de 216.000.",
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-009": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16.3.d, 25 y 21.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está sujeto: Ayuntamiento tiene umbral de 216.000 y 205.000 no lo alcanza (**art. 21.1.b**).",
+   "Es esta. Suministro (energía), administrativo (Ayuntamiento) y no sujeto a regulación armonizada, porque 205.000 no alcanza 216.000 (**arts. 16.3.d, 25.1.a y 21.1.b**).",
+   "No. Es suministro, no servicios: la energía eléctrica lo es (**art. 16.3.d**).",
+   "No. Es administrativo: un Ayuntamiento es Administración Pública (**art. 25.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-06-010": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 13, 25 y 20",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No está sujeto: 5.500.000 supera el umbral de 5.404.000 (**art. 20**).",
+   "No. Es administrativo: una agencia estatal es Administración Pública (**art. 25.1.a**).",
+   "No. Es obras, no servicios: construir un edificio lo es (**art. 13**).",
+   "Es esta. Obras, administrativo (agencia estatal) y sujeto a regulación armonizada, porque 5.500.000 supera 5.404.000 (**arts. 13, 25.1.a y 20**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-001": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16.3.b, 25 y 21.1.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es suministro, no servicios: adquirir programas estándar lo es (**art. 16.3.b**).",
+   "No. No está sujeto: Diputación tiene umbral de 216.000 y 215.000 no lo alcanza (**art. 21.1.b**).",
+   "No. Es administrativo: una Diputación es Administración Pública (**art. 25.1.a**).",
+   "Es esta. Suministro (programa estándar), administrativo (Diputación) y no sujeto a regulación armonizada, porque 215.000 no alcanza 216.000 (**arts. 16.3.b, 25.1.a y 21.1.b**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-002": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 13, 26.1 y 20",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es privado: una fundación pública no es Administración Pública (**art. 26.1.b**).",
+   "No. Es obras, no servicios: rehabilitar un edificio lo es (**art. 13**).",
+   "No. Sí está sujeto: 5.800.000 supera el umbral de 5.404.000 (**art. 20**).",
+   "Es esta. Obras, privado (fundación pública) y sujeto a regulación armonizada, porque 5.800.000 supera 5.404.000 (**arts. 13, 26.1.b y 20**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-003": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 17, 26.1 y 3.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Servicios (mantenimiento), privado y no sujeto a regulación armonizada, al no ser poder adjudicador la sociedad mercantil (**arts. 17, 26.1.b y 3.3.d**).",
+   "No. Es privado: una sociedad mercantil no es Administración Pública (**art. 26.1.b**).",
+   "No. Es servicios, no suministro: el mantenimiento lo es (**art. 17**).",
+   "No. No está sujeto: una sociedad mercantil que actúa en el mercado no es poder adjudicador (**art. 3.3.d**)."
+  ],
+  "ojo": "Si la sociedad mercantil fuera poder adjudicador, 480.000 superaría 216.000 y sería de regulación armonizada."
+ },
+ "pr-07-004": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 17, 25 y 22.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es servicios, no suministro: una aplicación a medida lo es (**art. 17**).",
+   "No. Es administrativo: una Entidad Gestora de la Seguridad Social es Administración Pública (**art. 25.1.a**).",
+   "Es esta. Servicios (aplicación a medida), administrativo (Entidad Gestora) y sujeto a regulación armonizada, porque 165.000 supera 140.000 (**arts. 17, 25.1.a y 22.1.a**).",
+   "No. Sí está sujeto: 165.000 supera el umbral de 140.000 de las Entidades Gestoras (**art. 22.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-005": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16.3.b, 26.1 y 21.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es privado: una Mutua no es Administración Pública (**art. 26.1.b**).",
+   "No. Es suministro, no obras: adquirir un sistema de equipos lo es (**art. 16.3.b**).",
+   "Es esta. Suministro (sistema de equipos), privado (Mutua) y sujeto a regulación armonizada, porque 230.000 supera 216.000 (**arts. 16.3.b, 26.1.b y 21.1.b**).",
+   "No. Sí está sujeto: 230.000 supera el umbral de 216.000 de la Mutua (**art. 21.1.b**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-006": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 14, 25 y 20",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es concesión de obras, no de servicios: se construye y se explota (**art. 14**).",
+   "No. Es concesión de obras y el riesgo operacional lo asume el concesionario (**art. 14**).",
+   "No. No está sujeto a regulación armonizada: 5.000.000 no alcanza 5.404.000 (**art. 20**).",
+   "Es esta. Concesión de obras (construye y explota con riesgo operacional), administrativo y no sujeto, porque 5.000.000 no alcanza 5.404.000 (**arts. 14, 25.1.a y 20**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-007": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 15, 25 y 20",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es concesión de servicios, no un servicio: el riesgo operacional lo asume el adjudicatario (**art. 15**).",
+   "Es esta. Concesión de servicios, administrativo (Ayuntamiento) y sujeto a regulación armonizada, porque 5.600.000 supera 5.404.000 (**arts. 15, 25.1.a y 20**).",
+   "No. Es administrativo: un Ayuntamiento es Administración Pública (**art. 25.1.a**).",
+   "No. Sí está sujeto: 5.600.000 supera el umbral de 5.404.000 (**art. 20**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-008": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 16.1, 25 y 21.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es suministro, no servicios: arrendar con opción de compra lo es (**art. 16.1**).",
+   "Es esta. Suministro (arrendamiento con opción de compra), administrativo y no sujeto a regulación armonizada, porque 138.000 no alcanza 140.000 (**arts. 16.1, 25.1.a y 21.1.a**).",
+   "No. Es administrativo: un Organismo Autónomo es Administración Pública (**art. 25.1.a**).",
+   "No. No está sujeto: 138.000 no alcanza 140.000 (**art. 21.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-009": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 17, 25 y 22.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es administrativo: la Junta de Andalucía es Administración Pública (**art. 25.1.a**).",
+   "No. No está sujeto: una Comunidad Autónoma tiene umbral de 216.000 y 180.000 no lo alcanza (**art. 22.1.b**).",
+   "Es esta. Servicios, administrativo (Junta de Andalucía) y no sujeto a regulación armonizada, porque 180.000 no alcanza 216.000 (**arts. 17, 25.1.a y 22.1.b**).",
+   "No. Es administrativo, no privado: la Junta es Administración Pública (**art. 25.1.a**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE, 216.000 resto, 5.404.000 obras y concesiones), que se actualizan cada dos años."
+ },
+ "pr-07-010": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 13, 26.1 y 3.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Obras (proyecto y ejecución), privado (EPE) y no sujeto a regulación armonizada, al no ser poder adjudicador la EPE (**arts. 13.1.a, 26.1.b y 3.3.d**).",
+   "No. Es privado: una EPE no es Administración Pública (**art. 26.1.b**).",
+   "No. Es obras, no servicios: se redacta el proyecto y se ejecutan las obras (**art. 13.1.a**).",
+   "No. Es privado, no administrativo: una EPE no es Administración Pública (**art. 26.1.b**)."
+  ],
+  "ojo": "Si el ICEX cumpliera el art. 3.3.d (interés general sin carácter mercantil), sería poder adjudicador y el contrato de 6.200.000 sería de regulación armonizada. Las opciones no ofrecen esa combinación."
+ },
+ "pr-08-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Obras por encima de 3.000.000 de euros (**art. 44.1.a**).",
+   "No. Sí cabe: 4.000.000 supera 3.000.000."
+  ]
+ },
+ "pr-08-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Suministro por encima de 100.000 euros de un poder adjudicador (**art. 44.1.a**).",
+   "No. Sí cabe: 110.000 supera 100.000 y una fundación pública es poder adjudicador."
+  ]
+ },
+ "pr-08-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí cabría si fuera poder adjudicador, porque 7.000.000 supera 3.000.000 (**art. 44.1.c**).",
+   "Es esta. Una EPE que no es poder adjudicador no queda en el ámbito del recurso especial (**art. 44.1**)."
+  ],
+  "ojo": "Depende de que la EPE no sea poder adjudicador (art. 3.3.d)."
+ },
+ "pr-08-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Servicios por encima de 100.000 euros de un poder adjudicador (**art. 44.1.a**).",
+   "No. Sí cabe: 175.000 supera 100.000 y la Mutua es poder adjudicador."
+  ]
+ },
+ "pr-08-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Suministro por encima de 100.000 euros (**art. 44.1.a**).",
+   "No. Sí cabe: 200.000 supera 100.000."
+  ]
+ },
+ "pr-08-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí cabría si superase los 100.000 euros.",
+   "Es esta. El umbral es 'superior a 100.000', y 100.000 no lo supera (**art. 44.1.a**)."
+  ]
+ },
+ "pr-08-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los contratos administrativos especiales son recurribles si su valor supera el de los contratos de servicios (**art. 44.1**), y 135.000 lo supera.",
+   "No. Sí cabe: 135.000 supera los 100.000 de los servicios."
+  ]
+ },
+ "pr-08-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Concesiones de servicios por encima de 3.000.000 de euros (**art. 44.1.c**).",
+   "No. Sí cabe: 3.100.000 supera 3.000.000."
+  ]
+ },
+ "pr-08-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí cabría si fuera poder adjudicador, porque 210.000 supera 100.000.",
+   "Es esta. Una sociedad mercantil que no es poder adjudicador queda fuera del recurso especial (**art. 44.1**)."
+  ],
+  "ojo": "Depende de que la sociedad mercantil no sea poder adjudicador (art. 3.3.d)."
+ },
+ "pr-08-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los contratos basados en un acuerdo marco son recurribles aunque su importe sea menor, si el acuerdo tiene por objeto contratos del art. 44.1.a (**art. 44.1.b**).",
+   "No. No cabría si fuera un contrato suelto, pero este deriva de un acuerdo marco."
+  ],
+  "ojo": "Se entiende que el acuerdo marco de origen supera los umbrales. El contrato basado por sí solo no llegaría a 100.000."
+ },
+ "pr-09-001": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 21.1.b, 25.1.a y 44.1.a LCSP",
+  "correctas": [
+   0,
+   3,
+   4
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Un ayuntamiento es Administración Pública y el suministro que celebra es administrativo (art. 25.1.a).",
+   "No es correcta. Solo serían privados los contratos de una Administración con objeto excluido del art. 25.1.a, y el suministro no lo está.",
+   "No es correcta. Para una entidad local el umbral de los suministros es de 216.000 euros (art. 21.1.b) y este contrato vale 200.000.",
+   "Correcta. Al ser un ayuntamiento no se aplica el umbral de 140.000 de la AGE, sino el de 216.000, y 200.000 no lo alcanza.",
+   "Correcta. Los suministros de valor estimado superior a 100.000 euros admiten recurso especial (art. 44.1.a), sean o no de regulación armonizada.",
+   "No es correcta. El recurso especial se da en suministros de más de 100.000 euros y este llega a 200.000."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (los de 2026 son 5.404.000, 216.000 y 140.000 euros). Confirma el vigente en el momento del examen."
+ },
+ "pr-09-002": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.3.b, 20.1, 26.1.b y 44.1.a LCSP",
+  "correctas": [
+   1,
+   2,
+   4
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. Una fundación pública es poder adjudicador pero no Administración Pública (art. 3.2 y 3.3.b), y solo los contratos de una Administración son administrativos.",
+   "Correcta. Los contratos de un poder adjudicador que no es Administración Pública son privados (art. 26.1.b).",
+   "Correcta. Las obras con valor estimado igual o superior a 5.404.000 euros están sujetas a regulación armonizada (art. 20.1), y 6.000.000 lo supera.",
+   "No es correcta. El umbral de las obras es 5.404.000 euros y este contrato lo supera, así que sí es de regulación armonizada.",
+   "Correcta. Las obras de más de 3.000.000 euros de un poder adjudicador admiten recurso especial (art. 44.1.a), aunque el contrato sea privado.",
+   "No es correcta. Superar los 3.000.000 euros en obras abre el recurso especial, y el contrato es de un poder adjudicador."
+  ]
+ },
+ "pr-09-003": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 21.1.b, 25.1.a y 44.1.a LCSP",
+  "correctas": [
+   0,
+   3,
+   5
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Un ayuntamiento es Administración Pública y su contrato de suministro es administrativo (art. 25.1.a).",
+   "No es correcta. El suministro de una Administración Pública no está entre los contratos privados del art. 26.1.a.",
+   "No es correcta. Con 95.000 euros se queda lejos del umbral de 216.000 euros que se aplica a las entidades locales (art. 21.1.b).",
+   "Correcta. 95.000 euros no alcanza el umbral de 216.000 euros del art. 21.1.b, así que no es de regulación armonizada.",
+   "No es correcta. En suministros el recurso especial exige un valor estimado superior a 100.000 euros (art. 44.1.a) y aquí son 95.000.",
+   "Correcta. Al no superar los 100.000 euros, el suministro no admite recurso especial (art. 44.1.a), aunque sí los recursos ordinarios del art. 44.6."
+  ]
+ },
+ "pr-09-004": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.2.a, 20.1, 25.1.a y 44.1.c LCSP",
+  "correctas": [
+   0,
+   3,
+   4
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Las universidades públicas son Administración Pública (art. 3.2.a) y la concesión de obras que celebran es administrativa (art. 25.1.a).",
+   "No es correcta. La concesión de obras de una Administración Pública es un contrato administrativo, no privado.",
+   "No es correcta. Las concesiones de obras son de regulación armonizada desde 5.404.000 euros (art. 20.1) y este contrato vale 4.000.000.",
+   "Correcta. 4.000.000 euros no llega a 5.404.000, que es el umbral de obras y concesiones (art. 20.1).",
+   "Correcta. Las concesiones de obras de más de 3.000.000 euros admiten recurso especial (art. 44.1.c), aunque no sean de regulación armonizada.",
+   "No es correcta. Una concesión de obras de 4.000.000 euros supera los 3.000.000 que abren el recurso especial (art. 44.1.c)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (los de 2026 son 5.404.000, 216.000 y 140.000 euros). Confirma el vigente en el momento del examen."
+ },
+ "pr-09-005": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.3, 22.1.b, 26.1.b y 44.1.a LCSP",
+  "correctas": [
+   1,
+   2,
+   4
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. La sociedad mercantil no es Administración Pública, y solo los contratos de una Administración son administrativos (art. 25.1).",
+   "Correcta. Si la sociedad es poder adjudicador sin ser Administración Pública, sus contratos son privados (art. 26.1.b).",
+   "Correcta. Los servicios de un poder adjudicador que no es AGE son de regulación armonizada desde 216.000 euros (art. 22.1.b), y aquí son 1.000.000.",
+   "No es correcta. 1.000.000 euros supera con mucho el umbral de 216.000 euros de los servicios (art. 22.1.b).",
+   "Correcta. Los servicios de más de 100.000 euros celebrados por un poder adjudicador admiten recurso especial (art. 44.1.a).",
+   "No es correcta. El contrato supera los 100.000 euros y lo celebra un poder adjudicador, así que sí cabe recurso especial."
+  ],
+  "ojo": "El enunciado da por hecho que la sociedad es poder adjudicador. Una sociedad estatal que actúa en el mercado y no se creó para necesidades de interés general no industriales ni mercantiles no lo sería (art. 3.3.d), y entonces no habría regulación armonizada ni recurso especial. Aquí se responde con la lectura habitual del ejercicio."
+ },
+ "pr-10-001": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.1.g, 21.1, 26.1.b y 44.1.a LCSP",
+  "correctas": [
+   1,
+   3,
+   4
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. Las entidades públicas empresariales forman parte del sector público (art. 3.1.g) pero no figuran entre las Administraciones Públicas del art. 3.2.a.",
+   "Correcta. Si es poder adjudicador sin ser Administración Pública, su contrato es privado (art. 26.1.b).",
+   "No es correcta. 110.000 euros no llega al umbral de suministros: 140.000 para la AGE y sus organismos o 216.000 para el resto (art. 21.1).",
+   "Correcta. Por debajo de 140.000 euros ningún suministro es de regulación armonizada, sea cual sea el sujeto que lo adjudique.",
+   "Correcta. El suministro supera los 100.000 euros y lo adjudica un poder adjudicador, así que admite recurso especial (art. 44.1.a).",
+   "No es correcta. Con 110.000 euros se supera el mínimo de 100.000 que abre el recurso especial en suministros."
+  ],
+  "ojo": "Se parte de que la EPE es poder adjudicador sin ser Administración Pública. Si se financiara mayoritariamente al margen del mercado podría contar como Administración Pública por el art. 3.2.b, y entonces el contrato sería administrativo.",
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (los de 2026 son 5.404.000, 216.000 y 140.000 euros). Confirma el vigente en el momento del examen."
+ },
+ "pr-10-002": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.2.a, 20.1, 25.1.a y 44.1.c LCSP",
+  "correctas": [
+   0,
+   3,
+   4
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. El INSS es una entidad gestora de la Seguridad Social, Administración Pública (art. 3.2.a), y su concesión de obras es administrativa.",
+   "No es correcta. Una concesión de obras de una Administración Pública es un contrato administrativo (art. 25.1.a).",
+   "No es correcta. El umbral de las concesiones de obras es 5.404.000 euros (art. 20.1) y este contrato vale 4.000.000.",
+   "Correcta. 4.000.000 euros queda por debajo de 5.404.000, así que no es de regulación armonizada.",
+   "Correcta. Las concesiones de obras de más de 3.000.000 euros son recurribles en vía especial (art. 44.1.c).",
+   "No es correcta. Con 4.000.000 euros se supera el mínimo de 3.000.000 que abre el recurso especial en las concesiones."
+  ]
+ },
+ "pr-10-003": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 22.1.b, 25.1.a y 44.1.a LCSP",
+  "correctas": [
+   0,
+   3,
+   4
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Un ayuntamiento es Administración Pública y su contrato de servicios es administrativo (art. 25.1.a).",
+   "No es correcta. Solo son privados los servicios financieros, artísticos y de suscripciones del art. 25.1.a, y este no lo es.",
+   "No es correcta. Un ayuntamiento no es la AGE, así que el umbral de servicios es 216.000 euros (art. 22.1.b) y 195.000 no lo alcanza.",
+   "Correcta. El umbral de 140.000 euros es solo para la AGE, sus organismos autónomos y la Seguridad Social. Para un ayuntamiento son 216.000.",
+   "Correcta. Los servicios de más de 100.000 euros admiten recurso especial (art. 44.1.a), aunque no sean de regulación armonizada.",
+   "No es correcta. 195.000 euros supera los 100.000 que abren el recurso especial en servicios."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (los de 2026 son 5.404.000, 216.000 y 140.000 euros). Confirma el vigente en el momento del examen."
+ },
+ "pr-10-004": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.1.c, 3.2.a, 22.1, 25.1.a y 44.1.b LCSP",
+  "correctas": [
+   0,
+   3,
+   4
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Las autoridades administrativas independientes son Administración Pública (art. 3.1.c y 3.2.a) y su contrato de servicios es administrativo.",
+   "No es correcta. El servicio que contrata una Administración Pública no es privado, salvo las excepciones del art. 25.1.a que aquí no concurren.",
+   "No es correcta. El umbral de 140.000 euros es solo para la AGE, sus organismos autónomos y la Seguridad Social. Una AAI se rige por los 216.000 del art. 22.1.b.",
+   "Correcta. Con 170.000 euros no se alcanzan los 216.000 que corresponden a una autoridad administrativa independiente.",
+   "Correcta. Los contratos basados en un acuerdo marco son recurribles cuando lo es el servicio que se contrata (art. 44.1.b), y 170.000 supera los 100.000.",
+   "No es correcta. El contrato basado supera los 100.000 euros, así que cabe recurso especial (art. 44.1.a y b)."
+  ],
+  "ojo": "El enunciado habla de un contrato basado con 170.000 euros. La regulación armonizada de un contrato basado depende del acuerdo marco del que nace. Aquí se responde con el valor indicado.",
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (los de 2026 son 5.404.000, 216.000 y 140.000 euros). Confirma el vigente en el momento del examen."
+ },
+ "pr-10-005": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 3.2.a, 22.1.b, 25.1.a y 44.1.a LCSP",
+  "correctas": [
+   0,
+   3,
+   4
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Los organismos autónomos son Administración Pública (art. 3.2.a) y su contrato de servicios es administrativo.",
+   "No es correcta. Un organismo autónomo es Administración Pública, y su contrato de servicios es administrativo (art. 25.1.a).",
+   "No es correcta. El umbral de 140.000 euros solo vale para los organismos autónomos de la AGE. Uno autonómico queda en los 216.000 del art. 22.1.b.",
+   "Correcta. Un organismo autónomo de una comunidad autónoma no es de la AGE, así que el umbral es 216.000 euros y 170.000 no lo alcanza.",
+   "Correcta. Los servicios de más de 100.000 euros admiten recurso especial (art. 44.1.a).",
+   "No es correcta. 170.000 euros supera los 100.000 que abren el recurso especial en servicios."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (los de 2026 son 5.404.000, 216.000 y 140.000 euros). Confirma el vigente en el momento del examen."
+ }
+}

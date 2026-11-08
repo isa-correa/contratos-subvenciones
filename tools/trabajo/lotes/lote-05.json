@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-06-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 9,
+   "enunciado": "De acuerdo con la Ley 9/2017 de Contratos del Sector Público, la clasificación del contratista será exigible:",
+   "opciones": [
+    "Para los contratos de servicios cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Para los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Para los contratos de suministro cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Para los contratos de servicios comprendidos en las categorías 6, 8, 21, 26 y 27 del Anexo II."
+   ]
+  },
+  {
+   "id": "au-06-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 10,
+   "enunciado": "La LCSP dispone que, para la conservación de la clasificación de las empresas:",
+   "opciones": [
+    "Deberá justificarse anualmente el mantenimiento de la solvencia técnica y profesional.",
+    "Deberá justificarse cada tres años el mantenimiento de la solvencia económica y financiera.",
+    "Deberá justificarse anualmente el mantenimiento de la solvencia económica y financiera.",
+    "Deberá justificarse cada dos años, el mantenimiento de la solvencia técnica y profesional."
+   ]
+  },
+  {
+   "id": "au-06-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 11,
+   "enunciado": "De acuerdo con la Ley de Contratos del Sector Público de 2017, no podrán contratar con el sector público las personas en quienes concurra alguna de las siguientes circunstancias:",
+   "opciones": [
+    "Tener varios contratos de la misma naturaleza adjudicados por el órgano de contratación.",
+    "Haber sido imputadas por delitos de tráfico de influencias.",
+    "Tener varios contratos adjudicados por el órgano de contratación.",
+    "No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de la Seguridad Social."
+   ]
+  },
+  {
+   "id": "au-06-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 12,
+   "enunciado": "De acuerdo con la LCSP, en los contratos de obras, las facultades del responsable del contrato serán ejercidas por:",
+   "opciones": [
+    "El Director Facultativo.",
+    "El Jefe de Obra.",
+    "El encargado.",
+    "El Jefe de Equipo."
+   ]
+  },
+  {
+   "id": "au-06-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 13,
+   "enunciado": "Según la Ley 9/2017, de 8 noviembre, la publicación de la información relativa a los contratos menores deberá realizarse:",
+   "opciones": [
+    "Anualmente.",
+    "Al menos trimestralmente.",
+    "Semestralmente.",
+    "Al menos semestralmente."
+   ]
+  },
+  {
+   "id": "au-06-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 14,
+   "enunciado": "Señale la respuesta incorrecta en relación con el perfil de contratante, de acuerdo con lo dispuesto en el artículo 63 de la LCSP:",
+   "opciones": [
+    "Los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante.",
+    "Su finalidad es asegurar la transparencia y el acceso público a los contratos del Sector Público.",
+    "La forma de acceso deberá hacerse constar en los pliegos y documentos equivalentes, así como en los anuncios de licitación.",
+    "La información contenida en el perfil de contratante permanecerá accesible durante un periodo de tiempo no inferior a 3 años."
+   ]
+  },
+  {
+   "id": "au-06-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 15,
+   "enunciado": "De acuerdo con la LCSP, será objeto de publicación en el perfil de contratante:",
+   "opciones": [
+    "La publicación de la información relativa a los contratos menores, que deberá realizarse al menos semestralmente.",
+    "El informe de insuficiencia de medios en el caso de contratos de suministros.",
+    "El objeto detallado del contrato, su duración, el presupuesto base de licitación y el importe de adjudicación, incluido el IVA.",
+    "La formalización de los encargos a medios propios, cualquiera que sea su importe."
+   ]
+  },
+  {
+   "id": "au-06-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 16,
+   "enunciado": "Según el artículo 62 de la LCSP, corresponde al responsable del contrato:",
+   "opciones": [
+    "Asegurar la transparencia y el acceso público a la información relativa a la actividad contractual.",
+    "Adoptar decisiones y dictar las instrucciones necesarias a fin de asegurar la correcta realización de la prestación pactada.",
+    "Delegar y desconcentrar la actividad contractual en otros órganos administrativos.",
+    "Aprobar modelos de pliegos particulares para determinadas categorías de contratos de naturaleza análoga."
+   ]
+  },
+  {
+   "id": "au-06-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 17,
+   "enunciado": "El responsable del contrato, según establece la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+   "opciones": [
+    "Deberá ser una persona jurídica, vinculada a la entidad contratante.",
+    "Deberá ser una persona física o jurídica, vinculada a la entidad contratante.",
+    "Deberá ser una persona jurídica, vinculada a la entidad contratante o ajena a ella.",
+    "Podrá ser una persona física o jurídica, vinculada a la entidad contratante o ajena a ella."
+   ]
+  },
+  {
+   "id": "au-06-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 18,
+   "enunciado": "Indique la respuesta INCORRECTA respecto a lo regulado en el artículo 63 de la LCSP, titulado “perfil de contratante”:",
+   "opciones": [
+    "Los procedimientos anulados deberán ser objeto de publicación en el perfil de contratante.",
+    "La formalización de encargos a medios propios por importe superior a 50.000 euros, IVA excluido, será objeto de publicación.",
+    "El acceso a la información del perfil de contratante será libre, previa identificación del consultante.",
+    "Podrá incluir cualesquiera datos y documentos referentes a la actividad contractual de los órganos de contratación."
+   ]
+  },
+  {
+   "id": "au-06-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 19,
+   "enunciado": "Según la LCSP, ¿para qué tipo de contratos será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras de los poderes adjudicadores?",
+   "opciones": [
+    "Para los contratos de obras cuyo valor estimado sea igual o superior a 200.000 euros.",
+    "Para los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Para los contratos de obras cuyo valor estimado sea igual o superior a 300.000 euros.",
+    "En la nueva LCSP, no es exigible clasificación del empresario en ningún tipo de contrato."
+   ]
+  },
+  {
+   "id": "au-06-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 20,
+   "enunciado": "Según la LCSP, la representación de las entidades del sector público en materia contractual corresponde a:",
+   "opciones": [
+    "Los órganos de contratación, unipersonales o colegiados, que tengan atribuida la facultad de celebrar contratos en su nombre.",
+    "El responsable del contrato.",
+    "Los máximos órganos de dirección unipersonal de la entidad pública correspondiente.",
+    "Los máximos órganos de dirección, unipersonales o colegiados, de la entidad pública correspondiente."
+   ]
+  },
+  {
+   "id": "au-06-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 21,
+   "enunciado": "De acuerdo con la LCSP, las empresas de Estados miembros de la Unión Europea o de los Estados signatarios del Acuerdo sobre el Espacio Económico Europeo tendrán capacidad para contratar con el sector público la realización de una prestación concreta:",
+   "opciones": [
+    "Cuando se encuentren habilitadas para su realización con arreglo a la legislación española.",
+    "Cuando se encuentren habilitadas para su realización con arreglo a la legislación del Estado en que estén establecidas.",
+    "Siempre que justifiquen que el Estado de procedencia admite la participación de empresas españolas en forma análoga.",
+    "Cuando no concurra a la licitación ninguna empresa española habilitada para realizar la prestación de que se trate."
+   ]
+  },
+  {
+   "id": "au-06-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 22,
+   "enunciado": "Indique la respuesta INCORRECTA, respecto a las uniones temporales de empresarios reguladas en el artículo 69 de la LCSP:",
+   "opciones": [
+    "Para presentar ofertas en las licitaciones será necesario que la unión se hubiese formalizado mediante escritura pública.",
+    "Los empresarios que concurran agrupados en uniones temporales quedarán obligados solidariamente.",
+    "La duración de las uniones temporales de empresarios será coincidente, al menos, con la del contrato hasta su extinción.",
+    "Si antes de la formalización del contrato se produjese la modificación de su composición, quedará excluida del procedimiento."
+   ]
+  },
+  {
+   "id": "au-06-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 23,
+   "enunciado": "Según el artículo 75 de la LCSP, para acreditar la solvencia necesaria para celebrar un contrato determinado, el empresario:",
+   "opciones": [
+    "Podrá basarse en la solvencia y medios de otras entidades, salvo en contratos de obras.",
+    "No podrá basarse, en ningún caso, en la solvencia y medios de otras entidades.",
+    "Podrá basarse en la solvencia y medios de otras entidades, salvo en contratos sujetos a regulación armonizada.",
+    "Podrá basarse en la solvencia y medios de otras entidades."
+   ]
+  },
+  {
+   "id": "au-06-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 24,
+   "enunciado": "Según la LCSP, en un contrato de obras con un valor estimado de 1.000.000 de euros, la clasificación no será exigible:",
+   "opciones": [
+    "A empresarios españoles.",
+    "A empresarios de Estados miembros de la Unión Europea, salvo que concurran integrados en una unión.",
+    "A empresarios de Estados signatarios del Acuerdo sobre el Espacio Económico Europeo.",
+    "A empresarios extranjeros, con independencia de cuál sea su estado de procedencia."
+   ]
+  },
+  {
+   "id": "au-06-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 25,
+   "enunciado": "A efectos de determinar el objeto y cuantía de los contratos a cuya adjudicación pueden concurrir u optar las empresas en función de su clasificación, estos se dividirán en:",
+   "opciones": [
+    "Categorías, por su peculiar naturaleza, y dentro de estos por grupos y subgrupos, en función de su cuantía.",
+    "Grupos generales, por su peculiar naturaleza, y dentro de estos por subgrupos, en función de su cuantía.",
+    "Grupos generales, por su peculiar naturaleza, y dentro de estos por subgrupos y categorías, en función de su cuantía.",
+    "Grupos generales y subgrupos, por su peculiar naturaleza, y dentro de estos por categorías, en función de su cuantía."
+   ]
+  },
+  {
+   "id": "au-07-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 1,
+   "enunciado": "Según la LCSP, la solvencia técnica en contratos de obras debe ser acreditada en relación a las obras ejecutadas en los:",
+   "opciones": [
+    "7 últimos años, avalada por certificados de buena ejecución.",
+    "5 últimos años, avalada por certificados de buena ejecución.",
+    "3 últimos años, avalada por certificados de buena ejecución.",
+    "2 últimos años, avalada por certificados de buena ejecución."
+   ]
+  },
+  {
+   "id": "au-07-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 2,
+   "enunciado": "Según el artículo 90 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de los siguientes no es un medio válido a la hora de determinar la solvencia técnica o profesional en los contratos de servicios?",
+   "opciones": [
+    "Una relación de los principales servicios de igual o similar naturaleza realizados en el curso de los cinco últimos años.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "En casos adecuados, indicación de las medidas de gestión medioambiental que el empresario aplicará al ejecutar el contrato."
+   ]
+  },
+  {
+   "id": "au-07-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 3,
+   "enunciado": "La prueba, por parte de los empresarios, de no estar incursos en prohibiciones para contratar:",
+   "opciones": [
+    "Deberá realizarse mediante testimonio judicial.",
+    "Podrá realizarse mediante testimonio judicial o certificación administrativa, según los casos.",
+    "Deberá realizarse mediante certificación administrativa.",
+    "Se realizará, en todo caso, mediante declaración responsable."
+   ]
+  },
+  {
+   "id": "au-07-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 4,
+   "enunciado": "La capacidad de obrar de los empresarios no españoles nacionales de Estados miembros de la Unión Europea se acreditará:",
+   "opciones": [
+    "Con informe de la Misión Diplomática Permanente de España en el Estado correspondiente.",
+    "Por su inscripción en el registro procedente de acuerdo con la legislación del Estado donde están establecidos.",
+    "Por su inscripción en el registro procedente de acuerdo con la legislación mercantil española.",
+    "Con informe de la Oficina Consular en cuyo ámbito territorial radique el domicilio de la empresa."
+   ]
+  },
+  {
+   "id": "au-07-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 5,
+   "enunciado": "En los contratos de obras, la solvencia económica y financiera del empresario podrá acreditarse a través de:",
+   "opciones": [
+    "Relación de las obras ejecutadas en el curso de los cinco últimos años, avalada por certificados de buena ejecución.",
+    "Indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "Cuando resulte apropiado, justificante de la existencia de un seguro de responsabilidad civil por riesgos profesionales."
+   ]
+  },
+  {
+   "id": "au-07-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 6,
+   "enunciado": "En los contratos de suministro la solvencia técnica de los empresarios podrá acreditarse mediante una relación de los principales suministros realizados de igual o similar naturaleza que los que constituyen el objeto del contrato en el curso de como máximo:",
+   "opciones": [
+    "Los dos últimos años.",
+    "Los tres últimos años.",
+    "Los cinco últimos años.",
+    "Los diez últimos años."
+   ]
+  },
+  {
+   "id": "au-07-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 7,
+   "enunciado": "En los contratos de suministro, la solvencia técnica del empresario podrá acreditarse, entre otros, a través del siguiente medio:",
+   "opciones": [
+    "Indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "Muestras, descripciones y fotografías de los productos a suministrar."
+   ]
+  },
+  {
+   "id": "au-07-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 8,
+   "enunciado": "No constituye un medio para acreditar la solvencia técnica o profesional de los empresarios en los contratos de servicio:",
+   "opciones": [
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "Indicación del personal técnico o de las unidades técnicas, integradas o no en la empresa, participantes en el contrato.",
+    "Una relación de los principales servicios realizados de igual o similar naturaleza en el curso de los tres últimos años",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los cinco últimos años."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "au-01-014": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 9.1, 11.1 y 11.3 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, pero no es la única. El **art. 9.1** excluye las autorizaciones y concesiones sobre bienes de dominio público (por ejemplo, el chiringuito de una playa).",
+   "Es verdadera, pero no es la única. El **art. 11.1** excluye la relación de servicio de los funcionarios y los contratos laborales.",
+   "Es verdadera, pero no es la única. El **art. 11.3** excluye los contratos de arbitraje y conciliación.",
+   "Es esta. Las tres exclusiones son verdaderas, así que “todos los anteriores” es la respuesta."
+  ]
+ },
+ "au-01-015": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El **art. 3.2** enumera las Administraciones Públicas y las mutuas no están en esa lista.",
+   "No. Sí forman parte del sector público: el **art. 3.1.f** las incluye expresamente.",
+   "No. Sí son poder adjudicador: el **art. 3.3.c** las cita.",
+   "Es esta. Las mutuas colaboradoras con la Seguridad Social son sector público y poder adjudicador, pero no Administración Pública (**arts. 3.1.f, 3.2 y 3.3.c**)."
+  ]
+ },
+ "au-01-016": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 1.3 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 1.3** obliga a incorporar de forma transversal y preceptiva criterios sociales y medioambientales, siempre que guarden relación con el objeto del contrato.",
+   "No. Los criterios que cita el art. 1.3 son sociales y medioambientales, no “éticos y de transparencia”. Además, ese artículo exige que haya relación con el objeto del contrato.",
+   "No. Se acierta con la condición de la relación con el objeto, pero los criterios son otros: sociales y medioambientales.",
+   "No. Acierta con los criterios, pero falla la condición: solo cuando guardan relación con el objeto del contrato, no “aunque no guarden relación”."
+  ]
+ },
+ "au-01-017": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3.3 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el **art. 3.3.a**.",
+   "Es verdadera, así que no se marca. Es el **art. 3.3.b**.",
+   "Es verdadera, así que no se marca. Es el **art. 3.3.c**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Las entidades públicas empresariales son sector público (**art. 3.1.g**), pero el art. 3.3 no las nombra como poder adjudicador."
+  ],
+  "ojo": "Pareja que se confunde: fundaciones públicas y mutuas sí son poder adjudicador. Las entidades públicas empresariales y las sociedades mercantiles estatales, no por sí mismas."
+ },
+ "au-01-018": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3.3 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las corporaciones de derecho público quedan sujetas a la ley solo cuando cumplen los requisitos de poder adjudicador de la letra d) (**art. 3.5**), no “en todos los casos”.",
+   "Es esta. Las mutuas colaboradoras con la Seguridad Social son poder adjudicador por el **art. 3.3.c**.",
+   "No. La letra d) del art. 3.3 exige que las entidades hayan sido creadas para necesidades de interés general que **no** tengan carácter industrial o mercantil. Esta opción dice lo contrario.",
+   "No. Una asociación solo es poder adjudicador si la han constituido las entidades enumeradas en el art. 3.3 (letra e). No basta con estar inscrita en un registro público."
+  ]
+ },
+ "au-01-019": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 11.3 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No están sujetos a la ley: el **art. 11.3** los excluye.",
+   "Es esta. El **art. 11.3** excluye los contratos relativos a servicios de arbitraje y conciliación.",
+   "No. No son contratos privados incluidos en la ley: quedan fuera de ella.",
+   "No. Tampoco son contratos administrativos incluidos: la ley los excluye."
+  ]
+ },
+ "au-01-020": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3.3 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las sociedades mercantiles son sector público cuando están participadas mayoritariamente por entes públicos (**art. 3.1.h**), pero el art. 3.3 no las nombra como poder adjudicador.",
+   "No. Los fondos sin personalidad jurídica son sector público (**art. 3.1.i**), no poder adjudicador.",
+   "No. Las entidades públicas empresariales son sector público (**art. 3.1.g**), pero no figuran entre los poderes adjudicadores del art. 3.3.",
+   "Es esta. Las Administraciones Públicas son poder adjudicador por el **art. 3.3.a**."
+  ]
+ },
+ "au-02-001": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 11.2 y 12 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Prestar un servicio público que los usuarios pagan con tarifa, tasa o precio público de aplicación general es una relación excluida (**art. 11.2**), y por eso no se califica como contrato del sector público.",
+   "No. La concesión de servicios es uno de los contratos que enumera el **art. 12.1**.",
+   "No. La concesión de obras es uno de los contratos que enumera el **art. 12.1**.",
+   "No. El contrato de servicios es uno de los contratos que enumera el **art. 12.1**."
+  ]
+ },
+ "au-02-002": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 12 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El contrato de gestión de servicio público era una figura de la ley anterior. La LCSP la sustituyó por la concesión de servicios y no aparece en el **art. 12**.",
+   "No. El contrato de obras está en el **art. 12.1**.",
+   "No. La concesión de obras está en el **art. 12.1**.",
+   "No. La concesión de servicios está en el **art. 12.1**."
+  ],
+  "ojo": "Los tipos del art. 12 son cinco: obras, concesión de obras, concesión de servicios, suministro y servicios. Gestión de servicio público ya no existe."
+ },
+ "au-02-003": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 15 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es la definición del **art. 15.1**: un poder adjudicador encomienda a título oneroso la gestión de un servicio de su titularidad o competencia, y la contrapartida es explotarlo (con o sin precio). Se transfiere el riesgo operacional.",
+   "No. La concesión de obra tiene por objeto realizar una obra y explotarla (**art. 14**), no gestionar un servicio.",
+   "No. “Gestión de servicios públicos” es el nombre antiguo, de la ley anterior. Hoy se llama concesión de servicios.",
+   "No. En el contrato de servicios el contratista presta una actividad a cambio de un precio que paga la Administración (**art. 17**). Aquí la contrapartida es el derecho a explotar el servicio."
+  ]
+ },
+ "au-02-004": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16.1 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No está excluido: es un contrato típico de la ley.",
+   "No. El contrato de servicios es de prestaciones de hacer (**art. 17**), no de alquilar bienes.",
+   "Es esta. El **art. 16.1** dice que son contratos de suministro los que tienen por objeto adquirir o arrendar productos o bienes muebles.",
+   "No. Un contrato mixto es el que contiene prestaciones de distinta clase (**art. 18**). Arrendar bienes muebles es una sola prestación."
+  ]
+ },
+ "au-02-005": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El contrato de obras tiene por objeto una obra (**art. 13**).",
+   "No. El contrato de servicios consiste en prestaciones de hacer (**art. 17**).",
+   "No. La concesión de servicios es la gestión de un servicio a cambio del derecho a explotarlo (**art. 15**).",
+   "Es esta. Es casi literal el **art. 16.1**: adquisición, arrendamiento financiero o arrendamiento, con o sin opción de compra, de productos o bienes muebles."
+  ]
+ },
+ "au-02-006": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16.3.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Solo los programas de ordenador **desarrollados a medida** se consideran contratos de servicios, y la pregunta los deja fuera.",
+   "Es esta. El **art. 16.3.b** considera suministro la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o de tratamiento de la información, sus dispositivos y programas. La excepción son los programas hechos a medida, que son servicios.",
+   "No. No hay ninguna obra en el objeto del contrato.",
+   "No. “Gestión de servicios públicos” ya no es un tipo de contrato de la LCSP."
+  ]
+ },
+ "au-02-007": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 12 a 17 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La compraventa es un negocio civil, no un tipo contractual de la LCSP. El contrato típico que la ley regula para adquirir bienes muebles es el de suministro (**art. 16**).",
+   "No. La concesión de servicios es un contrato típico (**art. 15**).",
+   "No. El suministro es un contrato típico (**art. 16**).",
+   "No. El contrato de servicios es un contrato típico (**art. 17**)."
+  ]
+ },
+ "au-02-008": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 13.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, pero no es la única. Es el **art. 13.1.a**: ejecutar una obra, sola o junto con la redacción del proyecto.",
+   "Es verdadera, pero no es la única. También el **art. 13.1.a** incluye realizar alguno de los trabajos del Anexo I.",
+   "Es verdadera, pero no es la única. Es el **art. 13.1.b**: realizar por cualquier medio una obra que cumpla los requisitos fijados por la entidad contratante, que ejerce una influencia decisiva en su tipo o proyecto.",
+   "Es esta. Las tres descripciones son del **art. 13.1**, así que “todas las anteriores” es la respuesta."
+  ]
+ },
+ "au-02-009": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16.3.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Un programa de ordenador no es una obra: el art. 13 define la obra como el resultado de trabajos de construcción o ingeniería civil sobre un inmueble.",
+   "Es esta. El **art. 16.3.b** dice que la adquisición de programas de ordenador **desarrollados a medida** se considera contrato de servicios. Se hace a tu medida: es una prestación de hacer.",
+   "No. Es la excepción: si el programa se desarrolla a medida, no es suministro.",
+   "No. “Consultoría y asistencia” era un tipo de contrato de la ley antigua. La LCSP actual no lo tiene."
+  ],
+  "ojo": "Programa estándar: suministro. Programa hecho a tu medida: servicios."
+ },
+ "au-02-010": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16.3.a de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 16.3.a** considera suministro el contrato en que el empresario entrega una pluralidad de bienes de forma sucesiva y por precio unitario, sin que la cuantía total se defina con exactitud, porque las entregas dependen de las necesidades de quien compra.",
+   "No. “Asistencia” no es un tipo de contrato de la LCSP actual.",
+   "No. El contrato de servicios es de prestaciones de hacer, no de entrega de bienes (**art. 17**).",
+   "No. “De gestión” se refiere a la gestión de servicios públicos, que ya no es un tipo de contrato."
+  ]
+ },
+ "au-02-011": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 12 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Falta la concesión de servicios.",
+   "Es esta. El **art. 12.1** enumera cinco contratos: obras, concesión de obras, concesión de servicios, suministro y servicios.",
+   "No. Faltan las dos concesiones.",
+   "No. Los contratos mixtos no son un tipo más de la clasificación: se regulan aparte, en el **art. 18**. Y la “concesión” no es un tipo único, son dos: de obras y de servicios."
+  ]
+ },
+ "au-02-012": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 18.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Que colaboren varias entidades del sector público no hace mixto un contrato.",
+   "Es esta. El **art. 18.1** dice que contrato mixto es el que contiene prestaciones correspondientes a otro u otros de distinta clase. Por ejemplo, suministrar equipos e instalarlos.",
+   "No. Quién financia el contrato no tiene nada que ver con que sea mixto.",
+   "No. Tampoco: da igual quién lo financie y quién lo gestione."
+  ]
+ },
+ "au-02-013": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 16.3.d de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En una concesión el contratista explota un servicio a su riesgo (**art. 15**).",
+   "No. El contrato de servicios es de prestaciones de hacer (**art. 17**).",
+   "Es esta. El **art. 16.3.d** considera en todo caso suministro la adquisición de energía primaria o transformada.",
+   "No. La energía no está excluida: es un contrato típico de la ley."
+  ]
+ },
+ "au-02-014": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 17 y 284.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El **art. 17** lo prohíbe: no pueden ser objeto de contrato de servicios los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+   "Es esta. Lo prohíbe el **art. 17** para el contrato de servicios y el **art. 284.1** para la concesión de servicios: “en ningún caso” se prestarán por concesión los que impliquen ejercicio de autoridad.",
+   "No. La mitad es cierta (no pueden ser contrato de servicios), pero tampoco pueden ser concesión de servicios, por el **art. 284.1**.",
+   "No. El **art. 284.1** dice lo contrario: en ningún caso podrán prestarse por concesión de servicios."
+  ]
+ },
+ "au-02-015": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 17 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El resultado debe ser **distinto** de una obra o suministro, no “de obra o suministro”. La parte final (“incluyendo”) sí es correcta.",
+   "No. Falla en las dos partes: el resultado debe ser distinto de obra o suministro, y el artículo dice “incluyendo”, no “salvo”.",
+   "No. Acierta con “distinto de obra o suministro”, pero el artículo dice “incluyendo” la ejecución sucesiva, no “salvo”.",
+   "Es esta. El **art. 17** define los contratos de servicios como prestaciones de hacer dirigidas a un resultado **distinto** de una obra o suministro, **incluyendo** aquellos en que el adjudicatario se obliga a ejecutar el servicio de forma sucesiva y por precio unitario."
+  ],
+  "ojo": "Dos palabras deciden esta pregunta: distinto (no obra ni suministro) e incluyendo (la ejecución sucesiva sí cuenta)."
+ },
+ "au-03-001": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 25.1.a de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los contratos de servicios son, por regla general, contratos administrativos cuando los celebra una Administración Pública. Solo son privados los casos concretos del art. 25.1.a.",
+   "No. Los contratos de obras son contratos administrativos. La ingeniería civil no cambia su carácter.",
+   "Es esta. El **art. 25.1.a, 2.º** da carácter privado a los contratos de suscripción a revistas, publicaciones periódicas y bases de datos.",
+   "No. Solo una de las anteriores es cierta."
+  ],
+  "ojo": "Además de las suscripciones, son privados los servicios financieros y los de creación artística, literaria e interpretación y espectáculos (art. 25.1.a, 1.º)."
+ },
+ "au-03-002": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 21.1.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los 140.000 euros son el umbral reducido que solo se aplica a la AGE, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social (**art. 21.1.a**). Una universidad pública no está entre ellos.",
+   "Es esta. Una universidad pública, aunque sea estatal, aplica el umbral general de suministros: **216.000 euros** (**art. 21.1.b**).",
+   "No. Los 5.404.000 euros son el umbral de obras y concesiones (**art. 20**).",
+   "No. Los 750.000 euros son el umbral de los servicios sociales y otros servicios específicos del anexo IV (**art. 22.1.c**), no de suministros."
+  ],
+  "ojo": "Los 140.000 solo valen para el núcleo de la AGE. Cualquier otro poder adjudicador, aunque sea estatal, va con 216.000.",
+  "revisar": "Los umbrales se revisan cada dos años. Estas cifras son las vigentes desde el 1 de enero de 2026 (Orden HAC/1517/2025)."
+ },
+ "au-03-003": {
+  "bloque": "lcsp-general",
+  "precepto": "Arts. 20 a 22 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En suministros el umbral no es 500.000: es 140.000 para la AGE y 216.000 para el resto (**art. 21**).",
+   "Es esta. El **art. 20.1** sujeta a regulación armonizada los contratos de obras, concesión de obras y concesión de servicios de valor estimado igual o superior a 5.404.000 euros.",
+   "No. En servicios, la AGE tiene umbral de **140.000** euros (**art. 22.1.a**), no 139.000. El valor estimado igual o superior a 140.000 es lo que cuenta.",
+   "No. No hay un umbral único de 750.000 para todos los contratos. Esa cifra es solo para los servicios sociales y específicos del anexo IV (**art. 22.1.c**)."
+  ],
+  "revisar": "Los umbrales se revisan cada dos años. Estas cifras son las vigentes desde el 1 de enero de 2026 (Orden HAC/1517/2025)."
+ }
+}

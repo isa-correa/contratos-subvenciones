@@ -1,0 +1,557 @@
+{
+ "of-10-019": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.7.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Son subvencionables si las bases lo prevén y son indispensables (**art. 31.7**).",
+   "Es esta. Los gastos de procedimientos judiciales no son subvencionables en ningún caso (**art. 31.7.c**).",
+   "No. Son subvencionables si las bases lo prevén (**art. 31.7**).",
+   "No. Son subvencionables si las bases lo prevén (**art. 31.7**)."
+  ]
+ },
+ "of-10-020": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La convocatoria exige antes la aprobación del gasto, no el compromiso (**art. 34.1**).",
+   "Es esta. La resolución de concesión conlleva el compromiso del gasto (**art. 34.2**).",
+   "No. La justificación es posterior y condiciona el pago (**art. 34.3**).",
+   "No. El pago es posterior al compromiso (**art. 34.3**)."
+  ]
+ },
+ "of-10-021": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es requisito. Las bases se publican en el BOE o el diario oficial correspondiente (**art. 9.3**).",
+   "Sí es requisito. Debe haber un plan estratégico previo (**art. 8.1**).",
+   "Sí es requisito. La resolución de concesión se notifica (**art. 25**).",
+   "Es esta. Lo que se subvenciona puede estar ya realizado o por desarrollar, así que no se exige la realización previa (**art. 2.1.b**)."
+  ]
+ },
+ "of-10-022": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La resolución de concesión conlleva el compromiso del gasto (**art. 34.2**).",
+   "No. El reconocimiento de la obligación llega al justificar y pagar (**art. 34.3**).",
+   "No. La propuesta de pago es posterior (**art. 34.3**).",
+   "No. La aprobación del gasto es previa, antes de la convocatoria (**art. 34.1**)."
+  ]
+ },
+ "of-10-023": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los intereses deudores de las cuentas bancarias nunca son subvencionables (**art. 31.7.a**).",
+   "No. Los intereses, recargos y sanciones nunca son subvencionables (**art. 31.7.b**).",
+   "No. Los gastos de procedimientos judiciales nunca son subvencionables (**art. 31.7.c**).",
+   "Es esta. Los gastos de garantía bancaria pueden subvencionarse excepcionalmente, si lo prevé la normativa reguladora (**art. 31.7**)."
+  ]
+ },
+ "of-10-024": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 28.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La encomienda de gestión es otra figura (**art. 28.1**).",
+   "No. El encargo a un medio propio es otra figura (**art. 28.1**).",
+   "Es esta. Los convenios son el instrumento habitual para las subvenciones nominativas (**art. 28.1**).",
+   "No. El contrato supone contraprestación, y la subvención no la tiene (**art. 2.1.a**)."
+  ]
+ },
+ "of-10-025": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ni el 25 % ni los 100.000 euros son los umbrales (**art. 29.3**).",
+   "Es esta. Cuando lo concertado exceda del 20 % del importe de la subvención y ese importe sea superior a 60.000 euros (**art. 29.3**).",
+   "No. El importe de la subvención debe superar 60.000 euros, no 18.000 (**art. 29.3**).",
+   "No. La ley fija sus propios umbrales y no remite al contrato menor (**art. 29.3**)."
+  ]
+ },
+ "of-10-026": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.7.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Nunca son subvencionables (**art. 31.7.a**).",
+   "No. Esa es la regla general de gasto subvencionable, pero los intereses deudores quedan excluidos (**art. 31.1 y 7**).",
+   "No. Eso se refiere a los tributos y a los impuestos (**art. 31.8**).",
+   "Es esta. Los intereses deudores de las cuentas bancarias no son subvencionables en ningún caso (**art. 31.7.a**)."
+  ]
+ },
+ "of-10-027": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El gasto se aprueba siempre, no solo si lo prevé la normativa (**art. 34.1**).",
+   "No. Se aprueba antes de la convocatoria, no solo antes de resolver (**art. 34.1**).",
+   "No. No es solo excepcional. Siempre hay que aprobar el gasto (**art. 34.1**).",
+   "Es esta. La aprobación del gasto es previa a la convocatoria (**art. 34.1**)."
+  ]
+ },
+ "of-10-028": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es al revés: la amortización solo es subvencionable si la subvención no ha contribuido a la compra de los bienes (**art. 31.6.a**).",
+   "Es esta. Sin plazo en las bases, los gastos deben realizarse antes de que acabe el año natural de la concesión (**art. 31.1**).",
+   "No. La garantía bancaria solo se subvenciona excepcionalmente, si lo prevé la normativa (**art. 31.7**).",
+   "No. Los tributos son subvencionables cuando el beneficiario los abona efectivamente (**art. 31.8**)."
+  ]
+ },
+ "of-10-029": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La comprobación de la justificación es posterior (**art. 34.3**).",
+   "Es esta. El compromiso del gasto se produce con la resolución de concesión (**art. 34.2**).",
+   "No. La convocatoria exige antes la aprobación del gasto (**art. 34.1**).",
+   "No. La justificación del beneficiario es posterior (**art. 34.3**)."
+  ]
+ },
+ "of-10-030": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El reconocimiento de la obligación llega al final (**art. 34.3**).",
+   "Es esta. Antes de la convocatoria debe aprobarse el gasto (**art. 34.1**).",
+   "No. El reconocimiento de la obligación es posterior (**art. 34.3**).",
+   "No. El compromiso lo conlleva la resolución de concesión (**art. 34.2**)."
+  ]
+ },
+ "of-10-031": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Esa lista no coincide con las modalidades que recoge la ley (**art. 30.1**).",
+   "No. Esa lista no coincide con las modalidades que recoge la ley (**art. 30.1**).",
+   "No. Esa lista no coincide con las modalidades que recoge la ley (**art. 30.1**).",
+   "Es esta. La justificación puede revestir la forma de cuenta justificativa, acreditación por módulos o estados contables (**art. 30.1**)."
+  ],
+  "ojo": "La pregunta cita el Reglamento, pero las tres modalidades de la ley son suficientes para resolverla. El Reglamento desarrolla la cuenta justificativa en varias formas."
+ },
+ "of-10-032": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.2.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La concurrencia competitiva es el procedimiento ordinario (**art. 22.1**).",
+   "No. La ley no habla de evaluación individualizada para las nominativas (**art. 22.2.a**).",
+   "No. La subasta pública no es un procedimiento de concesión de subvenciones (**art. 22**).",
+   "Es esta. Las nominativas se conceden de forma directa (**art. 22.2.a**)."
+  ]
+ },
+ "of-11-001": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Doce meses desde la fecha del acuerdo de iniciación (**art. 42.4**).",
+   "No. Nueve meses no es el plazo (**art. 42.4**).",
+   "No. Seis meses no es el plazo (**art. 42.4**).",
+   "No. Tres meses no es el plazo (**art. 42.4**)."
+  ]
+ },
+ "of-11-002": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 38.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los pagos en formalización no son una categoría de la ley (**art. 38.1**).",
+   "No. La ley no dice 'ingresos del Tesoro Público' sino 'ingresos de derecho público' (**art. 38.1**).",
+   "Es esta. Las cantidades a reintegrar tienen la consideración de ingresos de derecho público (**art. 38.1**).",
+   "No. Los pagos indebidos son otra categoría, no la que fija la ley (**art. 38.1**)."
+  ]
+ },
+ "of-11-003": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 39",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Prescribe a los cuatro años desde que vence el plazo de justificación del beneficiario (**art. 39.1 y 2.a**).",
+   "No. No se cuenta desde la fecha de la convocatoria (**art. 39.2**).",
+   "No. Sí prescribe (**art. 39.1**).",
+   "No. No se cuenta desde el inicio del procedimiento (**art. 39.2**)."
+  ]
+ },
+ "of-11-004": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 39.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Dos años no es el plazo (**art. 39.1**).",
+   "No. Tres años no es el plazo (**art. 39.1**).",
+   "Es esta. Cuatro años (**art. 39.1**).",
+   "No. Sí prescribe (**art. 39.1**)."
+  ]
+ },
+ "of-11-005": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 44.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La Subsecretaría no ejerce el control financiero (**art. 44.3**).",
+   "Es esta. Corresponde a la Intervención General de la Administración del Estado, sin perjuicio del Tribunal de Cuentas (**art. 44.3**).",
+   "No. El Consejo de Estado no figura en la ley (**art. 44.3**).",
+   "No. La Abogacía del Estado no ejerce el control financiero (**art. 44.3**)."
+  ]
+ },
+ "of-11-006": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 38.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No tienen carácter presupuestario (**art. 38.4**).",
+   "No. No tienen carácter patrimonial (**art. 38.4**).",
+   "Es esta. Tienen siempre carácter administrativo (**art. 38.4**).",
+   "No. El reintegro no es un procedimiento sancionador (**art. 40.1**)."
+  ]
+ },
+ "of-11-007": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Incomparecer ante el control financiero es parte de la resistencia u obstrucción, infracción leve (**art. 56.g**).",
+   "No. Impedir la entrada a los locales es resistencia u obstrucción, infracción leve (**art. 56.g**).",
+   "Es esta. La falta de justificación una vez vencido el plazo es infracción grave (**art. 57.c**).",
+   "No. Las coacciones al personal controlador son resistencia, infracción leve (**art. 56.g**)."
+  ]
+ },
+ "of-11-008": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Son cuatro años para ambas (**art. 65**).",
+   "Es esta. Cuatro años tanto para infracciones como para sanciones (**art. 65.1 y 2**).",
+   "No. Son cuatro, no tres (**art. 65**).",
+   "No. Son cuatro para ambas (**art. 65**)."
+  ]
+ },
+ "of-11-009": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Doce meses desde la fecha del acuerdo de iniciación (**art. 42.4**).",
+   "No. Seis meses no es el plazo (**art. 42.4**).",
+   "No. Nueve meses no es el plazo (**art. 42.4**).",
+   "No. Tres meses no es el plazo (**art. 42.4**)."
+  ]
+ },
+ "of-11-010": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La ley garantiza el trámite de audiencia (**art. 42.3**).",
+   "No. Las alegaciones se hacen en la audiencia, pero la garantía que dice la ley es la audiencia (**art. 42.3**).",
+   "No. La prueba no es la garantía que cita el artículo (**art. 42.3**).",
+   "Es esta. Se garantiza en todo caso el derecho del interesado a la audiencia (**art. 42.3**)."
+  ]
+ },
+ "of-11-011": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 36.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No justificar es causa de reintegro (**art. 37.1.c**), no de nulidad.",
+   "Es esta. La carencia o insuficiencia de crédito es causa de nulidad de la concesión (**art. 36.1.b**).",
+   "No. Es causa de reintegro (**art. 37.1.b**), no de nulidad.",
+   "No. Es causa de reintegro (**art. 37.1.a**), no de nulidad."
+  ]
+ },
+ "of-11-012": {
+  "bloque": "subv-general",
+  "precepto": "art. 10.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo es de 12 meses, no de 6 (**art. 42.4**).",
+   "Es esta. Los Secretarios de Estado son competentes para conceder subvenciones (**art. 10.1**).",
+   "No. La administra la Intervención General, no el Tribunal de Cuentas (**art. 20.3**).",
+   "No. Obtener la subvención falseando las condiciones es infracción muy grave (**art. 58.a**)."
+  ]
+ },
+ "of-11-013": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La resistencia u obstrucción es, con carácter general, infracción leve (**art. 56.g**).",
+   "No. Las cuentas inexactas o incompletas son infracción leve (**art. 56.b**).",
+   "Es esta. La falta de justificación pasado el plazo es infracción grave (**art. 57.c**).",
+   "No. Incumplir la llevanza de la contabilidad es infracción leve (**art. 56.d**)."
+  ]
+ },
+ "of-11-014": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 54.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El error de derecho excusable no figura en el art. 54.",
+   "Es esta. No hay responsabilidad cuando concurre fuerza mayor (**art. 54.b**).",
+   "No. El reintegro voluntario no exime en el art. 54 (salvo en los casos del art. 63.1).",
+   "No. En la decisión colectiva solo se exime a quien salvó su voto o no asistió (**art. 54.c**)."
+  ]
+ },
+ "vo-01-001": {
+  "bloque": "lcsp-general",
+  "precepto": "DA 12.ª",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los plazos en días son naturales salvo que la ley diga que se computan los hábiles (**DA 12.ª**).",
+   "Es esta. Los plazos por días se computan como naturales, con lo que se incluyen los inhábiles (**DA 12.ª**).",
+   "No. Esa exclusión es propia del cómputo de días hábiles (**DA 12.ª**).",
+   "No. Esa exclusión es propia del cómputo de días hábiles (**DA 12.ª**)."
+  ],
+  "ojo": "Regla de la LCSP: días naturales salvo que se indique que son hábiles. Si el último día es inhábil, se prorroga al primer hábil."
+ },
+ "vo-01-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 1.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La exclusividad no es un principio de la ley (**art. 1.1**).",
+   "No. La eficacia y eficiencia no resumen los principios que cita el art. 1 (**art. 1.1**).",
+   "No. Falta lo esencial: libertad de acceso y publicidad (**art. 1.1**).",
+   "Es esta. Libertad de acceso, publicidad y transparencia, y no discriminación e igualdad de trato (**art. 1.1**)."
+  ]
+ },
+ "vo-01-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 1.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los criterios son sociales y medioambientales, no territoriales (**art. 1.3**).",
+   "No. Solo se incorporan si guardan relación con el objeto del contrato (**art. 1.3**).",
+   "No. Son sociales y medioambientales, no económicos (**art. 1.3**).",
+   "Es esta. Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato (**art. 1.3**)."
+  ]
+ },
+ "vo-01-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.3",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí son poder adjudicador (**art. 3.3.a**).",
+   "Es esta. Las entidades públicas empresariales son sector público (**art. 3.1.g**), pero no figuran como poder adjudicador. Solo lo serían si cumplen el art. 3.3.d.",
+   "Sí son poder adjudicador (**art. 3.3.c**).",
+   "Sí son poder adjudicador (**art. 3.3.b**)."
+  ],
+  "ojo": "Una entidad pública empresarial puede ser poder adjudicador si cumple el art. 3.3.d. La pregunta busca la opción que no figura en la lista."
+ },
+ "vo-01-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No figuran en la lista de Administraciones públicas (**art. 3.2**).",
+   "Es esta. Las fundaciones públicas son poder adjudicador (**art. 3.3.b**).",
+   "No. Son sector público, pero sin carácter de Administración pública (**art. 3.2**).",
+   "No. Sí son poder adjudicador (**art. 3.3.b**)."
+  ]
+ },
+ "vo-01-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Son Administración Pública (**art. 3.2.a**).",
+   "No. Las privadas no son poder adjudicador, solo las públicas (**art. 3.3.b**).",
+   "No. Son Administración Pública (**art. 3.2.a**).",
+   "Es esta. Las mutuas son poder adjudicador sin ser Administración Pública (**art. 3.3.c**)."
+  ]
+ },
+ "vo-01-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.g",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No son Administración pública (**art. 3.2**).",
+   "No. Solo lo serían si cumplen los requisitos del art. 3.3.d.",
+   "Es esta. Las entidades públicas empresariales forman parte del sector público (**art. 3.1.g**).",
+   "No. Están incluidas en el ámbito de la ley (**art. 3.1.g**)."
+  ]
+ },
+ "vo-01-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 14",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los contratos laborales están excluidos (**art. 11.1**).",
+   "Es esta. Los contratos de concesión de obras son uno de los tipos que regula la ley (**art. 14**).",
+   "No. Esa prestación de servicio público con tarifa de aplicación general está excluida (**art. 11.2**).",
+   "No. Esos servicios, adjudicados por un partido político, están excluidos (**art. 11.5**)."
+  ]
+ },
+ "vo-01-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 12",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El contrato mixto no es un tipo que se califique por esa sección (**art. 12**).",
+   "No. La 'concesión pública' no existe como tipo (**art. 12**).",
+   "Es esta. Obras, concesión de obras, concesión de servicios, suministro y servicios (**art. 12.1**).",
+   "No. El mixto no es un tipo de ese grupo, y 'concesión' sin más es ambiguo (**art. 12**)."
+  ]
+ },
+ "vo-01-012": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es contrato de obras. Ejecutar una obra, sola o con la redacción del proyecto (**art. 13.1.a**).",
+   "Sí es contrato de obras. Los trabajos del anexo I (**art. 13.1.a**).",
+   "Sí es contrato de obras. Una obra con requisitos de influencia decisiva del contratante (**art. 13.1.b**).",
+   "Es esta. Redactar solo el proyecto es un servicio, no una obra (**art. 17**)."
+  ]
+ },
+ "vo-01-013": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 14.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El concesionario no recibe un precio cierto, sino que asume el riesgo (**art. 14.4**).",
+   "Es esta. El derecho de explotación implica transferir al concesionario un riesgo operacional (**art. 14.4**).",
+   "No. Lo asume el concesionario, no el poder adjudicador (**art. 14.4**).",
+   "No. El precio cierto sería incompatible con el riesgo operacional (**art. 14.4**)."
+  ]
+ },
+ "vo-01-014": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La LCSP actual no regula el contrato de consultoría y asistencia (**art. 17**).",
+   "Es esta. Los programas desarrollados a medida son contratos de servicios (**art. 16.3.b**).",
+   "No. Son suministro los programas estándar, no los hechos a medida (**art. 16.3.b**).",
+   "No. No hay varias prestaciones de distinta clase (**art. 18**)."
+  ]
+ },
+ "vo-01-015": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los valores negociables no son suministro (**art. 16.2**).",
+   "No. Los programas a medida son servicios (**art. 16.3.b**).",
+   "No. Las propiedades incorporales no son suministro (**art. 16.2**).",
+   "Es esta. El arrendamiento financiero de bienes muebles es suministro (**art. 16.1**)."
+  ]
+ },
+ "vo-01-016": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La fabricación con características fijadas por el contratante es suministro (**art. 16.3.c**).",
+   "No. No hay gestión de un servicio ni riesgo operacional (**art. 15**).",
+   "Es esta. Son contratos de suministro (**art. 16.3.c**).",
+   "No. No es mixto (**art. 16.3.c**)."
+  ]
+ },
+ "vo-01-017": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 14.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En las obras el riesgo no se transfiere al contratista como riesgo operacional (**art. 14**).",
+   "No. En los servicios no hay riesgo operacional (**art. 17**).",
+   "No. En los suministros no hay riesgo operacional (**art. 16**).",
+   "Es esta. El riesgo operacional caracteriza la concesión de obras y la de servicios (**arts. 14.4 y 15.2**)."
+  ]
+ },
+ "vo-01-018": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se convierten en mixtos (**art. 17**).",
+   "No. El precio unitario no cambia la regla (**art. 17**).",
+   "No. Los servicios que impliquen autoridad inherente a los poderes públicos no pueden ser objeto de estos contratos (**art. 17**).",
+   "Es esta. Si implican ejercicio de autoridad inherente a los poderes públicos, no pueden ser contratos de servicios (**art. 17**)."
+  ]
+ },
+ "vo-01-019": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Solo los poderes adjudicadores (**art. 15.1**).",
+   "No. No se limita a las Administraciones Públicas (**art. 15.1**).",
+   "No. No se limita a la AGE (**art. 15.1**).",
+   "Es esta. El art. 15.1 habla de poderes adjudicadores que encomiendan la gestión del servicio (**art. 15.1**)."
+  ]
+ },
+ "vo-01-021": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 18.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se atiende al carácter de la prestación principal (**art. 18.1.a**).",
+   "No. No se atiende a la secundaria (**art. 18.1.a**).",
+   "No. No elige el adjudicatario (**art. 18.1.a**).",
+   "No. La regla es la prestación principal, no la de mayor valor (**art. 18.1.a**)."
+  ]
+ },
+ "vo-01-022": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La adquisición de energía primaria o transformada es suministro (**art. 16.3.d**).",
+   "No. No es mixto (**art. 16.3.d**).",
+   "No. No es servicios (**art. 16.3.d**).",
+   "No. No es concesión (**art. 16.3.d**)."
+  ]
+ },
+ "vo-01-023": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Para la AGE el umbral de suministros es 140.000 euros (**art. 21.1.a**).",
+   "No. 5.404.000 euros es el umbral de obras y concesiones (**art. 20.1**).",
+   "No. 216.000 euros es el umbral del resto de entidades (**art. 21.1.b**).",
+   "No. 750.000 euros es el de servicios sociales del anexo IV (**art. 22.1.c**)."
+  ],
+  "revisar": "Umbral vigente desde 1/1/2026 (Orden HAC/1517/2025). Se revisa cada dos años."
+ },
+ "vo-01-024": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El umbral de la AGE es 140.000 euros (**art. 22.1.a**).",
+   "No. El umbral del resto es 216.000 euros (**art. 22.1.b**).",
+   "Es esta. Servicios sociales y específicos del anexo IV: 750.000 euros (**art. 22.1.c**).",
+   "No. Los servicios sí están sujetos a regulación armonizada (**art. 22**)."
+  ],
+  "ojo": "Las otras tres opciones traen cifras desfasadas o inexactas (134.000 y 212.000 eran umbrales anteriores). Los vigentes son 140.000, 216.000 y 750.000."
+ },
+ "vo-01-027": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La ley los califica expresamente como contratos privados (**art. 25.1.a.2.º**).",
+   "Es esta. La suscripción a revistas, publicaciones periódicas y bases de datos es contrato privado (**art. 25.1.a.2.º**).",
+   "No. No son servicios para la ley (**art. 25.1.a.2.º**).",
+   "No. Aunque los celebre una Administración, la ley los califica de privados (**art. 25.1.a.2.º**)."
+  ]
+ }
+}

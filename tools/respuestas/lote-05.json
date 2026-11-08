@@ -1,0 +1,281 @@
+{
+ "au-06-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 77.1.a de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En los contratos de servicios la clasificación **no es exigible** (**art. 77.1.b**). Sirve para acreditar solvencia, pero no es requisito.",
+   "Es esta. La clasificación como contratista de obras es requisito indispensable en los contratos de obras de valor estimado igual o superior a **500.000 euros** (**art. 77.1.a**).",
+   "No. En suministros no hay clasificación (**art. 77.1.c**).",
+   "No. Esa referencia a categorías del Anexo II viene de una ley anterior. La LCSP actual no exige clasificación en servicios."
+  ]
+ },
+ "au-06-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 82.2 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Lo que se justifica cada año es la solvencia **económica y financiera**. La técnica y profesional se justifica cada tres años.",
+   "No. Cada tres años se justifica la solvencia técnica y profesional, no la económica y financiera.",
+   "Es esta. El **art. 82.2** dice que hay que justificar anualmente el mantenimiento de la solvencia económica y financiera y, cada tres años, el de la técnica y profesional.",
+   "No. Para la técnica y profesional el plazo es de tres años, no de dos."
+  ]
+ },
+ "au-06-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 71.1.d de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Tener varios contratos con un mismo órgano de contratación no es ninguna prohibición del **art. 71.1**.",
+   "No. La prohibición del **art. 71.1.a** exige haber sido **condenado mediante sentencia firme**, no haber sido imputado.",
+   "No. Tener varios contratos adjudicados tampoco es una causa de prohibición.",
+   "Es esta. El **art. 71.1.d** incluye no hallarse al corriente en el cumplimiento de las obligaciones tributarias o de Seguridad Social."
+  ],
+  "ojo": "Imputado no es condenado. La prohibición por delitos requiere sentencia firme."
+ },
+ "au-06-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 62.2 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 62.2** dice que en los contratos de obras las facultades del responsable del contrato las ejerce el **Director Facultativo**.",
+   "No. El jefe de obra pertenece al contratista, no a la Administración.",
+   "No. El encargado trabaja para el contratista y no es responsable del contrato.",
+   "No. El jefe de equipo tampoco tiene ese papel."
+  ]
+ },
+ "au-06-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 63.4 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La publicación es más frecuente que una vez al año.",
+   "Es esta. El **art. 63.4** dice que la información sobre contratos menores debe publicarse al menos **trimestralmente**.",
+   "No. Semestral no es la frecuencia de la ley.",
+   "No. Al menos semestralmente es el doble de tiempo que la ley permite entre publicaciones. Debe ser trimestral."
+  ],
+  "ojo": "Los contratos menores de menos de 5.000 euros pagados con anticipo de caja fija están exentos de publicarse."
+ },
+ "au-06-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 63.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **art. 63.1** dice que los órganos de contratación difundirán su perfil de contratante exclusivamente a través de Internet.",
+   "Es verdadera, así que no se marca. Es la finalidad que dice el **art. 63.1**.",
+   "Es verdadera, así que no se marca. El **art. 63.1** exige indicar la forma de acceso en los pliegos y en los anuncios de licitación.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La información permanece accesible durante un periodo **no inferior a cinco años**, no tres (**art. 63.1**)."
+  ]
+ },
+ "au-06-015": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 63.3.b de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La información de los contratos menores se publica al menos **trimestralmente**, no semestralmente (**art. 63.4**).",
+   "No. El informe de insuficiencia de medios se publica en los contratos de **servicios**, no en los de suministros (**art. 63.3.a**).",
+   "Es esta. El **art. 63.3.b** obliga a publicar el objeto detallado del contrato, su duración, el presupuesto base de licitación y el importe de adjudicación, incluido el IVA.",
+   "No. Solo se publica la formalización de encargos a medios propios cuando el importe supera los **50.000 euros**, IVA excluido (**art. 63.6**), no “cualquiera que sea su importe”."
+  ]
+ },
+ "au-06-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 62.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Asegurar la transparencia y el acceso público es la finalidad del perfil de contratante (**art. 63**).",
+   "Es esta. El **art. 62.1** dice que al responsable del contrato le corresponde supervisar su ejecución y adoptar las decisiones y dictar las instrucciones necesarias para asegurar la correcta realización de la prestación pactada.",
+   "No. Delegar y desconcentrar la actividad contractual es una facultad de los órganos de contratación (**art. 61.2**).",
+   "No. Aprobar modelos de pliegos particulares es función del órgano de contratación (**art. 122.5**), no del responsable del contrato."
+  ]
+ },
+ "au-06-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 62.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Puede ser persona física o jurídica, y no hay obligación de que esté vinculada a la entidad.",
+   "No. Acierta con “física o jurídica”, pero no es obligatorio que esté vinculada: puede ser ajena.",
+   "No. Puede ser también persona física.",
+   "Es esta. El **art. 62.1** dice que el responsable del contrato puede ser una persona física o jurídica, vinculada a la entidad contratante o ajena a ella."
+  ]
+ },
+ "au-06-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 63 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El **art. 63.5** manda publicar los procedimientos anulados.",
+   "Es verdadera, así que no se marca. El **art. 63.6** manda publicar la formalización de encargos a medios propios de importe superior a 50.000 euros, IVA excluido.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El acceso es libre y **no requiere identificación previa** (**art. 63.1**). La identificación solo puede pedirse para servicios personalizados, como alertas o suscripciones.",
+   "Es verdadera, así que no se marca. El **art. 63.2** dice que el perfil puede incluir cualesquiera datos y documentos de la actividad contractual."
+  ]
+ },
+ "au-06-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 77.1.a de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El umbral no es 200.000 euros.",
+   "Es esta. El **art. 77.1.a** exige clasificación como contratista de obras en los contratos de obras de valor estimado igual o superior a **500.000 euros**.",
+   "No. El umbral no es 300.000 euros.",
+   "No. Sí es exigible en las obras de 500.000 euros o más."
+  ]
+ },
+ "au-06-020": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 61.1 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 61.1** dice que la representación de las entidades del sector público en materia contractual corresponde a los órganos de contratación, unipersonales o colegiados, que tengan atribuida la facultad de celebrar contratos en su nombre.",
+   "No. El responsable del contrato supervisa la ejecución, no representa a la entidad (**art. 62**).",
+   "No. No se limita a los máximos órganos de dirección: es quien tenga atribuida la facultad de contratar.",
+   "No. Mismo error: no tiene por qué ser el máximo órgano de dirección. La clave es quién tiene atribuida la facultad de contratar."
+  ]
+ },
+ "au-06-021": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 67.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Les basta con estar habilitadas según la legislación de su propio Estado, no según la española.",
+   "Es esta. El **art. 67.1** dice que tienen capacidad para contratar, en todo caso, las empresas de Estados de la Unión Europea o del Espacio Económico Europeo que estén habilitadas para la prestación según la legislación del Estado donde están establecidas.",
+   "No. El requisito de reciprocidad es para las empresas de Estados que no son de la UE ni del EEE (**art. 68**).",
+   "No. No hay condición de que no concurra ninguna empresa española."
+  ]
+ },
+ "au-06-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 69 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 69.1** dice que no hace falta formalizar la unión en escritura pública hasta que se haya adjudicado el contrato a su favor.",
+   "Es verdadera, así que no se marca. Es el **art. 69.3**: quedan obligados solidariamente.",
+   "Es verdadera, así que no se marca. Es el **art. 69.4**.",
+   "Es verdadera, así que no se marca. Es el **art. 69.8**: si cambia su composición antes de formalizar el contrato, queda excluida del procedimiento."
+  ]
+ },
+ "au-06-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 75 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No hay excepción para los contratos de obras. Para ciertos criterios (títulos y experiencia profesional) la otra entidad debe ejecutar la prestación, pero se puede recurrir a ella.",
+   "No. Se puede, siempre que se demuestre que se dispondrá efectivamente de esa solvencia durante toda la ejecución.",
+   "No. No hay excepción para los contratos sujetos a regulación armonizada.",
+   "Es esta. El **art. 75.1** permite basarse en la solvencia y medios de otras entidades, sea cual sea el vínculo, si se demuestra que se dispondrá de ellos durante la ejecución y la otra entidad no está en prohibición de contratar."
+  ]
+ },
+ "au-06-024": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 78.1 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. A los empresarios españoles sí se les exige clasificación en una obra de 1.000.000 de euros (**art. 77.1.a**).",
+   "No. El **art. 78.1** exime a los empresarios de la Unión Europea concurran solos **o integrados en una unión**. El “salvo unión” es lo que falla.",
+   "Es esta. El **art. 78.1** exime de clasificación a los empresarios no españoles de Estados de la Unión Europea o signatarios del Acuerdo sobre el Espacio Económico Europeo, sin perjuicio de que acrediten su solvencia.",
+   "No. La exención solo alcanza a los de la UE y del EEE. Los demás extranjeros sí deben acreditar clasificación cuando es exigible."
+  ]
+ },
+ "au-06-025": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 79.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Está al revés: las categorías van al final, en función de la cuantía.",
+   "No. Falta el último nivel: las categorías.",
+   "No. Las categorías no son un nivel dentro de los subgrupos al mismo tiempo que ellos. La estructura es grupos y subgrupos, y dentro de ellos, categorías.",
+   "Es esta. El **art. 79.1** dice que los contratos se dividen en grupos generales y subgrupos, por su peculiar naturaleza, y dentro de estos por categorías, en función de su cuantía."
+  ]
+ },
+ "au-07-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 88.1.a de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Siete años no es el plazo.",
+   "Es esta. El **art. 88.1.a** pide una relación de las obras ejecutadas en el curso de los **cinco últimos años**, avalada por certificados de buena ejecución.",
+   "No. Tres años es el plazo de suministros y servicios, no de obras.",
+   "No. Dos años no es el plazo de ningún medio del artículo."
+  ],
+  "ojo": "Obras: cinco años. Suministros y servicios: tres años."
+ },
+ "au-07-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 90.1 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En los contratos de servicios la relación de servicios realizados se refiere como máximo a los **tres últimos años**, no cinco (**art. 90.1.a**). Los cinco años son de obras.",
+   "No. Es un medio válido: el **art. 90.1.i** permite indicar la parte del contrato que se propone subcontratar.",
+   "No. Es un medio válido: el **art. 90.1.g** permite la declaración sobre la plantilla media anual y el número de directivos de los tres últimos años.",
+   "No. Es un medio válido: el **art. 90.1.f** permite indicar las medidas de gestión medioambiental."
+  ]
+ },
+ "au-07-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 85 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es solo el testimonio judicial.",
+   "Es esta. El **art. 85** dice que la prueba de no estar incurso en prohibiciones de contratar podrá realizarse mediante testimonio judicial o certificación administrativa, según los casos.",
+   "No. Tampoco es solo la certificación administrativa.",
+   "No. No es “en todo caso” declaración responsable. La declaración responsable ante autoridad, notario u organismo profesional solo sustituye al documento cuando la autoridad no puede expedirlo."
+  ]
+ },
+ "au-07-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 84.2 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El informe de la Misión Diplomática Permanente de España es para los demás empresarios extranjeros, los que no son de la UE ni del EEE (**art. 84.3**).",
+   "Es esta. El **art. 84.2** dice que la capacidad de obrar de los empresarios no españoles de la UE o del EEE se acredita por su inscripción en el registro procedente según la legislación del Estado donde están establecidos (o con una declaración jurada o certificado).",
+   "No. El registro que vale es el del Estado donde están establecidos, no el español.",
+   "No. El informe de la Oficina Consular es para los empresarios de fuera de la UE y del EEE (**art. 84.3**)."
+  ]
+ },
+ "au-07-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 87.1.b de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La relación de obras ejecutadas es un medio de solvencia **técnica** (**art. 88.1.a**).",
+   "No. Las medidas de gestión medioambiental son un medio de solvencia **técnica** (**art. 88.1.d**).",
+   "No. La plantilla media anual y el número de directivos es un medio de solvencia **técnica** (**art. 88.1.e**).",
+   "Es esta. Un seguro de responsabilidad civil por riesgos profesionales, cuando resulte apropiado, es un medio de solvencia **económica y financiera** (**art. 87.1.b**)."
+  ]
+ },
+ "au-07-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 89.1.a de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Dos años no es el plazo.",
+   "Es esta. El **art. 89.1.a** habla de una relación de los principales suministros de igual o similar naturaleza realizados, como máximo, en los **tres últimos años**.",
+   "No. Cinco años es el plazo de la relación de obras (**art. 88.1.a**).",
+   "No. Diez años aparece solo para ciertos subgrupos de obras, no en suministros."
+  ]
+ },
+ "au-07-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 89.1.e de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las medidas de gestión medioambiental aparecen en obras (**art. 88**) y servicios (**art. 90**), no en suministros.",
+   "No. La declaración sobre plantilla media es un medio de obras y de servicios, no de suministros.",
+   "No. Indicar la parte que se subcontratará es un medio del contrato de servicios (**art. 90.1.i**).",
+   "Es esta. El **art. 89.1.e** admite muestras, descripciones y fotografías de los productos a suministrar, con autenticidad certificable."
+  ]
+ },
+ "au-07-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 90.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es un medio válido, así que no es la respuesta. Es el **art. 90.1.i**.",
+   "Sí es un medio válido, así que no es la respuesta. Es el **art. 90.1.b**.",
+   "Sí es un medio válido, así que no es la respuesta. Es el **art. 90.1.a**: servicios realizados en los tres últimos años.",
+   "Es esta. La declaración sobre plantilla media anual y directivos se refiere a los **tres** últimos años (**art. 90.1.g**), no a los cinco, así que esta opción no es un medio válido tal como está escrita."
+  ],
+  "ojo": "Fíjate en los años: la plantilla es tres años, no cinco."
+ }
+}

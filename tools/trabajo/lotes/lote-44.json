@@ -1,0 +1,680 @@
+{
+ "casos": {
+  "caso-53": {
+   "id": "caso-53",
+   "titulo": "Bloque III.- Supuesto 23",
+   "texto": "Usted trabaja en la Agencia de Información y Control Alimentarios, O. A. (AICA), organismo autónomo adscrito al Ministerio de Agricultura, Pesca y Alimentación, donde gestiona distintos expedientes de contratación. 1. Servicio de calibración de equipos de medida La AICA tramita por procedimiento abierto un contrato de servicios de calibración de equipos de medida con un presupuesto base de licitación de 200.000 euros. El PCAP fija el precio como único criterio de adjudicación y no establece parámetros de anormalidad distintos de los reglamentarios. Únicamente concurre OBOE, S.L., que realiza una oferta por importe de 148.000 euros. 2. Adquisición de uniformes Se necesita adquirir uniformes que deberán ser confeccionados con arreglo a las características peculiares fijadas previamente por la AICA. El contrato tendrá una duración de seis meses, prorrogables por otros seis, y se tramitará mediante procedimiento abierto simplificado, siguiendo las especialidades del artículo 159.6 de la LCSP. El precio se determina mediante precios unitarios y el presupuesto base de licitación del período inicial asciende a 6.600 euros, IVA excluido. Se prevé la entrega de 60 uniformes durante ese período y otros tantos durante la prórroga, si se acuerda. Resulta adjudicataria HILO, S.L., por 6.000 euros, IVA excluido, a razón de 100 euros por uniforme. El PCAP contempla la posibilidad de incrementar el número de unidades dentro del límite legal sin necesidad de tramitar un expediente de modificación contractual. 3. Impresión de material educativo La AICA licita por procedimiento abierto simplificado un servicio de impresión de material educativo con un valor estimado de 80.000 euros. Se asignan 75 puntos al precio y 25 al plan de distribución, sujeto a juicio de valor. Resulta adjudicataria LITERA, S.L., por 72.000 euros. Durante su ejecución, la AICA cancela parte de las actividades y acuerda desistir del contrato, tras haber recibido de conformidad prestaciones valoradas en 24.000 euros. 4. Obras de reparación de la oficina de asistencia en materia de registro Ante el deterioro de las instalaciones de su oficina de asistencia en materia de registro, la AICA licita las obras de reparación, cuyo proyecto había sido redactado previamente por TRAMA, S.L., adjudicataria de un contrato menor para su elaboración. El contrato de obras tiene un presupuesto base de licitación de 544.500 euros (450.000 euros, IVA excluido) y se adjudica mediante procedimiento abierto con tramitación urgente, utilizando el precio como único criterio de adjudicación. El PCAP no prevé modificaciones, prórrogas ni opciones eventuales. El contrato se adjudica a CIMENTA, S.L., por 400.000 euros, IVA excluido, y se formaliza el 20 de febrero de 2026. Durante la ejecución aparecen conducciones ocultas cuya existencia no podía haberse previsto mediante una actuación diligente, por lo que se propone una modificación de 120.000 euros, IVA excluido, para desviar su trazado y sustituir los tramos afectados. Las obras terminan el 18 de diciembre de 2026 y se reciben de conformidad el 28 del mismo mes; en la medición general se aprecia un exceso de unidades realmente ejecutadas sobre las previstas en el proyecto, valorado en 32.000 euros, IVA excluido. En relación con el supuesto planteado, se formulan las siguientes cuestiones:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-53-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 1,
+   "enunciado": "En relación con el contrato de servicios de calibración, ¿incurre en presunción de anormalidad la oferta presentada por OBOE, S.L.?",
+   "opciones": [
+    "No, porque el umbral de anormalidad aplicable es de 140.000 euros.",
+    "Sí, porque el umbral de anormalidad aplicable es de 150.000 euros.",
+    "Sí, porque el umbral de anormalidad aplicable es de 160.000 euros.",
+    "Sí, porque el umbral de anormalidad aplicable es de 180.000 euros."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 2,
+   "enunciado": "¿Podría el órgano de contratación excluir la oferta de OBOE, S.L., si estuviera incursa en presunción de anormalidad?",
+   "opciones": [
+    "No, por ser la única empresa que ha concurrido a la licitación.",
+    "No, al haberse establecido el precio como único criterio de adjudicación.",
+    "No, porque la competencia para acordar la exclusión corresponde a la mesa de contratación.",
+    "Sí, previa tramitación del procedimiento previsto en el artículo 149 de la LCSP."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 3,
+   "enunciado": "Si finalmente se acordara la exclusión de la oferta de OBOE, S.L., ¿qué recurso administrativo podría interponer la empresa?",
+   "opciones": [
+    "Recurso especial en materia de contratación, en el plazo de quince días hábiles.",
+    "Recurso especial en materia de contratación, en el plazo de dos meses.",
+    "Recurso potestativo de reposición, en el plazo de un mes.",
+    "Contra el acuerdo de exclusión no cabe interponer recurso alguno."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 4,
+   "enunciado": "De acuerdo con la LCSP, ¿qué órgano es competente para celebrar el contrato de servicios de calibración de equipos de medida?",
+   "opciones": [
+    "El Consejo de Ministros.",
+    "El ministro de Agricultura, Pesca y Alimentación.",
+    "El director de la AICA.",
+    "El subsecretario del Ministerio de Agricultura, Pesca y Alimentación."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 5,
+   "enunciado": "Conforme a la LCSP, ¿qué calificación jurídica corresponde al contrato de adquisición de uniformes para el personal de la AICA?",
+   "opciones": [
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato mixto de suministro y servicios.",
+    "Contrato administrativo especial."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 6,
+   "enunciado": "De acuerdo con la LCSP, ¿es adecuada la utilización del procedimiento de adjudicación elegido para la adquisición de uniformes?",
+   "opciones": [
+    "Sí, siempre que la ponderación de los criterios evaluables mediante juicio de valor no supere el 25 % del total.",
+    "Sí, siempre que no se incluya ningún criterio de adjudicación evaluable mediante juicio de valor.",
+    "Sí, aunque también podría adjudicarse directamente mediante un contrato menor.",
+    "No, porque debería adjudicarse directamente mediante un contrato menor."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 7,
+   "enunciado": "En la licitación para la adquisición de uniformes, ¿qué plazo mínimo deberá concederse para presentar proposiciones, contado desde el día siguiente a la publicación del anuncio en el perfil de contratante?",
+   "opciones": [
+    "Cinco días hábiles.",
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Quince días naturales."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 8,
+   "enunciado": "En el contrato de fabricación de uniformes, ¿podrá el PCAP establecer la aplicación de normas del contrato de obras?",
+   "opciones": [
+    "No, por ser normas de aplicación exclusiva a los contratos de obras y de concesión de obras.",
+    "Sí, salvo las relativas a la publicidad y al procedimiento de adjudicación.",
+    "Sí, salvo las relativas a la ejecución y a la extinción del contrato.",
+    "Sí, pero únicamente las normas generales, no las especiales."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 9,
+   "enunciado": "¿Qué importe debió constituir HILO, S.L. en concepto de garantía definitiva para que se le adjudicase el contrato?",
+   "opciones": [
+    "330 euros, equivalentes al 5 % del presupuesto base de licitación, IVA excluido.",
+    "300 euros, equivalentes al 5 % del importe de adjudicación, IVA excluido.",
+    "399,30 euros, equivalentes al 5 % del presupuesto base de licitación, IVA incluido.",
+    "Ninguno, porque el procedimiento de adjudicación elegido no permite exigir la constitución de garantía definitiva."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 10,
+   "enunciado": "Si la AICA decide prorrogar el contrato, ¿con qué antelación mínima a su finalización deberá preavisar a HILO, S. L.?",
+   "opciones": [
+    "No será necesario el preaviso, dada la escasa duración del contrato.",
+    "Con seis meses de antelación.",
+    "Con tres meses de antelación.",
+    "Con dos meses de antelación."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 11,
+   "enunciado": "Salvo pacto en contrario, ¿a quién corresponden los gastos de entrega y transporte de los uniformes al lugar convenido?",
+   "opciones": [
+    "A HILO, S.L., en su totalidad.",
+    "A la AICA, en su totalidad.",
+    "A HILO, S.L., y a la AICA, por partes iguales.",
+    "A HILO, S.L., los de entrega, y a la AICA, los de transporte."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 12,
+   "enunciado": "En aplicación de la cláusula prevista en el PCAP, ¿hasta qué importe podrá la AICA adquirir uniformes adicionales sin tramitar un expediente de modificación contractual?",
+   "opciones": [
+    "600 euros, equivalentes al 10 % del precio de adjudicación, IVA excluido.",
+    "660 euros, equivalentes al 10 % del presupuesto base de licitación, IVA excluido.",
+    "900 euros, equivalentes al 15 % del precio de adjudicación, IVA excluido.",
+    "No podrá aplicarse esa cláusula, por ser contraria a la Ley de Contratos del Sector Público."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 13,
+   "enunciado": "¿Es adecuada la utilización del procedimiento abierto simplificado para contratar la impresión del material educativo?",
+   "opciones": [
+    "No, porque el valor estimado del contrato supera los 60.000 euros.",
+    "No, porque se incluyen criterios de adjudicación evaluables mediante juicio de valor.",
+    "Sí, porque el valor estimado lo permite y los criterios evaluables mediante juicio de valor no superan el 25 % del total.",
+    "Sí, aunque también podría utilizarse el procedimiento abierto simplificado del artículo 159.6 de la LCSP."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 14,
+   "enunciado": "En el procedimiento elegido para contratar la impresión del material educativo, ¿qué plazo mínimo debe concederse para presentar proposiciones, contado desde el día siguiente a la publicación del anuncio en el perfil de contratante?",
+   "opciones": [
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Quince días naturales.",
+    "Quince días hábiles."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 15,
+   "enunciado": "En la licitación del contrato de impresión de material educativo, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "No se exigirá al adjudicatario la constitución de garantía definitiva.",
+    "Las proposiciones deberán presentarse en dos sobres o archivos electrónicos.",
+    "Los licitadores estarán exentos de acreditar su solvencia económica y financiera.",
+    "El contrato podrá formalizarse mediante la firma de aceptación por el contratista de la resolución de adjudicación."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 16,
+   "enunciado": "Conforme a la LCSP, ¿qué indemnización corresponde a LITERA, S. L. como consecuencia del desistimiento de la AICA?",
+   "opciones": [
+    "2.160 euros.",
+    "4.320 euros.",
+    "1.440 euros.",
+    "2.880 euros."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 17,
+   "enunciado": "En la licitación de las obras de reparación de la oficina de asistencia en materia de registro de la AICA, ¿deberá exigirse a los licitadores su clasificación como contratistas de obras?",
+   "opciones": [
+    "No, porque el valor estimado del contrato es inferior a 500.000 euros.",
+    "No, sin que los licitadores puedan utilizar la clasificación para acreditar su solvencia.",
+    "Sí, porque el presupuesto base de licitación, IVA incluido, supera los 500.000 euros.",
+    "Sí, porque el valor estimado del contrato supera los 500.000 euros."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 18,
+   "enunciado": "Conforme a la LCSP, ¿qué valor estimado podía tener como máximo el contrato adjudicado a TRAMA, S.L.?",
+   "opciones": [
+    "14.999,99 euros.",
+    "15.000 euros",
+    "39.999,99 euros.",
+    "40.000 euros."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 19,
+   "enunciado": "Antes de aprobar el proyecto de obras redactado por TRAMA, S.L., ¿debía la AICA solicitar informe de la oficina de supervisión?",
+   "opciones": [
+    "Sí, porque el presupuesto base de licitación de las obras, IVA incluido, supera 500.000 euros.",
+    "Sí, porque los proyectos redactados por empresas externas deben someterse siempre a supervisión.",
+    "No, porque la redacción del proyecto se adjudicó mediante un contrato menor.",
+    "No, salvo que las obras afecten a la estabilidad, seguridad o estanqueidad."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 20,
+   "enunciado": "De acuerdo con la LCSP, ¿en qué momento debe realizarse el replanteo del proyecto de obras redactado por TRAMA, S.L.?",
+   "opciones": [
+    "Una vez redactado el proyecto y antes de su aprobación.",
+    "Una vez aprobado el proyecto y antes de aprobar el expediente de contratación.",
+    "Una vez aprobado el expediente de contratación y antes de adjudicar las obras.",
+    "Una vez formalizado el contrato de obras y antes de iniciar su ejecución."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 21,
+   "enunciado": "En la licitación de las obras de reparación de la oficina, ¿qué plazo mínimo deberá concederse para presentar proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 22,
+   "enunciado": "Si el expediente de las obras de reparación de la oficina se tramitara de forma ordinaria, ¿qué plazos máximos resultarían aplicables para la apertura de las proposiciones y la adjudicación del contrato, respectivamente?",
+   "opciones": [
+    "Quince días naturales para la apertura y quince días hábiles para la adjudicación.",
+    "Quince días naturales para la apertura y dos meses para la adjudicación.",
+    "Veinte días naturales para la apertura y quince días naturales para la adjudicación.",
+    "Veinte días naturales para la apertura y dos meses para la adjudicación."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 23,
+   "enunciado": "¿Con qué actuación se inicia la ejecución del contrato de obras adjudicado a CIMENTA, S.L.?",
+   "opciones": [
+    "Con el replanteo del proyecto, que deberá realizarse no más tarde del 20 de marzo de 2026.",
+    "Con el acta de comprobación del replanteo, que deberá suscribirse no más tarde del 20 de marzo de 2026.",
+    "Con el replanteo del proyecto, que deberá realizarse no más tarde del 20 de abril de 2026.",
+    "Con el acta de comprobación del replanteo, que deberá suscribirse no más tarde del 20 de abril de 2026."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 24,
+   "enunciado": "Respecto de las obras ejecutadas por CIMENTA, S. L. durante marzo de 2026, ¿cuándo deberá expedirse la certificación mensual, salvo previsión distinta en el PCAP, y en qué plazo deberá abonarse su importe?",
+   "opciones": [
+    "Deberá expedirse en los diez primeros días de abril y abonarse dentro de los treinta días siguientes a su expedición.",
+    "Deberá expedirse en los diez primeros días de abril y abonarse dentro de los treinta días siguientes a su aprobación.",
+    "Deberá expedirse en los cinco primeros días de abril y abonarse dentro de los treinta días siguientes a su expedición.",
+    "Deberá expedirse en los cinco primeros días de abril y abonarse dentro de los treinta días siguientes a su aprobación."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-025",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 25,
+   "enunciado": "Para resolver la incidencia de las conducciones ocultas, la AICA propone una modificación por importe de 120.000 euros, limitada a las actuaciones indispensables y sin alterar la naturaleza global del contrato. Según la LCSP, ¿podrá acordarse esta modificación?",
+   "opciones": [
+    "No, porque únicamente pueden acordarse modificaciones que estén previstas en el PCAP.",
+    "No, porque su importe supera el 20 % del precio inicial del contrato, IVA excluido.",
+    "Sí, y será obligatoria para CIMENTA, S.L., al no superar el 50 % del precio inicial del contrato, IVA excluido.",
+    "Sí, pero requerirá la previa conformidad por escrito de CIMENTA, S.L."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-026",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 26,
+   "enunciado": "De acuerdo con la LCSP, ¿cuándo se entiende cumplido el contrato de obras adjudicado a CIMENTA, S. L.?",
+   "opciones": [
+    "El 18 de diciembre de 2026, con la terminación de las obras.",
+    "El 28 de diciembre de 2026, con la recepción de conformidad de las obras.",
+    "Cuando se apruebe la certificación final de las obras.",
+    "Cuando finalice el plazo de garantía de las obras."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-027",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 27,
+   "enunciado": "En la medición general de las obras ejecutadas por CIMENTA, S. L., se aprecia un exceso de unidades valorado en 32.000 euros. ¿Será necesario tramitar una modificación contractual por este motivo?",
+   "opciones": [
+    "Sí, porque todo incremento de las unidades de obra previstas tiene la consideración de modificación contractual.",
+    "Sí, porque su importe supera el 3 % del precio inicial del contrato.",
+    "No, porque su importe no supera el 10 % del precio inicial del contrato.",
+    "No, salvo que suponga un incremento del precio global del contrato."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-028",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 28,
+   "enunciado": "De acuerdo con la LCSP, ¿cuál es la fecha límite para aprobar la certificación final de las obras ejecutadas por CIMENTA, S.L.?",
+   "opciones": [
+    "El jueves 18 de febrero de 2027.",
+    "El jueves 18 de marzo de 2027.",
+    "El domingo 28 de marzo de 2027.",
+    "El lunes 29 de marzo de 2027."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-029",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 29,
+   "enunciado": "Salvo casos especiales, ¿qué plazo mínimo de garantía debe establecer el PCAP para las obras de reparación de la oficina?",
+   "opciones": [
+    "Seis meses, contados desde el 18 de diciembre de 2026.",
+    "Un año, contado desde el 18 de diciembre de 2026.",
+    "Un año, contado desde el 28 de diciembre de 2026.",
+    "Seis meses, contados desde el 28 de diciembre de 2026."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-53-030",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 23",
+   "n": 30,
+   "enunciado": "Según la LCSP, ¿durante qué plazo responderá CIMENTA, S. L., por vicios ocultos y desde cuándo se computará dicho plazo?",
+   "opciones": [
+    "Quince años, contados desde el 28 de diciembre de 2026.",
+    "Quince años, contados desde la finalización del plazo de garantía.",
+    "Diez años, contados desde el 28 de diciembre de 2026.",
+    "Diez años, contados desde la finalización del plazo de garantía."
+   ],
+   "caso": "caso-53"
+  },
+  {
+   "id": "pr-54-001",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 1,
+   "enunciado": "Beneficio en las cotizaciones a la Seguridad Social otorgado por el Ministerio de Trabajo.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-002",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 2,
+   "enunciado": "Nueva línea de tren realizada por el Ministerio de Fomento.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-003",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 3,
+   "enunciado": "El Estado concede incentivos fiscales para impulsar la rehabilitación energética de edificios.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-004",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 4,
+   "enunciado": "La Inspección de Trabajo requiere a una empresa que subsane incumplimientos de la normativa de prevención de riesgos laborales.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-005",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 5,
+   "enunciado": "Un ayuntamiento mantiene un servicio municipal de recogida de residuos urbanos.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-006",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 6,
+   "enunciado": "El Ministerio de Educación concede becas a estudiantes para financiar sus estudios universitarios.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-007",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 7,
+   "enunciado": "La autoridad sanitaria ordena el cierre temporal de un restaurante por graves deficiencias higiénicas.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-54-008",
+   "origen": "practicas",
+   "test": "Ejercicio 22.- Tipos de Actividad",
+   "n": 8,
+   "enunciado": "La Administración concede una ayuda a una entidad sin ánimo de lucro para desarrollar un proyecto de inclusión social.",
+   "opciones": [
+    "Actividad de Fomento.",
+    "Actividad de Servicio Público.",
+    "Actividad de Policía."
+   ]
+  },
+  {
+   "id": "pr-55-001",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 1,
+   "enunciado": "El Ministerio de Educación concede una ayuda de 1.000 euros a un estudiante para financiar sus estudios, previa solicitud y cumplimiento de los requisitos establecidos.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-002",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 2,
+   "enunciado": "El SEPE reconoce a una persona la prestación contributiva por desempleo tras perder su trabajo.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-003",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 3,
+   "enunciado": "El Estado transfiere fondos a una comunidad autónoma para financiar globalmente su actividad, sin que la aportación proceda de una convocatoria pública.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-004",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 4,
+   "enunciado": "Un ministerio concede de oficio un premio económico a una persona por una actuación meritoria, sin que esta lo haya solicitado ni participado en convocatoria alguna.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-005",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 5,
+   "enunciado": "La Administración bonifica fiscalmente a una empresa por invertir en investigación y desarrollo.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-006",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 6,
+   "enunciado": "Una comunidad autónoma concede una ayuda a una empresa para contratar a personas desempleadas, condicionada al mantenimiento del empleo durante un periodo determinado.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-007",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 7,
+   "enunciado": "El estado da una subvención de las reguladas en la Ley Orgánica de Financiación de los Partidos Políticos.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-008",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 8,
+   "enunciado": "El estado da una ayuda económica de emergencia o urgencia social a través de los servicios sociales, destinada a cubrir necesidades básicas de la ciudadanía.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-009",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 9,
+   "enunciado": "La Administración concede un premio económico en un concurso de fotografía al que los participantes se han presentado voluntariamente.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-55-010",
+   "origen": "practicas",
+   "test": "Ejercicio 23.- Ámbito de aplicación.",
+   "n": 10,
+   "enunciado": "La AGE hace una aportación dineraria a la Junta de Castilla y León para financiar globalmente una actividad.",
+   "opciones": [
+    "Sí, se le aplicará la 38/2003.",
+    "No están comprendidas en el ámbito de aplicación de esta ley.",
+    "No tienen carácter de subvenciones.",
+    "Quedan excluidos del ámbito de aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "pr-56-001",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 1,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Las subvenciones que se otorguen por consorcios, mancomunidades u otras personificaciones públicas creadas por varias Administraciones públicas se regularán de acuerdo con lo establecido en el instrumento jurídico de creación.",
+    "Las subvenciones se regirán por la Ley de Subvenciones 38/2003, por derecho privado y supletoriamente por derecho administrativo."
+   ]
+  },
+  {
+   "id": "pr-56-002",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 2,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Las subvenciones financiadas con cargo a fondos de la Unión Europea se regirán exclusivamente por la normativa Española.",
+    "Las subvenciones financiadas con cargo a fondos de la Unión Europea se regirán por las normas comunitarias aplicables en cada caso y por las normas nacionales de desarrollo o transposición de aquéllas"
+   ]
+  }
+ ]
+}

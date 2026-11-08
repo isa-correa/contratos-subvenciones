@@ -1,0 +1,280 @@
+{
+ "au-05-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 50.1 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 50.1** dice que el procedimiento de recurso especial se inicia con un escrito presentado en el plazo de **quince días hábiles**.",
+   "No. Treinta días hábiles no es el plazo del recurso especial. Es más del doble.",
+   "No. Veinte días hábiles tampoco. El plazo es de quince.",
+   "No. Diez días hábiles es menos de lo que dice el art. 50.1. El plazo es de quince."
+  ],
+  "ojo": "Plazos del recurso especial: 15 días hábiles para interponerlo (art. 50), 5 días hábiles para que se resuelva (art. 57) y desestimación presunta a los 2 meses."
+ },
+ "au-05-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Contra los procedimientos de adjudicación que se tramitan por emergencia no cabe recurso especial (**art. 44.4**).",
+   "No. En los contratos de obras el recurso especial cabe cuando el valor estimado supera **tres millones**, no 5.404.000 euros (**art. 44.1.a**). Los 5.404.000 son el umbral de la regulación armonizada.",
+   "Es esta. Los acuerdos de rescate de concesiones son recurribles (**art. 44.2.f**), y en las concesiones de obras o de servicios el recurso especial cabe cuando el valor estimado supera los tres millones (**art. 44.1.c**).",
+   "No. Las modificaciones que incumplen los arts. 204 y 205 son recurribles (**art. 44.2.d**), pero solo en los contratos del art. 44.1, es decir, los que superan las cuantías mínimas. No vale “cualquiera que sea el valor estimado”."
+  ]
+ },
+ "au-05-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los contratos administrativos especiales son recurribles cuando no se pueda fijar su precio o cuando su valor estimado supere lo establecido para los contratos de servicios, es decir, más de **cien mil** euros (**art. 44.1**), no noventa mil.",
+   "Es esta. El **art. 44.1.c** admite el recurso especial en las concesiones de obras o de servicios cuyo valor estimado supere los **tres millones** de euros.",
+   "No. En los contratos de obras el recurso cabe a partir de **más de tres millones** de euros (**art. 44.1.a**), no de un millón.",
+   "No. Los encargos son recurribles cuando su importe, con duración total más prórrogas, sea igual o superior a lo previsto para los contratos de servicios (**cien mil euros**), no noventa mil."
+  ]
+ },
+ "au-05-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 36.3 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La formalización perfecciona la regla general, no los contratos específicos de un sistema dinámico (**art. 36.1**).",
+   "No. El anuncio de formalización es un trámite de publicidad, no perfecciona el contrato.",
+   "No. La aprobación del expediente es un trámite previo a la licitación. El contrato aún no existe.",
+   "Es esta. El **art. 36.3** dice que los contratos basados en un acuerdo marco y los contratos específicos de un sistema dinámico de adquisición se perfeccionan con su **adjudicación**."
+  ]
+ },
+ "au-05-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 36.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es la regla del derecho civil, no la de la LCSP. La LCSP no se conforma con que se den los requisitos de validez: pide la formalización.",
+   "Es esta. Según el **art. 36.1**, los contratos de los poderes adjudicadores se perfeccionan con su **formalización**. Las excepciones son los contratos menores y los basados en acuerdo marco o sistema dinámico.",
+   "No. En el derecho civil los contratos se perfeccionan por el consentimiento, pero la LCSP exige formalización.",
+   "No. Elevar a público es una opción de las partes (**art. 153.3**), no lo que perfecciona el contrato."
+  ]
+ },
+ "au-05-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 39.2.b de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Otorgar ventajas a empresas que ya hayan contratado con una Administración es causa de **anulabilidad** (**art. 40.b**), no de nulidad.",
+   "No. Incumplir los requisitos de la modificación (arts. 204 y 205) es causa de **anulabilidad** (**art. 40.a**).",
+   "No. Los encargos a medios propios que incumplen los requisitos de la condición de medio propio son causa de **anulabilidad** (**art. 40.c**).",
+   "Es esta. La carencia o insuficiencia de crédito, salvo los supuestos de emergencia, es una de las causas de **nulidad** del **art. 39.2.b**."
+  ],
+  "ojo": "Las tres primeras opciones son los tres supuestos que el art. 40 cita como anulabilidad. La nulidad está en el art. 39."
+ },
+ "au-05-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 37.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es al revés: está prohibida como regla general.",
+   "No. “En todo caso” no es cierto: tiene una excepción.",
+   "No. La excepción es la emergencia, no la urgencia.",
+   "Es esta. El **art. 37.1** prohíbe contratar verbalmente, salvo que el contrato tenga carácter de **emergencia** (art. 120.1)."
+  ],
+  "ojo": "Urgencia y emergencia no son lo mismo. Verbal solo en emergencia."
+ },
+ "au-05-011": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44.1 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En los contratos de obras el recurso especial cabe cuando el valor estimado es superior a **tres millones**, no a 500.000 euros (**art. 44.1.a**).",
+   "No. Los encargos son recurribles cuando su importe sea **igual o superior** al de los contratos de servicios, no “igual o inferior”.",
+   "Es esta. El **art. 44.1.a** admite el recurso en los contratos de suministro y servicios de valor estimado superior a **cien mil euros**.",
+   "No. En las concesiones de obras o servicios el umbral es de **tres millones**, no dos (**art. 44.1.c**)."
+  ]
+ },
+ "au-05-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Arts. 44.2.b y 44.7 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es gratuito, pero no obligatorio: es **potestativo** (**art. 44.7**).",
+   "No. No se da recurso en los procedimientos de adjudicación por emergencia (**art. 44.4**).",
+   "No. Sí se puede: los actos de la mesa de contratación sobre la admisión o exclusión de ofertas son actos de trámite recurribles (**art. 44.2.b**).",
+   "Es esta. Es potestativo (**art. 44.7**) y cabe contra los actos de la mesa o del órgano de contratación por los que se admite o inadmite a candidatos o licitadores (**art. 44.2.b**)."
+  ]
+ },
+ "au-05-013": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44.2 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los informes de insuficiencia de medios no están en la lista de actos recurribles del **art. 44.2**.",
+   "No. Los acuerdos de adjudicación sí son recurribles (**art. 44.2.c**).",
+   "No. Los anuncios de licitación sí son recurribles (**art. 44.2.a**).",
+   "No. Los pliegos y documentos contractuales sí son recurribles (**art. 44.2.a**)."
+  ]
+ },
+ "au-05-014": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44.2.a de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Solo son recurribles las modificaciones que incumplen los arts. 204 y 205 por entender que debieron ser objeto de nueva adjudicación (**art. 44.2.d**), no todas “en todo caso”.",
+   "No. Contra los procedimientos de adjudicación por emergencia no cabe recurso especial (**art. 44.4**).",
+   "Es esta. Los pliegos y los documentos contractuales que establezcan las condiciones de la contratación son recurribles (**art. 44.2.a**).",
+   "No. El “contrato de gestión de servicios públicos” ya no existe en la LCSP. Hoy el art. 44.1.c habla de las concesiones de obras o de servicios con valor estimado superior a tres millones."
+  ]
+ },
+ "au-05-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 39.2.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La convalidación subsana vicios menores y no se aplica a la falta de crédito.",
+   "Es esta. La carencia o insuficiencia de crédito, salvo emergencia, es causa de **nulidad de derecho administrativo** (**art. 39.2.b**).",
+   "No. No es anulabilidad. Las causas de anulabilidad están en el art. 40 y no incluyen la falta de crédito.",
+   "No. “Invalidez” es el nombre general (**art. 38**). La pregunta pide el tipo concreto: nulidad."
+  ]
+ },
+ "au-05-016": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 40.b de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es un caso de anulabilidad, no de nulidad. El art. 39 no lo recoge.",
+   "No. Las causas de invalidez de derecho civil son otras (**art. 38.a**).",
+   "Es esta. El **art. 40.b** incluye entre las causas de **anulabilidad de derecho administrativo** las disposiciones, resoluciones, cláusulas o actos de un poder adjudicador que otorguen ventajas a empresas que hayan contratado previamente con cualquier Administración.",
+   "No. No son medidas de fomento: son prácticas prohibidas, y la ley las sanciona con la anulabilidad."
+  ]
+ },
+ "au-05-017": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 57.5 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 57.5** dice que, pasados **dos meses** desde el día siguiente a la interposición sin resolución notificada, el interesado puede considerarlo **desestimado** a efectos de ir al contencioso.",
+   "No. Falla el plazo (son dos meses) y el sentido: es desestimado, no estimado.",
+   "No. Acierta con el plazo, pero el silencio es desestimatorio, no estimatorio.",
+   "No. Acierta con el sentido (desestimado), pero el plazo son dos meses, no tres."
+  ]
+ },
+ "au-05-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 58.2 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 58.2** fija una multa de entre **1.000 y 30.000 euros** si se aprecia temeridad o mala fe en el recurso o en la solicitud de medidas cautelares.",
+   "No. El mínimo es 1.000, no 3.000.",
+   "No. El máximo es 30.000, no 5.000.",
+   "No. El rango es de 1.000 a 30.000."
+  ]
+ },
+ "au-05-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 53 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Recurrir el anuncio de licitación no suspende por sí solo el procedimiento. Para eso hay que pedir una medida cautelar.",
+   "No. Recurrir la admisión o inadmisión de licitadores tampoco suspende automáticamente.",
+   "Es esta. El **art. 53** dice que, una vez interpuesto el recurso, queda en suspenso la tramitación del procedimiento cuando el acto recurrido es el de **adjudicación**.",
+   "No. Recurrir los pliegos no suspende el procedimiento. Solo se podría pedir como medida cautelar."
+  ]
+ },
+ "au-05-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 49.2 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Sí cabe contra los contratos administrativos especiales cuando no se puede fijar su precio o cuando su valor estimado supera lo previsto para los contratos de servicios (**art. 44.1**).",
+   "No. La exclusión es para el trámite de **emergencia**, no el de urgencia (**art. 44.4**).",
+   "Es esta. El **art. 49.2** dice que el órgano competente resuelve de forma motivada sobre las medidas cautelares en cinco días hábiles.",
+   "No. El nombramiento del Presidente del Tribunal Administrativo Central de Recursos Contractuales dura **seis años** y no se puede prorrogar (**art. 45**), no cinco."
+  ]
+ },
+ "au-06-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 82.2 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Lo técnico y profesional se justifica cada **tres** años, no cada dos.",
+   "Es esta. Para conservar la clasificación hay que justificar **cada año** la solvencia económica y financiera, y **cada tres años** la técnica y profesional (**art. 82.2**).",
+   "No. Está al revés: lo anual es la solvencia económica y financiera, y lo trienal, la técnica y profesional.",
+   "No. La clasificación tiene vigencia indefinida (**art. 82.1**), pero solo mientras se mantengan las condiciones, y para eso hay que justificarlas periódicamente (art. 82.2)."
+  ]
+ },
+ "au-06-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 77.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En los contratos de servicios la clasificación **no es exigible** (**art. 77.1.b**).",
+   "Es esta. La clasificación como contratista de obras es requisito indispensable en los contratos de obras con valor estimado igual o superior a **500.000 euros** (**art. 77.1.a**).",
+   "No. En servicios no es exigible la clasificación. Se puede usar para acreditar solvencia, pero no es obligatoria.",
+   "No. El umbral es de 500.000 euros, no 50.000."
+  ]
+ },
+ "au-06-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 69.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Antes de que termine el plazo de licitación no hay que formalizarla.",
+   "Es esta. El **art. 69.1** dice que no hace falta escritura pública hasta que se haya efectuado la adjudicación a favor de la unión. Es decir, deben formalizarla cuando resulten adjudicatarias.",
+   "No. Sí es necesaria cuando resultan adjudicatarias.",
+   "No. Antes de licitar no hace falta formalizarla; basta indicar los nombres, la participación de cada uno y el compromiso de constituirse en unión si resultan adjudicatarios (art. 69.3)."
+  ]
+ },
+ "au-06-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 71.1.c de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No vale cualquier delito: el **art. 71.1.a** enumera delitos concretos (terrorismo, corrupción, cohecho, tráfico de influencias y similares).",
+   "No. El volumen de negocio es un medio de acreditar la solvencia económica, no una prohibición de contratar.",
+   "No. La prohibición del art. 71.1.d se aplica a empresas de **50 o más** trabajadores que no cumplan con tener un plan de igualdad, no a las de más de 25.",
+   "Es esta. El **art. 71.1.c** incluye entre las prohibiciones haber solicitado la declaración de concurso voluntario, junto con haber sido declaradas insolventes o estar en concurso, entre otras circunstancias."
+  ]
+ },
+ "au-06-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 77.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los 500.000 euros son el umbral de obras, y no se aplican a suministros.",
+   "No. Los 300.000 euros no son ningún umbral de clasificación.",
+   "No. La clasificación solo existe para obras y servicios. En suministros no hay clasificación que sirva para acreditar la solvencia: se acredita por los medios del art. 87 y 89.",
+   "Es esta. El **art. 77.1** solo habla de clasificación como contratista de obras o de servicios. Para los demás contratos, incluidos los de suministro, no hay clasificación y los requisitos de solvencia se indican en los pliegos (**art. 77.1.c**)."
+  ]
+ },
+ "au-06-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 79.1 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 79.1** dice que la clasificación se hace en función de la **solvencia** de las empresas.",
+   "No. La liquidez es un elemento de la solvencia económica, pero no el criterio de clasificación.",
+   "No. La rentabilidad no es criterio de clasificación.",
+   "No. La primera opción es correcta."
+  ]
+ },
+ "au-06-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 82.1 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 82.1** dice que la clasificación tiene vigencia **indefinida** mientras se mantengan las condiciones en que se concedió.",
+   "No. No hay un plazo de dos años de vigencia. La vigencia es indefinida.",
+   "No. Cinco años prorrogables no figura en la ley.",
+   "No. Tres años prorrogables tampoco. Los tres años son el plazo para justificar la solvencia técnica y profesional (art. 82.2)."
+  ]
+ },
+ "au-06-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 80.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, pero no es la única. Es el **art. 80.1**: las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado.",
+   "Es verdadera, pero no es la única. También el **art. 80.1** cita a los órganos equivalentes de las Comunidades Autónomas.",
+   "No. Sí hay órganos que adoptan estos acuerdos con eficacia general.",
+   "Es esta. El **art. 80.1** atribuye los acuerdos de clasificación, con eficacia general frente a todos los órganos de contratación, tanto a las Comisiones Clasificadoras de la Junta Consultiva como a los órganos equivalentes de las Comunidades Autónomas."
+  ]
+ }
+}

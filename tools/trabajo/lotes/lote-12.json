@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-18-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 24,
+   "enunciado": "Indique cuál de las siguientes NO es una causa de resolución de los contratos prevista en el artículo 211 de la LCSP:",
+   "opciones": [
+    "La declaración de concurso o la declaración de insolvencia en cualquier procedimiento.",
+    "La imposibilidad de ejecutar la prestación en los términos inicialmente pactados, cuando no sea posible modificar el contrato.",
+    "El impago, durante la ejecución del contrato, de los salarios a los trabajadores que estuvieran participando en la misma.",
+    "El retraso injustificado sobre el plan de trabajos establecido por un plazo superior a un sexto de la duración inicial del contrato."
+   ]
+  },
+  {
+   "id": "au-18-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 25,
+   "enunciado": "Conforme al artículo 215 de la LCSP, la subcontratación requerirá autorización expresa del órgano de contratación:",
+   "opciones": [
+    "Únicamente cuando el contrato tenga carácter secreto o reservado.",
+    "Entre otros casos, cuando lo exija la protección de los intereses esenciales de la seguridad del Estado.",
+    "La subcontratación no requerirá en ningún caso autorización expresa del órgano de contratación.",
+    "La subcontratación requerirá siempre autorización expresa del órgano de contratación."
+   ]
+  },
+  {
+   "id": "au-19-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 1,
+   "enunciado": "El órgano de contratación del sistema estatal de contratación centralizada es:",
+   "opciones": [
+    "La Junta de Contratación Centralizada.",
+    "La Dirección General de Racionalización y Centralización de la Contratación.",
+    "La Junta Consultiva de Contratación Administrativa.",
+    "El que determine la Administración respectiva."
+   ]
+  },
+  {
+   "id": "au-19-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 2,
+   "enunciado": "Para racionalizar y ordenar la adjudicación de contratos las Administraciones Públicas podrán:",
+   "opciones": [
+    "Concluir acuerdos marco.",
+    "Articular sistemas dinámicos.",
+    "Centralizar la contratación de obras, servicios y suministros en servicios especializados.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-19-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 3,
+   "enunciado": "Con el fin de fijar las condiciones a que habrán de ajustarse los contratos que pretendan adjudicar durante un período determinado, uno o varios órganos de contratación del sector público podrán celebrar con una o varias empresas:",
+   "opciones": [
+    "Acuerdos marcos.",
+    "Contratos basados.",
+    "Contratos específicos.",
+    "Centrales de compras."
+   ]
+  },
+  {
+   "id": "au-19-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 4,
+   "enunciado": "La duración de un acuerdo marco no podrá exceder de:",
+   "opciones": [
+    "4 años, en ningún caso.",
+    "5 años, en ningún caso.",
+    "4 años, salvo en casos excepcionales, debidamente justificados.",
+    "5 años, salvo en casos excepcionales, debidamente justificados."
+   ]
+  },
+  {
+   "id": "au-19-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 5,
+   "enunciado": "La duración de los contratos basados en un acuerdo marco:",
+   "opciones": [
+    "Será la misma que la duración del acuerdo marco.",
+    "Será inferior a la duración del acuerdo marco.",
+    "Será superior a la duración del acuerdo marco.",
+    "Será independiente de la duración del acuerdo marco."
+   ]
+  },
+  {
+   "id": "au-19-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 6,
+   "enunciado": "Los contratos basados en un acuerdo marco:",
+   "opciones": [
+    "Podrán adjudicarse hasta 6 meses después de la vigencia del acuerdo marco",
+    "Podrán adjudicarse hasta 1 año después de la vigencia del acuerdo marco.",
+    "Podrán adjudicarse hasta 2 años después de la vigencia del acuerdo marco.",
+    "Solo podrán adjudicarse durante la vigencia del acuerdo marco."
+   ]
+  },
+  {
+   "id": "au-19-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 7,
+   "enunciado": "El sistema dinámico de adquisición es un proceso:",
+   "opciones": [
+    "Parcialmente electrónico, con una duración ilimitada.",
+    "Parcialmente electrónico, con una duración limitada y determinada en los pliegos.",
+    "Totalmente electrónico, con una duración ilimitada.",
+    "Totalmente electrónico, con una duración limitada y determinada en los pliegos."
+   ]
+  },
+  {
+   "id": "au-19-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 8,
+   "enunciado": "Podrá declarar de contratación centralizada los suministros, obras y servicios que se contraten de forma general y con características esencialmente homogéneas determinando las condiciones en las que se producirá el proceso de centralización:",
+   "opciones": [
+    "El Ministro de Hacienda.",
+    "El Ministro de Interior.",
+    "La Junta Consultiva de Contratación.",
+    "El Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "au-19-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 9,
+   "enunciado": "Las centrales de contratación actuarán (señale la respuesta incorrecta):",
+   "opciones": [
+    "Adquiriendo suministros y servicios para otros entes del sector público.",
+    "Celebrando pactos privados con otros entes del sector público.",
+    "Adjudicando contratos a otros entes del sector público.",
+    "Celebrando acuerdos marco y SDA para realizar obras, suministros o servicios destinados a otros entes del sector público."
+   ]
+  },
+  {
+   "id": "au-19-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 10,
+   "enunciado": "Señale la respuesta incorrecta. Para racionalizar y ordenar la adjudicación de contratos las Administraciones Públicas podrán:",
+   "opciones": [
+    "Concluir acuerdos marco.",
+    "Articular sistemas dinámicos.",
+    "Centralizar la contratación de obras, servicios y suministros.",
+    "Implementar procedimientos para la adjudicación directa de contratos administrativos."
+   ]
+  },
+  {
+   "id": "au-19-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 11,
+   "enunciado": "Señale la respuesta incorrecta en relación con los acuerdos marco:",
+   "opciones": [
+    "Su duración no podrá exceder de cuatro años, sin excepción.",
+    "Podrán celebrarse con una o varias empresas.",
+    "Podrán celebrarlos uno o varios órganos de contratación.",
+    "Constituyen un sistema para la racionalización de la contratación de las Administraciones Públicas."
+   ]
+  },
+  {
+   "id": "au-19-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 12,
+   "enunciado": "Señale la respuesta correcta en relación con los contratos basados en acuerdos marco:",
+   "opciones": [
+    "Solo podrán celebrarse por centrales de contratación.",
+    "Cuando el acuerdo marco se hubiese concluido con una única empresa, deberá procederse a una nueva licitación.",
+    "Siempre que el acuerdo marco se hubiese concluido con varias empresas, se adjudicarán sin necesidad de nueva licitación.",
+    "Su duración será independiente de la del acuerdo marco."
+   ]
+  },
+  {
+   "id": "au-19-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 13,
+   "enunciado": "Señale la respuesta incorrecta en relación con los Sistemas Dinámicos de Adquisición (SDA):",
+   "opciones": [
+    "Durante todo el período de vigencia del SDA, cualquier empresario interesado podrá solicitar participar en el sistema.",
+    "El sistema dinámico de adquisición es un proceso totalmente electrónico.",
+    "Tendrán una duración ilimitada.",
+    "Tendrán por objeto la adquisición de obras, servicios y suministros de uso corriente."
+   ]
+  },
+  {
+   "id": "au-19-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 14,
+   "enunciado": "El órgano de contratación del sistema estatal de contratación centralizada es la Junta de Contratación Centralizada, adscrita a:",
+   "opciones": [
+    "La Dirección General de Racionalización y Centralización de la Contratación.",
+    "La Junta consultiva de Contratación Pública del Estado.",
+    "El Comité de cooperación en materia de contratación pública.",
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación."
+   ]
+  },
+  {
+   "id": "au-19-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (19) - LCSP (arts. 218 a 230)",
+   "n": 15,
+   "enunciado": "La competencia para adquirir equipos y sistemas para el tratamiento de la información y sus elementos complementarios o auxiliares corresponderá al órgano de contratación del sistema estatal de contratación centralizada:",
+   "opciones": [
+    "Siempre que estos hayan sido declarados de adquisición centralizada.",
+    "Aun cuando estos no hayan sido declarados de adquisición centralizada.",
+    "Salvo que estos hayan sido declarados de contratación descentralizada.",
+    "Previa autorización de los Departamentos ministeriales u organismos interesados en su compra."
+   ]
+  },
+  {
+   "id": "au-20-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 1,
+   "enunciado": "Según la LCSP, cuando una obra de reparación afecte a la estructura resistente de un inmueble tendrá la calificación de:",
+   "opciones": [
+    "Reconstrucción estructural.",
+    "Restauración funcional.",
+    "Reparación estructural.",
+    "Gran reparación."
+   ]
+  },
+  {
+   "id": "au-20-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 2,
+   "enunciado": "Señale la respuesta incorrecta en relación con el replanteo del proyecto de obras, de conformidad con lo dispuesto en la LCSP:",
+   "opciones": [
+    "Una vez realizado el replanteo se incorporará el proyecto al expediente de contratación.",
+    "Se comprobará la disponibilidad de los terrenos precisos para la normal ejecución de la obra.",
+    "Se efectuará después de la aprobación del proyecto y de la aprobación del expediente de contratación de la obra.",
+    "Se comprobará la realidad geométrica de la obra."
+   ]
+  },
+  {
+   "id": "au-20-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 3,
+   "enunciado": "Señale la respuesta incorrecta. De acuerdo con la LCSP, a efecto de elaboración de los proyectos, las obras se clasificarán, según su objeto y naturaleza, en los grupos siguientes:",
+   "opciones": [
+    "Obras de primer establecimiento, reforma, restauración, rehabilitación o gran reparación.",
+    "Obras de sustitución.",
+    "Obras de conservación y mantenimiento.",
+    "Obras de demolición."
+   ]
+  },
+  {
+   "id": "au-20-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 4,
+   "enunciado": "Conforme al artículo 232 de la LCSP, son obras de primer establecimiento:",
+   "opciones": [
+    "Las que dan lugar a la creación de un bien inmueble.",
+    "Las que dan lugar a la creación de un bien mueble o inmueble.",
+    "Las necesarias para enmendar un menoscabo producido en un bien inmueble.",
+    "Las de reparación de una construcción conservando su estética, respetando su valor histórico y manteniendo su funcionalidad."
+   ]
+  },
+  {
+   "id": "au-20-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 5,
+   "enunciado": "Señale la respuesta incorrecta. El concepto general de reforma abarca el conjunto de obras de:",
+   "opciones": [
+    "Ampliación de un bien inmueble ya existente.",
+    "Mejora y modernización de un bien inmueble ya existente.",
+    "Adaptación, adecuación o refuerzo de un bien inmueble ya existente.",
+    "Enmienda de menoscabos producidos en un bien inmueble."
+   ]
+  },
+  {
+   "id": "au-20-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 6,
+   "enunciado": "Se consideran como obras de reparación, de acuerdo con lo dispuesto en el artículo 232 de la LCSP:",
+   "opciones": [
+    "Las necesarias para enmendar un menoscabo producido en un bien inmueble por causas fortuitas o accidentales.",
+    "Las que tienen por objeto reparar una construcción conservando su estética.",
+    "Las necesarias para enmendar un menoscabo producido en un bien inmueble en el tiempo por el natural uso del bien.",
+    "Las que tienen por objeto reparar una construcción respetando su valor histórico."
+   ]
+  },
+  {
+   "id": "au-20-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 7,
+   "enunciado": "Conforme al artículo 232 de la LCSP, son obras de restauración aquellas que tienen por objeto reparar una construcción:",
+   "opciones": [
+    "Conservando su estética, respetando su valor histórico, dotándola o no de una nueva funcionalidad.",
+    "Enmendando un menoscabo producido en un bien inmueble por causas fortuitas o accidentales.",
+    "Conservando su estética, respetando su valor histórico y dotándola de una nueva funcionalidad.",
+    "Conservando su estética, respetando su valor histórico y manteniendo su funcionalidad."
+   ]
+  },
+  {
+   "id": "au-20-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 8,
+   "enunciado": "Conforme al artículo 232 de la LCSP, son obras de demolición:",
+   "opciones": [
+    "Las necesarias para enmendar un menoscabo producido en un bien inmueble por causas fortuitas o accidentales.",
+    "Las que tengan por objeto el derribo o la destrucción de un bien mueble o inmueble.",
+    "Las que tengan por objeto el derribo o la destrucción de un bien inmueble.",
+    "Las necesarias para enmendar un menoscabo producido en un bien inmueble cuando afecten a la estructura resistente."
+   ]
+  },
+  {
+   "id": "au-20-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 9,
+   "enunciado": "Respecto a la contratación conjunta de la elaboración del proyecto y la ejecución de las obras, el artículo 234 de la LCSP señala que:",
+   "opciones": [
+    "Tendrá carácter excepcional.",
+    "Solo cabrá cuando se trate de obras de dimensión excepcional o dificultades técnicas singulares.",
+    "Solo cabrá cuando motivos de orden técnico obliguen a vincular al empresario a los estudios de las obras.",
+    "La licitación de este tipo de contrato no requerirá la redacción previa por la Administración del correspondiente anteproyecto."
+   ]
+  },
+  {
+   "id": "au-20-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 10,
+   "enunciado": "Señale la respuesta incorrecta. Según el artículo 234 de la LCSP, el contratista presentará el proyecto al órgano de contratación para su:",
+   "opciones": [
+    "Supervisión.",
+    "Aprobación.",
+    "Replanteo.",
+    "Elaboración."
+   ]
+  },
+  {
+   "id": "au-20-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 11,
+   "enunciado": "Antes de la aprobación del proyecto, los órganos de contratación deberán solicitar un informe de las correspondientes oficinas o unidades de supervisión, cuando el presupuesto base de licitación del contrato de obras sea:",
+   "opciones": [
+    "Igual o superior a 200.000 euros, IVA incluido.",
+    "Igual o superior a 500.000 euros, IVA incluido.",
+    "Igual o superior a 200.000 euros, IVA excluido.",
+    "Igual o superior a 500.000 euros, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-20-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (20) - LCSP (arts 231 a 236)",
+   "n": 12,
+   "enunciado": "De acuerdo con lo dispuesto en el artículo 236 de la LCSP, aprobado el proyecto y previamente a la aprobación del expediente de contratación de la obra, se procederá a efectuar el replanteo del mismo, el cual consistirá en:",
+   "opciones": [
+    "Comprobar la realidad económica de la misma y la adecuación técnica para su normal ejecución.",
+    "Comprobar la realidad económica de la misma y la disponibilidad de los terrenos precisos para su normal ejecución.",
+    "Comprobar la realidad geométrica de la misma y la disponibilidad de los terrenos precisos para su normal ejecución.",
+    "Comprobar la realidad geométrica de la misma y la adecuación técnica para su normal ejecución."
+   ]
+  },
+  {
+   "id": "au-21-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 1,
+   "enunciado": "No es una causa de resolución del contrato de obras, según lo establecido en el artículo 245 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+   "opciones": [
+    "La demora injustificada en la comprobación del replanteo.",
+    "La suspensión de la iniciación de las obras por plazo superior a cuatro meses.",
+    "El desistimiento.",
+    "La suspensión de las obras por plazo superior a seis meses por parte de la Administración."
+   ]
+  },
+  {
+   "id": "au-21-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 2,
+   "enunciado": "En el supuesto de desistimiento antes de la iniciación de las obras, o de suspensión de la iniciación de las mismas por parte de la Administración por plazo superior a cuatro meses, el contratista tendrá derecho a percibir por todos los conceptos:",
+   "opciones": [
+    "Una indemnización del 2 por cien del precio de adjudicación, IVA excluido.",
+    "Una indemnización del 4 por cien del precio de adjudicación, IVA excluido.",
+    "Una indemnización del 3 por cien del precio de adjudicación, IVA excluido.",
+    "Una indemnización del 5 por cien del precio de adjudicación, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-21-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 3,
+   "enunciado": "Conforme al artículo 237 de la LCSP, la ejecución del contrato de obras comenzará con:",
+   "opciones": [
+    "El acta de comprobación del replanteo.",
+    "La incorporación del proyecto al expediente de contratación.",
+    "El acta de replanteo.",
+    "El informe de supervisión."
+   ]
+  },
+  {
+   "id": "au-21-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 4,
+   "enunciado": "Respecto a la ejecución de las obras y responsabilidad del contratista cuando las instrucciones fueren de carácter verbal:",
+   "opciones": [
+    "Deberán ser ratificadas por escrito en el más breve plazo posible, para que sean vinculantes para las partes.",
+    "Deberán ser ratificadas por escrito en el plazo de tres días, para que sean vinculantes para las partes.",
+    "Tendrán plena validez y no podrán ser ratificadas por escrito.",
+    "Tendrán plena validez, sin perjuicio de que puedan ser ratificadas por escrito."
+   ]
+  },
+  {
+   "id": "au-21-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 5,
+   "enunciado": "Durante el desarrollo de las obras y hasta que se cumpla el plazo de garantía será responsable de todos los defectos que en la construcción puedan advertirse:",
+   "opciones": [
+    "El contratista.",
+    "El órgano de contratación.",
+    "El contratista y el órgano de contratación conjuntamente.",
+    "La Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "au-21-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 6,
+   "enunciado": "El contratista tendrá derecho a una indemnización por los daños y perjuicios, que se le hubieren producido en la ejecución del contrato:",
+   "opciones": [
+    "En todo caso.",
+    "En casos de fuerza mayor, independientemente de la actuación del contratista.",
+    "En casos de fuerza mayor y siempre que no exista actuación imprudente por parte del contratista.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "au-21-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 7,
+   "enunciado": "No tendrán la consideración de caso de fuerza mayor, de acuerdo con el artículo 239 de la LCSP:",
+   "opciones": [
+    "Los incendios causados por la electricidad atmosférica.",
+    "Los fenómenos naturales de efectos catastróficos.",
+    "Los destrozos ocasionados violentamente en robos tumultuosos.",
+    "Las ruinas ocasionadas por defectos de la obra ejecutada en situaciones de emergencia."
+   ]
+  },
+  {
+   "id": "au-21-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 8,
+   "enunciado": "A los efectos del pago, la Administración expedirá mensualmente certificaciones que comprendan la obra ejecutada conforme a proyecto:",
+   "opciones": [
+    "En los primeros 10 días siguientes al mes al que correspondan.",
+    "En los últimos 10 días anteriores al mes al que correspondan.",
+    "En los primeros 5 días siguientes al mes al que correspondan.",
+    "En los primeros 5 días anteriores al mes al que correspondan."
+   ]
+  },
+  {
+   "id": "au-21-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 9,
+   "enunciado": "Conforme a la LCSP, a la recepción de las obras, a su terminación, concurrirá:",
+   "opciones": [
+    "Un facultativo designado por la Administración representante de esta.",
+    "El facultativo encargado de la dirección de las obras.",
+    "El contratista asistido, si lo estima oportuno, de su facultativo.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-21-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 10,
+   "enunciado": "El órgano de contratación deberá aprobar la certificación final de las obras ejecutadas dentro del plazo de:",
+   "opciones": [
+    "Un mes contado a partir de la recepción.",
+    "Dos meses contados a partir de la recepción.",
+    "Tres meses contados a partir de la recepción.",
+    "Seis meses contados a partir de la recepción."
+   ]
+  },
+  {
+   "id": "au-21-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 11,
+   "enunciado": "Señale la respuesta incorrecta. Si las obras se encuentran en buen estado y con arreglo a las prescripciones previstas:",
+   "opciones": [
+    "El funcionario técnico designado por la Administración contratante las dará por recibidas.",
+    "Se levantará la correspondiente acta.",
+    "Comenzará el plazo de garantía.",
+    "Se procederá a la devolución de la garantía definitiva."
+   ]
+  },
+  {
+   "id": "au-21-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 12,
+   "enunciado": "Señale la respuesta incorrecta. Cuando las obras no se hallen en estado de ser recibidas:",
+   "opciones": [
+    "Se hará constar así en el acta.",
+    "El Director de las mismas señalará los defectos observados.",
+    "El Director de las mismas detallará instrucciones precisas para remediar los defectos.",
+    "Se declarará resuelto el contrato, en todo caso."
+   ]
+  },
+  {
+   "id": "au-21-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 13,
+   "enunciado": "Respecto al cumplimiento de las obras, el plazo de garantía se establecerá en el pliego de cláusulas administrativas particulares atendiendo a su naturaleza y complejidad y no podrá ser inferior a:",
+   "opciones": [
+    "Un año, en ningún caso.",
+    "Dos años, en ningún caso.",
+    "Un año, salvo casos especiales.",
+    "Dos años, salvo casos especiales."
+   ]
+  },
+  {
+   "id": "au-21-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 14,
+   "enunciado": "Según la LCSP, si la obra se arruina o sufre deterioros graves incompatibles con su función con posterioridad a la expiración del plazo de garantía por vicios ocultos de la construcción, debido a incumplimiento del contratista, responderá este de los daños y perjuicios que se produzcan o se manifiesten durante un plazo de:",
+   "opciones": [
+    "5 años a contar desde la recepción.",
+    "10 años a contar desde la recepción.",
+    "15 años a contar desde la recepción.",
+    "20 años a contar desde la recepción."
+   ]
+  },
+  {
+   "id": "au-21-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 15,
+   "enunciado": "Es causa de resolución del contrato de obras, además de las generales de la Ley:",
+   "opciones": [
+    "La demora justificada en la comprobación del replanteo.",
+    "La suspensión de la iniciación de las obras por plazo superior a tres meses.",
+    "La suspensión de las obras por plazo superior a seis meses por parte de la Administración.",
+    "El desistimiento."
+   ]
+  },
+  {
+   "id": "au-21-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 16,
+   "enunciado": "Conforme a la LCSP, si se demorase injustificadamente la comprobación del replanteo, dando lugar a la resolución del contrato, el contratista solo tendrá derecho por todos los conceptos a una indemnización equivalente al:",
+   "opciones": [
+    "2% del precio de adjudicación, IVA incluido.",
+    "3% del precio de adjudicación, IVA incluido.",
+    "2% del precio de adjudicación, IVA excluido.",
+    "3% del precio de adjudicación, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-21-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 17,
+   "enunciado": "En caso de desistimiento antes de la iniciación de las obras, o de suspensión de la iniciación de las mismas por plazo superior a cuatro meses, el contratista tendrá derecho a percibir por todos los conceptos una indemnización del:",
+   "opciones": [
+    "2% del precio de adjudicación, IVA incluido.",
+    "3% del precio de adjudicación, IVA incluido.",
+    "2% del precio de adjudicación, IVA excluido.",
+    "3% del precio de adjudicación, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-21-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (21) - LCSP (arts 237 a 246)",
+   "n": 18,
+   "enunciado": "Establece la LCSP que, en concepto de beneficio industrial, en caso de desistimiento una vez iniciada la ejecución de las obras, o de suspensión de las obras iniciadas por plazo superior a:",
+   "opciones": [
+    "5 meses, el contratista tendrá derecho al 3% del precio de adjudicación de las obras dejadas de realizar, IVA excluido.",
+    "5 meses, el contratista tendrá derecho al 6% del precio de adjudicación de las obras dejadas de realizar, IVA excluido.",
+    "8 meses, el contratista tendrá derecho al 3% del precio de adjudicación de las obras dejadas de realizar, IVA excluido.",
+    "8 meses, el contratista tendrá derecho al 6% del precio de adjudicación de las obras dejadas de realizar, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-22-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 1,
+   "enunciado": "El órgano que corresponda de la Administración concedente acordará la realización de un estudio de viabilidad de las mismas:",
+   "opciones": [
+    "Con carácter previo a la decisión de construir y explotar en régimen de concesión unas obras.",
+    "Simultáneamente a la decisión de construir y explotar en régimen de concesión unas obras.",
+    "Con carácter posterior a la decisión de construir y explotar en régimen de concesión unas obras.",
+    "Solo cuando las obras afecten a la estabilidad, seguridad o estanqueidad de la obra."
+   ]
+  },
+  {
+   "id": "au-22-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 2,
+   "enunciado": "La Administración concedente someterá el estudio de viabilidad a información pública por plazo de:",
+   "opciones": [
+    "Un mes, prorrogable por la mitad de dicho plazo en razón de la complejidad del mismo.",
+    "Dos meses, prorrogable por idéntico plazo en razón de la complejidad del mismo.",
+    "Un mes, prorrogable por idéntico plazo en razón de la complejidad del mismo.",
+    "Dos meses, prorrogable por la mitad de dicho plazo en razón de la complejidad del mismo."
+   ]
+  },
+  {
+   "id": "au-22-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 3,
+   "enunciado": "El concesionario tendrá derecho a percibir de los usuarios o de la Administración una retribución por la utilización de las obras en la forma prevista en el pliego de cláusulas administrativas particulares y de conformidad con lo establecido en este artículo, que se denominará:",
+   "opciones": [
+    "Precio y tendrá la naturaleza de prestación patrimonial de carácter público tributario.",
+    "Tarifa y tendrá la naturaleza de prestación patrimonial de carácter público no tributario.",
+    "Precio y tendrá la naturaleza de prestación patrimonial de carácter público no tributario.",
+    "Tarifa y tendrá la naturaleza de prestación patrimonial de carácter público tributario."
+   ]
+  }
+ ]
+}

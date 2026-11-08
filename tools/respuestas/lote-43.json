@@ -1,0 +1,435 @@
+{
+ "pr-50-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: treinta días no es el plazo legal de la certificación final.",
+   "Correcta: el órgano de contratación aprueba la certificación final dentro de los tres meses siguientes a la recepción (art. 243.1).",
+   "No: el plazo se cuenta desde la recepción, no desde la terminación material.",
+   "No: no se espera al vencimiento del plazo de garantía, la certificación final va antes."
+  ]
+ },
+ "pr-50-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: valor estimado superior a 12 millones y operaciones de liquidación y medición especialmente complejas; el plazo no pasa de cinco meses (art. 243.1).",
+   "No: el umbral no es de 10 millones.",
+   "No: tampoco es de 6 millones.",
+   "No: no basta la complejidad, hace falta además superar los 12 millones de valor estimado."
+  ]
+ },
+ "pr-50-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.2 y 243.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo de garantía no se cuenta desde la terminación material.",
+   "No: se cuenta desde la recepción, pero el mínimo es de un año, no de dos.",
+   "No: ni desde la terminación material ni dos años como mínimo.",
+   "Correcta: empieza con la recepción y el pliego no puede fijarlo en menos de un año, salvo casos especiales (art. 243.2 y 243.3)."
+  ]
+ },
+ "pr-50-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.3",
+  "correcta": 3,
+  "justificaciones": [
+   "Es cierta: con informe favorable se devuelve o cancela la garantía.",
+   "Es cierta: se procede a la liquidación del contrato.",
+   "Es cierta: las obligaciones pendientes se pagan en el plazo de sesenta días.",
+   "Es la incorrecta: el contratista queda exonerado de responsabilidad salvo la de vicios ocultos del art. 244, que dura quince años."
+  ]
+ },
+ "pr-50-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 244.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo no es de diez años.",
+   "No: son quince años, pero se cuentan desde la recepción, no desde el vencimiento del plazo de garantía.",
+   "No: ni diez años ni desde el vencimiento de la garantía.",
+   "Correcta: responde durante quince años a contar desde la recepción (art. 244.1)."
+  ]
+ },
+ "pr-50-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí se cuenta desde la recepción: los tres meses para aprobar la certificación final (art. 243.1).",
+   "Es el que no: el pago de obligaciones pendientes (sesenta días) viene tras el informe favorable y la liquidación, al final del plazo de garantía (art. 243.3).",
+   "Sí se cuenta desde la recepción: el plazo de garantía (art. 243.2).",
+   "Sí se cuenta desde la recepción: los quince años de responsabilidad por vicios ocultos (art. 244.1)."
+  ]
+ },
+ "pr-50-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 245",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es causa específica: la demora injustificada en la comprobación del replanteo (art. 245.a).",
+   "Sí es causa específica: suspender la iniciación de las obras más de cuatro meses (art. 245.b).",
+   "No lo es tal como está: el plazo legal es superior a ocho meses, no a seis (art. 245.c).",
+   "Sí es causa específica: el desistimiento (art. 245.d)."
+  ]
+ },
+ "pr-50-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: demora injustificada en el replanteo, indemnización del 2 % del precio de adjudicación sin IVA (art. 246.2).",
+   "No: el 3 % corresponde al desistimiento antes de iniciar las obras o a la suspensión de la iniciación (art. 246.3).",
+   "No: el 6 % corresponde al desistimiento o suspensión con las obras iniciadas, y sobre las obras dejadas de realizar (art. 246.4).",
+   "No: sí hay indemnización en este caso."
+  ]
+ },
+ "pr-50-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 2 % es la indemnización por la demora en el replanteo.",
+   "Correcta: desistimiento antes de iniciar las obras, 3 % del precio de adjudicación sin IVA (art. 246.3).",
+   "No: el 6 % se aplica con las obras ya iniciadas y sobre las obras dejadas de realizar.",
+   "No: el desistimiento de la Administración sí genera indemnización."
+  ]
+ },
+ "pr-50-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el 3 % del precio de adjudicación es el desistimiento antes de iniciar las obras.",
+   "No: el 6 % se calcula sobre las obras dejadas de realizar, no sobre todo el precio.",
+   "No: con las obras iniciadas el porcentaje es el 6 %, no el 3 %.",
+   "Correcta: 6 % del precio de adjudicación de las obras dejadas de realizar, sin IVA, en concepto de beneficio industrial (art. 246.4)."
+  ]
+ },
+ "pr-50-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 24.000 euros son el 2 % de 1.200.000.",
+   "No: 45.000 euros son el 3 % del PBL de 1.500.000, y la base es el precio de adjudicación.",
+   "No: 72.000 euros son el 6 % de 1.200.000, que no es el supuesto.",
+   "Correcta: suspensión de la iniciación más de cuatro meses, 3 % del precio de adjudicación: 1.200.000 x 3 % = 36.000 euros (art. 246.3)."
+  ]
+ },
+ "pr-50-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: obras dejadas de realizar = 10 % de 2.000.000 = 200.000 euros, y el 6 % son 12.000 euros (art. 246.4).",
+   "No: 60.000 euros sería el 3 % de 2.000.000.",
+   "No: 108.000 euros es el 6 % de 1.800.000, es decir, de lo ya ejecutado.",
+   "No: 120.000 euros es el 6 % del total del precio, sin descontar lo ejecutado."
+  ]
+ },
+ "pr-50-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 245.c y 246.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el 11 de junio de 2027 son solo cuatro meses.",
+   "No: el 11 de agosto de 2027 son seis meses.",
+   "Correcta: la suspensión de obras iniciadas debe durar más de ocho meses; desde el 10 de febrero de 2027 se cumplen el 10 de octubre y se supera el 11 de octubre (arts. 245.c y 246.4).",
+   "No: el 11 de febrero de 2028 son doce meses, más de lo necesario."
+  ]
+ },
+ "pr-51-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 298",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el mantenimiento no corresponde a la Administración.",
+   "No: la ley no condiciona el mantenimiento a que no haya canon específico.",
+   "Correcta: el mantenimiento es del arrendador; si hay canon de mantenimiento, se fija aparte del precio del arriendo (art. 298).",
+   "No: no corresponde a la Administración, haya o no canon."
+  ]
+ },
+ "pr-51-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 299",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la publicidad y el procedimiento de adjudicación se acomodan en todo caso al contrato de suministro (art. 299).",
+   "No: no se acomodan al contrato de servicios.",
+   "No: el cumplimiento y la extinción sí pueden regirse por normas del contrato de obras que fije el pliego.",
+   "No: no es el contrato de servicios el que se aplica en cumplimiento y extinción."
+  ]
+ },
+ "pr-51-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 300.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: hay una excepción, la mora de la Administración al recibir los bienes.",
+   "No: la perecibilidad de los bienes no da derecho a indemnización.",
+   "Correcta: solo si la Administración hubiera incurrido en mora al recibirlos (art. 300.2).",
+   "No: la fuerza mayor no figura como excepción en el art. 300.2."
+  ]
+ },
+ "pr-51-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 301.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es requisito: el incremento no puede superar el 10 % del precio del contrato.",
+   "Es requisito: el precio debe estar determinado mediante precios unitarios.",
+   "Es requisito: debe acreditarse la financiación en el expediente originario.",
+   "No es requisito: la aceptación expresa del contratista no se exige, basta que lo prevea el PCAP (art. 301.2)."
+  ]
+ },
+ "pr-51-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 302.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 4.000 euros es el 20 %, y el límite es mayor.",
+   "No: 6.000 euros es el 30 %.",
+   "No: 8.000 euros es el 40 %.",
+   "Correcta: los bienes entregados no pueden superar el 50 % del precio total, es decir, 10.000 euros (art. 302.1)."
+  ]
+ },
+ "pr-51-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 304.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los gastos de entrega y transporte son del contratista, salvo pacto en contrario (art. 304.1).",
+   "No: no se reparten por mitades.",
+   "No: no corren a cargo de la Administración, salvo pacto.",
+   "No: el “en todo caso” no es correcto, porque cabe pacto en contrario."
+  ]
+ },
+ "pr-51-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 6.000 euros no corresponde a la base correcta.",
+   "Correcta: desistimiento iniciada la ejecución, 6 % de lo dejado de suministrar: 200.000 menos 80.000 son 120.000, y el 6 % son 7.200 euros (art. 307.3).",
+   "No: 12.000 euros es el 6 % de todo el contrato, sin descontar lo suministrado.",
+   "No: 4.800 euros es el 6 % de los 80.000 ya suministrados."
+  ]
+ },
+ "pr-51-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 16.3.b",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es suministro: el arrendamiento de bienes muebles (art. 16.1).",
+   "Sí es suministro: la fabricación con características fijadas por la Administración (art. 16.3.c).",
+   "Sí es suministro: la compraventa de equipos informáticos (art. 16.3.b).",
+   "No es suministro: el programa informático desarrollado a medida es contrato de servicios (art. 16.3.b)."
+  ]
+ },
+ "pr-51-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: los pliegos no pueden prever la consolidación.",
+   "No: ni con más de tres años de servicio.",
+   "No: ni con más de cinco años.",
+   "Correcta: a la extinción de los contratos de servicios no puede producirse en ningún caso la consolidación como personal (art. 308.2)."
+  ]
+ },
+ "pr-51-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: ese motivo es de la contratación conjunta de proyecto y obra (art. 234.1.a).",
+   "Correcta: cuando la contratación separada merme la calidad al dificultar la coordinación entre redacción y ejecución (art. 308.4).",
+   "No: ese motivo también es de proyecto y obra (art. 234.1.b).",
+   "No: sí está permitido en ese supuesto."
+  ]
+ },
+ "pr-51-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 234.1 y 308.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí se puede: redacción del proyecto y dirección de las obras, si se justifica la merma de calidad (art. 308.4).",
+   "Sí se puede: redacción del proyecto y ejecución de las obras, con carácter excepcional (art. 234.1).",
+   "No se puede: la dirección facultativa controla al contratista que ejecuta, y mezclarlas anula esa función de control.",
+   "No: no todas pueden hacerse conjuntamente, la dirección y la ejecución quedan fuera."
+  ],
+  "ojo": "La LCSP solo prevé las otras dos fórmulas conjuntas (arts. 234.1 y 308.4). La incompatibilidad de dirección y ejecución no tiene artículo expreso.",
+  "revisar": "Respuesta por descarte: no he localizado un artículo que prohíba literalmente contratar dirección y ejecución juntas."
+ },
+ "pr-51-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 310",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es especialidad: la LCSP no se aplica a la preparación y adjudicación (art. 310.1).",
+   "No es especialidad: el art. 310.2 dice que no puede autorizarse la cesión.",
+   "Sí es especialidad: puede establecerse pago parcial anticipado con garantía (art. 310.2).",
+   "Sí es especialidad: para acreditar el contrato basta la designación o nombramiento (art. 310.3)."
+  ]
+ },
+ "pr-51-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No procede: 6.000 euros no resultan de ninguna regla aplicable.",
+   "No procede: 12.000 euros serían el 6 % de todo el contrato.",
+   "No procede: 7.200 euros serían la indemnización si hubiera resolución, pero no la hay.",
+   "Correcta: la suspensión con el servicio iniciado debe superar ocho meses, y del 1 de marzo al 1 de octubre son siete, por lo que aún no cabe pedir la resolución (art. 313.1.b)."
+  ],
+  "ojo": "Se resuelve a partir del 1 de noviembre de 2026. Entonces sí habría indemnización del 6 % sobre lo dejado de prestar: 200.000 menos 80.000 = 120.000, y el 6 % son 7.200 euros."
+ },
+ "pr-51-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1.c y 313.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 3.000 euros serían el 3 % de 100.000.",
+   "Correcta: contrato complementario resuelto por resolverse el principal, 3 % del precio de adjudicación: 150.000 x 3 % = 4.500 euros (art. 313.3).",
+   "No: 6.000 euros sería el 6 % de 100.000, y no es el porcentaje aplicable.",
+   "No: 9.000 euros sería el 6 % de 150.000."
+  ]
+ },
+ "pr-52-001": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el subsecretario no es órgano de contratación según el art. 323.1.",
+   "Correcta: los Ministros y los Secretarios de Estado son los órganos de contratación de la AGE (art. 323.1).",
+   "No: los directores generales no son órganos de contratación.",
+   "No: ni el subsecretario ni el secretario general técnico lo son."
+  ]
+ },
+ "pr-52-002": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: afecta a más de un órgano de contratación, así que no le toca solo a quien promovió la contratación.",
+   "No: los secretarios de Estado no actúan conjuntamente en suministros y servicios que afecten a varios órganos.",
+   "Correcta: la competencia corresponde al Ministro, salvo que se atribuya a la Junta de Contratación (art. 323.1).",
+   "No: el subsecretario no es órgano de contratación."
+  ]
+ },
+ "pr-52-003": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: en un organismo autónomo el órgano de contratación es su presidente o director.",
+   "No: el secretario de Estado de adscripción no es el órgano del organismo.",
+   "No: el subsecretario del ministerio tampoco.",
+   "Correcta: los presidentes o directores de los organismos autónomos, salvo norma específica (art. 323.2)."
+  ]
+ },
+ "pr-52-004": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el valor estimado es 10.000.000, por debajo del umbral de 12.000.000. El PBL con IVA no cuenta.",
+   "No: con cuatro anualidades no se supera el límite, que exige más de cuatro años.",
+   "No: autorizado el acuerdo marco, no hace falta autorizar los contratos basados (art. 324.1.c).",
+   "Correcta: un sistema dinámico de valor estimado igual o superior a 12 millones necesita autorización (art. 324.1.c)."
+  ]
+ },
+ "pr-52-005": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la autorización se obtiene antes de aprobar el expediente y no supone aprobar el gasto, que corresponde luego al órgano de contratación (art. 324.2).",
+   "No: la autorización no lleva implícita la aprobación del gasto.",
+   "No: no se pide tras valorar las ofertas, sino antes de aprobar el expediente.",
+   "No: ni tras valorar las ofertas, ni con aprobación implícita del gasto."
+  ],
+  "ojo": "La versión actual del art. 324.2 dice que, obtenida la autorización, el órgano de contratación aprueba después el expediente y el gasto."
+ },
+ "pr-52-006": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 325.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no basta una orden ministerial.",
+   "No: se hace por real decreto, pero no solo en órganos dependientes.",
+   "No: la orden ministerial no es el instrumento, y no se limita a órganos dependientes.",
+   "Correcta: por real decreto acordado en Consejo de Ministros, en cualesquiera órganos, sean o no dependientes (art. 325.1)."
+  ]
+ },
+ "pr-52-007": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en abierto y restringido la mesa es obligatoria.",
+   "No: en la licitación con negociación la mesa es obligatoria.",
+   "Correcta: es potestativa en el negociado sin publicidad (salvo imperiosa urgencia) y en el abierto simplificado del art. 159.6 (art. 326.1).",
+   "No: en el diálogo competitivo la mesa es obligatoria, y de composición especial (art. 327)."
+  ]
+ },
+ "pr-52-008": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.2",
+  "correcta": 0,
+  "justificaciones": [
+   "No le corresponde: la mesa propone calificar una oferta como anormalmente baja, pero el rechazo lo acuerda el órgano de contratación (art. 326.2.c).",
+   "Sí le corresponde: calificar la documentación de requisitos previos (art. 326.2.a).",
+   "Sí le corresponde: valorar las proposiciones (art. 326.2.b).",
+   "Sí le corresponde: proponer la adjudicación al licitador de la mejor oferta (art. 326.2.d)."
+  ]
+ },
+ "pr-52-009": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.5",
+  "correcta": 2,
+  "justificaciones": [
+   "Es cierta: los miembros los nombra el órgano de contratación (art. 326.4).",
+   "Es cierta: la composición se publica en el perfil de contratante (art. 326.3).",
+   "Es la incorrecta: los interinos solo pueden formar parte si no hay funcionarios de carrera suficientemente cualificados, no por tener más cualificación (art. 326.5).",
+   "Es cierta: el personal eventual no puede formar parte ni emitir informes de valoración (art. 326.5)."
+  ]
+ },
+ "pr-52-010": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 327",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la proporción no es una cuarta parte.",
+   "No: es un tercio, pero participan con voz y voto, no solo con voz.",
+   "No: no es una cuarta parte.",
+   "Correcta: un tercio como mínimo de los componentes y participan con voz y voto (art. 327)."
+  ]
+ },
+ "pr-52-011": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 334.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no la aprueba la Junta Consultiva.",
+   "No: la Junta Consultiva no la aprueba, y el horizonte no es de cinco años.",
+   "Correcta: la aprueba la Oficina Independiente de Regulación y Supervisión de la Contratación, con horizonte de cuatro años (art. 334.1).",
+   "No: la aprueba la OIReScon, pero el horizonte es de cuatro años, no cinco."
+  ]
+ },
+ "pr-52-012": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el umbral de obras es que el precio de adjudicación exceda de 600.000 euros, y aquí 600.000 es el PBL.",
+   "Correcta: servicios con precio de adjudicación de 180.000, por encima de los 150.000 (art. 335.1).",
+   "No: en suministros se remite si el precio de adjudicación excede de 450.000, y 450.000 es el PBL.",
+   "No: en contratos administrativos especiales hay que exceder de 150.000, y 150.000 no lo excede."
+  ]
+ }
+}

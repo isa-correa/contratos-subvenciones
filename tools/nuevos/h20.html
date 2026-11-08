@@ -1,0 +1,27 @@
+<!doctype html><meta charset="utf-8"><link rel="stylesheet" href="base.css"><style>
+.fases{flex:0 0 auto;display:grid;grid-template-columns:repeat(5,1fr);gap:30px;margin-top:50px}
+.f{position:relative;border:2px solid var(--azul);background:var(--azul-suave);border-radius:14px;padding:16px 14px 16px;min-height:300px}
+.f:not(:last-child)::after{content:"";position:absolute;right:-26px;top:50%;margin-top:-10px;border:10px solid transparent;border-left:14px solid var(--azul);border-right:0}
+.f .num{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--azul);color:#fff;font-weight:700;font-size:20px;margin:-34px auto 8px;border:3px solid #fff}
+.f h3{text-align:center;font-size:19px;letter-spacing:0;margin-bottom:8px;color:var(--azul)}
+.f p{font-size:17px;text-align:center}
+.f.clave{background:var(--azul);color:#fff}.f.clave h3{color:#fff}.f.clave .num{background:#fff;color:var(--azul);border-color:var(--azul)}
+.nota{text-align:center;color:var(--gris);margin:34px 0 26px;font-size:17px}
+.ademas{border:2px dashed var(--azul-medio);border-radius:14px;padding:16px 26px;background:var(--gris-suave)}
+.ademas h4{font-size:18px;margin-bottom:8px}
+.ademas li{margin:6px 0 6px 20px;font-size:17px}
+</style><div class="hoja">
+<h1>Las cinco fases de un contrato</h1>
+<p class="sub">De la necesidad a la ejecución, y <b>qué se publica en cada fase</b></p>
+<div class="fases">
+ <div class="f"><div class="num">1</div><h3>NECESIDAD</h3><p>Memoria justificativa (informe de necesidad) + informe de insuficiencia de medios (solo servicios)</p></div>
+ <div class="f"><div class="num">2</div><h3>PREPARACIÓN</h3><p>Elección y justificación del procedimiento; pliegos (o documento equivalente); aprobación del expediente</p></div>
+ <div class="f clave"><div class="num">3</div><h3>ADJUDICACIÓN</h3><p>Anuncio de licitación → mesa de contratación → valoración de ofertas → resolución de adjudicación</p></div>
+ <div class="f"><div class="num">4</div><h3>FORMALIZACIÓN</h3><p>Espera de 15 días hábiles si cabe recurso especial; después, se firma el contrato</p></div>
+ <div class="f"><div class="num">5</div><h3>EJECUCIÓN</h3><p>El responsable del contrato supervisa; posibles modificaciones o incidencias</p></div>
+</div>
+<p class="nota">Todo lo que ocurre en estas cinco fases (salvo excepciones de confidencialidad) se refleja en el <b>perfil de contratante</b>.</p>
+<div class="ademas"><h4>Además, con independencia de la fase</h4><ul>
+<li><b>Anuncios:</b> información previa, licitación, adjudicación, formalización y modificación (con enlaces a BOE si es sector público estatal, y DOUE si es SARA).</li>
+<li><b>Contratos menores:</b> publicación trimestral agrupada (no uno a uno), con objeto, duración, importe de adjudicación y adjudicatario.</li></ul></div>
+<div class="pie">1 / 1</div></div>

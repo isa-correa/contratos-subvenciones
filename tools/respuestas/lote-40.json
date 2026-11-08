@@ -1,0 +1,556 @@
+{
+ "pr-37-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 173, 174 y 175",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera: si se limita el número de invitados, el mínimo es de tres (art. 174.2).",
+   "Es verdadera: las necesidades y requisitos se definen en el anuncio o en un documento descriptivo (art. 174.1).",
+   "Es verdadera: el documento descriptivo puede fijar primas o compensaciones para todos o algunos participantes (art. 173.1).",
+   "Es la falsa: la oferta final se basa en la solución o soluciones viables del propio participante, y no puede apoyarse en las de otros (arts. 175.2 y 175.5)."
+  ]
+ },
+ "pr-37-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 177 a 179",
+  "correcta": 3,
+  "justificaciones": [
+   "Es característica: solo presentan proyectos los seleccionados tras la solicitud de participación.",
+   "Es característica: los proyectos se negocian y se mejoran con ofertas ulteriores hasta la definitiva.",
+   "Es característica: la asociación se estructura en fases sucesivas siguiendo el proceso de investigación e innovación.",
+   "No es característica: tras la fase de investigación el órgano de contratación puede adquirir los suministros resultantes, pero no está obligado a ello."
+  ],
+  "revisar": "La respuesta se apoya en la regulación general de la asociación para la innovación (art. 177 y siguientes). Confirma el verbo exacto con tu texto legal."
+ },
+ "pr-38-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 101, 135 y 20.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el contrato es armonizado, y se publica además en el BOE y en el DOUE.",
+   "No: al ser armonizado hay que publicar también en el DOUE.",
+   "No: el organismo autónomo forma parte de la AGE y se publica además en el BOE.",
+   "Correcta: el valor estimado es 5.000.000 más el 20 % de modificaciones, 6.000.000 de euros, que supera 5.404.000. Al ser armonizado y de un organismo autónomo estatal, se publica en perfil, BOE y DOUE."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-38-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: veinte días es el plazo del simplificado.",
+   "No: veintiséis días es el de obras no armonizadas.",
+   "No: treinta días es el de las concesiones armonizadas.",
+   "Correcta: obras armonizadas: el plazo mínimo es de 35 días desde el envío del anuncio al DOUE (art. 156.2)."
+  ]
+ },
+ "pr-38-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el anuncio de información previa reduce el plazo a quince días, no a veinte.",
+   "No: la urgencia permite un plazo no inferior a quince días, que no son hábiles.",
+   "Correcta: si se aceptan ofertas por medios electrónicos, el plazo general se reduce en cinco días (art. 156.3.c).",
+   "No: en los armonizados sí caben reducciones, que son las del art. 156.3."
+  ]
+ },
+ "pr-38-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la documentación de requisitos previos va en sobre distinto del de la proposición.",
+   "Correcta: con el precio como único criterio hay dos sobres: requisitos previos y proposición (art. 157.1).",
+   "No: tres sobres solo se usan con criterios de juicio de valor y de fórmulas.",
+   "No: no hay juicio de valor, y la proposición va en un solo sobre."
+  ]
+ },
+ "pr-38-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: diez días no es el plazo del art. 157.3.",
+   "No: quince días es el plazo de adjudicación con precio único.",
+   "Correcta: la apertura debe efectuarse en veinte días desde el fin del plazo de presentación (art. 157.3).",
+   "No: dos meses es el plazo de adjudicación con varios criterios."
+  ]
+ },
+ "pr-38-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la documentación de requisitos previos la califica la mesa en sesión no pública.",
+   "Correcta: sin medios electrónicos, la apertura de la oferta económica se realiza en acto público (art. 157.4).",
+   "No: solo se abre en acto público la oferta económica.",
+   "No: aunque el precio sea el único criterio, la oferta económica se abre en acto público si no hay medios electrónicos."
+  ]
+ },
+ "pr-38-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: dos meses es el plazo cuando hay varios criterios.",
+   "No: dos meses desde la apertura es para varios criterios.",
+   "No: se cuenta desde el siguiente a la apertura, no desde el fin de la presentación.",
+   "Correcta: con el precio como único criterio, la adjudicación recae en quince días desde el siguiente a la apertura de las proposiciones (art. 158.1)."
+  ]
+ },
+ "pr-38-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el licitador con la mejor oferta tiene diez días hábiles desde el día siguiente a recibir el requerimiento (art. 150.2).",
+   "No: no son diez días naturales, son hábiles.",
+   "No: siete días hábiles es el plazo del simplificado (art. 159.4).",
+   "No: siete días naturales no es plazo de la ley."
+  ]
+ },
+ "pr-38-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si no cumple el requerimiento, se le exige el 3 % del presupuesto base de licitación, IVA excluido (art. 150.2).",
+   "No: la base es el presupuesto base de licitación, no el importe de adjudicación.",
+   "No: el porcentaje es del 3 %, no del 5 %.",
+   "No: ni el porcentaje ni la base son los de la ley."
+  ]
+ },
+ "pr-38-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: son cinco días hábiles, no naturales.",
+   "Correcta: el órgano de contratación adjudica en cinco días hábiles desde recibir la documentación (art. 150.3).",
+   "No: diez días hábiles es el plazo del licitador para aportar la documentación.",
+   "No: quince días es el plazo de publicación de la adjudicación."
+  ]
+ },
+ "pr-38-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 151.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la adjudicación, además de notificarse, se publica en el perfil de contratante.",
+   "No: la adjudicación no se publica en el BOE, se publica en el perfil.",
+   "No: el plazo no es de diez días.",
+   "Correcta: la adjudicación debe publicarse en el perfil de contratante en el plazo de quince días (art. 151.1)."
+  ]
+ },
+ "pr-38-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: diez días no es el plazo del art. 153.3.",
+   "No: no son quince días a secas, son hábiles.",
+   "Correcta: el contrato es susceptible de recurso especial, y no puede formalizarse antes de que transcurran quince días hábiles desde la notificación (art. 153.3).",
+   "No: no más tarde de quince días hábiles es la regla de los contratos sin recurso especial."
+  ]
+ },
+ "pr-38-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 153.4 y 71.2.b",
+  "correcta": 3,
+  "justificaciones": [
+   "Es consecuencia: el contrato se adjudica al siguiente licitador por orden de clasificación (art. 153.4).",
+   "Es consecuencia: se exige el 3 % del presupuesto base de licitación, IVA excluido (art. 153.4).",
+   "Es consecuencia: el art. 153.4 remite a la prohibición de contratar del art. 71.2.b.",
+   "No es consecuencia: el contrato aún no se ha formalizado, así que no hay resolución de contrato ni incautación de la garantía, solo la penalidad."
+  ]
+ },
+ "pr-38-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 154.1 y 154.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: además del perfil, se publica en el BOE y en el DOUE.",
+   "No: el DOUE no es potestativo en un contrato armonizado.",
+   "Correcta: contrato armonizado de un organismo autónomo estatal: el anuncio de formalización se publica en perfil, BOE y DOUE (art. 154).",
+   "No: la formalización sí se publica."
+  ]
+ },
+ "pr-38-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el valor estimado (50.000 más 20 % de modificaciones, 60.000 euros) es inferior a 140.000 y el juicio de valor es del 20 %, por debajo del 25 % (art. 159.1).",
+   "No: 60.000 euros es el umbral del supersimplificado, no del simplificado ordinario.",
+   "No: se admite el juicio de valor si no pasa del 25 %.",
+   "No: las modificaciones previstas se suman al valor estimado, pero no impiden usar el procedimiento."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-38-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: el anuncio se publica solo en el perfil de contratante (art. 159.2).",
+   "Es correcta: el plazo no será inferior a quince días (art. 159.3).",
+   "Es la incorrecta: hay criterios de juicio de valor, así que la oferta se presenta en dos sobres (art. 159.4.d).",
+   "Es correcta: las proposiciones se presentan en el registro del anuncio (art. 159.4.c)."
+  ]
+ },
+ "pr-38-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6 y 101",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el valor estimado, con las modificaciones previstas, es de 60.000 euros y el límite exige que sea inferior.",
+   "Correcta: el valor estimado (50.000 más 20 % de modificaciones) son 60.000 euros, y el supersimplificado exige menos de 60.000 euros.",
+   "No: no se exige que el precio sea el único criterio, sino que todos sean de fórmulas.",
+   "No: las modificaciones no impiden usar el procedimiento, pero sí cuentan para el valor estimado."
+  ]
+ },
+ "pr-38-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el supersimplificado no admite ningún criterio de juicio de valor.",
+   "No: el 25 % es el límite del simplificado ordinario.",
+   "No: el 45 % es del simplificado ordinario en servicios intelectuales.",
+   "Correcta: en el supersimplificado todos los criterios deben ser evaluables mediante fórmulas (art. 159.6.c)."
+  ]
+ },
+ "pr-38-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: la oferta se entrega en un único sobre (art. 159.6.c).",
+   "Es correcta: no procede la garantía provisional (art. 159.4.b).",
+   "Es correcta: no se requiere garantía definitiva (art. 159.6.f).",
+   "Es la incorrecta: el plazo mínimo del supersimplificado es de diez días hábiles, no de quince días (art. 159.6.a)."
+  ]
+ },
+ "pr-38-020": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 29.8 y 118.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: aunque el valor es de 12.000 euros, la prórroga lo impide.",
+   "No: no puede tramitarse como menor, y el simplificado ordinario no es la solución.",
+   "No: el contrato no cumple los requisitos del menor.",
+   "Correcta: el valor estimado es inferior a 15.000 euros, pero el contrato tiene prórroga y los menores no pueden prorrogarse (art. 29.8)."
+  ]
+ },
+ "pr-39-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 159.1 y 159.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 99.000 euros supera los 15.000 de los contratos menores en servicios.",
+   "No: el supersimplificado exige un valor estimado inferior a 60.000 euros.",
+   "Correcta: servicio de menos de 140.000 euros, con precio como único criterio, admite el simplificado, que es el más ágil posible (art. 159.1).",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-39-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 101, 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 16.457 euros con IVA son unos 13.600 euros sin IVA, y el valor estimado se calcula sin IVA. Es inferior a 15.000, así que cabe el contrato menor.",
+   "No: es posible pero menos ágil que el menor.",
+   "No: es posible pero menos ágil que el menor.",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "ojo": "Es la trampa del IVA: el límite de 15.000 euros se compara con el valor estimado, que no incluye IVA."
+ },
+ "pr-39-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 29.8, 118.1 y 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: tiene prórroga, y los contratos menores no pueden prorrogarse (art. 29.8).",
+   "Correcta: servicio de menos de 60.000 euros con criterios todos de fórmulas (precio y plazo de respuesta): supersimplificado (art. 159.6).",
+   "No: el simplificado es más lento que el supersimplificado.",
+   "No: el abierto ordinario es el menos ágil."
+  ]
+ },
+ "pr-39-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 110.000 euros supera los 15.000 de los menores.",
+   "No: el supersimplificado exige menos de 60.000 euros.",
+   "Correcta: suministro de menos de 140.000 euros, sin juicio de valor: simplificado (art. 159.1).",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-39-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 118.1 y 159.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 20.000 euros supera los 15.000 de los contratos menores.",
+   "No: el supersimplificado no admite juicio de valor.",
+   "No: el juicio de valor del 35 % supera el límite del 25 % del simplificado.",
+   "Correcta: con un 35 % de juicio de valor no cabe ninguna modalidad simplificada, y queda el abierto ordinario (art. 159.1.b)."
+  ]
+ },
+ "pr-40-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: obras de menos de 40.000 euros y duración de dos meses: contrato menor (art. 118.1).",
+   "No: el contrato menor es más ágil.",
+   "No: el contrato menor es más ágil.",
+   "No: el abierto ordinario es el menos ágil."
+  ]
+ },
+ "pr-40-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 26.457 euros supera los 15.000 de los contratos menores en servicios.",
+   "No: el supersimplificado no admite juicio de valor.",
+   "Correcta: servicio de menos de 140.000 euros con un 20 % de juicio de valor (hasta el 25 %): simplificado (art. 159.1).",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-40-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 29.8 y 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: tiene prórroga, y los contratos menores no pueden prorrogarse (art. 29.8).",
+   "Correcta: servicio de menos de 60.000 euros y sin juicio de valor: supersimplificado (art. 159.6).",
+   "No: el simplificado es más lento que el supersimplificado.",
+   "No: el abierto ordinario es el menos ágil."
+  ]
+ },
+ "pr-40-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 50.000 euros supera los 15.000 de los contratos menores en suministros.",
+   "Correcta: suministro de menos de 60.000 euros con criterios de precio y plazo de entrega, ambos de fórmulas: supersimplificado (art. 159.6).",
+   "No: el simplificado es más lento que el supersimplificado.",
+   "No: el abierto ordinario es el menos ágil."
+  ]
+ },
+ "pr-40-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 101, 22.1.a y 159.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 70.000 euros al año supera los 15.000 de los menores.",
+   "No: el supersimplificado exige menos de 60.000 euros.",
+   "No: el valor estimado incluye la prórroga: 70.000 por dos años son 140.000 euros, y el simplificado exige menos de 140.000.",
+   "Correcta: con 140.000 euros de valor estimado el contrato es armonizado para la AGE, así que solo procede el abierto ordinario."
+  ],
+  "ojo": "La trampa es que el presupuesto base de licitación no incluye la prórroga y el valor estimado sí. Por eso el valor llega a 140.000.",
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-42-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: servicio de 14.875 euros, inferior a 15.000: contrato menor (art. 118.1).",
+   "No: el contrato menor es más ágil.",
+   "No: el contrato menor es más ágil.",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "ojo": "Se supone que el contrato no tiene prórroga y dura menos de un año."
+ },
+ "pr-42-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 52.954 euros supera los 15.000 de los menores.",
+   "No: el supersimplificado no admite el 15 % de juicio de valor.",
+   "Correcta: suministro de menos de 140.000 euros con un 15 % de juicio de valor: simplificado (art. 159.1).",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-42-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 38.246,28 euros supera los 15.000 de los menores.",
+   "Correcta: suministro de menos de 60.000 euros con criterios todos de fórmulas: supersimplificado (art. 159.6).",
+   "No: el simplificado es más lento.",
+   "No: el abierto ordinario es el menos ágil."
+  ]
+ },
+ "pr-42-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 118.1 y 159.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 80.000 euros supera los 40.000 de los menores en obras.",
+   "No: el supersimplificado exige menos de 80.000 euros, y 80.000 no lo es.",
+   "Correcta: obras de hasta 2.000.000 de euros con precio único: simplificado (art. 159.1).",
+   "No: el abierto ordinario es el menos ágil."
+  ]
+ },
+ "pr-42-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 159.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 98.000 euros supera los 15.000 de los menores.",
+   "No: el supersimplificado excluye los servicios intelectuales, como el proyecto de arquitectura.",
+   "Correcta: servicio intelectual de menos de 140.000 euros con un 35 % de juicio de valor (hasta el 45 %): simplificado (art. 159.1.b).",
+   "No: el abierto ordinario es el menos ágil."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-42-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 118.1, 159.1, 22.1 y 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 17.000 euros supera los 15.000 de los contratos menores en servicios.",
+   "Correcta: con un 10 % de juicio de valor y menos de 140.000 euros, cabe el simplificado (art. 159.1).",
+   "No: la regulación armonizada empieza en 140.000 euros para la AGE y en 216.000 para el resto (art. 22.1).",
+   "No: el supersimplificado no admite criterios de juicio de valor."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-42-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 59.000 euros supera los 15.000 de los menores en suministros.",
+   "No: el supersimplificado exige criterios todos de fórmulas, y aquí hay un 20 % de juicio de valor.",
+   "Correcta: suministro de menos de 140.000 euros con un 20 % de juicio de valor: cabe el simplificado (art. 159.1).",
+   "No: no es obligatorio el abierto ordinario, porque cabe el simplificado."
+  ]
+ },
+ "pr-42-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: las obras con 100.000 euros superan los 80.000 del supersimplificado.",
+   "Correcta: servicio de menos de 60.000 euros con criterios de fórmulas: cabe el supersimplificado (art. 159.6).",
+   "No: el 25 % de juicio de valor impide el supersimplificado.",
+   "No: 80.000 euros supera los 60.000 de los servicios en el supersimplificado."
+  ]
+ },
+ "pr-41-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la inscripción obligatoria en el registro oficial se exige a todo simplificado (art. 159.4.a), también al abreviado.",
+   "No: no es exclusiva del abreviado.",
+   "No: sí es una especialidad del simplificado."
+  ]
+ },
+ "pr-41-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: presentar las proposiciones solo en el registro indicado es especialidad de todo simplificado (art. 159.4.c).",
+   "No: no es exclusiva del abreviado.",
+   "No: sí es una especialidad del simplificado."
+  ]
+ },
+ "pr-41-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.f",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la garantía definitiva sí se exige en el simplificado ordinario.",
+   "Correcta: no requerir garantía definitiva es solo del abreviado (art. 159.6.f).",
+   "No: sí es una especialidad, pero del abreviado."
+  ]
+ },
+ "pr-41-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 153 y 159.6.g",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el simplificado ordinario sí se formaliza.",
+   "No: tampoco el abreviado queda sin formalización: se formaliza con la firma de aceptación de la resolución (art. 159.6.g).",
+   "Correcta: la formalización nunca se suprime, así que no es especialidad de ninguno."
+  ]
+ },
+ "pr-41-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el simplificado ordinario exige acreditar solvencia.",
+   "Correcta: eximir de la solvencia es solo del abreviado (art. 159.6.b).",
+   "No: sí es una especialidad, pero del abreviado."
+  ]
+ },
+ "pr-41-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la garantía provisional no procede en ningún simplificado (art. 159.4.b).",
+   "No: no es exclusiva del abreviado.",
+   "No: sí es una especialidad del simplificado."
+  ]
+ },
+ "pr-41-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 116.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no se puede prescindir del expediente en ningún simplificado.",
+   "No: tampoco en el abreviado.",
+   "Correcta: prescindir del expediente solo es posible en la emergencia (art. 120), no en estos procedimientos."
+  ]
+ },
+ "pr-41-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.g",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el simplificado ordinario se formaliza de la forma habitual.",
+   "Correcta: formalizar con la firma de aceptación de la resolución es solo del abreviado (art. 159.6.g).",
+   "No: sí es una especialidad, pero del abreviado."
+  ]
+ },
+ "pr-41-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo general del simplificado es de quince días naturales (veinte en obras).",
+   "Correcta: los diez días hábiles son del abreviado (art. 159.6.a), con cinco días hábiles en compras corrientes.",
+   "No: sí es una especialidad, pero del abreviado."
+  ]
+ },
+ "pr-41-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: en el simplificado ordinario son dos sobres si hay juicio de valor (art. 159.4.d).",
+   "Correcta: el único sobre en todo caso, con criterios solo de fórmulas, es del abreviado (art. 159.6.c).",
+   "No: sí es una especialidad, pero del abreviado."
+  ],
+  "ojo": "El simplificado ordinario también puede usar un solo sobre cuando no tiene juicio de valor, pero solo en el abreviado es obligatorio en todo caso."
+ }
+}

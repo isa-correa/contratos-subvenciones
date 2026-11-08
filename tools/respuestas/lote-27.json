@@ -1,0 +1,552 @@
+{
+ "vo-12-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se cuenta desde el siguiente a la recepción del requerimiento, no desde el envío (**art. 150.2**).",
+   "No. El plazo es de diez días hábiles, no quince (**art. 150.2**).",
+   "Es esta. Diez días hábiles desde el siguiente a la recepción del requerimiento (**art. 150.2**).",
+   "No. El plazo es de diez días hábiles, no siete (**art. 150.2**)."
+  ]
+ },
+ "vo-12-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cinco días hábiles siguientes a la recepción de la documentación (**art. 150.3**).",
+   "No. Son cinco días hábiles, no diez (**art. 150.3**).",
+   "No. Se cuenta desde la recepción de la documentación, no desde el requerimiento (**art. 150.3**).",
+   "No. Son cinco días hábiles desde la recepción, no diez desde el requerimiento (**art. 150.3**)."
+  ]
+ },
+ "vo-12-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 151.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es la resolución de adjudicación, y se notifica a candidatos y licitadores sin condición de solicitud (**art. 151.1**).",
+   "Es esta. Motivada, notificada a candidatos y licitadores y publicada en el perfil en 15 días (**art. 151.1**).",
+   "No. Se notifica también a los candidatos sin que lo pidan, y el plazo es de 15 días (**art. 151.1**).",
+   "No. La publicación es obligatoria y el plazo es de 15 días (**art. 151.1**)."
+  ]
+ },
+ "vo-12-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El desistimiento no impide iniciar inmediatamente una nueva licitación (**art. 152.4**).",
+   "Es esta. Ambas decisiones pueden acordarse antes de la formalización (**art. 152.2**).",
+   "No. El interés público fundamenta la decisión de no adjudicar, no el desistimiento (**art. 152.3 y 4**).",
+   "No. La infracción no subsanable fundamenta el desistimiento, no la no adjudicación (**art. 152.3 y 4**)."
+  ]
+ },
+ "vo-12-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No antes de 15 días hábiles desde la remisión de la notificación de adjudicación (**art. 153.3**).",
+   "No. Los quince días son hábiles (**art. 153.3**).",
+   "No. Es un plazo de espera mínimo, no un plazo máximo (**art. 153.3**).",
+   "No. Es mínimo y hábil (**art. 153.3**)."
+  ]
+ },
+ "vo-12-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 154.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No superior a 15 días tras el perfeccionamiento (**art. 154.1**).",
+   "No. La ley fija un plazo de 15 días (**art. 154.1**).",
+   "No. El plazo es de 15 días, no de 10 (**art. 154.1**).",
+   "No. El plazo es de 15 días, no de 5 (**art. 154.1**)."
+  ]
+ },
+ "vo-12-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En obras SARA el plazo es de 35 días (**art. 156.2**).",
+   "No. En obras no armonizadas el mínimo es 26 días (**art. 156.6**).",
+   "No. Con ofertas electrónicas se reducen cinco días sobre el general (**art. 156.3.c**), y el general es de 35.",
+   "Es esta. 26 días como mínimo en obras no sujetas a regulación armonizada (**art. 156.6**)."
+  ]
+ },
+ "vo-12-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo máximo es de 20 días (**art. 157.3**).",
+   "No. Son 20 días, sin precisar hábiles (**art. 157.3**).",
+   "No. Dos meses es el plazo de adjudicación con varios criterios (**art. 158.2**).",
+   "Es esta. Veinte días desde la finalización del plazo de presentación (**art. 157.3**)."
+  ]
+ },
+ "vo-12-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Con único criterio de precio, la adjudicación recae en 15 días desde la apertura (**art. 158.1**).",
+   "No. Es el menor coste del ciclo de vida, no el mayor (**art. 158.2**).",
+   "No. Con único criterio de precio el plazo es de 15 días, no 2 meses (**art. 158.1**).",
+   "No. Con pluralidad de criterios es de dos meses, no 15 días (**art. 158.2**)."
+  ]
+ },
+ "vo-12-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No supera el 25 por ciento, salvo prestaciones intelectuales (45 por ciento) (**art. 159.1.b**).",
+   "No. No puede superar el 25 por ciento en general (**art. 159.1.b**).",
+   "No. En prestaciones intelectuales el tope es del 45 por ciento (**art. 159.1.b**).",
+   "No. No existe un tope del 35 por ciento (**art. 159.1.b**)."
+  ]
+ },
+ "vo-12-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Obras con valor estimado hasta 2.000.000 de euros (**art. 159.1.a**).",
+   "No. El tope en obras es 2.000.000 (**art. 159.1.a**).",
+   "No. El tope en obras es 2.000.000 (**art. 159.1.a**).",
+   "No. El tope en obras es 2.000.000 (**art. 159.1.a**)."
+  ]
+ },
+ "vo-12-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Veinte días es el mínimo del simplificado ordinario en obras (**art. 159.3**), pero hay uno más ágil.",
+   "Es esta. Obras bajo 80.000 euros pueden tramitarse por el sumario, con 10 días hábiles (**art. 159.6.a**).",
+   "No. Quince días es el simplificado ordinario en suministros y servicios (**art. 159.3**).",
+   "No. Es el mismo caso, y además no es el más ágil (**art. 159.3**)."
+  ]
+ },
+ "vo-12-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Esa especialidad es del sumario, y en el 159.4.b lo que no procede es la garantía provisional (**art. 159.6.f**).",
+   "Es esta. Las proposiciones se presentan necesaria y únicamente en el registro del anuncio (**art. 159.4.c**).",
+   "No. Eximir de solvencia es del sumario (**art. 159.6.b**).",
+   "No. La formalización por firma de aceptación es del sumario (**art. 159.6.g**)."
+  ]
+ },
+ "vo-12-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 160",
+  "correcta": 3,
+  "justificaciones": [
+   "Es cierta. Está prohibida toda negociación (**art. 160.3**).",
+   "Es cierta. Es especialmente adecuado para servicios intelectuales complejos (**art. 160.4**).",
+   "Es cierta. Solo presentan proposiciones los seleccionados (**art. 160.2**).",
+   "Es esta. Las tres son ciertas (**art. 160**)."
+  ]
+ },
+ "vo-12-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 161.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El mínimo es de quince días, no treinta (**art. 161.3**).",
+   "No. Es un mínimo, no un máximo (**art. 161.3**).",
+   "No. Es un mínimo de quince días, no un máximo de treinta (**art. 161.3**).",
+   "Es esta. Mínimo de quince días desde la publicación (**art. 161.3**)."
+  ]
+ },
+ "vo-12-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 162.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No inferior a cinco (**art. 162.2**).",
+   "No. El mínimo es cinco, no tres (**art. 162.2**).",
+   "No. Es un mínimo, no un máximo (**art. 162.2**).",
+   "No. Es un mínimo de cinco, no un máximo de tres (**art. 162.2**)."
+  ]
+ },
+ "vo-12-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 166.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Eso es el procedimiento abierto (**art. 156.1**).",
+   "No. Eso es el procedimiento restringido (**art. 160.1**).",
+   "Es esta. La adjudicación recae en el licitador elegido tras negociar con uno o varios candidatos (**art. 166.1**).",
+   "No. Eso es el diálogo competitivo (**art. 172.1**)."
+  ]
+ },
+ "vo-12-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 167 y 168",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que NO. Contrato secreto o reservado es supuesto del negociado sin publicidad (**art. 168.a.3.º**).",
+   "Sí es supuesto. Proyecto o soluciones innovadoras (**art. 167.b**).",
+   "Sí es supuesto. No poder fijar con precisión las especificaciones técnicas (**art. 167.d**).",
+   "Sí es supuesto. Negociaciones previas necesarias por la naturaleza, complejidad o riesgos (**art. 167.c**)."
+  ]
+ },
+ "vo-12-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 169.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Redactada al revés: sí dice 'se negociarán' los requisitos, pero la ley prohíbe negociarlos (**art. 169.5**).",
+   "No. Tampoco se negocian los criterios de adjudicación (**art. 169.5**).",
+   "Es esta. No se negocian los requisitos mínimos ni los criterios de adjudicación (**art. 169.5**).",
+   "No. No se negocian los requisitos mínimos (**art. 169.5**)."
+  ]
+ },
+ "vo-12-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 174.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es cierto. El documento descriptivo puede establecer primas (**art. 173.1**).",
+   "Es cierto. Se usa en los mismos casos que la licitación con negociación (**art. 172.3**).",
+   "Es cierto. La mesa especial dirige el diálogo (**art. 172.1**).",
+   "Es la incorrecta. El número mínimo de candidatos es tres, no cinco (**art. 174.2**)."
+  ]
+ },
+ "vo-12-022": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 174.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El mínimo es tres (**art. 174.2**).",
+   "Es esta. Tres (**art. 174.2**).",
+   "No. Cinco es el mínimo del procedimiento restringido (**art. 162.2**).",
+   "No. El mínimo es tres (**art. 174.2**)."
+  ]
+ },
+ "vo-12-023": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 179.3",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta. La resolución o reducción de candidatos no da lugar a indemnización (**art. 179**).",
+   "Es correcta. Prestaciones sucesivas, máximo cuatro años (**art. 179.3**).",
+   "Es correcta. El plazo de solicitudes SARA es de treinta días (**art. 178.2**).",
+   "Es la incorrecta. No se negocian los requisitos mínimos ni los criterios de adjudicación (**art. 179**)."
+  ]
+ },
+ "vo-12-024": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 178.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Treinta días desde el envío del anuncio, en contratos de regulación armonizada (**art. 178.2**).",
+   "No. Son treinta días (**art. 178.2**).",
+   "No. Veinte días es el mínimo si no es SARA (**art. 178.2**).",
+   "No. Son treinta días (**art. 178.2**)."
+  ]
+ },
+ "vo-13-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 188",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La regulación armonizada no excluye la ley española (**art. 188**).",
+   "No. No se rigen exclusivamente por el Código Civil (**art. 188**).",
+   "Es esta. Las normas del art. 25.2 y los pliegos administrativos y técnicos (**art. 188**).",
+   "No. No solo por los pliegos: también las normas del art. 25.2 (**art. 188**)."
+  ]
+ },
+ "vo-13-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 190",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es prerrogativa. Interpretar los contratos (**art. 190**).",
+   "Sí es prerrogativa. Modificarlos por interés público (**art. 190**).",
+   "Sí es prerrogativa. Suspender la ejecución (**art. 190**).",
+   "Es la que NO. Las facultades de inspección no implican un derecho general a inspeccionar las instalaciones del contratista (**art. 190**)."
+  ]
+ },
+ "vo-13-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El umbral es 50.000 euros, no 40.000 (**art. 191.3.c**).",
+   "No. El umbral de precio es 6.000.000, no 8.000.000 (**art. 191.3.b**).",
+   "No. El umbral es 50.000 euros, no 30.050 (**art. 191.3.c**).",
+   "Es esta. Modificaciones no previstas que superen el 20 por ciento y un precio igual o superior a 6.000.000 de euros (**art. 191.3.b**)."
+  ]
+ },
+ "vo-13-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Está al revés (**art. 192.1**).",
+   "No. Cada una no supera el 10 por ciento (**art. 192.1**).",
+   "No. El total no supera el 50 por ciento (**art. 192.1**).",
+   "Es esta. Cada una hasta el 10 por ciento del precio sin IVA, y el total hasta el 50 por ciento (**art. 192.1**)."
+  ]
+ },
+ "vo-13-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Resolver o imponer penalidades diarias de 0,60 euros por cada 1.000 euros del precio, IVA excluido (**art. 193.3**).",
+   "No. La proporción es 0,60, no 0,45 (**art. 193.3**).",
+   "No. No es obligada la resolución: es una opción (**art. 193.3**).",
+   "No. La resolución no es obligada y las penalidades son diarias (**art. 193.3**)."
+  ]
+ },
+ "vo-13-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 196.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es dentro del año (**art. 196.3**).",
+   "No. Es dentro del año (**art. 196.3**).",
+   "Es esta. Dentro del año siguiente a la producción del hecho (**art. 196.3**).",
+   "No. Es dentro del año (**art. 196.3**)."
+  ]
+ },
+ "vo-13-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Treinta días desde la aprobación de las certificaciones o documentos de conformidad (**art. 198.4**).",
+   "No. El plazo es de treinta días y se cuenta desde la aprobación, no la factura (**art. 198.4**).",
+   "No. Son treinta días, no sesenta (**art. 198.4**).",
+   "No. El plazo es de treinta días desde la aprobación, no desde la factura (**art. 198.4**)."
+  ]
+ },
+ "vo-13-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Debe ser superior a cuatro meses (**art. 198.5**).",
+   "Es esta. Más de cuatro meses de demora y aviso con un mes de antelación (**art. 198.5**).",
+   "No. Seis meses da derecho a resolver (**art. 198.6**).",
+   "No. Seis meses da derecho a resolver, no a suspender (**art. 198.6**)."
+  ]
+ },
+ "vo-13-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 202.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Es requisito. Estar vinculadas al objeto del contrato (**art. 202.1**).",
+   "Es requisito. No ser discriminatorias (**art. 202.1**).",
+   "Es requisito. Ser compatibles con el Derecho de la Unión (**art. 202.1**).",
+   "Es la incorrecta. Se indican en el anuncio de licitación y en los pliegos, no en el anuncio de información previa (**art. 202.1**)."
+  ]
+ },
+ "vo-13-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El máximo es el 20 por ciento (**art. 204.1**).",
+   "No. El máximo es el 20 por ciento (**art. 204.1**).",
+   "Es esta. Hasta el 20 por ciento del precio inicial (**art. 204.1**).",
+   "No. El 50 por ciento es el tope de las modificaciones no previstas (**art. 205**)."
+  ]
+ },
+ "vo-13-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En suministros el umbral es el 10 por ciento, no el 5 (**art. 205.2.c**).",
+   "No. En suministros es el 10 por ciento, pero sin IVA (**art. 205.2.c**).",
+   "Es esta. En obras, más del 15 por ciento del precio inicial, IVA excluido (**art. 205.2.c**).",
+   "No. Se calcula sin IVA (**art. 205.2.c**)."
+  ]
+ },
+ "vo-13-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.2.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es un año (**art. 208.2.c**).",
+   "No. Es un año, pero prescribe, no caduca (**art. 208.2.c**).",
+   "No. Es un año y prescribe (**art. 208.2.c**).",
+   "Es esta. Prescribe en un año (**art. 208.2.c**)."
+  ]
+ },
+ "vo-13-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Treinta días desde la fecha del acta de recepción o conformidad (**art. 210.4**).",
+   "No. Se cuenta desde el acta, no desde el fin del plazo de garantía (**art. 210.4**).",
+   "No. La ley dice treinta días, no un mes (**art. 210.4**).",
+   "No. Se cuenta desde el acta de recepción, no desde la entrega (**art. 210.4**)."
+  ]
+ },
+ "vo-13-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El cumplimiento extingue el contrato, no es causa de resolución (**art. 210**).",
+   "No. La demora de la Administración es causa solo si supera lo que fija el art. 198 (**art. 211.1.e**).",
+   "No. Hace falta incumplimiento de la obligación principal, no cualquier accesoria (**art. 211.1.f**).",
+   "Es esta. El mutuo acuerdo entre la Administración y el contratista (**art. 211.1.c**)."
+  ]
+ },
+ "vo-13-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 212.8",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo es de ocho meses (**art. 212.8**).",
+   "No. El plazo es de ocho meses (**art. 212.8**).",
+   "No. El plazo es de ocho meses (**art. 212.8**).",
+   "Es esta. Ocho meses (**art. 212.8**)."
+  ]
+ },
+ "vo-13-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Debe haber ejecutado al menos el 20 por ciento (**art. 214.2.b**).",
+   "No. Debe haber ejecutado al menos el 20 por ciento (**art. 214.2.b**).",
+   "Es esta. Al menos el 20 por ciento del importe del contrato (**art. 214.2.b**).",
+   "No. El requisito es el 20 por ciento (**art. 214.2.b**)."
+  ]
+ },
+ "vo-13-017": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 215.4",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta. Si el pliego lo prevé, el licitador indica la parte a subcontratar (**art. 215.2.a**).",
+   "Es correcta. El contratista comunica por escrito su intención de subcontratar (**art. 215.2.b**).",
+   "Es correcta. En contratos secretos o reservados se exige autorización expresa (**art. 215.2.d**).",
+   "Es la incorrecta. Los subcontratistas quedan obligados solo ante el contratista principal (**art. 215.4**)."
+  ]
+ },
+ "vo-13-018": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La cesión se formaliza entre cedente y cesionario, en escritura pública (**art. 214.2.d**).",
+   "No. La autorización es previa y expresa, no 'previa o simultánea' (**art. 214.2.a**).",
+   "Es esta. El cesionario debe tener capacidad para contratar con la Administración (**art. 214.2.c**).",
+   "No. En concesiones es una quinta parte del plazo, no un tercio (**art. 214.2.b**)."
+  ]
+ },
+ "vo-13-019": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta. El acuerdo marco no puede exceder de cuatro años, no cinco (**art. 219.2**).",
+   "Es correcta. La duración del basado es independiente del acuerdo marco (**art. 219.3**).",
+   "Es correcta. Durante la vigencia del acuerdo, que no excede de cuatro años salvo excepción (**art. 219.2 y 3**).",
+   "Es correcta. Solo entre las partes originarias del acuerdo marco (**art. 221**)."
+  ]
+ },
+ "vo-13-020": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 223.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es cierto. Duración limitada y determinada en los pliegos (**art. 223.2**).",
+   "Es cierto. Abierto toda su vigencia a cualquier empresa que cumpla los criterios (**art. 223.2**).",
+   "Es cierto. Es un proceso totalmente electrónico (**art. 223.2**).",
+   "Es la incorrecta. La duración no es ilimitada, es limitada y determinada (**art. 223.2**)."
+  ]
+ },
+ "vo-13-021": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es el Ministerio, sino su titular (**art. 229.1**).",
+   "No. La Junta es el órgano de contratación del sistema, no quien declara (**art. 229.5**).",
+   "Es esta. El Ministro de Hacienda y Función Pública (**art. 229.1**).",
+   "No. No lo declara el Consejo de Ministros (**art. 229.1**)."
+  ]
+ },
+ "vo-14-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 231.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Elaboración, supervisión, aprobación y replanteo del proyecto (**art. 231.1**).",
+   "No. Faltan supervisión, aprobación y replanteo (**art. 231.1**).",
+   "No. Faltan aprobación y replanteo (**art. 231.1**).",
+   "No. Falta el replanteo (**art. 231.1**)."
+  ]
+ },
+ "vo-14-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El umbral es igual o superior a 500.000 y sin IVA (**art. 235**).",
+   "No. Es igual o superior, no solo igual (**art. 235**).",
+   "Es esta. Presupuesto base de licitación igual o superior a 500.000 euros, IVA excluido (**art. 235**).",
+   "No. Se calcula sin IVA (**art. 235**)."
+  ]
+ },
+ "vo-14-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Eso es la comprobación del replanteo (**art. 237**).",
+   "Es esta. Aprobado el proyecto y antes de aprobar el expediente de contratación (**art. 236.1**).",
+   "No. Ese plazo no está en el art. 236 (**art. 236**).",
+   "No. La A es del art. 237 y la C no existe (**arts. 236 y 237**)."
+  ]
+ },
+ "vo-14-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La adjudicación no inicia la ejecución (**art. 237**).",
+   "No. Replanteo y aprobación del proyecto son previos (**art. 236**).",
+   "No. La firma del contrato no inicia la ejecución (**art. 237**).",
+   "Es esta. El acta de comprobación del replanteo (**art. 237**)."
+  ]
+ },
+ "vo-14-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 238.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se fija un mes (**art. 238.2**).",
+   "No. Para ser vinculantes sí deben ratificarse (**art. 238.2**).",
+   "No. No se fija un plazo de diez días (**art. 238.2**).",
+   "Es esta. Ratificadas por escrito en el más breve plazo posible (**art. 238.2**)."
+  ]
+ },
+ "vo-14-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 240.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Administración las expide mensualmente, en los diez primeros días del mes siguiente (**art. 240.1**).",
+   "No. Las expide la Administración, no el contratista, y en diez días (**art. 240.1**).",
+   "No. Las expide la Administración, no el contratista (**art. 240.1**).",
+   "No. No depende del valor estimado (**art. 240.1**)."
+  ]
+ }
+}

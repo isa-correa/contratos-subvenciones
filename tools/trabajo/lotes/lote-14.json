@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-25-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 9,
+   "enunciado": "¿Sobre quién recae la competencia para adoptar los acuerdos relativos a la clasificación de las empresas con eficacia general para todos los órganos de contratación de la Administración?",
+   "opciones": [
+    "Sobre la Junta Administrativa de Contratación.",
+    "Sobre las Comisiones Consultivas de contratación Administrativa.",
+    "Sobre la Comisión de Contratación del Ministerio de Hacienda.",
+    "Sobre las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "au-25-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 10,
+   "enunciado": "¿A quién le corresponde aprobar la Estrategia Nacional de Contratación Pública?",
+   "opciones": [
+    "Al Ministerio de Economía y Empresa.",
+    "A la Oficina Independiente de Regulación y Supervisión de la Contratación.",
+    "Al Comité de cooperación en materia de contratación pública.",
+    "A la Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "au-25-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 11,
+   "enunciado": "Tras formalizar el contrato, para el ejercicio de la función fiscalizadora, se remitirá al Tribunal de Cuentas una copia certificada del documento en el que se hubiere formalizado el contrato, siempre que el precio de adjudicación del contrato exceda de:",
+   "opciones": [
+    "600.000 euros, tratándose de concesiones de servicios.",
+    "200.000 euros, tratándose de servicios y de contratos administrativos especiales.",
+    "150.000 euros, tratándose de suministros.",
+    "450.000 euros, tratándose de obras."
+   ]
+  },
+  {
+   "id": "au-25-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 12,
+   "enunciado": "Tras formalizar el contrato, para el ejercicio de la función fiscalizadora, se remitirá al Tribunal de Cuentas una copia certificada del documento en el que se hubiere formalizado el contrato, siempre que el precio de adjudicación del contrato exceda de:",
+   "opciones": [
+    "150.000 euros, tratándose de contratos administrativos especiales.",
+    "450.000 euros, tratándose de obras.",
+    "150.000 euros, tratándose de suministros.",
+    "450.000 euros, tratándose de concesiones de obras."
+   ]
+  },
+  {
+   "id": "au-25-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 13,
+   "enunciado": "¿A qué Ministerio se encuentra adscrita la Junta Consultiva de Contratación Pública del Estado?",
+   "opciones": [
+    "Al Ministerio del Interior.",
+    "Al Ministerio de Hacienda.",
+    "Al Ministerio de Fomento.",
+    "Al Ministerio de Justicia."
+   ]
+  },
+  {
+   "id": "au-25-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 14,
+   "enunciado": "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público depende:",
+   "opciones": [
+    "Del Ministerio de Administraciones Públicas.",
+    "Del Ministerio de Política Territorial.",
+    "Del Ministerio de Hacienda.",
+    "Del Ministerio de Asuntos Económicos y Competitividad."
+   ]
+  },
+  {
+   "id": "au-25-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 15,
+   "enunciado": "Los perfiles de contratante de los órganos de contratación de todas las entidades del sector público estatal deberán alojarse de manera obligatoria en:",
+   "opciones": [
+    "La Plataforma de Contratación del Sector Público.",
+    "El Registro de Contratos del Sector Público.",
+    "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "La Plataforma de Licitación del Estado."
+   ]
+  },
+  {
+   "id": "au-26-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 13,
+   "enunciado": "Las subvenciones previstas en la Ley Orgánica del Régimen Electoral General, según el artículo 4 de la Ley 38/2003, ¿están incluidas en el ámbito de aplicación de dicha ley?",
+   "opciones": [
+    "Sí están incluidas.",
+    "Les será de aplicación el Real Decreto 887/2006, de 21 de julio.",
+    "No tienen carácter de subvención.",
+    "Están excluidas del ámbito de aplicación."
+   ]
+  },
+  {
+   "id": "au-26-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 14,
+   "enunciado": "De acuerdo con la Ley 38/2003, de 17 de noviembre, quedan incluidas dentro del ámbito de la Ley:",
+   "opciones": [
+    "La subvención otorgada a un grupo parlamentario del Congreso de las Diputados.",
+    "Las subvenciones reguladas en la Ley Orgánica de Financiación de los Partidos Políticos.",
+    "Las subvenciones en régimen de concurrencia competitiva.",
+    "Los premios que se otorguen sin previa solicitud del beneficiario"
+   ]
+  },
+  {
+   "id": "au-26-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 15,
+   "enunciado": "No están comprendidas en el ámbito de aplicación de la Ley 38/2003:",
+   "opciones": [
+    "Las subvenciones entre Administraciones públicas.",
+    "Las subvenciones previstas en los presupuestos Generales del Estado.",
+    "Los premios que se otorguen a solicitud del beneficiario.",
+    "Las aportaciones dinerarias entre los distintos agentes de una Administración, siempre que no resulten de una convocatoria pública."
+   ]
+  },
+  {
+   "id": "au-26-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 16,
+   "enunciado": "De acuerdo con el artículo 5 de la LGS, las subvenciones otorgadas por consorcios o mancomunidades se regularán:",
+   "opciones": [
+    "Por el instrumento jurídico de creación, debiendo ajustarse a las disposiciones contenidas en esta ley.",
+    "Por las normas de derecho administrativo.",
+    "Por el reglamento orgánico del consorcio.",
+    "Exclusivamente por esta Ley."
+   ]
+  },
+  {
+   "id": "au-26-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 17,
+   "enunciado": "Según el artículo 6 de la LGS, las subvenciones financiadas con fondos de la Unión Europea se rigen por:",
+   "opciones": [
+    "La Ley 38/2003 exclusivamente.",
+    "Las normas comunitarias y, en su caso, las nacionales de desarrollo.",
+    "El reglamento del Fondo Europeo correspondiente.",
+    "El derecho internacional."
+   ]
+  },
+  {
+   "id": "au-26-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 18,
+   "enunciado": "¿Cuál de las siguientes afirmaciones permite distinguir la actividad de fomento de la actividad de servicio público?",
+   "opciones": [
+    "En el fomento la Administración utiliza siempre medios económicos, mientras que en el servicio público utiliza únicamente medios jurídicos.",
+    "En el servicio público la Administración realiza directamente el fin perseguido con sus propios medios, mientras que en el fomento estimula a los particulares para que lo cumplan indirectamente.",
+    "En el fomento la Administración actúa mediante coacción, mientras que en el servicio público nunca existe intervención administrativa.",
+    "En el servicio público los particulares realizan voluntariamente el fin perseguido, mientras que en el fomento lo realiza directamente la Administración."
+   ]
+  },
+  {
+   "id": "au-26-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 19,
+   "enunciado": "Una Administración concede a una persona una subvención para que realice una actividad considerada de interés social. Conforme al artículo 2 de la Ley 38/2003, para que pueda hablarse de subvención, la entrega dineraria debe realizarse:",
+   "opciones": [
+    "Siempre a cambio de una contraprestación directa del beneficiario.",
+    "Sin contraprestación directa del beneficiario y sujeta al cumplimiento de un determinado objetivo, proyecto, actividad, comportamiento o situación.",
+    "Exclusivamente a personas físicas y para actividades ya realizadas.",
+    "Únicamente cuando exista una prestación de servicios a favor de la Administración."
+   ]
+  },
+  {
+   "id": "au-26-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 20,
+   "enunciado": "¿Cuál de las siguientes aportaciones dinerarias no está comprendida en el ámbito de aplicación de la Ley 38/2003, conforme al artículo 2?",
+   "opciones": [
+    "Una subvención concedida a una empresa privada para desarrollar un proyecto de interés social.",
+    "Una aportación dineraria entre diferentes Administraciones públicas destinada a financiar globalmente la actividad de la Administración receptora.",
+    "Una subvención concedida por una entidad local a una asociación para desarrollar una actividad cultural.",
+    "Una ayuda económica condicionada a la realización de una determinada actividad de utilidad pública."
+   ]
+  },
+  {
+   "id": "au-27-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 1,
+   "enunciado": "Según la LGS, los órganos competentes para la concesión de subvenciones en la Administración General del Estado son:",
+   "opciones": [
+    "Los Subsecretarios y los Secretarios Generales.",
+    "Los Secretarios de Estado y los Subsecretarios.",
+    "Los Ministros y los Secretarios de Estado.",
+    "El Presidente del Gobierno y los Ministros."
+   ]
+  },
+  {
+   "id": "au-27-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 2,
+   "enunciado": "Las bases reguladoras para concesión de subvenciones, en el ámbito de la Administración General del Estado, se aprueban por:",
+   "opciones": [
+    "Real Decreto.",
+    "Ley de Bases.",
+    "Orden Ministerial.",
+    "Resolución del órgano concedente."
+   ]
+  },
+  {
+   "id": "au-27-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 3,
+   "enunciado": "La gestión de subvenciones a que se refiere la LGS se realizará de acuerdo con los siguientes principios:",
+   "opciones": [
+    "Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación.",
+    "Eficacia en el cumplimiento de los objetivos fijados por la Administración otorgante.",
+    "Eficiencia en la asignación y utilización de los recursos públicos.",
+    "Todas son correctas."
+   ]
+  },
+  {
+   "id": "au-27-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 4,
+   "enunciado": "En relación con la financiación de las actividades subvencionadas y según el artículo 19 de la LGS:",
+   "opciones": [
+    "La normativa reguladora de la subvención no podrá exigir un importe de financiación propia para cubrir la actividad subvencionada.",
+    "La determinación del importe de la subvención en ningún caso debe calcularse como un porcentaje del coste de la actividad.",
+    "El importe de las subvenciones en ningún caso podrá superar el coste de la actividad subvencionada.",
+    "La percepción de una subvención es incompatible, en todo caso, con la obtención de otras ayudas para la misma finalidad."
+   ]
+  },
+  {
+   "id": "au-27-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 5,
+   "enunciado": "No podrán ser entidades colaboradoras en la gestión de subvenciones públicas según la Ley 38/2003, General de subvenciones:",
+   "opciones": [
+    "Las sociedades mercantiles participadas integra o mayoritariamente por las Administraciones Públicas.",
+    "Las Corporaciones Locales.",
+    "Las personas o entidades que no se hallen al corriente de sus obligaciones tributarias.",
+    "Los Organismos Autónomos."
+   ]
+  },
+  {
+   "id": "au-27-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 6,
+   "enunciado": "¿Cuál de los siguientes NO es un principio general que debe regir las subvenciones públicas según la LGS?",
+   "opciones": [
+    "El principio de transparencia.",
+    "El principio de eficiencia.",
+    "El principio de publicidad.",
+    "El principio de solidaridad."
+   ]
+  },
+  {
+   "id": "au-27-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 7,
+   "enunciado": "Conforme a las previsiones de la LGS, señale la respuesta incorrecta:",
+   "opciones": [
+    "El otorgamiento de una subvención requiere la aprobación del gasto por el órgano competente para ello.",
+    "Las bases reguladoras de cada tipo de subvención se publicarán en el BOE o en el diario oficial correspondiente.",
+    "En el procedimiento de otorgamiento es necesaria la fiscalización previa de los actos administrativos de contenido económico.",
+    "La concesión de subvenciones de cuantía superior a 12 millones de euros corresponde al Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "au-27-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 8,
+   "enunciado": "Señale cuál de estas obligaciones corresponde a las Entidades Colaboradoras, de conformidad con el artículo 15 de la LGS:",
+   "opciones": [
+    "Dar la adecuada publicidad del carácter público de la financiación de las actuaciones que sean objeto de subvención.",
+    "Disponer de los libros contables debidamente auditados en los términos exigidos por la legislación mercantil.",
+    "Justificar la entrega de los fondos percibidos ante el órgano concedente de la subvención.",
+    "Iniciar el procedimiento de reintegro cuando el beneficiario incumpla alguna de sus obligaciones."
+   ]
+  },
+  {
+   "id": "au-27-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 9,
+   "enunciado": "Conforme al artículo 9 de la Ley 38/2003, ¿cuál de los siguientes NO es un requisito para el otorgamiento de una subvención?",
+   "opciones": [
+    "La tramitación del procedimiento de concesión de acuerdo con las normas que resulten de aplicación.",
+    "Poseer el beneficiario nacionalidad española.",
+    "La existencia de crédito adecuado y suficiente para atender las obligaciones de contenido económico derivadas de la misma.",
+    "La competencia del órgano administrativo concedente."
+   ]
+  },
+  {
+   "id": "au-27-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 10,
+   "enunciado": "Las facultades para conceder subvenciones, a que se refiere el artículo 10 de la LGS podrán ser objeto de desconcentración:",
+   "opciones": [
+    "Por Real Decreto de la Presidencia de Gobierno.",
+    "Mediante Real Decreto acordado en Consejo de Ministros.",
+    "Mediante orden del Ministro de la Presidencia.",
+    "Por orden del Presidente del Gobierno."
+   ]
+  },
+  {
+   "id": "au-27-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 11,
+   "enunciado": "De acuerdo al artículo 18 de la LGS, operará como sistema nacional de publicidad de subvenciones:",
+   "opciones": [
+    "La Base de Datos Nacional de Subvenciones.",
+    "El Boletín Oficial del Estado.",
+    "El Registro Nacional de Beneficiarios y Entidades Colaboradoras.",
+    "El Registro Nacional de Subvenciones y Ayudas del Sector Público."
+   ]
+  },
+  {
+   "id": "au-27-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 12,
+   "enunciado": "De acuerdo al artículo 20.9 de la Ley 38/2003, la Base de Datos Nacional de Subvenciones podrá suministrar información pública sobre las sanciones firmes impuestas por:",
+   "opciones": [
+    "Infracciones graves.",
+    "Infracciones muy graves.",
+    "Infracciones leves.",
+    "En ningún caso podrá suministrar información pública sobre sanciones."
+   ]
+  },
+  {
+   "id": "au-27-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 13,
+   "enunciado": "Los planes estratégicos de subvenciones con carácter general contendrán previsiones para:",
+   "opciones": [
+    "Un período de vigencia de cinco años.",
+    "Un período de vigencia de dos años.",
+    "Un período de vigencia de cuatro años.",
+    "Un período de vigencia de tres años."
+   ]
+  },
+  {
+   "id": "au-27-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 14,
+   "enunciado": "Señale la respuesta correcta en relación con la competencia para otorgar subvenciones, de acuerdo con el artículo 10 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones:",
+   "opciones": [
+    "La previa autorización del Consejo de Ministros en la concesión de subvenciones, no implicará la aprobación del gasto.",
+    "Las facultades para conceder subvenciones, no podrán ser objeto de desconcentración.",
+    "La concesión de subvenciones de cuantía superior a 10 millones de euros requerirá la previa autorización del Consejo de Ministros.",
+    "Es competente para conceder subvenciones en el ámbito del Servicio Público de Empleo Estatal la Ministra de Trabajo y Economía Social."
+   ]
+  },
+  {
+   "id": "au-27-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 15,
+   "enunciado": "Según la Ley 38/2003, ¿cuál de los siguientes no es un requisito obligatorio para obtener la condición de beneficiario de una subvención?",
+   "opciones": [
+    "Estar al corriente en el cumplimiento de las obligaciones tributarias.",
+    "Hallarse al corriente de pago de obligaciones por reintegro de subvenciones.",
+    "No haber sido condenado mediante sentencia firme por delitos de prevaricación.",
+    "Tener personalidad jurídica."
+   ]
+  },
+  {
+   "id": "au-27-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 16,
+   "enunciado": "Según el artículo 14 de la Ley 38/2003, ¿cuál de los siguientes no es una obligación del beneficiario de una subvención?",
+   "opciones": [
+    "Ejecutar directamente la actividad subvencionada sin subcontratar.",
+    "Someterse a las actuaciones de comprobación.",
+    "Conservar los documentos justificativos.",
+    "Justificar la aplicación de los fondos."
+   ]
+  },
+  {
+   "id": "au-27-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 17,
+   "enunciado": "¿Cuál de estas afirmaciones no es correcta sobre las bases reguladoras establecidas en el artículo 17 de la LGS?",
+   "opciones": [
+    "Su aprobación requerirá el informe previo de los servicios jurídicos y de la Intervención Delegada correspondiente.",
+    "Contendrá la definición del objeto de la subvención.",
+    "Serán objeto de publicación en el Boletín Oficial del Estado.",
+    "Se aprobará por Real Decreto de Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "au-27-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 18,
+   "enunciado": "Según establece el articulo 16 de la LGS, los convenios de colaboración:",
+   "opciones": [
+    "No podrá tener un plazo de vigencia superior a tres años.",
+    "La duración total de las prórrogas no puede ser superior a la vigencia del período inicial.",
+    "No pueden prorrogarse.",
+    "Se formalizarán entre el órgano administrativo concedente y el beneficiario de la subvención."
+   ]
+  },
+  {
+   "id": "au-27-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 19,
+   "enunciado": "Dentro de las obligaciones del beneficiario establecidas en el artículo 14 de la LGS no se encuentra:",
+   "opciones": [
+    "Entregar a los beneficiarios los fondos recibidos.",
+    "El cumplimiento de los requisitos y condiciones.",
+    "Comunicar la obtención de otras subvenciones que financien las actividades subvencionadas.",
+    "Someterse a las actuaciones de comprobación."
+   ]
+  },
+  {
+   "id": "au-27-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 20,
+   "enunciado": "Conforme al artículo 11 de la LGS, ¿quiénes tendrán igualmente la consideración de beneficiarios cuando el beneficiario sea una persona jurídica?",
+   "opciones": [
+    "En todo caso, los miembros asociados que realicen actividades por cuenta del beneficiario.",
+    "Los empleados del beneficiario.",
+    "Solo se considerara beneficiario a la persona jurídica.",
+    "Cuando se prevea en la normativa reguladora, los miembros asociados que realicen actividades por cuenta del beneficiario."
+   ]
+  },
+  {
+   "id": "au-27-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 21,
+   "enunciado": "¿Qué condición deben cumplir las agrupaciones sin personalidad jurídica para acceder a ser beneficiario de una subvención?",
+   "opciones": [
+    "Tener actividad comercial previa.",
+    "Disponer de domicilio fiscal en España.",
+    "Estar constituidas notarialmente.",
+    "Que se prevea expresamente en las bases reguladoras."
+   ]
+  },
+  {
+   "id": "au-27-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 22,
+   "enunciado": "¿Cuál de estas afirmaciones no es una obligación que establezca el artículo 11 de la LGS a las agrupaciones sin personalidad jurídica cuando sean beneficiarios de una subvención?",
+   "opciones": [
+    "Deberá nombrarse un representante o apoderado único de la agrupación.",
+    "No podrá disolverse hasta que haya transcurrido el plazo de prescripción del procedimiento de reintegro.",
+    "Deberán hacerse constar expresamente los compromisos de ejecución asumidos por cada miembro.",
+    "Deberán registrarse en el Registro Nacional de Subvenciones."
+   ]
+  },
+  {
+   "id": "au-27-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 23,
+   "enunciado": "Según el artículo 13 de la LGS, ¿cómo puede justificarse que no se está incurso en prohibiciones para ser beneficiario?",
+   "opciones": [
+    "Mediante testimonio judicial, certificados telemáticos o certificación administrativa.",
+    "Únicamente mediante declaración jurada.",
+    "Por medios notariales.",
+    "No es necesaria la acreditación de dicha situación."
+   ]
+  },
+  {
+   "id": "au-27-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 24,
+   "enunciado": "En relación con el seguimiento de los planes estratégicos de subvenciones, cada Departamento ministerial deberá emitir anualmente un informe:",
+   "opciones": [
+    "Antes del 31 de marzo de cada año.",
+    "Antes del 30 de abril de cada año.",
+    "Antes del 30 de junio de cada año.",
+    "Antes del 31 de diciembre de cada año."
+   ]
+  },
+  {
+   "id": "au-27-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (2) - LGS (arts 8 a 20)",
+   "n": 25,
+   "enunciado": "Cuando las bases reguladoras lo prevean expresamente, podrán acceder a la condición de beneficiario:",
+   "opciones": [
+    "Exclusivamente las personas jurídicas con personalidad jurídica propia.",
+    "Las agrupaciones de personas físicas o jurídicas, públicas o privadas, así como las comunidades de bienes u otras unidades económicas o patrimonios separados, aunque carezcan de personalidad jurídica.",
+    "Únicamente las Administraciones públicas.",
+    "Las sociedades mercantiles."
+   ]
+  },
+  {
+   "id": "au-28-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 1,
+   "enunciado": "Conforme a la Ley 38/2003, indique la respuesta incorrecta:",
+   "opciones": [
+    "No podrá realizarse el pago a beneficiarios que no se hallen al corriente de sus obligaciones frente a la Seguridad Social.",
+    "Con carácter previo a la convocatoria de la subvención deberá efectuarse la aprobación del gasto.",
+    "La resolución de concesión de la subvención conllevará el compromiso del gasto correspondiente.",
+    "En ningún caso se podrán realizar pagos que supongan entregas de fondos previamente a la justificación de la subvención."
+   ]
+  },
+  {
+   "id": "au-28-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 2,
+   "enunciado": "¿Cuál es el instrumento habitual para canalizar las subvenciones previstas nominativamente en los Presupuestos Generales del Estado?",
+   "opciones": [
+    "La concurrencia competitiva.",
+    "Los convenios.",
+    "No pueden existir subvenciones nominativas.",
+    "Ninguna es correcta."
+   ]
+  },
+  {
+   "id": "au-28-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 3,
+   "enunciado": "De acuerdo a la LGS, ¿el beneficiario podrá subcontratar la actividad que constituye el objeto de la subvención?",
+   "opciones": [
+    "Total o parcialmente, cuando la normativa reguladora de la subvención así lo prevea.",
+    "Sólo parcialmente.",
+    "En ningún caso será posible la subcontratación de la actividad objeto de subvención.",
+    "Sólo totalmente."
+   ]
+  },
+  {
+   "id": "au-28-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 4,
+   "enunciado": "El artículo 22 de la LGS establece, respecto del procedimiento de concesión de subvenciones, que:",
+   "opciones": [
+    "Se prohíbe expresamente la concesión directa de subvenciones.",
+    "La propuesta de concesión se formulará al órgano concedente por un órgano colegiado o unipersonal.",
+    "En ningún caso se procederá al prorrateo entre los beneficiarios del importe global máximo destinado a las subvenciones.",
+    "No podrán otorgarse subvenciones por cuantía superior a la que se determine en la convocatoria."
+   ]
+  },
+  {
+   "id": "au-28-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 5,
+   "enunciado": "Una subvención puede concederse de forma directa, sin someterse a libre concurrencia:",
+   "opciones": [
+    "Cuando se decida libremente por Real Decreto el Consejo de Ministros.",
+    "En los supuestos que prevean las bases de la convocatoria correspondiente, siempre que exista crédito suficiente y adecuado.",
+    "Por razones de interés público, social, económico o humanitario que dificulten su convocatoria pública.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "au-28-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 6,
+   "enunciado": "Respecto de las subvenciones públicas, señale la afirmación correcta:",
+   "opciones": [
+    "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concesión directa.",
+    "El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro de subvenciones será de tres meses.",
+    "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva.",
+    "Tienen el carácter de subvenciones las prestaciones reconocidas por el Fondo de Garantía Salarial."
+   ]
+  },
+  {
+   "id": "au-28-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 7,
+   "enunciado": "De las siguientes afirmaciones, señale la correcta según la Ley 38/2003, General de Subvenciones:",
+   "opciones": [
+    "El beneficiario deberá acreditar con anterioridad a la propuesta de concesión estar al corriente en sus obligaciones tributarias.",
+    "El beneficiario deberá comunicar, en la justificación de la inversión, la obtención de otras subvenciones con idéntica finalidad.",
+    "Son subvencionables los gastos de procedimientos judiciales.",
+    "Excepcionalmente, serán gastos subvencionables los intereses deudores de las cuentas bancarias."
+   ]
+  },
+  {
+   "id": "au-28-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 8,
+   "enunciado": "De acuerdo con el artículo 31 de la LGS, salvo disposición expresa en contrario en las bases reguladoras de las subvenciones, se considerará gasto realizado el que ha sido pagado por el beneficiario:",
+   "opciones": [
+    "Con anterioridad a la finalización del período de ejecución.",
+    "Con anterioridad a la finalización del año natural en que se haya solicitado la subvención.",
+    "Dentro del período de ejecución determinado por la normativa reguladora de la subvención.",
+    "Con anterioridad a la finalización del período de justificación determinado por la normativa reguladora de la subvención."
+   ]
+  },
+  {
+   "id": "au-28-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 9,
+   "enunciado": "Señale la respuesta correcta respecto al procedimiento de concesión de subvenciones en régimen de concurrencia competitiva, según la LGS:",
+   "opciones": [
+    "Siempre se deberá dar un plazo de audiencia a la persona interesada.",
+    "Se iniciará de oficio o a solicitud de la persona interesada.",
+    "Se iniciará a solicitud de la persona interesada.",
+    "La propuesta de resolución definitiva no crea derecho alguno a favor del beneficiario propuesto, frente a la Administración."
+   ]
+  },
+  {
+   "id": "au-28-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 10,
+   "enunciado": "La tramitación de subvenciones en régimen de concurrencia competitiva:",
+   "opciones": [
+    "Es un procedimiento simplificado en materia de subvenciones.",
+    "Constituye el procedimiento ordinario de concesión de subvenciones.",
+    "Constituye un procedimiento excepcional de concesión de subvenciones.",
+    "Requerirá la acreditación de las razones de interés público, económico y social que la justifican."
+   ]
+  }
+ ]
+}

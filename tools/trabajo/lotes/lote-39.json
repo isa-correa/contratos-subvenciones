@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-33-006",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 6,
+   "enunciado": "El Ministerio de Industria y Turismo licita un contrato de obras, mediante procedimiento abierto supersimplificado y tramitación urgente. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-33-007",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 7,
+   "enunciado": "El Ministerio de Hacienda licita, mediante procedimiento abierto simplificado y tramitación urgente, un servicio de mantenimiento. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Ocho días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-33-008",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 8,
+   "enunciado": "El Ministerio del Interior licita, mediante procedimiento abierto, unas obras de construcción, con un valor estimado de 4.500.000 euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días naturales.",
+    "Veintiséis días naturales.",
+    "Veinte días naturales.",
+    "Quince días naturales."
+   ]
+  },
+  {
+   "id": "pr-33-009",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 9,
+   "enunciado": "El Ministerio de Defensa licita, mediante procedimiento abierto, un servicio de asistencia técnica, con un valor estimado de 200.000 euros. Se ha enviado un anuncio de información previa en los términos previstos en el artículo 156.3 de la LCSP. ¿Cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días naturales.",
+    "Treinta días naturales.",
+    "Veinte días naturales.",
+    "Quince días naturales."
+   ]
+  },
+  {
+   "id": "pr-33-010",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 10,
+   "enunciado": "El Ayuntamiento de Salamanca licita, mediante procedimiento abierto y tramitación urgente, una concesión de servicios para explotar un teatro público, con un valor estimado de 5.400.000 euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta días naturales.",
+    "Veintiséis días naturales.",
+    "Quince días naturales.",
+    "Trece días naturales."
+   ]
+  },
+  {
+   "id": "pr-34-001",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 1,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Obras de rehabilitación de un museo mediante procedimiento abierto simplificado.",
+   "opciones": [
+    "VE: 2.500.000 € / juicio de valor: 20 %.",
+    "VE: 2.000.000 € / juicio de valor: 25 %.",
+    "VE: 1.800.000 € / juicio de valor: 30 %.",
+    "VE: 2.000.000 € / juicio de valor: 45 %."
+   ]
+  },
+  {
+   "id": "pr-34-002",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 2,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Servicio de limpieza de edificios mediante procedimiento abierto simplificado.",
+   "opciones": [
+    "VE: 140.000 € / juicio de valor: 25 %",
+    "VE: 139.999,99 € / juicio de valor: 30 %.",
+    "VE: 139.999,99 € / juicio de valor: 25 %.",
+    "VE: 120.000 € / juicio de valor: 45 %."
+   ]
+  },
+  {
+   "id": "pr-34-003",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 3,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Servicio de redacción de un proyecto de arquitectura mediante procedimiento abierto simplificado.",
+   "opciones": [
+    "VE: 140.000 € / juicio de valor: 45 %.",
+    "VE: 139.999,99 € / juicio de valor: 25 %.",
+    "VE: 139.999,99 € / juicio de valor: 45 %.",
+    "VE: 130.000 € / juicio de valor: 50 %."
+   ]
+  },
+  {
+   "id": "pr-34-004",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 4,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Obras de acondicionamiento de un local mediante procedimiento abierto supersimplificado.",
+   "opciones": [
+    "VE: 80.000 € / juicio de valor: 0 %.",
+    "VE: 79.999,99 € / juicio de valor: 25 %.",
+    "VE: 79.999,99 € / juicio de valor: 0 %.",
+    "VE: 80.000 € / juicio de valor: 25 %."
+   ]
+  },
+  {
+   "id": "pr-34-005",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 5,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Suministro de mobiliario mediante procedimiento abierto supersimplificado.",
+   "opciones": [
+    "VE: 60.000 € / juicio de valor: 0 %.",
+    "VE: 59.999,99 € / juicio de valor: 25 %.",
+    "VE: 59.999,99 € / juicio de valor: 0 %.",
+    "VE: 55.000 € / juicio de valor: 25 %."
+   ]
+  },
+  {
+   "id": "pr-34-006",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 6,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Servicio de mantenimiento mediante procedimiento abierto simplificado.",
+   "opciones": [
+    "VE: 140.000 € / juicio de valor: 20 %.",
+    "VE: 139.999,99 € / juicio de valor: 25 %.",
+    "VE: 139.999,99 € / juicio de valor: 45 %.",
+    "VE: 150.000 € / juicio de valor: 0 %."
+   ]
+  },
+  {
+   "id": "pr-34-007",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 7,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Obras de construcción de un almacén mediante procedimiento abierto simplificado.",
+   "opciones": [
+    "VE: 3.000.000 € / juicio de valor: 25 %.",
+    "VE: 1.999.999,99 € / juicio de valor: 25 %.",
+    "VE: 2.999.999,99 € / juicio de valor: 25 %.",
+    "VE: 2.000.000 € / juicio de valor: 25 %."
+   ]
+  },
+  {
+   "id": "pr-34-008",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 8,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Servicio de ingeniería mediante procedimiento abierto simplificado.",
+   "opciones": [
+    "VE: 139.999,99 € / juicio de valor: 45 %.",
+    "VE: 140.000 € / juicio de valor: 45 %.",
+    "VE: 139.999,99 € / juicio de valor: 50 %.",
+    "VE: 150.000 € / juicio de valor: 25 %."
+   ]
+  },
+  {
+   "id": "pr-34-009",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 9,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Servicio de vigilancia mediante procedimiento abierto supersimplificado.",
+   "opciones": [
+    "VE: 60.000 € / juicio de valor: 0 %.",
+    "VE: 59.999,99 € / juicio de valor: 10 %.",
+    "VE: 139.999,99 € / juicio de valor: 0 %.",
+    "VE: 59.999,99 € / juicio de valor: 0 %."
+   ]
+  },
+  {
+   "id": "pr-34-010",
+   "origen": "practicas",
+   "test": "Examen nº 28 - LCSP - Abierto simplificado (2)",
+   "n": 10,
+   "enunciado": "Indique, en cada contrato, el valor estimado máximo y el porcentaje que podrían alcanzar los criterios evaluables mediante juicio de valor. Servicio de arquitectura mediante procedimiento abierto supersimplificado.",
+   "opciones": [
+    "VE: 59.999,99 € / juicio de valor: 45 %.",
+    "VE: 59.999,99 € / juicio de valor: 25 %.",
+    "VE: 59.999.99 € / juicio de valor: 0 %.",
+    "Este contrato no puede adjudicarse mediante procedimiento abierto supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-001",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 1,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-002",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 2,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: Se ha exigido a los licitadores la constitución de una garantía provisional.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-003",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 3,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: Se exime a los licitadores la acreditación de solvencia económica y financiera ni técnica o profesional.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-004",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 4,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: El plazo para justificar una oferta presuntamente anormal no podrá superar los cinco días hábiles.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-005",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 5,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: La valoración de los criterios sujetos a juicio de valor deberá efectuarse en un plazo no superior a siete días.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-006",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 6,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: En un contrato de obras no se requerirá al adjudicatario la constitución de garantía definitiva.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-007",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 7,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: La formalización del contrato podrá efectuarse mediante la firma de aceptación por el contratista de la resolución de adjudicación.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-008",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 8,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: La inscripción en el ROLECSP es obligatoria.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-009",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 9,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: El licitador que haya presentado la mejor oferta dispondrá de siete días hábiles para constituir la garantía definitiva.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-010",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 10,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: En un servicio de arquitectura, los criterios evaluables mediante juicio de valor representan el 55 % de la puntuación total.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-011",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 11,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: El anuncio de licitación únicamente precisará de publicación en el perfil de contratante.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-35-012",
+   "origen": "practicas",
+   "test": "Examen nº 29 - LCSP - Abierto simplificado (3)",
+   "n": 12,
+   "enunciado": "Indique, en cada supuesto, a qué modalidad o modalidades del procedimiento abierto puede corresponder la característica señalada: La oferta se presentará en un único sobre o archivo electrónico y únicamente se valorarán criterios cuantificables mediante fórmulas.",
+   "opciones": [
+    "Abierto ordinario.",
+    "Abierto simplificado.",
+    "Abierto supersimplificado.",
+    "Abierto simplificado o supersimplificado."
+   ]
+  },
+  {
+   "id": "pr-36-001",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 1,
+   "enunciado": "El Instituto Nacional de Estadística, organismo autónomo adscrito al Ministerio de Economía, licita un suministro de material de oficina. El procedimiento elegido permite que todo empresario interesado presente una proposición, quedando excluida toda negociación de los términos del contrato. ¿Cuál de los siguientes procedimientos de adjudicación ha podido utilizar?",
+   "opciones": [
+    "El abierto.",
+    "El restringido.",
+    "Tanto el abierto como el restringido.",
+    "Tanto el diálogo competitivo como la asociación para la innovación."
+   ]
+  },
+  {
+   "id": "pr-36-002",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 2,
+   "enunciado": "El Ministerio de Cultura licita, mediante procedimiento abierto, un contrato de suministro, con un valor estimado de 280.000 euros. Teniendo en cuenta que se admite la presentación electrónica de ofertas, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veinticinco días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-36-003",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 3,
+   "enunciado": "El Ayuntamiento de Roquetas de Mar licita, mediante procedimiento abierto y tramitación urgente, la construcción de un centro cultural, con un valor estimado de 3.500.000 euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días.",
+    "Ocho días."
+   ]
+  },
+  {
+   "id": "pr-36-004",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 4,
+   "enunciado": "El Ministerio de Hacienda licita, mediante procedimiento abierto simplificado, las obras de rehabilitación de uno de sus edificios. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veintiséis días naturales.",
+    "Veinte días naturales.",
+    "Veinte días hábiles.",
+    "Quince días naturales."
+   ]
+  },
+  {
+   "id": "pr-36-005",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 5,
+   "enunciado": "El Ministerio de Sanidad licita un contrato de suministro mediante el procedimiento abierto simplificado del artículo 159.6 de la LCSP. ¿Cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Quince días hábiles.",
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-36-006",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 6,
+   "enunciado": "En un procedimiento abierto ordinario se utilizan criterios de adjudicación evaluables mediante juicio de valor y otros cuantificables mediante fórmulas. ¿Cómo deberá distribuirse la documentación en sobres o archivos electrónicos?",
+   "opciones": [
+    "En dos: uno con la documentación de requisitos previos y otro con toda la proposición.",
+    "En dos: uno con los requisitos previos y la documentación sujeta a juicio de valor, y otro con la evaluable mediante fórmulas.",
+    "En tres: uno con la documentación de requisitos previos y dos con la proposición, separando juicio de valor y fórmulas.",
+    "En tres: uno con la declaración responsable, otro con la restante documentación administrativa y otro con toda la proposición."
+   ]
+  },
+  {
+   "id": "pr-36-007",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 7,
+   "enunciado": "En un procedimiento abierto, la apertura de las proposiciones deberá efectuarse en el plazo máximo de:",
+   "opciones": [
+    "Veinte días, contado desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Veinte días, contado desde la apertura del sobre con la documentación acreditativa de los requisitos previos.",
+    "Quince días, contado desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Quince días, contado desde la apertura del sobre con la documentación acreditativa de los requisitos previos."
+   ]
+  },
+  {
+   "id": "pr-36-008",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 8,
+   "enunciado": "Conforme a lo previsto en el artículo 158 de la LCSP, en un procedimiento abierto, cuando el único criterio de adjudicación es el precio, ¿en qué plazo máximo deberá recaer la adjudicación?",
+   "opciones": [
+    "Quince días desde el siguiente al de apertura de las proposiciones.",
+    "Quince días desde el siguiente al de finalización del plazo de presentación de proposiciones.",
+    "Veinte días desde el siguiente al de apertura de las proposiciones.",
+    "Veinte días desde el siguiente al de finalización del plazo de presentación de proposiciones."
+   ]
+  },
+  {
+   "id": "pr-36-009",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 9,
+   "enunciado": "De acuerdo con el artículo 158 de la LCSP, en un procedimiento abierto, cuando se utiliza una pluralidad de criterios de adjudicación, salvo que se hubiese establecido otro en el pliego, ¿en qué plazo máximo debe recaer la adjudicación?",
+   "opciones": [
+    "Quince días desde la apertura de las proposiciones.",
+    "Quince días desde la finalización del plazo de presentación de proposiciones.",
+    "Dos meses desde la apertura de las proposiciones.",
+    "Dos meses desde la finalización del plazo de presentación de proposiciones."
+   ]
+  },
+  {
+   "id": "pr-36-010",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 10,
+   "enunciado": "En un procedimiento abierto, el órgano de contratación ha recibido la documentación requerida al licitador que presentó la mejor oferta, incluida la acreditación de haber constituido la garantía definitiva. ¿En qué plazo deberá adjudicar el contrato?",
+   "opciones": [
+    "Dos meses.",
+    "Veinte días.",
+    "Quince días.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-36-011",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 11,
+   "enunciado": "El Ministerio de Agricultura, Pesca y Alimentación pretende adjudicar distintos contratos mediante procedimiento abierto simplificado. Conforme al artículo 159.1 de la LCSP, ¿cuál de los siguientes NO podrá adjudicarse por este procedimiento?",
+   "opciones": [
+    "Obras de reforma de un edificio: valor estimado de 2.000.000 € y un 25 % de la puntuación sujeto a juicio de valor.",
+    "Suministro de mobiliario: valor estimado de 50.000 € y todos los criterios evaluables mediante fórmulas.",
+    "Servicio de mantenimiento: valor estimado de 140.000 € y un 25 % de la puntuación sujeto a juicio de valor.",
+    "Redacción de un proyecto de arquitectura: valor estimado de 139.000 € y un 45 % de la puntuación sujeto a juicio de valor."
+   ]
+  },
+  {
+   "id": "pr-36-012",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 12,
+   "enunciado": "El Parque Móvil del Estado, O.A. licita la adquisición de neumáticos para su flota mediante procedimiento abierto simplificado. Conforme al artículo 159 de la LCSP, ¿dónde debe publicarse obligatoriamente el anuncio de licitación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante del órgano de contratación.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-36-013",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 13,
+   "enunciado": "El Ministerio de Hacienda licita un servicio de vigilancia mediante procedimiento abierto simplificado, con un 20 % de la puntuación sujeto a juicio de valor. Conforme al artículo 159 de la LCSP, ¿cuál de las siguientes NO es una especialidad aplicable a su tramitación?",
+   "opciones": [
+    "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación.",
+    "La oferta se presentará en dos sobres o archivos electrónicos.",
+    "Presentada la garantía definitiva, el contrato se adjudicará en un plazo no superior a cinco días naturales.",
+    "La formalización del contrato podrá efectuarse mediante la firma de aceptación por el contratista de la resolución de adjudicación."
+   ]
+  },
+  {
+   "id": "pr-36-014",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 14,
+   "enunciado": "Un Ministerio necesita licitar varios contratos. ¿Cuál de ellos puede adjudicarse mediante procedimiento abierto simplificado sumario?",
+   "opciones": [
+    "Obras de reforma de un local: valor estimado de 80.000 € y todos los criterios evaluables mediante fórmulas.",
+    "Suministro de mobiliario: valor estimado de 59.000 € y todos los criterios evaluables mediante fórmulas.",
+    "Servicio de limpieza: valor estimado de 50.000 € y un 10 % de la puntuación sujeto a juicio de valor.",
+    "Redacción de un proyecto de arquitectura: valor estimado de 45.000 € y todos los criterios evaluables mediante fórmulas."
+   ]
+  },
+  {
+   "id": "pr-36-015",
+   "origen": "practicas",
+   "test": "Examen nº 30- LCSP (arts. 156 a 159)",
+   "n": 15,
+   "enunciado": "El Ministerio del Interior licita la reforma de un local mediante procedimiento abierto simplificado sumario, utilizando una pluralidad de criterios de adjudicación. Conforme al artículo 159.6 de la LCSP, ¿cuál de las siguientes es una especialidad aplicable a su tramitación?",
+   "opciones": [
+    "Se eximirá a los licitadores del cumplimiento de los requisitos de solvencia económica y financiera y técnica o profesional.",
+    "La oferta se entregará en dos sobres o archivos electrónicos.",
+    "No se requerirá la constitución de garantía provisional ni definitiva.",
+    "El contrato no requerirá formalización y se perfeccionará mediante su adjudicación."
+   ]
+  },
+  {
+   "id": "pr-37-001",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 1,
+   "enunciado": "Conforme al artículo 160 de la LCSP, señale la afirmación INCORRECTA sobre el procedimiento restringido:",
+   "opciones": [
+    "Cualquier empresa interesada podrá presentar una solicitud de participación en respuesta a una convocatoria de licitación.",
+    "Cualquier empresa que acredite la solvencia exigida podrá presentar directamente una proposición, sin selección previa.",
+    "Estará prohibida toda negociación de los términos del contrato con los solicitantes o candidatos.",
+    "Este procedimiento es especialmente adecuado para servicios intelectuales de especial complejidad."
+   ]
+  },
+  {
+   "id": "pr-37-002",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 2,
+   "enunciado": "Conforme al artículo 162 de la LCSP, en el procedimiento restringido, en el procedimiento restringido, el número mínimo de empresarios a los que se invitará a participar no podrá ser:",
+   "opciones": [
+    "Inferior a tres.",
+    "Superior a veinte.",
+    "Inferior a cinco.",
+    "Inferior a cinco ni superior a veinte."
+   ]
+  },
+  {
+   "id": "pr-37-003",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 3,
+   "enunciado": "El Ministerio de Justicia licita, mediante procedimiento restringido, un contrato de servicios con un valor estimado de 180.000 euros. Conforme al artículo 161 de la LCSP, ¿cuál será el plazo mínimo para la presentación de solicitudes de participación?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veinticinco días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-37-004",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 4,
+   "enunciado": "El Ministerio de Cultura licita, mediante procedimiento restringido, un servicio de conservación con un valor estimado de 90.000 euros. Seleccionados los candidatos en atención a su solvencia, el órgano de contratación les invita por escrito a presentar sus proposiciones. Conforme el artículo 164 de la LCSP, ¿cuál será el plazo mínimo para su presentación, contado desde la fecha de envío de la invitación?",
+   "opciones": [
+    "Treinta días.",
+    "Veinte días.",
+    "Quince días.",
+    "Diez días."
+   ]
+  },
+  {
+   "id": "pr-37-005",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 5,
+   "enunciado": "Según el artículo 165 de la LCSP, en la adjudicación del contrato mediante procedimiento restringido será de aplicación lo previsto para:",
+   "opciones": [
+    "El procedimiento abierto.",
+    "Los procedimientos con negociación.",
+    "El diálogo competitivo.",
+    "La asociación para la innovación."
+   ]
+  },
+  {
+   "id": "pr-37-006",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 6,
+   "enunciado": "¿En cuál de los siguientes supuestos es posible acudir al procedimiento de licitación con negociación conforme al artículo 167 de la LCSP?",
+   "opciones": [
+    "Cuando el contrato tenga por objeto productos se fabriquen exclusivamente para fines de investigación.",
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+    "Cuando se adquieran suministros en mercados organizados o bolsas de materias primas en los que coticen.",
+    "Cuando se trata de servicios intelectuales de especial complejidad."
+   ]
+  },
+  {
+   "id": "pr-37-007",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 7,
+   "enunciado": "El Ministerio de Ciencia, Innovación y Universidades. pretende adjudicar un contrato mediante procedimiento negociado sin publicidad. Conforme al artículo 168 de la LCSP, ¿cuál de las siguientes circunstancias habilitaría su utilización?",
+   "opciones": [
+    "Que resulte imprescindible un trabajo previo de diseño o adaptación de la prestación por parte de los licitadores.",
+    "Que la complejidad del contrato impida adjudicarlo sin negociaciones previas.",
+    "Que el contrato haya sido declarado secreto o reservado, o su ejecución deba ir acompañada de medidas de seguridad especiales.",
+    "Que no puedan establecerse con suficiente precisión las especificaciones técnicas mediante las referencias previstas en la Ley."
+   ]
+  },
+  {
+   "id": "pr-37-008",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 8,
+   "enunciado": "Conforme a la LCSP, señale la afirmación INCORRECTA sobre la tramitación del procedimiento de licitación con negociación:",
+   "opciones": [
+    "Los órganos de contratación negociarán con los licitadores las ofertas iniciales y todas sus ofertas ulteriores, incluso las definitivas.",
+    "Si se limita el número de empresas invitadas a negociar, el número mínimo de candidatos será de tres.",
+    "Los requisitos mínimos de la prestación y los criterios de adjudicación no podrán ser objeto de negociación.",
+    "En lo no previsto específicamente para este procedimiento serán de aplicación las normas del procedimiento restringido."
+   ]
+  }
+ ]
+}

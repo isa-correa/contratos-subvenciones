@@ -1,0 +1,576 @@
+{
+ "pr-16-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 88.1 LCSP",
+  "correctas": [
+   0,
+   1,
+   2
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. La relación de obras de los cinco últimos años con certificados de buena ejecución es el medio del art. 88.1.a.",
+   "Correcta. La declaración sobre la plantilla media anual y el número de directivos de los tres últimos años es el medio del art. 88.1.e.",
+   "Correcta. En los casos adecuados se admiten las medidas de gestión medioambiental (art. 88.1.d).",
+   "No es correcta. La indicación de la parte que se subcontrataría no está entre los medios del art. 88.1. Solo figura en los servicios (art. 90.1.i)."
+  ]
+ },
+ "pr-16-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 89.1 LCSP",
+  "correctas": [
+   0,
+   1,
+   3
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. La descripción de instalaciones técnicas, medidas de calidad y medios de estudio e investigación es el medio del art. 89.1.c.",
+   "Correcta. Las muestras, descripciones y fotografías de los productos son el medio del art. 89.1.e.",
+   "No es correcta. La declaración de plantilla media no figura entre los medios de solvencia técnica del suministro (art. 89.1).",
+   "Correcta. La relación de suministros similares de como máximo los tres últimos años es el medio del art. 89.1.a."
+  ]
+ },
+ "pr-16-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 90.1 LCSP",
+  "correctas": [
+   0,
+   3
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. La indicación del personal técnico o de las unidades técnicas que participarán en el contrato es el medio del art. 90.1.b.",
+   "No es correcta. Las muestras y fotografías son un medio del suministro (art. 89.1.e). No figuran entre los de los servicios.",
+   "No es correcta. El seguro de responsabilidad civil es un medio de solvencia económica y financiera (art. 87.1.b), no de solvencia técnica.",
+   "Correcta. La relación de servicios de igual o similar naturaleza de como máximo los tres últimos años es el medio del art. 90.1.a."
+  ]
+ },
+ "pr-16-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Arts. 87.1 y 88.1 LCSP",
+  "correctas": [
+   0,
+   1
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. El volumen anual de negocios del mejor ejercicio de los tres últimos disponibles es el medio del art. 87.1.a.",
+   "Correcta. El patrimonio neto al cierre del último ejercicio con cuentas vencidas es el medio del art. 87.1.c.",
+   "No es correcta. La relación de obras ejecutadas acredita la solvencia técnica (art. 88.1.a), no la económica.",
+   "No es correcta. La plantilla media anual acredita la solvencia técnica (art. 88.1.e), no la económica."
+  ]
+ },
+ "pr-16-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 90.1 LCSP",
+  "correctas": [
+   1,
+   3
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. La relación de servicios del art. 90.1.a se limita a como máximo los tres últimos años, no a cinco.",
+   "Correcta. La indicación del personal técnico o unidades técnicas, integradas o no en la empresa, es el medio del art. 90.1.b.",
+   "No es correcta. La plantilla media del art. 90.1.g se refiere a los tres últimos años, no a cinco.",
+   "Correcta. Indicar la parte del contrato que se tiene el propósito de subcontratar es un medio del art. 90.1.i."
+  ]
+ },
+ "pr-17-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100.1",
+  "correcta": 1,
+  "justificaciones": [
+   "100.000 € es el importe sin IVA. El presupuesto base de licitación incluye el IVA.",
+   "Correcta: el PBL es el límite máximo de gasto que puede comprometer el órgano de contratación, IVA incluido (art. 100.1). Aquí, 121.000 €.",
+   "200.000 € suma la prórroga, y el PBL no la incluye: eso es el valor estimado.",
+   "242.000 € es el doble del PBL: sumaría la prórroga con IVA, que no entra en el PBL."
+  ]
+ },
+ "pr-17-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101",
+  "correcta": 2,
+  "justificaciones": [
+   "200.000 € solo suma contrato y prórroga y deja fuera la modificación prevista y la opción de compra.",
+   "210.000 € suma contrato, prórroga y opción, pero omite las modificaciones previstas.",
+   "Correcta: 100.000 + 100.000 (prórroga) + 20.000 + 20.000 (modificación mantenida en la prórroga) + 10.000 (opción de compra) = 250.000 €, sin IVA (art. 101).",
+   "302.500 € incluye el IVA, y el valor estimado se calcula siempre sin IVA."
+  ],
+  "ojo": "Se entiende que la modificación de 20.000 € se mantiene durante la prórroga y se computa dos veces, como indica el enunciado."
+ },
+ "pr-17-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 1,
+  "justificaciones": [
+   "2.400 € sería el 3 % de 80.000 €, que es la oferta. La garantía provisional se calcula sobre el PBL, no sobre la oferta.",
+   "Correcta: máximo 3 % del PBL sin IVA (art. 106.2): 3 % de 100.000 € = 3.000 €.",
+   "3.630 € es el 3 % de 121.000 €, es decir, con IVA, y la base debe ser sin IVA.",
+   "7.500 € no corresponde a ningún cálculo legal."
+  ]
+ },
+ "pr-17-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102.1",
+  "correcta": 1,
+  "justificaciones": [
+   "80.000 € es el precio sin IVA. El precio del contrato incluye el IVA, que se indica aparte.",
+   "Correcta: la oferta son 96.800 € con IVA, y el precio incluye el IVA (art. 102.1).",
+   "100.000 € es el PBL sin IVA, no el precio ofertado.",
+   "121.000 € es el PBL con IVA, no el precio ofertado."
+  ]
+ },
+ "pr-17-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 5 % del precio final ofertado sin IVA (art. 107.1): 5 % de 80.000 € = 4.000 €.",
+   "4.840 € es el 5 % de 96.800 €, con IVA, y la base debe excluirlo.",
+   "5.000 € es el 5 % del PBL sin IVA, no del precio ofertado.",
+   "6.050 € es el 5 % del PBL con IVA, que no es la base."
+  ]
+ },
+ "pr-18-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 3,
+  "justificaciones": [
+   "30.150 € no resulta de aplicar el 3 % a ninguna base legal.",
+   "25.000 € es el 5 % de 500.000 €, y el máximo es el 3 %.",
+   "18.150 € es el 3 % de 605.000 €, con IVA, y la base debe excluirlo.",
+   "Correcta: 3 % del PBL sin IVA (art. 106.2): 3 % de 500.000 € = 15.000 €."
+  ]
+ },
+ "pr-18-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2",
+  "correcta": 1,
+  "justificaciones": [
+   "689.700 € no resulta de ninguna suma legal: parece incluir IVA.",
+   "Correcta: 500.000 + 50.000 (modificación prevista) + 20.000 (dos primas de 10.000) = 570.000 €, sin IVA (art. 101.2).",
+   "560.000 € omite las primas del diálogo competitivo, que sí se computan.",
+   "500.000 € es solo el PBL sin IVA y no suma modificación ni primas."
+  ]
+ },
+ "pr-18-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el PBL es el límite máximo de gasto, IVA incluido: 605.000 € (art. 100.1).",
+   "570.000 € es el valor estimado, que añade modificación y primas.",
+   "500.000 € es el PBL sin IVA y debe incluirse el IVA.",
+   "400.000 € es el precio sin IVA ofertado por Alvar."
+  ]
+ },
+ "pr-18-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 2,
+  "justificaciones": [
+   "12.000 € es el 3 % de 400.000 €, que no es el porcentaje de la garantía definitiva.",
+   "14.520 € es el 3 % de 484.000 €, y falla porcentaje y base (con IVA).",
+   "Correcta: 5 % del precio final ofertado sin IVA (art. 107.1): 5 % de 400.000 € = 20.000 €.",
+   "24.200 € es el 5 % de 484.000 €, es decir, con IVA, y la base debe ser sin IVA."
+  ]
+ },
+ "pr-18-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102.1",
+  "correcta": 1,
+  "justificaciones": [
+   "400.000 € es el precio sin IVA. El precio del contrato incluye el IVA.",
+   "Correcta: 484.000 € incluye el IVA (400.000 más el 21 %), como exige el art. 102.1.",
+   "500.000 € es el PBL sin IVA, no el precio ofertado.",
+   "605.000 € es el PBL con IVA, no el precio ofertado."
+  ]
+ },
+ "pr-19-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 5 % del precio final sin IVA (art. 107.1): 5 % de 298.000 € = 14.900 €.",
+   "15.000 € es el 5 % del PBL de 300.000 €, y la base es el precio final.",
+   "9.000 € es el 3 % del PBL: ese es el máximo de la garantía provisional.",
+   "8.940 € es el 3 % del precio final, porcentaje que no es el de la garantía definitiva."
+  ]
+ },
+ "pr-19-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 2,
+  "justificaciones": [
+   "9.100 € no responde a ningún cálculo legal.",
+   "9.500 € es el 5 % del PBL, y el máximo de la provisional es el 3 %.",
+   "Correcta: 3 % del PBL sin IVA (art. 106.2): 3 % de 190.000 € = 5.700 €. No se calcula sobre el valor estimado ni la oferta.",
+   "6.300 € es el 3 % del valor estimado de 210.000 €, y la base es el PBL."
+  ]
+ },
+ "pr-19-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 3,
+  "justificaciones": [
+   "3.000 € es el 5 % del PBL de 60.000 €, y la base es el precio final.",
+   "1.800 € es el 3 % del PBL: porcentaje de la provisional.",
+   "1.500 € es el 3 % del precio final: ni porcentaje ni base son los de la definitiva.",
+   "Correcta: 5 % del precio final sin IVA (art. 107.1): 5 % de 50.000 € = 2.500 €."
+  ]
+ },
+ "pr-19-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.2",
+  "correcta": 1,
+  "justificaciones": [
+   "15.000 € es el 5 % del PBL, y la base es el precio final.",
+   "Correcta: la complementaria puede llegar al 5 % del precio final sin IVA (art. 107.2): 5 % de 200.000 € = 10.000 €.",
+   "20.000 € es el 10 %, es decir, la garantía total, no la complementaria.",
+   "9.000 € es el 3 % del PBL, porcentaje que no corresponde."
+  ]
+ },
+ "pr-19-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 1,
+  "justificaciones": [
+   "7.500 € es el 3 % del PBL de 250.000 €, y no es el porcentaje de la definitiva.",
+   "Correcta: 5 % del precio final sin IVA (art. 107.1): 5 % de 225.000 € = 11.250 €.",
+   "12.500 € es el 5 % del PBL, y la base es el precio final.",
+   "15.000 € es el 5 % del valor estimado de 300.000 €, y tampoco es la base."
+  ]
+ },
+ "pr-20-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 2,
+  "justificaciones": [
+   "23.000 € es el 5 % del valor estimado, y no es porcentaje ni base legales.",
+   "13.800 € es el 3 % del valor estimado, y la base es el PBL.",
+   "Correcta: 3 % del PBL sin IVA (art. 106.2): 3 % de 400.000 € = 12.000 €.",
+   "11.400 € es el 3 % del precio ofertado, y la base es el PBL."
+  ]
+ },
+ "pr-20-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 1,
+  "justificaciones": [
+   "9.000 € es el 5 % del valor estimado, y la base no es esa.",
+   "Correcta: con precios unitarios la garantía se fija sobre el PBL sin IVA (art. 107.1): 5 % de 150.000 € = 7.500 €.",
+   "4.500 € es el 3 % del PBL, porcentaje de la provisional.",
+   "47,5 € sería el 5 % del precio unitario de 950 €. La base es el PBL, no el precio unitario."
+  ]
+ },
+ "pr-20-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.2",
+  "correcta": 3,
+  "justificaciones": [
+   "5.400 € es el 3 % del PBL, y no es la garantía total.",
+   "9.000 € es el 5 % del PBL, y la base es el precio final.",
+   "8.500 € es la complementaria máxima (5 % de 170.000 €), no la total.",
+   "Correcta: en casos especiales la garantía total puede llegar al 10 % del precio final sin IVA (art. 107.2): 17.000 €."
+  ]
+ },
+ "pr-20-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 1,
+  "justificaciones": [
+   "6.000 € es el 5 % del PBL de 120.000 €, y la base es el precio final.",
+   "Correcta: 5 % del precio final sin IVA (art. 107.1): 5 % de 100.000 € = 5.000 €.",
+   "3.600 € es el 3 % del PBL, porcentaje de la provisional.",
+   "10.000 € es el 10 %, porcentaje que solo se alcanza como garantía total en casos especiales."
+  ]
+ },
+ "pr-20-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 3 % del PBL sin IVA (art. 106.2): 3 % de 150.000 € = 4.500 €.",
+   "7.500 € es el 5 % del PBL, y el máximo de la provisional es el 3 %.",
+   "4.950 € es el 3 % del valor estimado, y la base es el PBL.",
+   "4.200 € es el 3 % de la oferta, y la base es el PBL."
+  ]
+ },
+ "pr-21-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 84.2 y 84.3",
+  "correcta": 2,
+  "justificaciones": [
+   "La eslovena (UE) y la islandesa (EEE) acreditan su capacidad por inscripción en el registro de su Estado o declaración jurada (art. 84.2).",
+   "La islandesa pertenece al EEE y acredita por registro de su Estado, igual que las de la UE.",
+   "Correcta: solo los demás empresarios extranjeros, no UE ni EEE, aportan el informe de la Misión Diplomática u Oficina Consular (art. 84.3).",
+   "La islandesa no necesita el informe, por ser del EEE."
+  ]
+ },
+ "pr-21-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 85",
+  "correcta": 3,
+  "justificaciones": [
+   "No es correcto: ni el informe de auditoría ni la certificación bancaria acreditan la ausencia de prohibición.",
+   "El testimonio judicial sí vale, pero la certificación bancaria no.",
+   "La certificación administrativa sí vale, pero el informe de auditoría no.",
+   "Correcta: testimonio judicial o certificación administrativa, según los casos (art. 85)."
+  ]
+ },
+ "pr-21-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 86.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los documentos que determine el órgano de contratación de entre los de los arts. 87 a 91 (art. 86.1).",
+   "La competencia es del órgano de contratación, no de la mesa.",
+   "No los fija un reglamento: los fija el órgano de contratación.",
+   "En servicios no es exigible la clasificación, sea cual sea el valor (art. 77.1.b)."
+  ]
+ },
+ "pr-21-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 86.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la Autoridad Administrativa Independiente no está en el umbral de 140.000 €, sino en el de 216.000 €, y 200.000 € no es armonizado, así que se admiten otros medios (art. 86.1).",
+   "150.000 € en un organismo autónomo supera 140.000 €: es contrato armonizado, y no cabe admitir otros medios.",
+   "225.000 € supera el umbral de 216.000 €: es armonizado.",
+   "Una concesión de obras de 5.500.000 € supera 5.404.000 €: es armonizada."
+  ],
+  "revisar": "Umbrales 140.000, 216.000 y 5.404.000 se actualizan cada dos años."
+ },
+ "pr-21-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 87.1",
+  "correcta": 2,
+  "justificaciones": [
+   "El volumen anual de negocios se refiere al mejor ejercicio de los tres últimos, no de cinco.",
+   "Es patrimonio neto, no bruto.",
+   "Correcta: el seguro de responsabilidad civil por riesgos profesionales es medio de solvencia económica (art. 87.1.b).",
+   "La plantilla media es medio de solvencia técnica, no económica."
+  ]
+ },
+ "pr-21-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 88.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí está prevista: relación de obras de los cinco últimos años (art. 88.1.a).",
+   "Sí está prevista: declaración del personal técnico u organismos técnicos (art. 88.1.b).",
+   "Sí está prevista: plantilla media y directivos de los tres últimos años (art. 88.1.e).",
+   "Correcta: indicar la parte a subcontratar es un medio de servicios (art. 90.1.i), no de obras."
+  ]
+ },
+ "pr-21-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 89.1",
+  "correcta": 2,
+  "justificaciones": [
+   "La plantilla media anual no figura en el art. 89.1: es un medio de obras y servicios.",
+   "Las medidas de gestión medioambiental figuran en obras y servicios, no en suministros.",
+   "Correcta: la descripción de instalaciones técnicas, calidad y medios de investigación es un medio de suministro (art. 89.1.c).",
+   "La relación de suministros es de como máximo los tres últimos años, no cinco (art. 89.1.a)."
+  ]
+ },
+ "pr-21-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 90.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí se ajusta: la parte a subcontratar es un medio de servicios (art. 90.1.i).",
+   "No se ajusta: los títulos del responsable solo valen como solvencia si no se evalúan como criterio de adjudicación (art. 90.1.e).",
+   "Sí se ajusta: las medidas de gestión medioambiental (art. 90.1.f).",
+   "Sí se ajusta: relación de servicios similares de los tres últimos años (art. 90.1.a)."
+  ]
+ },
+ "pr-21-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 96.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Falso: se inscriben también empresarios sin clasificación.",
+   "Correcta: acredita, salvo prueba en contrario, las condiciones de aptitud del empresario frente a todos los órganos de contratación del sector público (art. 96.1).",
+   "Falso: acredita frente a todos los órganos de contratación del sector público, no solo el estatal.",
+   "Falso: la inscripción no es presupuesto de admisibilidad en las licitaciones."
+  ]
+ },
+ "pr-21-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 98.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si la sociedad que recibe el contrato no reúne la solvencia, el contrato se resuelve por culpa del adjudicatario (art. 98.1).",
+   "No es culpa del ente adjudicador.",
+   "La ley no prevé suspensión hasta que se reúna la solvencia, sino resolución.",
+   "No se prevé continuar con garantías complementarias."
+  ]
+ },
+ "pr-21-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el objeto debe ser determinado, y puede definirse por necesidades o funcionalidades sin cerrarlo a una solución única (art. 99.1).",
+   "El objeto no puede ser indeterminado.",
+   "El objeto no tiene que cerrarse a una solución única.",
+   "Ni puede ser indeterminado ni debe cerrarse a una solución única."
+  ]
+ },
+ "pr-21-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Facilitar la participación de pymes es una finalidad legítima de la división en lotes.",
+   "Permitir la realización independiente de partes es la razón de los lotes (art. 99.3).",
+   "Favorecer la especialización es una finalidad legítima.",
+   "Correcta: no puede fraccionarse para bajar la cuantía y eludir publicidad o procedimiento (art. 99.2)."
+  ]
+ },
+ "pr-21-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.6 y 99.7",
+  "correcta": 1,
+  "justificaciones": [
+   "Las normas de procedimiento y publicidad se determinan por el valor acumulado de todos los lotes, no solo del lote 1.",
+   "Correcta: se aplican según el valor acumulado del conjunto, 300.000 € (art. 99.6).",
+   "La solvencia se exige por los lotes a los que se licita, no por el conjunto.",
+   "Cada lote es un contrato (art. 99.7), así que la garantía definitiva se calcula por el lote adjudicado."
+  ]
+ },
+ "pr-21-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: puede limitar el número de lotes a los que se oferta (art. 99.4.a).",
+   "Es correcta: salvo oferta integradora, cada lote es un contrato (art. 99.7).",
+   "Es la incorrecta: puede limitar también el número de lotes que se adjudican a cada licitador (art. 99.4.b).",
+   "Es correcta: puede permitirse ofertar a los tres lotes."
+  ]
+ },
+ "pr-21-015": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.3",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí justifica: la naturaleza u objeto del contrato no permiten dividirlo (art. 99.3).",
+   "Sí justifica: el riesgo de restringir la competencia (art. 99.3.a).",
+   "Sí justifica: la dificultad técnica de ejecución independiente (art. 99.3.b).",
+   "Correcta: las economías de escala no figuran entre los motivos válidos del art. 99.3."
+  ]
+ },
+ "pr-21-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.3",
+  "correcta": 1,
+  "justificaciones": [
+   "En obras sí se puede no dividir si hay motivos válidos.",
+   "Correcta: la excepción es la concesión de obras (art. 99.3).",
+   "En la concesión de servicios sí se puede no dividir.",
+   "Solo la concesión de obras es excepción, no la de servicios."
+  ]
+ },
+ "pr-21-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: el PBL es el límite máximo de gasto, IVA incluido (art. 100.1).",
+   "Es correcta: debe ser adecuado a los precios de mercado (art. 100.2).",
+   "Es la incorrecta: las prórrogas se tienen en cuenta en el valor estimado (art. 101), no en el PBL.",
+   "Es correcta: en acuerdos marco y SDA no se aprueba PBL previo (art. 100.3)."
+  ]
+ },
+ "pr-21-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "Las prórrogas sí entran en el valor estimado (art. 101.2.a).",
+   "Las modificaciones previstas sí entran: se toma el importe máximo (art. 101.2.c).",
+   "Las opciones eventuales sí entran (art. 101.2.a).",
+   "Correcta: el valor estimado se calcula sin IVA (art. 101.1.a)."
+  ]
+ },
+ "pr-21-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: importe neto de la cifra de negocios que generará el concesionario, sin IVA (art. 101.1.b).",
+   "La cifra de negocios es sin IVA, nunca con IVA.",
+   "Se toma la cifra de negocios del concesionario, no el total pagadero.",
+   "Ni es el total pagadero ni incluye el IVA."
+  ]
+ },
+ "pr-21-020": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 100.2 y 101.2",
+  "correcta": 1,
+  "justificaciones": [
+   "El IVA entra en el PBL pero no en el valor estimado.",
+   "Correcta: los gastos generales de estructura deben tenerse en cuenta en ambos (arts. 100.2 y 101.2).",
+   "Las prórrogas entran en el valor estimado, no en el PBL.",
+   "Las modificaciones previstas entran en el valor estimado, no en el PBL."
+  ]
+ },
+ "pr-21-021": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el PBL es el límite máximo de gasto, así que el precio de adjudicación es igual o inferior.",
+   "El precio no puede superar el PBL.",
+   "No puede ser superior al PBL.",
+   "No tiene que coincidir con el PBL: las ofertas pueden bajarlo."
+  ]
+ },
+ "pr-21-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: el IVA se entiende incluido y se indica como partida independiente (art. 102.1).",
+   "Es correcta: precios unitarios o a tanto alzado (art. 102.4).",
+   "Es la incorrecta: lo que cabe es celebrar contratos con precios provisionales cuando la ejecución deba empezar antes de poder fijar el precio (art. 102.7), no un pago aplazado.",
+   "Es correcta: puede pagarse parte del precio en otra moneda (art. 102.2)."
+  ]
+ },
+ "pr-21-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 103.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la fórmula de revisión es invariable durante la vigencia del contrato (art. 103.4).",
+   "La revisión opera al alza o a la baja (art. 102.5).",
+   "Se excluye el importe ejecutado en el primer año, no en los dos primeros (art. 103.5).",
+   "El período de cinco años se refiere a la revisión de costes de mano de obra en contratos distintos de obras, no a la revisión en obras."
+  ]
+ },
+ "pr-21-024": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 103.5",
+  "correcta": 1,
+  "justificaciones": [
+   "En concesión de servicios no se exige haber ejecutado el 20 %.",
+   "Correcta: no se exige el 20 % en concesión de servicios, pero sí que haya pasado un año desde la formalización (art. 103.5).",
+   "El plazo es de un año, no de dos.",
+   "No se puede revisar desde la formalización: hace falta que transcurra un año."
+  ]
+ },
+ "pr-21-025": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No se exige en todos los procedimientos: la regla general es que no procede.",
+   "No es exigible salvo dispensa: es al revés, no procede salvo exigencia motivada.",
+   "Correcta: solo excepcionalmente, por motivos de interés público debidamente justificados (art. 106.1).",
+   "No está suprimida: se puede exigir de forma excepcional."
+  ]
+ }
+}

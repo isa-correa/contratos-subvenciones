@@ -1,0 +1,559 @@
+{
+ "pr-46-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 213.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la garantía se incauta entera, no solo por el importe de los daños.",
+   "No: la incautación no agota la responsabilidad, porque cabe indemnización adicional.",
+   "Correcta: se incauta la garantía y se indemniza el daño que exceda de su importe (art. 213.3).",
+   "No: el 3 % del PBL es la penalidad por incumplir la comunicación de subcontratos o por demora en pagos, no un efecto de la resolución."
+  ]
+ },
+ "pr-46-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es requisito: autorización previa y expresa del órgano de contratación (art. 214.2.a).",
+   "Sí es requisito: el cedente debe tener ejecutado al menos el 20 % del importe del contrato (art. 214.2.b).",
+   "Sí es requisito: el cesionario debe tener capacidad, solvencia y no estar en prohibición de contratar (art. 214.2.c).",
+   "No es requisito tal y como se plantea: la cesión se formaliza en escritura pública, no en documento administrativo (art. 214.2.d)."
+  ],
+  "ojo": "La trampa está en “documento administrativo”: el art. 214.2.d exige escritura pública entre adjudicatario y cesionario."
+ },
+ "pr-46-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 215.2.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la subcontratación no necesita previsión expresa del PCAP; se puede salvo que el pliego la limite (art. 215.1).",
+   "No: la autorización previa solo se exige en contratos secretos o reservados (art. 215.2.d).",
+   "Correcta: con carácter general basta comunicarlo por escrito al órgano de contratación (art. 215.2.b).",
+   "No: el 20 % ejecutado es un requisito de la cesión, no de la subcontratación."
+  ]
+ },
+ "pr-46-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 215.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el contratista principal asume la total responsabilidad de la ejecución frente a la Administración (art. 215.4).",
+   "No: los subcontratistas quedan obligados solo ante el contratista principal.",
+   "No: la Ley no prevé responsabilidad solidaria del subcontratista frente a la Administración.",
+   "No: tampoco hay responsabilidad mancomunada, porque el subcontratista no responde ante la Administración."
+  ]
+ },
+ "pr-47-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 218",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es sistema de racionalización: los acuerdos marco (art. 218).",
+   "No lo es: la subasta electrónica es una fase del procedimiento (art. 143), no un sistema de racionalización.",
+   "Sí es sistema de racionalización: la centralización de la contratación en servicios especializados (art. 218).",
+   "Sí es sistema de racionalización: los sistemas dinámicos de adquisición (art. 218)."
+  ]
+ },
+ "pr-47-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: tres años no es el límite legal.",
+   "Correcta: la duración del acuerdo marco no puede exceder de cuatro años, salvo casos excepcionales justificados (art. 219.2).",
+   "No: cinco años es el tope general de los contratos de suministros y servicios de prestación sucesiva (art. 29.4), no del acuerdo marco.",
+   "No: seis años no está previsto como límite."
+  ]
+ },
+ "pr-47-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 221.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: solo pueden celebrarse contratos basados entre quienes fueron originariamente partes del acuerdo marco (art. 221.1).",
+   "No: incorporarse antes de las invitaciones no basta, porque no se admiten empresas nuevas.",
+   "No: incorporarse antes de que acabe el plazo de ofertas tampoco vale, por la misma razón.",
+   "No: ni siquiera con nueva licitación pueden participar empresas ajenas al acuerdo marco."
+  ],
+  "ojo": "Excepción del art. 227.4 para acuerdos marco de centrales de contratación, que no es lo que plantea la pregunta."
+ },
+ "pr-47-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 221.4.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la opción de adjudicar sin nueva licitación solo existe si el acuerdo marco establece todos los términos.",
+   "No: no cabe adjudicación directa a cualquier empresa, hace falta nueva licitación.",
+   "Correcta: si no se establecen todos los términos, se invita a nueva licitación a las empresas parte del acuerdo marco (art. 221.4.b).",
+   "No: la nueva licitación se limita a las empresas parte del acuerdo marco, no se abre a cualquiera."
+  ]
+ },
+ "pr-47-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 221.4.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la nueva licitación no es preceptiva en los armonizados, depende de lo que prevea el pliego del acuerdo marco.",
+   "Correcta: con todos los términos definidos cabe adjudicar sin nueva licitación o con ella, si el pliego lo prevé (art. 221.4.a).",
+   "No: no es obligatorio licitar siempre, el pliego puede prever adjudicación sin licitar con condiciones objetivas.",
+   "No: el procedimiento abierto simplificado no es una forma de adjudicar contratos basados."
+  ]
+ },
+ "pr-47-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 219.3 y 29.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la duración del contrato basado es independiente de la del acuerdo marco, que no lo limita.",
+   "No: no existe la regla de completar cuatro años desde el inicio del acuerdo marco.",
+   "No: tampoco se cuentan cinco años desde el inicio del acuerdo marco, sino desde el contrato basado.",
+   "Correcta: el contrato basado se rige por el art. 29, y los servicios de prestación sucesiva duran como máximo cinco años con prórrogas (arts. 219.3 y 29.4)."
+  ],
+  "ojo": "Aunque el acuerdo marco acabe el 31 de diciembre de 2026, el contrato basado puede seguir. Lo que exige la ley es que se adjudique mientras el acuerdo marco está vigente."
+ },
+ "pr-47-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 223.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los sistemas dinámicos también sirven para obras, no solo para servicios y suministros.",
+   "No: es para prestaciones de uso corriente, no singulares.",
+   "Correcta: obras, servicios y suministros de uso corriente y generalmente disponibles en el mercado (art. 223.1).",
+   "No: las prestaciones singulares y no disponibles habitualmente quedan fuera del sistema."
+  ]
+ },
+ "pr-47-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 223.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el sistema tiene duración limitada, no indefinida.",
+   "No: la Ley no fija un máximo de cuatro años para el sistema dinámico (eso es del acuerdo marco).",
+   "No: tampoco fija cinco años.",
+   "Correcta: la duración es limitada y la determinan los pliegos, sin plazo máximo legal (art. 223.2)."
+  ]
+ },
+ "pr-47-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 225.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el sistema está abierto a nuevas empresas durante toda su vigencia.",
+   "No: no hace falta ser empresa de nueva creación.",
+   "No: no hay limitación al primer año.",
+   "Correcta: cualquier empresa interesada puede pedir su incorporación durante todo el período de vigencia (art. 225.1)."
+  ]
+ },
+ "pr-47-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 226.2 y 226.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: hay que invitar a todas las empresas admitidas (o a las de la categoría), con un plazo mínimo de diez días (art. 226.2 y 226.3).",
+   "No: no se puede limitar la invitación a cinco empresas.",
+   "No: tampoco a tres, y el plazo mínimo es de diez días, no de quince.",
+   "No: cada contrato específico exige licitación (art. 226.1), no cabe prescindir de ella."
+  ]
+ },
+ "pr-47-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la declaración alcanza también a las obras, no solo a suministros y servicios.",
+   "No: el criterio es la homogeneidad general, no la complejidad técnica, y excluye las obras.",
+   "Correcta: suministros, obras y servicios que se contraten de forma general y con características esencialmente homogéneas (art. 229.1).",
+   "No: la complejidad técnica no es el criterio legal."
+  ]
+ },
+ "pr-47-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la Junta de Contratación Centralizada es el órgano de contratación del sistema, no el que declara.",
+   "Correcta: el Ministro de Hacienda declara de contratación centralizada (art. 229.1).",
+   "No: la Dirección General presta apoyo técnico y gestiona las adhesiones, pero no declara.",
+   "No: no corresponde al Consejo de Ministros."
+  ],
+  "ojo": "El art. 229.1 dice “Ministro de Hacienda y Función Pública” por la denominación antigua del ministerio."
+ },
+ "pr-47-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la contratación a través del sistema estatal es obligatoria para el sector público estatal (art. 229.2).",
+   "No: no es preferente, la ley lo configura como obligatorio (art. 229.2).",
+   "No: no es subsidiaria, no se aplica solo si falta otra vía.",
+   "No: no es potestativa, salvo para entidades que se adhieren voluntariamente (art. 229.3)."
+  ]
+ },
+ "pr-47-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el Ministro de Hacienda declara la contratación centralizada pero no contrata.",
+   "No: la Dirección General presta apoyo técnico, pero no es el órgano de contratación.",
+   "No: la Junta Consultiva es un órgano consultivo.",
+   "Correcta: el órgano de contratación es la Junta de Contratación Centralizada (art. 229.5)."
+  ]
+ },
+ "pr-47-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 230.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: en el ámbito obligatorio la competencia no queda en el órgano del ministerio comprador.",
+   "No: la Ley no atribuye esta competencia al Ministro de Transformación Digital.",
+   "No: tampoco al Ministro de Hacienda directamente.",
+   "Correcta: corresponde al órgano de contratación del sistema estatal, oídos los departamentos interesados (art. 230.1)."
+  ]
+ },
+ "pr-48-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 231.1, 235 y 236.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la supervisión va antes de la aprobación (art. 235).",
+   "No: el replanteo se hace una vez aprobado el proyecto, no antes de aprobarlo.",
+   "Correcta: elaboración, supervisión, aprobación y replanteo (arts. 231.1, 235 y 236.1).",
+   "No: el replanteo se hace antes de aprobar el expediente de contratación, no después (art. 236.1)."
+  ]
+ },
+ "pr-48-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 231.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la oficina de supervisión informa, no aprueba.",
+   "Correcta: aprueba el proyecto el órgano de contratación, salvo que una norma atribuya la competencia a otro órgano (art. 231.1).",
+   "No: el director facultativo dirige la ejecución, no aprueba el proyecto.",
+   "No: la mesa de contratación asiste en la adjudicación."
+  ]
+ },
+ "pr-48-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la supervisión se hace antes de aprobar el proyecto (art. 235).",
+   "No: tras la aprobación ya no es supervisión previa.",
+   "No: el replanteo se hace después de aprobar el proyecto, y la supervisión antes.",
+   "No: tras formalizar el contrato es demasiado tarde para supervisar."
+  ]
+ },
+ "pr-48-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el umbral se compara con el presupuesto base de licitación, no con el valor estimado.",
+   "No: el umbral es de 500.000 euros con IVA excluido. 592.900 euros IVA incluido son 490.000 sin IVA.",
+   "Correcta: 592.900 / 1,21 = 490.000, menos de 500.000, así que el informe es facultativo salvo que afecte a estabilidad, seguridad o estanqueidad (art. 235).",
+   "No: no es facultativo en todo caso, pasa a preceptivo si afecta a estabilidad, seguridad o estanqueidad."
+  ],
+  "ojo": "Trampa doble: el umbral mira al PBL (no al valor estimado) y lo hace sin IVA."
+ },
+ "pr-48-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 3,
+  "justificaciones": [
+   "No es el caso: 605.000 con IVA son 500.000 sin IVA, que es el umbral, y entonces el informe es preceptivo.",
+   "No es el caso: afecta a la estanqueidad, y entonces el informe es preceptivo aunque la obra sea pequeña.",
+   "No es el caso: afecta a la estabilidad, y el informe es preceptivo.",
+   "Correcta: 480.000 con IVA son unos 396.694 sin IVA, por debajo del umbral, y no afecta a estabilidad, seguridad ni estanqueidad."
+  ]
+ },
+ "pr-48-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el replanteo se hace sobre un proyecto ya aprobado.",
+   "Correcta: aprobado el proyecto y antes de aprobar el expediente de contratación (art. 236.1).",
+   "No: la aprobación del proyecto va antes del replanteo.",
+   "No: ya habría pasado el momento, porque el replanteo es previo a la aprobación del expediente."
+  ]
+ },
+ "pr-48-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: eso describe la comprobación del replanteo, que se hace tras formalizar el contrato (art. 237).",
+   "No: eso es la supervisión del proyecto (art. 235).",
+   "Correcta: comprobar la realidad geométrica de la obra, la disponibilidad de los terrenos y los supuestos básicos del proyecto (art. 236.1).",
+   "No: eso es la recepción de las obras (art. 243)."
+  ]
+ },
+ "pr-48-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.2 y 236.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en obras hidráulicas, de transporte y de carreteras se dispensa la disponibilidad previa de terrenos (art. 236.2).",
+   "No: la urgencia no dispensa de este requisito.",
+   "No: la cesión de terrenos por entidades públicas no dispensa, solo facilita acreditarlo con los acuerdos de cesión (art. 236.3).",
+   "No: sí hay dispensa, la del art. 236.2."
+  ]
+ },
+ "pr-48-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 234.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la falta de personal técnico no es un motivo legal.",
+   "No: ahorrar costes administrativos tampoco lo es.",
+   "No: los motivos de orden técnico deben obligar a vincular al empresario a los estudios, y esta opción dice lo contrario (art. 234.1.a).",
+   "Correcta: dimensión excepcional o dificultades técnicas singulares que requieran soluciones aportadas por las empresas (art. 234.1.b)."
+  ]
+ },
+ "pr-48-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 231.2 y 234.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no basta con aprobar el proyecto.",
+   "No: el replanteo no puede dejarse para después de iniciar las obras.",
+   "No: no pueden dejarse para durante la ejecución ni la supervisión, ni la aprobación ni el replanteo.",
+   "Correcta: la ejecución queda condicionada a la supervisión, aprobación y replanteo del proyecto (arts. 231.2 y 234.3)."
+  ]
+ },
+ "pr-48-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 234.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en la contratación conjunta de proyecto y obra se exige redactar antes un anteproyecto o documento similar (art. 234.2).",
+   "No: si se contratan por separado se licita el contrato de obras con el proyecto ya redactado.",
+   "No: con proyecto elaborado por la propia Administración no se exige anteproyecto.",
+   "No: no es exigible en todos los contratos de obras."
+  ]
+ },
+ "pr-48-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: no figura la reparación extraordinaria; existen la reparación simple y la gran reparación (art. 232.1).",
+   "Sí es grupo: primer establecimiento, reforma, restauración, rehabilitación o gran reparación (art. 232.1.a).",
+   "Sí es grupo: conservación y mantenimiento (art. 232.1.c).",
+   "Sí es grupo: demolición (art. 232.1.d)."
+  ]
+ },
+ "pr-48-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la conservación y el mantenimiento reparan el menoscabo por el uso natural del bien.",
+   "No: la reparación simple enmienda un menoscabo accidental.",
+   "Correcta: mejora y modernización de un bien existente entran en el concepto general de reforma (art. 232.3).",
+   "No: el “segundo establecimiento” no existe, solo el primer establecimiento."
+  ]
+ },
+ "pr-48-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la conservación responde al menoscabo por el natural uso, no a un accidente.",
+   "No: sería gran reparación solo si afectara fundamentalmente a la estructura resistente, y aquí no.",
+   "No: no se trata de ampliar ni modernizar el edificio.",
+   "Correcta: reparar un menoscabo accidental sin afectar a la estructura es reparación simple (art. 232.4)."
+  ]
+ },
+ "pr-48-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: restauración es reparar conservando la estética, respetando el valor histórico y manteniendo la funcionalidad (art. 232.6).",
+   "No: la rehabilitación da una nueva funcionalidad, aquí se mantiene la actual.",
+   "No: la conservación y mantenimiento responde al desgaste por el uso.",
+   "No: la gran reparación se refiere a daños accidentales en la estructura."
+  ]
+ },
+ "pr-48-016": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.7",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la restauración mantiene la funcionalidad y aquí el palacio pasa a ser biblioteca.",
+   "Correcta: rehabilitación es reparar conservando la estética y el valor histórico y dando una nueva funcionalidad compatible (art. 232.7).",
+   "No: la conservación y mantenimiento no cambia el uso del edificio.",
+   "No: el primer establecimiento crea un bien inmueble nuevo."
+  ]
+ },
+ "pr-49-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 1,
+  "justificaciones": [
+   "No: formalizar el contrato no inicia la ejecución de las obras.",
+   "Correcta: la ejecución del contrato de obras comienza con el acta de comprobación del replanteo (art. 237).",
+   "No: el replanteo del proyecto es previo a la contratación (art. 236).",
+   "No: lo que inicia la ejecución es el acta, no el inicio material de los trabajos."
+  ]
+ },
+ "pr-49-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en el plazo del contrato, máximo un mes desde la formalización salvo casos excepcionales justificados (art. 237).",
+   "No: el plazo se cuenta desde la formalización, no desde la adjudicación.",
+   "No: el máximo es un mes, no dos.",
+   "No: el art. 237 admite casos excepcionales justificados."
+  ]
+ },
+ "pr-49-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 238.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: las instrucciones verbales exigen ratificación escrita para ser vinculantes.",
+   "No: la ley no fija cinco días hábiles.",
+   "Correcta: deben ratificarse por escrito en el más breve plazo posible para ser vinculantes (art. 238.2).",
+   "No: las instrucciones verbales sí son admisibles, con esa condición."
+  ]
+ },
+ "pr-49-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 240.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la Administración expide la certificación, no la “aprueba” en ese plazo.",
+   "No: la certificación se refiere al mes ya vencido, así que se expide en el mes siguiente, no en octubre.",
+   "No: el plazo no es de días hábiles, y la DA 12.ª LCSP entiende naturales los plazos por días.",
+   "Correcta: se expide en los diez primeros días siguientes al mes, es decir, del 1 al 10 de noviembre de 2026, por días naturales (art. 240.1)."
+  ]
+ },
+ "pr-49-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 240.1 y 198.4",
+  "correcta": 3,
+  "justificaciones": [
+   "Es cierta: diciembre es el mes siguiente a noviembre y el 9 está dentro de los diez primeros días.",
+   "Es cierta: el pago son treinta días desde la aprobación de la certificación (art. 198.4).",
+   "Es cierta: la certificación es un pago a cuenta sujeto a la medición final (art. 240.1).",
+   "Es la incorrecta: el abono a cuenta no supone aprobación ni recepción de las obras (art. 240.1)."
+  ]
+ },
+ "pr-49-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no fija el precio la dirección facultativa.",
+   "Correcta: los precios los fija la Administración, previa audiencia del contratista por mínimo tres días hábiles (art. 242.2).",
+   "No: el contratista no fija el precio.",
+   "No: no se exige mutuo acuerdo, aunque si no lo acepta la Administración tiene salidas."
+  ]
+ },
+ "pr-49-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: puede contratarlas con otro empresario, pero a los mismos precios fijados, sin incrementar el 10 %.",
+   "No: encargarlas directamente a una entidad del sector público sin ser medio propio no está previsto.",
+   "No: no puede imponerlas al contratista a esos precios si este no los acepta, tiene las alternativas del 242.2.",
+   "Correcta: puede optar por la resolución del contrato conforme al art. 211 (art. 242.2)."
+  ],
+  "ojo": "Las tres opciones del 242.2 son: contratarlas con otro empresario a los mismos precios, ejecutarlas directamente o resolver."
+ },
+ "pr-49-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la unidad suprimida no se paga si no se ejecuta.",
+   "No: el 3 % es la indemnización de otros supuestos de resolución, no de supresión de unidades.",
+   "No: no se indemniza el beneficio industrial dejado de percibir.",
+   "Correcta: si la modificación suprime o reduce unidades de obra, el contratista no tiene derecho a indemnización (art. 242.1)."
+  ]
+ },
+ "pr-49-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: se comunica a la Intervención con cinco días de antelación mínima para que pueda acudir si lo considera oportuno (art. 242.3).",
+   "No: la asistencia de la Intervención es potestativa, no obligatoria.",
+   "No: no se comunica solo la recepción final, también la medición parcial de las unidades ocultas.",
+   "No: las unidades incorporadas por modificación sí se comunican."
+  ]
+ },
+ "pr-49-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el expediente se tramita tanto en las modificaciones previstas como en las no previstas.",
+   "No: tampoco solo en las previstas.",
+   "Correcta: el art. 242.4 regula el expediente sin distinguir entre modificaciones previstas y no previstas.",
+   "No: no depende de que haya incremento de precio."
+  ],
+  "ojo": "Por descarte: el art. 242.4 no distingue entre modificaciones previstas y no previstas."
+ },
+ "pr-49-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.4",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí forma parte: redactar la modificación y aprobarla técnicamente (art. 242.4.a).",
+   "Sí forma parte: audiencia del contratista y del redactor del proyecto por mínimo tres días (art. 242.4.b).",
+   "Sí forma parte: el órgano de contratación aprueba el expediente y los gastos complementarios (art. 242.4.c).",
+   "No forma parte: el 242.4 no prevé informe de la mesa de contratación."
+  ]
+ },
+ "pr-49-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.4.i",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: son 100 metros más sobre 2.000, y el gasto adicional, 40.000 sobre 1.000.000, es el 4 %, que no supera el 10 % (art. 242.4.i).",
+   "No: el límite no es el 3 %, ese es el de los precios nuevos.",
+   "No: el exceso de mediciones hasta el 10 % no es modificación, ni siquiera no sustancial.",
+   "No: no toda variación sobre el precio inicial es modificación."
+  ]
+ },
+ "pr-49-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.4.ii",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: precios nuevos sin incrementar el precio global y afectando a unidades de hasta el 3 % del presupuesto primitivo (art. 242.4.ii).",
+   "No: el 10 % es el límite del exceso de mediciones, no de los precios nuevos.",
+   "No: no se exige que el incremento del precio no supere el 3 %, sino que no haya incremento del precio global.",
+   "No: confunde el 10 % del exceso de mediciones con el requisito de los precios nuevos."
+  ]
+ },
+ "pr-50-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 210.2 y 243",
+  "correcta": 1,
+  "justificaciones": [
+   "No: terminar materialmente no basta, hace falta la recepción.",
+   "Correcta: el contrato se cumple con la recepción formal y de conformidad por la Administración (arts. 210.2 y 243).",
+   "No: la certificación final se aprueba después de la recepción.",
+   "No: el plazo de garantía es posterior al cumplimiento."
+  ]
+ },
+ "pr-50-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la resolución no es automática, es una de las dos opciones.",
+   "No: el nuevo plazo no es obligatorio, es una posibilidad.",
+   "Correcta: podrá concederse otro plazo improrrogable o declararse resuelto el contrato (art. 243.2).",
+   "No: no se recibe una obra con defectos descontando su reparación de la garantía."
+  ]
+ }
+}

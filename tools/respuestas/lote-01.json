@@ -1,0 +1,287 @@
+{
+ "au-01-001": {
+  "bloque": "lcsp-general",
+  "precepto": "Preámbulo de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Te han cambiado el año: las Directivas son de **2014**, no de 2013.",
+   "No. 2015 no es el año de ninguna de las dos. Las Directivas que transpone la ley, la de concesiones y la de contratación pública, son de 2014.",
+   "Es esta. La ley transpone la **Directiva 2014/23/UE** (concesiones) y la **Directiva 2014/24/UE** (contratación pública), las dos de 26 de febrero de 2014. La tercera, la 2014/25/UE (agua, energía, transportes y correos), se dejó para otra ley.",
+   "No. 2016 tampoco: ambas Directivas son de 2014."
+  ],
+  "ojo": "Ese día de febrero de 2014 salieron tres Directivas (23, 24 y 25). La LCSP solo transpone la 23 y la 24."
+ },
+ "au-01-002": {
+  "bloque": "lcsp-general",
+  "precepto": "Disposición final 16.ª de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La **disposición final 16.ª** dice que la ley entra en vigor a los cuatro meses de su publicación en el BOE. Se publicó el 9 de noviembre de 2017 y entró en vigor el 9 de marzo de 2018. Las excepciones son pocas: unos artículos entraron a los diez meses y otros al día siguiente de la publicación.",
+   "No. Seis meses es un plazo inventado. La disposición final 16.ª habla de **cuatro**.",
+   "No. Ocho meses tampoco. El plazo general es de cuatro meses.",
+   "No. Nueve meses no es el plazo de la ley. Con nueve meses, la fecha de entrada en vigor sería agosto de 2018 y no marzo."
+  ]
+ },
+ "au-01-003": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 1.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Publicidad y transparencia sí están, pero “eficacia y eficiencia” no son principios del **art. 1.1**. Además faltan la libertad de acceso y la no discriminación.",
+   "No. La eficiencia aparece en el artículo como objetivo (usar bien los fondos públicos), no como uno de los principios. Respuesta incompleta.",
+   "No. Acierta con la no discriminación y la igualdad de trato, pero “coordinación entre las Administraciones” no es un principio del art. 1.1, y faltan libertad de acceso, publicidad y transparencia.",
+   "Es esta. El **art. 1.1** cita tres principios: libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores. Para recordarlo: acceso, claridad y trato igual."
+  ]
+ },
+ "au-01-004": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 9.2 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Este contrato no está excluido. Está dentro de la ley, pero la ley le da carácter de contrato **privado** (art. 25.1.a, 2.º).",
+   "Es esta. El **art. 9.2** excluye la compraventa, donación, permuta y arrendamiento sobre bienes inmuebles, valores negociables y propiedades incorporales. Se rigen por la legislación patrimonial. Los inmuebles ya existentes se compran o se alquilan: fuera de la LCSP.",
+   "No. La concesión de obras es uno de los contratos típicos que regula la ley (art. 14). Está plenamente incluida.",
+   "No. El contrato de suministros es otro contrato típico de la ley (art. 16). Está incluido."
+  ],
+  "ojo": "Comprar o alquilar un edificio ya hecho queda fuera. Contratar a alguien para construirlo es un contrato de obras, dentro de la ley."
+ },
+ "au-01-005": {
+  "bloque": "lcsp-general",
+  "precepto": "Disposición adicional 12.ª de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Lo has puesto al revés. La regla general de la LCSP son los días **naturales**, no los hábiles.",
+   "Es esta. La **disposición adicional 12.ª** dice que los plazos por días se entienden naturales, salvo que la ley indique expresamente que solo cuentan los hábiles. Ejemplo de excepción: los 15 días hábiles que hay que esperar entre la adjudicación y la formalización (art. 153.3).",
+   "No. “En todo caso” es falso: hay plazos que la propia ley fija en días hábiles.",
+   "No. Es lo contrario de la regla general, y además “en todo caso” no admitiría excepciones."
+  ],
+  "ojo": "Si el último día del plazo es inhábil, se prorroga al primer día hábil siguiente (misma disposición). No confundas con la Ley 39/2015, donde los plazos por días son hábiles."
+ },
+ "au-01-006": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 11.3 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La concesión de obras es un contrato típico de la ley (art. 14). Está dentro.",
+   "No. El contrato de suministros está regulado en la ley (art. 16). Está dentro.",
+   "No. El contrato de servicios está regulado en la ley (art. 17). Está dentro.",
+   "Es esta. El **art. 11.3** excluye los contratos relativos a servicios de arbitraje y conciliación."
+  ]
+ },
+ "au-01-007": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3.3.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las fundaciones públicas no están en la lista de Administraciones Públicas del **art. 3.2**. Son sector público, pero de un nivel inferior.",
+   "Es esta. El **art. 3.3.b** las incluye entre los poderes adjudicadores. Son poder adjudicador sin ser Administración Pública. Recuerda su pareja de ejemplo: fundaciones públicas y mutuas colaboradoras con la Seguridad Social.",
+   "No. Es la misma idea que la primera opción: no son Administración Pública porque el art. 3.2 no las cuenta.",
+   "No. Los entes que son sector público pero no poder adjudicador son otros (por ejemplo, las entidades públicas empresariales). Las fundaciones públicas sí son poder adjudicador."
+  ]
+ },
+ "au-01-008": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 11.5 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 11.5** excluye los contratos de servicios relacionados con campañas políticas (con unos códigos CPV concretos) cuando los adjudica un partido político.",
+   "No. La concesión de servicios es un contrato típico de la ley (art. 15). Está dentro.",
+   "No. La concesión de obras es un contrato típico de la ley (art. 14). Está dentro.",
+   "No. Los contratos de espectáculos no están excluidos: son contratos de servicios a los que la ley da carácter privado (art. 25.1.a, 1.º). Dentro de la ley, pero como contratos privados."
+  ]
+ },
+ "au-01-009": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 9.2 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El contrato de obras es un contrato típico de la ley (art. 13). Está incluido.",
+   "Es esta. El **art. 9.2** excluye las compraventas sobre propiedades incorporales (derechos de autor, patentes...), **a no ser que** recaigan sobre programas de ordenador y deban calificarse como suministro o servicios.",
+   "No. El contrato de suministros es un contrato típico (art. 16). Está incluido.",
+   "No. La concesión de obras es un contrato típico (art. 14). Está incluida."
+  ],
+  "ojo": "Los programas de ordenador son la excepción de la excepción: son propiedad incorporal, pero la ley los deja dentro."
+ },
+ "au-01-010": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 9.2 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No son contratos administrativos. La ley los excluye de su ámbito y les da carácter privado.",
+   "No. No son contratos de suministros. Solo serían suministro o servicios si recayeran sobre programas de ordenador, y aquí se trata de valores negociables.",
+   "No. Tampoco son contratos de servicios, por la misma razón que el suministro.",
+   "Es esta. El **art. 9.2** dice que estos negocios quedan excluidos de la ley y que “tendrán siempre el carácter de contratos privados”. Se rigen por la legislación patrimonial."
+  ]
+ },
+ "au-01-011": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 11 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, pero no es la única. El **art. 11.1** excluye la relación de servicio de los funcionarios y los contratos regulados por la legislación laboral.",
+   "Es verdadera, pero tampoco es la única. Es el **art. 11.2**: las relaciones consistentes en prestar un servicio público cuyo uso requiere pagar una tarifa, tasa o precio público de aplicación general.",
+   "Es verdadera, pero tampoco es la única. Es el **art. 11.3**: los contratos de arbitraje y conciliación.",
+   "Es esta. Las tres opciones anteriores son exclusiones del **art. 11**, así que “todos los anteriores” es la respuesta."
+  ],
+  "ojo": "Cuando una opción dice “todos los anteriores”, comprueba una por una. Aquí las tres son verdaderas."
+ },
+ "au-01-012": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3.1.i de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las Administraciones Públicas son las que enumera el **art. 3.2**, y los fondos sin personalidad jurídica no están entre ellas.",
+   "No. Los poderes adjudicadores son los del **art. 3.3** y tampoco incluye a estos fondos.",
+   "Es esta. El **art. 3.1.i** los menciona como parte del sector público. Son el último escalón: sector público, pero ni poder adjudicador ni Administración Pública.",
+   "No. Al revés: están dentro de la ley, como entes del sector público, y por eso deben aplicar sus reglas."
+  ]
+ },
+ "au-01-013": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 3.2 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las Diputaciones Forales y Juntas Generales del País Vasco sí son Administraciones Públicas: el **art. 3.2.a** remite a la letra l) del art. 3.1, que las incluye.",
+   "Es esta. Las mutuas colaboradoras con la Seguridad Social (**art. 3.1.f**) son sector público y poder adjudicador, pero no Administración Pública porque el art. 3.2 no las lista.",
+   "No. Las Entidades Gestoras y Servicios Comunes de la Seguridad Social sí son Administración Pública (art. 3.1.b, que el art. 3.2.a recoge).",
+   "No. Las Ciudades Autónomas de Ceuta y Melilla y la Administración Local están en el art. 3.1.a, y el art. 3.2.a las cuenta como Administraciones Públicas."
+  ],
+  "ojo": "Pareja que se confunde mucho: las entidades gestoras de la Seguridad Social sí son Administración Pública. Las mutuas, no."
+ },
+ "au-26-001": {
+  "bloque": "subv-general",
+  "precepto": "Formas de actividad administrativa: policía, servicio público y fomento",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En la actividad de **policía** la Administración limita o condiciona lo que pueden hacer los particulares para proteger el interés general: autorizaciones, licencias, sanciones. Abrir un bar exige licencia previa.",
+   "No. Una subvención es actividad de **fomento**: se ayuda para animar una conducta, no se limita.",
+   "No. Prestar un servicio de transporte regular es **servicio público**: la Administración presta algo a los ciudadanos.",
+   "No. Las bonificaciones en la cotización son un incentivo económico, es decir, actividad de **fomento**."
+  ],
+  "ojo": "Truco: si limita o exige permiso, policía. Si presta algo, servicio público. Si incentiva o premia, fomento."
+ },
+ "au-26-002": {
+  "bloque": "subv-general",
+  "precepto": "Formas de actividad administrativa: policía, servicio público y fomento",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Conceder una licencia es actividad de **policía**: la Administración autoriza algo que un particular quiere hacer.",
+   "Es esta. Abrir y gestionar un hospital es **servicio público**: la Administración presta directamente una prestación a los ciudadanos, en este caso asistencia sanitaria.",
+   "No. Una beca es una ayuda para que alguien estudie, es decir, actividad de **fomento**.",
+   "No. Un premio reconoce y estimula una conducta ejemplar: es actividad de **fomento** (en su forma honorífica)."
+  ]
+ },
+ "au-26-003": {
+  "bloque": "subv-general",
+  "precepto": "Art. 2.1 de la Ley 38/2003",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 2.1.a** exige justo lo contrario: que la entrega se haga **sin** contraprestación directa del beneficiario. Si hay contraprestación, es un contrato, no una subvención.",
+   "Es verdadera, así que no se marca. Es el **art. 2.1.b**: la entrega está sujeta a un objetivo, proyecto, actividad, comportamiento o situación.",
+   "Es verdadera, así que no se marca. Es el **art. 2.1.c**: lo financiado debe fomentar una actividad de utilidad pública o interés social.",
+   "Es verdadera, así que no se marca. Es el **art. 2.1.a**: sin contraprestación directa."
+  ],
+  "ojo": "Las opciones 0 y 3 dicen lo contrario una de la otra. Cuando pasa eso, una de las dos suele ser la respuesta."
+ },
+ "au-26-004": {
+  "bloque": "subv-general",
+  "precepto": "Formas de actividad administrativa: policía, servicio público y fomento",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Construir un colegio es una prestación a los ciudadanos, es decir, **servicio público**.",
+   "No. Autorizar la ocupación del dominio público es una autorización administrativa, propia de la actividad de **policía**.",
+   "No. La autorización de residencia es una autorización previa, otra vez actividad de **policía**.",
+   "Es esta. Exonerar de cuotas a quien contrata a personas con discapacidad es un incentivo económico para animar esa conducta: actividad de **fomento**."
+  ]
+ },
+ "au-26-005": {
+  "bloque": "subv-general",
+  "precepto": "Art. 2.4 de la Ley 38/2003",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Los beneficios fiscales y los beneficios en la cotización a la Seguridad Social están excluidos en el **art. 2.4.g**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. Es casi la definición de subvención del **art. 2.1**: disposición dineraria a favor de personas públicas o privadas que cumplen unos requisitos. Sí tiene carácter de subvención.",
+   "Es verdadera, así que no se marca. Las prestaciones contributivas y no contributivas de la Seguridad Social están excluidas en el **art. 2.4.a**.",
+   "Es verdadera, así que no se marca. Las prestaciones del Fondo de Garantía Salarial están excluidas en el **art. 2.4.f**."
+  ]
+ },
+ "au-26-006": {
+  "bloque": "subv-general",
+  "precepto": "Arts. 2.4 y 4.a de la Ley 38/2003",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 4.a** deja fuera de la ley solo los premios que se otorgan **sin** que el beneficiario los haya pedido. Si el premio se concede previa solicitud, no queda excluido y entra en el régimen de la Ley.",
+   "No. Las prestaciones no contributivas de la Seguridad Social no tienen carácter de subvención (**art. 2.4.a**).",
+   "No. Las contributivas tampoco: están en el mismo **art. 2.4.a**.",
+   "No. Los beneficios fiscales y los de cotización a la Seguridad Social están excluidos en el **art. 2.4.g**."
+  ],
+  "ojo": "Los premios van por la solicitud: sin solicitud, excluidos de la ley. Con solicitud, dentro."
+ },
+ "au-26-007": {
+  "bloque": "subv-general",
+  "precepto": "Arts. 4 y 22.2.a de la Ley 38/2003",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las subvenciones de la Ley Orgánica de Financiación de los Partidos Políticos están excluidas en el **art. 4.c**.",
+   "Es esta. Las subvenciones previstas nominativamente en los Presupuestos no están excluidas: se conceden de forma directa, pero siguen sujetas a la ley (**art. 22.2.a**).",
+   "No. Las subvenciones de la Ley Orgánica del Régimen Electoral General están excluidas en el **art. 4.b**.",
+   "No. Los premios otorgados sin solicitud previa están excluidos en el **art. 4.a**."
+  ]
+ },
+ "au-26-008": {
+  "bloque": "subv-general",
+  "precepto": "Art. 2.4.a de la Ley 38/2003",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Ni las contributivas ni las no contributivas son subvenciones. El **art. 2.4.a** las excluye a las dos.",
+   "No. Tampoco solo las no contributivas: el **art. 2.4.a** habla de ambas.",
+   "Es esta. El **art. 2.4.a** dice que las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social no tienen carácter de subvenciones.",
+   "No. Es justo lo contrario de lo que dice el **art. 2.4.a**."
+  ]
+ },
+ "au-26-009": {
+  "bloque": "subv-general",
+  "precepto": "Formas de actividad administrativa: policía, servicio público y fomento",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El transporte público es un **servicio público**: la Administración presta algo a los ciudadanos.",
+   "No. Las multas son sanciones, propias de la actividad de **policía**.",
+   "No. Las licencias de obra son autorizaciones previas: **policía**.",
+   "Es esta. Condecoraciones y títulos son fomento en su forma **honorífica**: se reconoce a quien actúa de forma ejemplar para animar a los demás."
+  ]
+ },
+ "au-26-010": {
+  "bloque": "subv-general",
+  "precepto": "Exposición de motivos de la Ley 38/2003",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Mantener el orden público es actividad de **policía**.",
+   "Es esta. El **fomento** busca dirigir la acción de los particulares hacia fines de interés general sin obligarles, con incentivos. La exposición de motivos de la ley lo dice de las subvenciones: son una técnica de fomento de comportamientos de interés general.",
+   "No. Suministrar prestaciones a los particulares es **servicio público**.",
+   "No. Reprimir conductas contrarias a la ley es actividad de **policía**, en su forma sancionadora."
+  ]
+ },
+ "au-26-011": {
+  "bloque": "subv-general",
+  "precepto": "Art. 2.1 de la Ley 38/2003",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 2.1** no habla de cualquier persona física o jurídica: la disposición debe hacerla alguno de los sujetos del **art. 3** (las Administraciones públicas y los entes que la ley enumera). Un particular que regala dinero no da una subvención.",
+   "Es verdadera, así que no se marca. Es el **art. 2.1.a**: sin contraprestación directa.",
+   "Es verdadera, así que no se marca. Es el **art. 2.1.c**: fomento de una actividad de utilidad pública o interés social.",
+   "Es verdadera, así que no se marca. Es el **art. 2.1.b**: sujeta al cumplimiento de un objetivo, proyecto o situación."
+  ]
+ },
+ "au-26-012": {
+  "bloque": "subv-general",
+  "precepto": "Art. 2.4.h de la Ley 38/2003",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Las prestaciones a favor de afectados por el virus de inmunodeficiencia humana están excluidas en el **art. 2.4.c**.",
+   "Esta es la falsa, y por eso es la que hay que marcar. El **art. 2.4.h** excluye el crédito oficial, salvo cuando la Administración subvenciona al prestatario los intereses de la operación de crédito. En ese caso sí es subvención.",
+   "Es verdadera, así que no se marca. Las ayudas a víctimas de violencia de género están excluidas en el **art. 2.4.i**.",
+   "Es verdadera, así que no se marca. Los beneficios fiscales están excluidos en el **art. 2.4.g**."
+  ],
+  "ojo": "El crédito oficial no es subvención, pero subvencionar sus intereses sí lo es. Es la excepción a la regla."
+ }
+}

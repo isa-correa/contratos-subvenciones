@@ -1,0 +1,570 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-56-003",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 3,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "La gestión de las subvenciones se realizará de acuerdo con los siguientes principios: Publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia y eficiencia.",
+    "La gestión de las subvenciones se realizará de acuerdo con los siguientes principios: Participación ciudadana, transparencia, solidaridad, objetividad, coordinación, solvencia y eficiencia."
+   ]
+  },
+  {
+   "id": "pr-56-004",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 4,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Se aprobará un plan estratégico para cada Administración, que abarcará las subvenciones de sus organismos y demás entes públicos a él vinculados.",
+    "Los planes estratégicos contendrán previsiones para un periodo de vigencia de tres años, salvo que por la especial naturaleza del sector afectado, sea conveniente establecer un plan estratégico de duración diferente."
+   ]
+  },
+  {
+   "id": "pr-56-005",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 5,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "Se realiza un seguimiento anual del plan estratégico de subvenciones correspondiente y para ello cada Departamento ministerial emitirá antes del 31 de octubre de cada año un informe sobre el grado de avance de la aplicación del plan, sus efectos y las repercusiones.",
+    "Los planes estratégicos de subvenciones se aprueban por el Ministro responsable de su ejecución y se remitirán a la Secretaría de Estado de Hacienda y Presupuestos y a las Cortes Generales para su conocimiento."
+   ]
+  },
+  {
+   "id": "pr-56-006",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 6,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "Con carácter previo al otorgamiento de las subvenciones, deberán aprobarse las normas que establezcan las bases reguladoras de concesión, un extracto de la misma se publicará en el Boletín Oficial del Estado.",
+    "Un requisito previo al otorgamiento de una subvención será la aprobación del gasto por el órgano competente para ello."
+   ]
+  },
+  {
+   "id": "pr-56-007",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 7,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "En los organismos y entidades de derecho público vinculadas o dependientes de la Administración General del Estado serán competentes para otorgar subvenciones los Presidentes o directores.",
+    "La concesión de subvenciones de cuantía superior a 12 millones de euros será competencia del Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-56-008",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 8,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "Las competencia para conceder subvenciones, llevará aparejada la de aprobar el gasto correspondiente.",
+    "Las facultades para conceder subvenciones, podrán ser objeto de desconcentración mediante real decreto acordado en Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-56-009",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 9,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Las agrupaciones de personas físicas o jurídicas, públicas o privadas siempre pueden ser beneficiarios de una subvención.",
+    "Cuando el beneficiario sea una agrupación de personas físicas o jurídicas, públicas o privadas sin personalidad jurídica deberá nombrarse un representante."
+   ]
+  },
+  {
+   "id": "pr-56-010",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 10,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Podrán actuar como entidades colaboradoras las comunidades autónomas y las corporaciones locales respecto de las subvenciones concedidas por la Administración General del Estado.",
+    "Para ser entidad colaboradora de una subvención deberá estar inscrita como tal en la Base de Datos nacional de Subvenciones."
+   ]
+  },
+  {
+   "id": "pr-56-011",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 11,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "No podrán obtener la condición de beneficiario o entidad colaboradora los que tengan la residencia fiscal en un país o territorio calificado como extranjero.",
+    "No hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social es motivo de prohibición para obtener la condición de beneficiario en materia de subvenciones."
+   ]
+  },
+  {
+   "id": "pr-56-012",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 12,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "Podrá justificarse mediante testimonio judicial el no estar incursos en las prohibiciones para obtener la condición de beneficiario.",
+    "No podrá ser entidad colaboradora de una subvención quien haya sido sancionado mediante resolución con la pérdida de la posibilidad de obtener subvenciones."
+   ]
+  },
+  {
+   "id": "pr-56-013",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 13,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Una de las obligaciones de los beneficiarios será comunicar al órgano concedente la obtención de otras subvenciones con distinta finalidad.",
+    "Será obligación del beneficiario acreditar con anterioridad a dictarse la propuesta de resolución de concesión que se halla al corriente en el cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social."
+   ]
+  },
+  {
+   "id": "pr-56-014",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 14,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "Justificar la entrega de los fondos percibidos ante el órgano concedente de la subvención será una de las obligaciones que se le exige a las entidades colaboradoras.",
+    "Las entidades colaboradoras tendrán como obligación establecida en la ley de subvenciones el cumplimiento del objetivo que fundamenta la concesión de dicha subvención."
+   ]
+  },
+  {
+   "id": "pr-56-015",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 15,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "Los convenios de colaboración con las entidades colaboradoras incluidas las prórrogas no podrán exceder de seis años.",
+    "Para poder prorrogar un convenio de colaboración será necesaria la autorización por escrito del órgano concedente."
+   ]
+  },
+  {
+   "id": "pr-56-016",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 16,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Las bases reguladoras deberán ser aprobadas por Acuerdo de Consejo de Ministros.",
+    "En las bases reguladoras de una subvención figurara los criterios objetivos de otorgamiento de la subvención y ponderación de los mismos."
+   ]
+  },
+  {
+   "id": "pr-56-017",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 17,
+   "enunciado": "Señale la respuesta correcta:",
+   "opciones": [
+    "La Base de Datos Nacional de Subvenciones suministrará información pública sobre las sanciones firmes impuestas por infracciones graves y muy graves.",
+    "La BDNS operará como sistema nacional de publicidad de las subvenciones."
+   ]
+  },
+  {
+   "id": "pr-56-018",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 18,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "El importe de las subvenciones en ningún caso podrá superar el coste de la actividad subvencionada.",
+    "En ningún caso podrá percibirse otra subvenciones para la misma finalidad."
+   ]
+  },
+  {
+   "id": "pr-56-019",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 19,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "El tribunal de cuentas es el órgano responsable de la administración y custodia de la Base de Datos Nacional de Subvenciones.",
+    "Las administraciones concedentes deberán remitir a la BDNS información sobre las convocatorias de subvenciones y las resoluciones de concesión recaídas."
+   ]
+  },
+  {
+   "id": "pr-56-020",
+   "origen": "practicas",
+   "test": "Ejercicio 24.- Titulo Preliminar",
+   "n": 20,
+   "enunciado": "Señale la respuesta incorrecta:",
+   "opciones": [
+    "Las entidades colaboradoras deberán dar publicidad de las subvenciones y ayudas percibidas.",
+    "No serán publicadas las subvenciones concedidas cuando la publicación de los datos del beneficiario pueda ser contrario al respeto y salvaguarda del honor, a la intimidad personal o familiar de las personas físicas y así haya sido previsto en su normativa reguladora."
+   ]
+  },
+  {
+   "id": "pr-57-001",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 1,
+   "enunciado": "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-002",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 2,
+   "enunciado": "Excepcionalmente, cuando así lo prevean las bases reguladoras, el órgano competente procederá al prorrateo entre los beneficiarios del importe global máximo destinado a las subvenciones.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-003",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 3,
+   "enunciado": "Podrá concederse de forma directa subvenciones cuyo otorgamiento o cuantía venga reglamentariamente impuesto a la Administración.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-004",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 4,
+   "enunciado": "Las convocatorias de las subvenciones deberán indicar necesariamente si la resolución pone fin a la vía administrativa y, en caso contrario, órgano ante el que ha de interponerse recurso de alzada.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-005",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 5,
+   "enunciado": "La presentación de la solicitud por parte del beneficiario conllevará la autorización al órgano gestor para recabar los certificados a emitir por la Agencia Estatal de Administración Tributaria (AEAT) y por la Tesorería General de la Seguridad Social (TGSS).",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-006",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 6,
+   "enunciado": "Si en un procedimiento de concurrencia competitiva la solicitud no reúne los requisitos establecidos en la norma de convocatoria, el órgano competente requerirá al interesado para que la subsane en el plazo máximo e improrrogable de 15 días.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-007",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 7,
+   "enunciado": "La convocatoria de una subvención deberá publicarse en el BOE y un extracto de la misma en la BDNS.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-008",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 8,
+   "enunciado": "La instrucción del procedimiento de concesión de subvenciones en régimen de concurrencia competitiva corresponde al órgano concedente.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-009",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 9,
+   "enunciado": "La propuesta de resolución definitiva en un procedimiento de concurrencia competitiva se notificará a los interesados que hayan sido propuestos como beneficiarios, para que en el plazo previsto en dicha normativa comuniquen su aceptación.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-010",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 10,
+   "enunciado": "Las propuestas de resolución provisional y definitiva no crean derecho alguno a favor del beneficiario propuesto, frente a la Administración, mientras no se le haya notificado la resolución de concesión.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-011",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 11,
+   "enunciado": "La resolución de un procedimiento de concurrencia competitiva, además de contener la relación de solicitantes a los que se concede la subvención, hará constar, en su caso, de manera expresa, la desestimación del resto de las solicitudes.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-012",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 12,
+   "enunciado": "El plazo para resolver un procedimiento en régimen de concurrencia competitiva será un máximo de 6 meses a contar desde el día siguiente en que el interesado presenta su solicitud.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-013",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 13,
+   "enunciado": "Cuando el importe de la propuesta de resolución provisional sea inferior al solicitado, si así se ha previsto en las bases reguladoras se podrá instar del beneficiario la reformulación de su solicitud.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-014",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 14,
+   "enunciado": "Los contratos serán el instrumento habitual para canalizar las subvenciones previstas nominativamente en los Presupuestos Generales del Estado.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-015",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 15,
+   "enunciado": "El beneficiario únicamente podrá subcontratar la actividad subvencionada parcialmente y solo cuando la normativa reguladora de la subvención así lo prevea.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-016",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 16,
+   "enunciado": "Los contratistas quedarán obligados sólo ante el beneficiario, que asumirá la total responsabilidad de la ejecución de la actividad subvencionada frente a la Administración.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-017",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 17,
+   "enunciado": "Si viene establecido en las bases reguladoras podrá concertarse por el beneficiario la ejecución total o parcial de las actividades subvencionadas con personas o entidades, aunque estén incursas en alguna de las prohibiciones del artículo 13 de esta ley.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-018",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 18,
+   "enunciado": "Cuando las actividades hayan sido financiadas, además de con la subvención, con fondos propios u otras subvenciones o recursos, deberá acreditarse en la justificación el importe, procedencia y aplicación de tales fondos a las actividades subvencionadas.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-019",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 19,
+   "enunciado": "En ningún caso serán gastos subvencionables los tributos abonados efectivamente por el beneficiario.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-57-020",
+   "origen": "practicas",
+   "test": "Ejercicio 25.- Titulo I. Verdadero o Falso",
+   "n": 20,
+   "enunciado": "Cuando el importe del gasto subvencionable supere las cuantías establecidas para el contrato menor el beneficiario deberá solicitar como mínimo tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso.",
+   "opciones": [
+    "VERDADERO.",
+    "FALSO."
+   ]
+  },
+  {
+   "id": "pr-58-001",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 1,
+   "enunciado": "El incumplimiento de las condiciones establecidas alterando sustancialmente los fines para los que la subvención fue concedida.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-002",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 2,
+   "enunciado": "El incumplimiento de obligaciones de índole contable o registral.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-003",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 3,
+   "enunciado": "La presentación fuera de plazo de las cuentas justificativas de la aplicación dada a los fondos percibidos, así como su presentación inexacta o incompleta.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-004",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 4,
+   "enunciado": "La no aplicación, en todo o en parte, de las cantidades recibidas a los fines para los que la subvención fue concedida.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-005",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 5,
+   "enunciado": "El incumplimiento por parte de la entidad colaboradora de la obligación de verificar, en su caso, el cumplimiento y efectividad de las condiciones o requisitos determinantes para el otorgamiento de las subvenciones, cuando de ello se derive la obligación de reintegro",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-006",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 6,
+   "enunciado": "La resistencia, excusa, obstrucción o negativa a las actuaciones de control, cuando de ello se derive la imposibilidad de verificar el empleo dado a los fondos percibidos.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-007",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 7,
+   "enunciado": "La obtención de la condición de entidad colaboradora falseando los requisitos requeridos en las bases reguladoras de la subvención u ocultando los que la hubiesen impedido.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-008",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 8,
+   "enunciado": "La falta de suministro de información por parte de las administraciones, organismos y demás entidades obligadas a suministrar información a la Base de Datos Nacional de Subvenciones (BDNS).",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-009",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 9,
+   "enunciado": "La obtención de una subvención falseando las condiciones requeridas para su concesión u ocultando las que la hubiesen impedido o limitado.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-58-010",
+   "origen": "practicas",
+   "test": "Ejercicio 26.- Infracciones",
+   "n": 10,
+   "enunciado": "La falta de justificación del empleo dado a los fondos recibidos una vez transcurrido el plazo establecido para su presentación.",
+   "opciones": [
+    "Leve.",
+    "Grave.",
+    "Muy Grave."
+   ]
+  },
+  {
+   "id": "pr-59-001",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 1,
+   "enunciado": "Los planes estratégicos contendrán previsiones para un periodo de vigencia de:",
+   "opciones": [
+    "1 año.",
+    "6 meses.",
+    "4 años.",
+    "3 años."
+   ]
+  },
+  {
+   "id": "pr-59-002",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 2,
+   "enunciado": "El informe sobre el grado de avance de la aplicación del plan estratégico de subvenciones correspondiente, así como sus efectos y las repercusiones presupuestarias y financieras se emitirá antes del:",
+   "opciones": [
+    "31 de octubre de cada año.",
+    "30 de abril de cada año.",
+    "31 de diciembre de cada año.",
+    "30 de septiembre de cada año."
+   ]
+  }
+ ]
+}

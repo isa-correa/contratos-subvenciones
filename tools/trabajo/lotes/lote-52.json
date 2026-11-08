@@ -1,0 +1,565 @@
+{
+ "casos": {
+  "caso-69": {
+   "id": "caso-69",
+   "titulo": "Bloque III.- Supuesto 28",
+   "texto": "El Ministerio de Agricultura, Pesca y Alimentación (en adelante MAPA) cuenta con un Centro de Educación Infantil para el cuidado y educación de los hijos de sus empleados públicos de 0 a 3 años. El Centro de Educación Infantil está adscrito a la Subdirección General de Recursos Humanos dependiente de la Subsecretaría del Departamento. El 1 de febrero de 2024 el MAPA inicia un expediente de contratación para la reforma parcial del pabellón en el que se ubica el Centro de Educación Infantil. Entre las actuaciones previstas se encuentra la sustitución de las ventanas. El presupuesto máximo del contrato se estableció en 300.000 euros (IVA excluido) y el plazo máximo de ejecución en 3 meses. La empresa REFORMAS S.A. fue la adjudicataria del contrato por 298.000 euros (IVA excluido). La ejecución del contrato comienza el 6 de mayo de 2024. Durante su desarrollo, el 15 de julio de 2024 se produce un accidente al precipitarse una ventana y caer sobre un vehículo aparcado en la calle, causándole daños en el techo. El vehículo es propiedad de D. Faustino Menéndez. Al día siguiente, el 16 de julio de 2024, D. Faustino se dirige a la Oficina de Asistencia en materia de registros del MAPA y presenta una solicitud de indemnización por los daños sufridos en su vehículo. Posteriormente, se le requiere para subsanar la solicitud aportando documentación acreditativa de los daños ocasionados. Este trámite lo realiza a través de un representante, D. Julio Salcedo. Finalizada la reforma, por resolución del Subdirector General de Recursos Humanos, de 1 de octubre de 2024, se aprueba y publica la convocatoria para la admisión de nuevos alumnos en el Centro de Educación Infantil, estableciéndose un plazo de 10 días hábiles y la utilización exclusivamente de medios telemáticos para la presentación de solicitudes. En las bases de la convocatoria se indica que podrán solicitar plaza el personal laboral y los funcionarios del MAPA que se encuentren en servicio activo en el momento de realizar la solicitud. Para la valoración de las solicitudes se constituye una comisión de la que forma parte D. José Jiménez. Tras la primera reunión de dicha comisión, un interesado presenta un escrito solicitando la recusación de D. José Jiménez, alegando que una de las solicitantes es su sobrina. El viernes, 18 de octubre de 2024, a las 10:00 horas, se publicó el listado provisional de solicitudes admitidas y excluidas, resultando excluido D. Jerónimo Jiménez —grupo profesional E2 y especialidad Actividades comerciales— por no haber presentado su solicitud a través de medios telemáticos, tal como establecía la convocatoria. Por resolución del Subdirector General de Recursos Humanos el jueves 24 de octubre de 2024 se aprobaron y publicaron las listas definitivas de alumnos admitidos, excluidos y lista de espera. Aplicando el baremo de valoración establecido en la convocatoria, la hija de Dña. Lucía López —que ocupa en adscripción provisional un puesto de Jefa de Área en el MAPA— no obtiene plaza en el Centro de Educación Infantil, ocupando el 5.º puesto en la lista de espera. Asimismo, el MAPA suscribe un convenio de colaboración con la Universidad de Vigo para desarrollar conjuntamente un programa de promoción de la alimentación saludable en la primera infancia. Los compromisos económicos asumidos ascienden a 900.000 euros. En relación con el supuesto planteado, se formulan las siguientes preguntas:"
+  }
+ },
+ "calendarios": {
+  "oct2024": {
+   "titulo": "Calendario octubre 2024",
+   "year": 2024,
+   "meses": [
+    10
+   ],
+   "festivos": [],
+   "nota": "Los domingos también van en rojo."
+  },
+  "mar2024": {
+   "titulo": "Calendario marzo 2024",
+   "year": 2024,
+   "meses": [
+    3
+   ],
+   "festivos": [],
+   "nota": "Los domingos también van en rojo."
+  }
+ },
+ "preguntas": [
+  {
+   "id": "pr-68-017",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 17,
+   "enunciado": "De acuerdo con el artículo 32 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en el caso de un particular que deba ser indemnizado cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de un recurso de amparo, ¿quién tramitará el procedimiento para fijar el importe de las indemnizaciones? (ADM-LI-EXT 2026)",
+   "opciones": [
+    "Se tramitará por el Ministerio de Justicia, con audiencia al Consejo de Estado.",
+    "Se tramitará por el Ministerio de Justicia, con audiencia al Tribunal de Cuentas.",
+    "Se tramitará por el Ministerio de Hacienda y Administraciones Públicas , con audiencia al Consejo de Estado.",
+    "Se tramitará por el Ministerio de Hacienda y Administraciones Públicas, con audiencia al Tribunal de Cuentas."
+   ]
+  },
+  {
+   "id": "pr-68-018",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 18,
+   "enunciado": "Conforme al artículo 64 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, ¿cuándo aprobará el Gobierno un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado? (ADM-LI-EXT 2026)",
+   "opciones": [
+    "Cuando sea necesario.",
+    "Al inicio de cada año.",
+    "Cada dos años.",
+    "Al inicio de cada legislatura."
+   ]
+  },
+  {
+   "id": "pr-68-019",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 19,
+   "enunciado": "De acuerdo con el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuándo podrá prescindirse del trámite de consulta pública en el procedimiento de elaboración de un reglamento? (ADM-LI-EXT 2026)",
+   "opciones": [
+    "Cuando lo justifiquen causas de necesidad y oportunidad.",
+    "Cuando la propuesta normativa tenga un impacto significativo en la actividad económica.",
+    "Cuando concurran razones de interés general que lo justifiquen.",
+    "Cuando la propuesta regule aspectos parciales de una materia."
+   ]
+  },
+  {
+   "id": "pr-68-020",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 20,
+   "enunciado": "Conforme al artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué actos administrativos serán motivados, con sucinta referencia de hechos y fundamentos de derecho? (ADM-PI 2026)",
+   "opciones": [
+    "Los actos que continúen con el criterio seguido en actuaciones precedentes.",
+    "Las peticiones de informes o dictámenes complementarios en el procedimiento administrativo.",
+    "Los actos que afecten a derechos e intereses fundamentales.",
+    "Los acuerdos de ampliación de plazos."
+   ]
+  },
+  {
+   "id": "pr-68-021",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 21,
+   "enunciado": "Señale la respuesta correcta en relación con el inicio de un procedimiento por denuncia regulada en el artículo 62 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (ADM-PI 2026)",
+   "opciones": [
+    "Las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración.",
+    "Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la no iniciación del procedimiento podrá no ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.",
+    "Cuando el denunciante haya participado en la comisión de una infracción, el órgano competente para resolver el procedimiento podrá eximir al denunciante del pago de la multa que le correspondería cuando el denunciante facilite elementos de prueba que aporten un valor añadido significativo respecto de aquellos de los que se disponga.",
+    "La presentación de una denuncia confiere, por sí sola, la condición de interesado en el procedimiento."
+   ]
+  },
+  {
+   "id": "pr-68-022",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 22,
+   "enunciado": "Señale la respuesta correcta en relación con las medidas provisionales en un procedimiento administrativo reguladas en el artículo 56 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (ADM-PI 2026)",
+   "opciones": [
+    "Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.",
+    "Iniciado el procedimiento, el órgano administrativo competente para iniciar o instruir el procedimiento, podrá adoptar, de oficio y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes, de acuerdo con los principios de proporcionalidad, eficiencia y menor onerosidad.",
+    "Antes de la iniciación del procedimiento, el órgano competente para resolver, de oficio o a instancia de parte, en los casos de emergencia, adoptará de forma motivada las medidas provisionales que resulten menos onerosas y proporcionadas.",
+    "Antes de la iniciación del procedimiento, el órgano competente para resolver, podrá adoptar, a instancia de parte, cuado sea necesario para asegurar la protección de los derechos e intereses de los implicados, las medidas provisionales que resulten precisas."
+   ]
+  },
+  {
+   "id": "pr-68-023",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 23,
+   "enunciado": "De acuerdo con el artículo 118 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones públicas, ¿de qué plazo disponen los interesados en un procedimiento de recurso para formular alegaciones y presentar documentos, en el caso de que hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario? (ADM-PI 2026)",
+   "opciones": [
+    "De un plazo no inferior a diez días ni superior a quince.",
+    "De un plazo de quince días.",
+    "De un plazo de diez días.",
+    "De un plazo no inferior a cinco días ni superior a diez."
+   ]
+  },
+  {
+   "id": "pr-68-024",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 24,
+   "enunciado": "En el caso de interponer un recurso de alzada ante el órgano que dictó el acto, ¿en qué plazo deberá remitirlo al competente para resolver, conforme al artículo 121 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas? (ADM-PI 2026)",
+   "opciones": [
+    "En el plazo de cinco días.",
+    "En el plazo de diez días.",
+    "En el plazo de quince días.",
+    "En el plazo de un mes."
+   ]
+  },
+  {
+   "id": "pr-68-025",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 25,
+   "enunciado": "De acuerdo con el artículo 44 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, serán susceptibles de recurso especial en materia de contratación: (ADM-PI 2026)",
+   "opciones": [
+    "Los pliegos de los contratos de obras cuyo valor estimado sea superior a un millón de euros.",
+    "Los anuncios de licitación de los contratos de obras cuyo valor estimado sea superior a un millón de euros.",
+    "Los anuncios de licitación de los contratos de suministro cuyo valor estimado sea superior a cincuenta mil euros.",
+    "Los pliegos de los contratos de servicios cuyo valor estimado sea superior a cien mil euros."
+   ]
+  },
+  {
+   "id": "pr-68-026",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 26,
+   "enunciado": "Según el artículo 102 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el precio del contrato: (ADM-PI 2026)",
+   "opciones": [
+    "Se entenderá incluido el importe a abonar en concepto de IVA, que en todo caso se indicará como partida independiente.",
+    "Se entenderá incluido el importe a abonar en concepto de IVA, que se podrá indicar como partida independiente.",
+    "No se entenderá incluido el importe a abonar en concepto de IVA.",
+    "Se entenderá incluido el importe a abonar en concepto de IVA, salvo en los contratos de concesión de obras."
+   ]
+  },
+  {
+   "id": "pr-68-027",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 27,
+   "enunciado": "Según el artículo 99 de la Ley de Contratos del Sector Público, señale la respuesta correcta sobre el objeto del contrato: (ADM-PI 2026)",
+   "opciones": [
+    "En ningún caso se podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.",
+    "El objeto de los contratos del sector público deberá ser indeterminado.",
+    "Podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad.",
+    "Podrá reservar alguno o algunos de los lotes para Centros Especiales de Empleo o para empresas de inserción."
+   ]
+  },
+  {
+   "id": "pr-68-028",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 28,
+   "enunciado": "De conformidad con los artículos 25 y 26 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale cuál de los siguientes contratos tendrá carácter administrativo: (ADM-PI 2026)",
+   "opciones": [
+    "Los celebrados por entidades del sector público que, siendo poder adjudicador, no reúnan la condición de Administración Pública.",
+    "Los celebrados por entidades del sector público que no reúnan la condición de poder adjudicador.",
+    "Los que celebren las Administraciones Públicas que tengan por objeto la creación e interpretación artística.",
+    "Los que celebren las Administraciones Públicas cuyo objeto sea adquisición de energía primaria o energía transformada."
+   ]
+  },
+  {
+   "id": "pr-68-029",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 29,
+   "enunciado": "Siguiendo lo dispuesto en el artículo 1.5 del Código Civil, ¿en qué momento pasará a formar parte del ordenamiento jurídico interno un tratado internacional válidamente celebrado? (ADM-PI 2026)",
+   "opciones": [
+    "Una vez adoptado el tratado internacional.",
+    "Una vez publicado en el Boletín Oficial del Estado.",
+    "Una vez ratificado por el Congreso de los Diputados.",
+    "Una vez publicado en el Boletín Oficial de las Cortes Generales."
+   ]
+  },
+  {
+   "id": "pr-68-030",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 30,
+   "enunciado": "¿Qué forma adoptarán las decisiones del Consejo de Ministros que NO deban adoptar la forma de Real Decreto, según el artículo 24 de la Ley 50/1997, de 27 de noviembre, del Gobierno? (ADM-PI 2026)",
+   "opciones": [
+    "Órdenes del Consejo de Ministros.",
+    "Resoluciones del Consejo de Ministros.",
+    "Reglamentos del Consejo de Ministros.",
+    "Acuerdos del Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-69-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 1,
+   "enunciado": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014 (en adelante LCSP) indique qué tipo contractual es el contrato de reforma parcial del pabellón en el que se ubica el Centro de Educación Infantil:",
+   "opciones": [
+    "Contrato de obra.",
+    "Contrato de servicios.",
+    "Contrato de concesión de servicios.",
+    "Contrato de suministro."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 2,
+   "enunciado": "De acuerdo con lo establecido en la LCSP indique quién es el órgano de contratación en el presente supuesto, teniendo en cuenta que la competencia no está delegada:",
+   "opciones": [
+    "El Subdirector General de Recursos Humanos.",
+    "El Subsecretario del MAPA.",
+    "El Ministro de Agricultura, Pesca y Alimentación.",
+    "El Secretario General Técnico del MAPA."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 3,
+   "enunciado": "A tenor de la LCSP, ¿puede considerarse como contrato sujeto a regulación armonizada la reforma parcial del pabellón en el que se ubica el Centro de Educación Infantil?",
+   "opciones": [
+    "No; puesto que el Ministerio, como entidad contratante, no tiene la consideración de poder adjudicador.",
+    "Sí; porque se trata de un contrato cuyo valor estimado es superior a 140.000 euros.",
+    "Sí; puesto que el importe del contrato, excluido el IVA, es superior a 140.000 euros.",
+    "No; puesto que el valor estimado del contrato, excluido el IVA, es inferior a 5.404.000 euros."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 4,
+   "enunciado": "La empresa REFORMAS S.A. ha visto en la plataforma de contratación el anuncio de licitación del contrato y está muy interesada en presentarse a la licitación pero la persona encargada de las gestiones administrativas acaba de tener un accidente y estará unos días de baja. Teniendo en cuenta que el órgano de contratación decide utilizar el plazo mínimo previsto en el procedimiento abierto simplificado para la adjudicación del contrato y que el anuncio de licitación, junto con toda la documentación, se publicó en el perfil del contratante el viernes 1 de marzo de 2024, ¿hasta qué día podrá la empresa REFORMAS, S.A. presentar una proposición?",
+   "opciones": [
+    "Hasta el 15 de marzo.",
+    "Hasta el 21 de marzo.",
+    "Hasta el 22 de marzo.",
+    "Hasta el 28 de marzo."
+   ],
+   "caso": "caso-69",
+   "calendario": "mar2024"
+  },
+  {
+   "id": "pr-69-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 5,
+   "enunciado": "Tras el proceso de licitación, el MAPA comunica a la empresa REFORMAS, S.A. que ha obtenido la mejor puntuación y le requiere, mediante comunicación electrónica, para que constituya la garantía definitiva. Teniendo en cuenta que se ha utilizado el procedimiento abierto simplificado, ¿de qué plazo dispone la empresa para constituir la garantía definitiva?",
+   "opciones": [
+    "5 días hábiles a contar desde el día siguiente al del envío de la comunicación.",
+    "5 días naturales a contar desde el envío de la comunicación.",
+    "7 días hábiles a contar desde el envío de la comunicación.",
+    "7 días naturales a contar desde el día siguiente al del envío de la comunicación."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 6,
+   "enunciado": "¿Qué importe tendrá la garantía definitiva del contrato?",
+   "opciones": [
+    "14.900 euros.",
+    "15.000 euros.",
+    "18.029 euros.",
+    "18.150 euros."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 7,
+   "enunciado": "De acuerdo con el artículo 62 de la LCSP, ¿quién será el responsable del contrato?",
+   "opciones": [
+    "El órgano de contratación.",
+    "El Subsecretario del MAPA",
+    "El Subdirector General de Recursos Humanos",
+    "El Director Facultativo."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 8,
+   "enunciado": "Señale la respuesta correcta respecto al contrato de reforma del pabellón en el que se ubica el Centro de Educación Infantil:",
+   "opciones": [
+    "La aprobación del proyecto se efectuará posteriormente al replanteo del mismo.",
+    "Durante el desarrollo de las obras y hasta que se cumpla el plazo de garantía, el contratista es responsable de todos los defectos que en la construcción puedan advertirse.",
+    "La ejecución del contrato de obras comenzará con el acta de comprobación del proyecto.",
+    "Dentro del plazo de seis meses contados a partir de la recepción, el órgano de contratación deberá aprobar la certificación final de las obras ejecutadas."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 9,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, y descartado que los daños se deban a vicios del proyecto, ¿es responsable el MAPA de los daños ocasionados al vehículo de D. Faustino?",
+   "opciones": [
+    "Sí, en todo caso.",
+    "Solamente si han sido ocasionados como consecuencia directa o indirecta de una orden de la Administración.",
+    "Sí, siempre y cuando el daño alegado sea efectivo.",
+    "Solamente si han sido ocasionados como consecuencia inmediata y directa de una orden de la Administración."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 10,
+   "enunciado": "¿Tendrá derecho D. Faustino a ser indemnizado por los daños sufridos en su vehículo?",
+   "opciones": [
+    "No, ya que no es posible establecer una relación causa-efecto.",
+    "No, ya que su vehículo estaba aparcado en un vado señalizado.",
+    "Sí, ya que es evaluable económicamente, aunque no sea posible efectuar una relación causa-efecto.",
+    "Sí, cuando el daño sea efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 11,
+   "enunciado": "La solicitud de indemnización de D. Faustino deberá contener, entre otras cosas:",
+   "opciones": [
+    "La evaluación económica de la responsabilidad patrimonial, en todo caso.",
+    "Hechos aproximados y razones en que se base la solicitud.",
+    "Identificación del medio electrónico, o en su defecto, lugar físico en que desea que se practique la notificación.",
+    "Determinación del alcance de las secuelas."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 12,
+   "enunciado": "D. Julio Salcedo en sus funciones de representante de D. Faustino, ¿deberá relacionarse obligatoriamente por medios electrónicos con la Administración?",
+   "opciones": [
+    "Si, porque D. Faustino está obligado a relacionarse a través de medios electrónicos.",
+    "No, porque D. Faustino no está obligado a relacionarse a través de medios electrónicos.",
+    "Sí, porque Julio Salcedo al ser representante de D. Faustino está obligado a relacionarse a través de medios electrónicos.",
+    "Sí, porque D. Faustino es una persona jurídica."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 13,
+   "enunciado": "D. Julio no ha acreditado su representación para realizar la subsanación de la solicitud presentada. ¿En qué plazo debe subsanar el defecto de acreditación cuando le sea requerido?",
+   "opciones": [
+    "Cinco días o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+    "Diez días o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+    "Quince días o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+    "Veinte días o de un plazo superior cuando las circunstancias del caso así lo requieran."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 14,
+   "enunciado": "¿Con referencia a qué día se calculará la cuantía de la indemnización?",
+   "opciones": [
+    "A la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad y de los intereses que procedan por demora.",
+    "Al 16 de julio de 2024, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad y de los intereses que procedan por demora.",
+    "Al 15 de julio de 2024, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad y de los intereses que procedan por demora.",
+    "Al día en el que efectivamente tuvo entrada en el registro del Ministerio la reclamación por daños de D. Faustino."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 15,
+   "enunciado": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál es el plazo máximo para dictar y notificar a D. Faustino la resolución?",
+   "opciones": [
+    "Hasta el 16 de enero de 2025.",
+    "Hasta el 15 de enero de 2025.",
+    "Hasta el 16 de diciembre de 2024.",
+    "Hasta el 15 de diciembre de 2024."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 16,
+   "enunciado": "De no dictarse y notificarse en plazo, ¿qué podría entender D. Faustino?",
+   "opciones": [
+    "Que la resolución es favorable a la indemnización.",
+    "Que la resolución es contraria a la indemnización.",
+    "Que debe subsanar la solicitud.",
+    "Que el procedimiento ha caducado."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 17,
+   "enunciado": "En relación con la recusación de D. José Jiménez como miembro de la comisión de valoración de las solicitudes de admisión en el Centro de Educación Infantil, ¿de qué plazo dispone para manifestar a su inmediato superior si se da o no en él la causa alegada?",
+   "opciones": [
+    "En el día siguiente.",
+    "En el plazo de 48 horas.",
+    "En el plazo de tres días, previos los informes y comprobaciones que considere oportunos.",
+    "En el plazo de 5 días."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 18,
+   "enunciado": "Por resolución del Subdirector General de Recursos Humanos se estableció que, contra el listado provisional de solicitudes excluidas, se podrían formular alegaciones en el plazo de las 23 horas siguientes a su publicación. Conforme a lo establecido en la LPACAP ¿cuándo finalizó dicho plazo?",
+   "opciones": [
+    "A las 9:00 horas del día 19 de octubre de 2024.",
+    "A las 10:00 horas del día 19 de octubre de 2024.",
+    "A las 9:00 horas del día 20 de octubre de 2024.",
+    "A las 9:00 horas del día 21 de octubre de 2024."
+   ],
+   "caso": "caso-69",
+   "calendario": "oct2024"
+  },
+  {
+   "id": "pr-69-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 19,
+   "enunciado": "D. Jerónimo Jiménez alega en plazo que decidió presentar la solicitud en soporte papel en el Registro General del MAPA porque así lo habían hecho otros compañeros en años anteriores. A tenor de lo dispuesto en la LPACAP, ¿podría la Subdirección General de Recursos Humanos aceptar las alegaciones formuladas por el señor Jiménez?",
+   "opciones": [
+    "No, ya que la LPACAP dispone que están obligados a relacionarse a través de medios electrónicos los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público.",
+    "Sí, ya que la LPACAP dispone que todas las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no.",
+    "Sí, ya que la LPACAP dispone que sólo están obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas las personas jurídicas.",
+    "Sí, ya que las relaciones con las Administraciones Públicas por medios electrónicos están configuradas en la LPACAP como un derecho y no como una obligación."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 20,
+   "enunciado": "Dña. Lucía López, no estando de acuerdo con la valoración efectuada por la Subdirección General de Recursos Humanos para la adjudicación de plazas del Centro de Educación Infantil, se plantea interponer el recurso administrativo procedente. ¿De qué recurso se trata?",
+   "opciones": [
+    "Recurso de reposición.",
+    "Recurso de alzada.",
+    "Recurso extraordinario de revisión.",
+    "Recurso de apelación."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 21,
+   "enunciado": "Conforme a lo establecido en la LPACAP, ¿en qué fecha finalizaría el plazo para la interposición del recurso?",
+   "opciones": [
+    "El domingo, 24 de noviembre de 2024.",
+    "El lunes, 25 de noviembre de 2024.",
+    "El sábado, 23 de noviembre de 2024.",
+    "El viernes, 24 de enero de 2025."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 22,
+   "enunciado": "¿Cuál es el órgano competente para resolver el recurso que se plantea interponer Dña. Lucía López?",
+   "opciones": [
+    "Subdirector General de Recursos Humanos.",
+    "Subsecretario del MAPA.",
+    "Ministro de Agricultura, Pesca y Alimentación.",
+    "Secretario General Técnico del MAPA."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 23,
+   "enunciado": "¿Qué duración máxima puede tener el convenio entre el MAPA y la Universidad de Vigo?",
+   "opciones": [
+    "Puede tener duración indeterminada.",
+    "No podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior y no podrá ser objeto de prórroga.",
+    "No podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior, y se podrá acordar unánimemente su prórroga por un periodo de hasta cuatro años adicionales.",
+    "No podrá ser superior a dos años, salvo que normativamente se prevea un plazo superior, y se podrá acordar unánimemente su prórroga por un periodo de hasta dos años adicionales."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 24,
+   "enunciado": "Posteriormente, el MAPA quiere extinguir el convenio, ¿cuál de las siguientes respuestas NO se contempla en la normativa como causa de extinción de los convenios?",
+   "opciones": [
+    "El incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes.",
+    "El acuerdo unilateral por parte de la Administración General del Estado.",
+    "El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo.",
+    "Cumplimiento de las actuaciones que constituyen su objeto."
+   ],
+   "caso": "caso-69"
+  },
+  {
+   "id": "pr-69-025",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 28",
+   "n": 25,
+   "enunciado": "El convenio suscrito entre el MAPA y la Universidad de Vigo recoge compromisos económicos por un importe total de 900.000 euros. Indique la respuesta correcta en base al artículo 53 de la Ley 40/2015, de Régimen Jurídico del Sector Público:",
+   "opciones": [
+    "Este convenio debió ser remitido al Tribunal de Cuentas dentro de los tres meses siguientes a la suscripción.",
+    "Este convenio debió ser remitido al Ministerio de Hacienda dentro de los tres meses siguientes a la suscripción.",
+    "Este convenio debió ser remitido al Tribunal de Cuentas dentro de los seis meses siguientes a la suscripción.",
+    "Este convenio debió ser remitido al Ministerio de Hacienda dentro de los seis meses siguientes a la suscripción."
+   ],
+   "caso": "caso-69"
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "pr-68-025": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 3,
+  "justificaciones": [
+   "No: en obras el umbral del recurso especial es de más de tres millones, no de un millón.",
+   "No: el umbral en obras es de más de tres millones de euros.",
+   "No: en suministros el umbral es de más de cien mil euros, no de cincuenta mil.",
+   "Correcta: los pliegos de los contratos de servicios de valor estimado superior a cien mil euros son recurribles (arts. 44.1.a y 44.2.a)."
+  ]
+ },
+ "pr-68-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en el precio se entiende incluido el IVA, que en todo caso se indica como partida independiente (art. 102.1).",
+   "No: la indicación como partida independiente es obligatoria, no una posibilidad.",
+   "No: el IVA sí se entiende incluido en el precio.",
+   "No: la regla no tiene la excepción de las concesiones de obras."
+  ]
+ },
+ "pr-68-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el órgano de contratación puede limitar el número de lotes a los que cada licitador presenta oferta.",
+   "No: el objeto debe ser determinado.",
+   "No: está prohibido fraccionar un contrato para eludir los requisitos de publicidad o el procedimiento.",
+   "Correcta: se pueden reservar lotes a Centros Especiales de Empleo o a empresas de inserción (art. 99)."
+  ]
+ },
+ "pr-68-028": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 25 y 26",
+  "correcta": 3,
+  "justificaciones": [
+   "No: los contratos de poderes adjudicadores que no son Administración Pública son privados.",
+   "No: los de entidades que no son poder adjudicador son contratos privados.",
+   "No: los que tienen por objeto la creación e interpretación artística son contratos privados.",
+   "Correcta: el suministro de energía contratado por una Administración Pública es un contrato administrativo (art. 25)."
+  ]
+ },
+ "pr-69-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 13",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la reforma parcial del pabellón, con sustitución de ventanas, es un contrato de obras.",
+   "No: el servicio es una prestación de hacer distinta de la obra o el suministro.",
+   "No: no hay explotación del servicio por el contratista.",
+   "No: no se adquieren bienes muebles."
+  ]
+ },
+ "pr-69-002": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el Subdirector General no es órgano de contratación.",
+   "No: el Subsecretario no es órgano de contratación según el art. 323.1.",
+   "Correcta: los Ministros y Secretarios de Estado son órganos de contratación de la AGE (art. 323.1).",
+   "No: el Secretario General Técnico no es órgano de contratación."
+  ]
+ },
+ "pr-69-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 20",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el Ministerio sí es poder adjudicador, es una Administración Pública.",
+   "No: 140.000 euros no es el umbral de las obras.",
+   "No: el umbral para las obras no es 140.000 euros.",
+   "Correcta: es un contrato de obras de 300.000 euros, inferior al umbral armonizado de 5.404.000 euros (art. 20)."
+  ]
+ },
+ "pr-69-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 15 de marzo no respeta el plazo mínimo.",
+   "Correcta: en obras el plazo mínimo es de veinte días desde el día siguiente a la publicación (2 de marzo): el día veinte es el 21 de marzo (art. 159.3).",
+   "No: el 22 de marzo cuenta un día de más.",
+   "No: el 28 de marzo cuenta veintisiete días."
+  ],
+  "ojo": "Es un contrato de obras de 300.000 euros, por encima del abreviado, así que el plazo mínimo es de veinte días."
+ },
+ "pr-69-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.f",
+  "correcta": 2,
+  "justificaciones": [
+   "No: son siete días hábiles, no cinco.",
+   "No: son siete días hábiles, no cinco naturales.",
+   "Correcta: siete días hábiles a contar desde el envío de la comunicación (art. 159.4.f).",
+   "No: son días hábiles, no naturales, y se cuentan desde el envío."
+  ]
+ },
+ "pr-69-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 107.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el 5 % del precio ofertado, IVA excluido: 5 % de 298.000 son 14.900 euros (art. 107.1).",
+   "No: 15.000 euros sería el 5 % del presupuesto base, que no es el precio de adjudicación.",
+   "No: 18.029 euros no sale de aplicar el porcentaje al precio de adjudicación.",
+   "No: 18.150 euros incluye el IVA."
+  ]
+ },
+ "pr-69-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 62.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el órgano de contratación designa al responsable, pero en obras no lo es él.",
+   "No: el Subsecretario no es el responsable en un contrato de obras.",
+   "No: el Subdirector General no es el responsable en un contrato de obras.",
+   "Correcta: en los contratos de obras, las facultades del responsable las ejerce el Director Facultativo (art. 62.2)."
+  ]
+ },
+ "pr-69-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 231, 237 y 238",
+  "correcta": 1,
+  "justificaciones": [
+   "No: primero se aprueba el proyecto y después se replantea.",
+   "Correcta: durante la ejecución y hasta el fin del plazo de garantía, el contratista es responsable de los defectos de construcción (art. 238).",
+   "No: la ejecución comienza con el acta de comprobación del replanteo, no del proyecto (art. 237).",
+   "No: el plazo para aprobar la certificación final es de tres meses desde la recepción (art. 243.1)."
+  ]
+ },
+ "pr-69-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 196.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la responsabilidad no es automática, el contratista indemniza los daños a terceros.",
+   "No: no basta una orden indirecta, debe ser consecuencia inmediata y directa.",
+   "No: que el daño sea efectivo no basta para responsabilizar a la Administración.",
+   "Correcta: la Administración responde solo si el daño es consecuencia inmediata y directa de una orden suya (art. 196.2)."
+  ]
+ },
+ "pr-69-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 32 Ley 40/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la relación de causalidad se estudia en el procedimiento, y no se descarta de entrada.",
+   "No: el enunciado no dice que el vado esté señalizado.",
+   "No: sin relación causa-efecto no hay derecho a indemnización.",
+   "Correcta: hay derecho si el daño es efectivo, evaluable económicamente e individualizado (art. 32 Ley 40/2015)."
+  ]
+ },
+ "pr-69-011": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 66.1 Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la evaluación económica se incluye solo si es posible (art. 67.2).",
+   "No: la solicitud debe expresar los hechos, razones y petición, no hechos aproximados.",
+   "Correcta: toda solicitud identifica el medio electrónico o, en su defecto, el lugar físico para las notificaciones (art. 66.1).",
+   "No: el alcance de las secuelas no es contenido obligatorio de la solicitud, y aquí solo hay daños materiales."
+  ]
+ },
+ "pr-69-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 14.2.d Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: D. Faustino es una persona física y no está obligado.",
+   "Correcta: el representante solo está obligado si lo está el representado, y una persona física no lo está.",
+   "No: ser representante no obliga por sí solo a relacionarse electrónicamente.",
+   "No: D. Faustino es una persona física, no jurídica."
+  ]
+ },
+ "pr-69-013": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 5.6 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo es de diez días, no de cinco.",
+   "Correcta: diez días, o un plazo superior si las circunstancias lo requieren (art. 5.6).",
+   "No: el plazo no es de quince días.",
+   "No: el plazo no es de veinte días."
+  ]
+ },
+ "pr-69-014": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 34.3 Ley 40/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la cuantía se calcula con referencia al día de la lesión, no al fin del procedimiento.",
+   "No: la fecha de la solicitud no es la de referencia.",
+   "Correcta: se calcula con referencia al 15 de julio de 2024, día en que la lesión se produjo, y se actualiza al fin del procedimiento con el Índice de Garantía de la Competitividad (art. 34.3).",
+   "No: la fecha de entrada de la reclamación no es la de referencia."
+  ]
+ },
+ "pr-69-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 91.3 Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el plazo máximo es de seis meses desde la solicitud: del 16 de julio de 2024 al 16 de enero de 2025.",
+   "No: el 15 de enero se queda un día corto.",
+   "No: el 16 de diciembre de 2024 serían cinco meses.",
+   "No: el 15 de diciembre de 2024 serían cinco meses."
+  ],
+  "ojo": "Sin suspensión por el requerimiento de subsanación, cuyas fechas no constan."
+ },
+ "pr-69-016": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 91.3 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el silencio en responsabilidad patrimonial no es estimatorio.",
+   "Correcta: transcurrido el plazo, puede entender desestimada la solicitud por silencio.",
+   "No: la subsanación ya se produjo.",
+   "No: no hay caducidad en un procedimiento iniciado a solicitud, hay silencio."
+  ]
+ },
+ "pr-69-017": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 24.3 Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el recusado manifiesta a su superior, en el día siguiente, si se da o no la causa.",
+   "No: el plazo no es de 48 horas, es el día siguiente.",
+   "No: tres días es el plazo del superior para resolver si el recusado niega la causa.",
+   "No: el plazo no es de cinco días, es el día siguiente."
+  ]
+ },
+ "pr-69-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 30 Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo de horas no termina el sábado, porque los sábados son inhábiles.",
+   "No: tampoco termina a las 10:00 del sábado.",
+   "No: el domingo es inhábil.",
+   "Correcta: del viernes a las 10:00 quedan 14 horas hábiles, y las 9 restantes se cuentan desde el lunes 21 a las 00:00, así que vence a las 9:00 del lunes 21 (art. 30)."
+  ]
+ },
+ "pr-69-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 14.2.e Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los empleados públicos están obligados a relacionarse electrónicamente en los trámites que hagan por razón de su condición de empleado, y aquí la plaza se ofrece solo a empleados.",
+   "No: las personas físicas pueden elegir, salvo las obligadas, entre ellas los empleados públicos.",
+   "No: no solo están obligadas las personas jurídicas.",
+   "No: para los obligados no es solo un derecho."
+  ],
+  "ojo": "La plaza se convoca únicamente al personal del MAPA, por lo que el trámite lo hace como empleado."
+ },
+ "pr-69-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 121 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la reposición cabe contra actos que agotan la vía administrativa.",
+   "Correcta: la resolución del Subdirector General no agota la vía y cabe alzada ante su superior jerárquico.",
+   "No: el extraordinario de revisión es contra actos firmes y por causas tasadas.",
+   "No: la apelación es un recurso judicial, no administrativo."
+  ]
+ },
+ "pr-69-021": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 122 y 30 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 24 de noviembre es domingo, inhábil.",
+   "Correcta: el plazo de un mes desde el día siguiente a la publicación (24 de octubre) vence el domingo 24 de noviembre y se traslada al lunes 25.",
+   "No: el sábado 23 es inhábil y no es el día de vencimiento.",
+   "No: el 24 de enero de 2025 sería el plazo de tres meses del silencio, no el de interposición."
+  ]
+ },
+ "pr-69-022": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 121 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el recurso de alzada no lo resuelve el propio órgano que dictó el acto.",
+   "Correcta: lo resuelve el superior jerárquico, el Subsecretario, de quien depende la Subdirección General.",
+   "No: el Ministro no es el superior jerárquico inmediato.",
+   "No: el Secretario General Técnico no es el superior jerárquico."
+  ]
+ },
+ "pr-69-023": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 49 Ley 40/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los convenios deben tener duración determinada.",
+   "No: se puede acordar una prórroga unánime de hasta cuatro años.",
+   "Correcta: máximo cuatro años, salvo previsión normativa, y prórroga unánime de hasta cuatro años adicionales (art. 49).",
+   "No: el máximo inicial es de cuatro años, no de dos."
+  ]
+ },
+ "pr-69-024": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 51 Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el incumplimiento es causa de extinción (resolución).",
+   "Correcta: el acuerdo unilateral de una de las partes no es causa de extinción de los convenios.",
+   "No: el vencimiento sin prórroga sí es causa de extinción.",
+   "No: el cumplimiento de las actuaciones sí es causa de extinción."
+  ]
+ },
+ "pr-69-025": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 53 Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los convenios con compromisos económicos superiores a 600.000 euros se remiten al Tribunal de Cuentas en los tres meses siguientes a su suscripción.",
+   "No: se remiten al Tribunal de Cuentas, no al Ministerio de Hacienda.",
+   "No: el plazo es de tres meses, no de seis.",
+   "No: ni es el Ministerio de Hacienda ni el plazo es de seis meses."
+  ]
+ },
+ "pr-68-017": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-018": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-019": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-020": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-021": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-022": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-023": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-024": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-029": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ },
+ "pr-68-030": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015, Ley 40/2015 u otra norma ajena (LO 3/2007, Ley 50/1997, Código Civil), fuera de contratos y subvenciones."
+ }
+}

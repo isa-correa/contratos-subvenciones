@@ -1,0 +1,556 @@
+{
+ "of-05-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 149.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Aunque haya un solo licitador, su oferta puede ser anormalmente baja. Lo que procede es seguir el procedimiento del art. 149.",
+   "Es esta. Si hay presunción de anormalidad, se requiere al licitador, con plazo suficiente, que justifique y desglose el bajo nivel de precios (**art. 149.4**).",
+   "No. La propuesta de aceptación o rechazo debe estar motivada (**art. 149.6**).",
+   "No. La anormalidad es por oferta inferior al presupuesto, no por superarlo. Ese criterio nunca la define (**art. 149.2**)."
+  ]
+ },
+ "of-05-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Con varios criterios, la adjudicación se hace en dos meses desde la apertura, salvo otro plazo en el pliego (**art. 158.2**).",
+   "No. Veinte días no es el plazo (**art. 158.2**).",
+   "No. Quince días es el plazo si el único criterio es el precio, y se cuenta desde la apertura (**art. 158.1**).",
+   "No. Un mes no es el plazo (**art. 158.2**)."
+  ]
+ },
+ "of-05-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 167",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los servicios intelectuales de especial complejidad no figuran en el art. 167. Se citan como ámbito adecuado del diálogo competitivo (**art. 172.4**).",
+   "Sí es supuesto. Cuando la prestación necesita un trabajo previo de diseño o adaptación (**art. 167.a**).",
+   "Sí es supuesto. Cuando antes solo hubo ofertas irregulares o inaceptables (**art. 167.e**).",
+   "Sí es supuesto. Cuando no se pueden fijar con precisión las especificaciones técnicas (**art. 167.d**)."
+  ]
+ },
+ "of-05-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo de quince días solo vale si el único criterio es el precio (**art. 158.1**).",
+   "No. Con único criterio de precio son quince días, no diez (**art. 158.1**).",
+   "Es esta. Con una pluralidad de criterios, el plazo máximo es de dos meses desde la apertura (**art. 158.2**).",
+   "No. Veinte días no es un plazo que fije el art. 158."
+  ]
+ },
+ "of-05-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 22.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un contrato menor de servicios exige un valor estimado inferior a 15.000 euros (**art. 118.1**).",
+   "No. El abierto simplificado exige un valor estimado inferior a 140.000 euros, y este lo iguala (**art. 159.1**).",
+   "Es esta. Servicios de la AGE con valor estimado igual o superior a 140.000 euros están sujetos a regulación armonizada y pueden ir por abierto (**art. 22.1.a**).",
+   "No. El umbral es 'igual o superior' a 140.000 euros, y este lo alcanza (**art. 22.1.a**)."
+  ]
+ },
+ "of-05-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 167.d",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El restringido y el abierto simplificado no responden a esa causa (**art. 167**).",
+   "No. La asociación para la innovación responde a otra necesidad, y el negociado sin publicidad exige otros supuestos (**art. 168**).",
+   "Es esta. Cabe la licitación con negociación (**art. 167.d**) y el diálogo competitivo, que comparte esa causa.",
+   "No. El negociado sin publicidad y el abierto simplificado no responden a esa causa (**art. 168**)."
+  ]
+ },
+ "of-05-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El límite de 80.000 euros se refiere a las obras del procedimiento sumario (**art. 159.6**).",
+   "No. 100.000 euros no es el límite (**art. 159.1**).",
+   "Es esta. En servicios de la AGE el abierto simplificado exige un valor estimado inferior a 140.000 euros (**arts. 159.1 y 22.1.a**).",
+   "No. 216.000 euros es el umbral de otras entidades, no de la AGE (**art. 22.1.b**)."
+  ]
+ },
+ "of-05-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El plazo mínimo es de quince días desde la publicación en el perfil, y de veinte solo en obras (**art. 159.3**).",
+   "No. Veinte días es el mínimo en obras, y esto es un servicio (**art. 159.3**).",
+   "No. Veintiséis días no es el plazo del simplificado (**art. 159.3**).",
+   "No. Treinta días no es el plazo del simplificado (**art. 159.3**)."
+  ]
+ },
+ "of-05-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cinco días naturales no es el plazo (**art. 153.3**).",
+   "No. Son quince, no diez (**art. 153.3**).",
+   "Es esta. No puede formalizarse antes de que pasen quince días hábiles desde la remisión de la notificación de la adjudicación (**art. 153.3**).",
+   "No. Los quince días son hábiles, no naturales (**art. 153.3**)."
+  ]
+ },
+ "of-05-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Diez días hábiles desde el siguiente a recibir el requerimiento (**art. 150.2**).",
+   "No. Los diez días son hábiles (**art. 150.2**).",
+   "No. Son diez días hábiles, no quince (**art. 150.2**).",
+   "No. Ni quince ni naturales (**art. 150.2**)."
+  ]
+ },
+ "of-05-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Veinte días no es un plazo del art. 158.",
+   "Es esta. Quince días desde el siguiente a la apertura, si el único criterio es el precio (**art. 158.1**).",
+   "No. Con varios criterios son dos meses, no tres (**art. 158.2**).",
+   "No. Un mes no es plazo del art. 158."
+  ]
+ },
+ "of-06-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "comprobación material de la inversión",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Hay que solicitar a la Intervención la designación de representante.",
+   "Es esta. Se solicita la designación de representante, que asiste de forma potestativa, con 30 días hábiles de antelación.",
+   "No. La antelación no es de 60 días hábiles.",
+   "No. Se designa a un representante de la Intervención, no a un arquitecto."
+  ],
+  "revisar": "El plazo de 30 días hábiles no figura en la LCSP, sino en la normativa de intervención. No está en las fuentes locales y conviene comprobarlo."
+ },
+ "of-06-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Que pase el plazo de entrega no cumple el contrato por sí solo (**art. 210.2**).",
+   "No. El plazo de garantía y el acta de conformidad son posteriores al cumplimiento (**art. 210**).",
+   "No. La liquidación viene después del cumplimiento (**art. 210**).",
+   "Es esta. El contrato se entiende cumplido cuando el contratista realiza la totalidad de la prestación a satisfacción de la Administración (**art. 210.1**)."
+  ]
+ },
+ "of-06-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 213.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La indemnización no se limita al importe de la garantía (**art. 213.3**).",
+   "No. Además de la garantía, hay que indemnizar el exceso de daños (**art. 213.3**).",
+   "No. Se incauta la garantía por el incumplimiento culpable, sin matiz sobre dolo o negligencia (**art. 213.3**).",
+   "Es esta. Se incauta la garantía y se indemniza además el exceso de los daños sobre ella (**art. 213.3**)."
+  ]
+ },
+ "of-06-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es causa. La declaración de concurso o de insolvencia (**art. 211.1.b**).",
+   "Sí es causa. El mutuo acuerdo (**art. 211.1.c**).",
+   "Sí es causa. La demora en los plazos por el contratista (**art. 211.1.d**).",
+   "Es esta. La fusión, escisión o transmisión de rama de actividad no está en la lista del art. 211.1. Es un supuesto de sucesión del contratista (**art. 98**)."
+  ]
+ },
+ "of-06-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Eso es una modificación prevista en el pliego (**art. 204**), no por circunstancias sobrevenidas.",
+   "Es esta. Las circunstancias deben ser sobrevenidas y no haber podido preverse por una Administración diligente (**art. 205**).",
+   "No. Las reguladas en el documento de formalización no son las del art. 205.",
+   "No. La escasa duración no justifica la modificación (**art. 205**)."
+  ]
+ },
+ "of-06-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 212.8",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los expedientes de resolución se instruyen y resuelven en un máximo de ocho meses (**art. 212.8**).",
+   "No. Diez meses no es el plazo (**art. 212.8**).",
+   "No. Cuatro meses no es el plazo (**art. 212.8**).",
+   "No. Seis meses no es el plazo (**art. 212.8**)."
+  ]
+ },
+ "of-06-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No procede obligatoriamente la resolución. Puede optar por penalidades (**art. 193.3**).",
+   "Es esta. Puede optar entre la resolución y las penalidades diarias (**art. 193.3**).",
+   "No. No hay intimación previa y la resolución no es obligatoria (**art. 193.2**).",
+   "No. La mora no necesita intimación previa (**art. 193.2**)."
+  ]
+ },
+ "of-06-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si el pliego lo prevé, la modificación puede llegar al 20 % del precio inicial (**art. 204.1**).",
+   "No. El tope es del 20 %, no del 15 % (**art. 204.1**).",
+   "No. El tope es del 20 %, no del 10 % (**art. 204.1**).",
+   "No. El tope es del 20 %, no del 5 % (**art. 204.1**)."
+  ]
+ },
+ "of-06-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 194.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El responsable propone, pero no acuerda (**art. 194.2**).",
+   "No. La mesa de contratación no impone penalidades (**art. 194.2**).",
+   "No. La Junta Consultiva es un órgano de consulta (**art. 194.2**).",
+   "Es esta. Las penalidades se imponen por acuerdo del órgano de contratación (**art. 194.2**)."
+  ]
+ },
+ "of-06-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Tres meses no es el plazo (**art. 208.2.c**).",
+   "No. Seis meses no es el plazo (**art. 208.2.c**).",
+   "Es esta. El derecho a reclamar prescribe en un año desde que el contratista recibe la orden de reanudar (**art. 208.2.c**).",
+   "No. Dieciocho meses no es el plazo (**art. 208.2.c**)."
+  ]
+ },
+ "of-06-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El tope es del 20 %, no del 30 % (**art. 204.1**).",
+   "No. Si no están previstas, no se pueden modificar hasta un 10 %. Hay que cumplir el art. 205 (**art. 205**).",
+   "Es esta. Si el pliego lo recoge, hasta el 20 % del precio inicial (**art. 204.1**).",
+   "No. Sin previsión en los pliegos, el 15 % no es un límite legal (**art. 205**)."
+  ]
+ },
+ "of-06-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cada penalidad no puede superar el 10 % del precio del contrato, IVA excluido (**art. 192.1**).",
+   "No. El IVA no se incluye (**art. 192.1**).",
+   "No. El 50 % es el tope del total de penalidades, no de cada una (**art. 192.1**).",
+   "No. Ni el 20 % ni el IVA incluido (**art. 192.1**)."
+  ]
+ },
+ "of-06-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El múltiplo es del 5 %, no del 15 % (**art. 193.4**).",
+   "Es esta. Cada vez que las penalidades alcanzan un múltiplo del 5 % del precio, IVA excluido (**art. 193.4**).",
+   "No. El múltiplo es del 5 %, no del 20 % (**art. 193.4**).",
+   "No. El múltiplo es del 5 %, no del 10 % (**art. 193.4**)."
+  ]
+ },
+ "of-06-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera. Solo variaciones indispensables para responder a la causa que la hace necesaria (**art. 205**).",
+   "Es verdadera. No debe alterar la naturaleza global del contrato (**art. 205**).",
+   "Es la falsa. La necesidad debe derivar de circunstancias que una Administración diligente no hubiera podido prever (**art. 205**).",
+   "Es verdadera. La alteración en la cuantía no puede exceder del 50 % del precio inicial (**art. 205**)."
+  ]
+ },
+ "of-06-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 206.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El límite es el 20 %, no el 10 % (**art. 206.1**).",
+   "Es esta. Es obligatoria cuando la alteración no exceda del 20 % del precio inicial, IVA excluido (**art. 206.1**).",
+   "No. El límite es el 20 %, no el 30 % (**art. 206.1**).",
+   "No. El 50 % es el tope máximo de la modificación, no el de la obligatoriedad (**art. 205**)."
+  ]
+ },
+ "of-06-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Son 0,60 euros, no 0,40 (**art. 193.3**).",
+   "No. Son 0,60 euros, no 0,50 (**art. 193.3**).",
+   "Es esta. 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido (**art. 193.3**).",
+   "No. Son 0,60 euros, no 0,80 (**art. 193.3**)."
+  ]
+ },
+ "of-06-017": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 229.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Ministro declara la contratación centralizada, pero no es el órgano de contratación (**art. 229.1**).",
+   "No. La Dirección General es a la que se adscribe la Junta, no el órgano de contratación (**art. 229.5**).",
+   "Es esta. El órgano de contratación del sistema estatal es la Junta de Contratación Centralizada (**art. 229.5**).",
+   "No. La Junta Consultiva es un órgano de consulta (**art. 328**)."
+  ]
+ },
+ "of-06-018": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 206.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Son obligatorias cuando no excedan del 20 % del precio inicial, IVA excluido (**art. 206.1**).",
+   "No. Por encima del 20 % no son obligatorias, y exigen conformidad escrita del contratista (**art. 206.2**).",
+   "No. El 70 % no aparece en la ley (**art. 206.1**).",
+   "No. El 50 % es el tope de la modificación, no el de la obligatoriedad (**art. 205**)."
+  ]
+ },
+ "of-06-019": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Treinta días desde la aprobación de las certificaciones o documentos de conformidad (**art. 198.4**).",
+   "No. Son treinta, no sesenta (**art. 198.4**).",
+   "No. Son treinta, no noventa (**art. 198.4**).",
+   "No. Son treinta, no veinte (**art. 198.4**)."
+  ]
+ },
+ "of-06-020": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El porcentaje es el 20 %, no el 10 % (**art. 214.2.b**).",
+   "Es esta. El cedente debe haber ejecutado al menos el 20 % del importe, o la quinta parte del plazo en concesiones (**art. 214.2.b**).",
+   "No. El porcentaje es el 20 %, no el 25 % (**art. 214.2.b**).",
+   "No. El porcentaje es el 20 %, no el 50 % (**art. 214.2.b**)."
+  ]
+ },
+ "of-07-001": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Ese Ministerio no es quien autoriza (**art. 324.1**).",
+   "No. La Junta de Contratación no autoriza contratos de ese importe (**art. 324.1**).",
+   "Es esta. Con valor estimado igual o superior a doce millones de euros, hace falta autorización previa del Consejo de Ministros (**art. 324.1.a**).",
+   "No. Un informe de Presupuestos no sustituye esa autorización (**art. 324.1**)."
+  ]
+ },
+ "of-07-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 304.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Salvo pacto, los gastos de entrega y transporte son del contratista (**art. 304.1**).",
+   "Es esta. Son de cuenta del contratista, salvo pacto en contrario (**art. 304.1**).",
+   "No. No se reparten por mitades (**art. 304.1**).",
+   "No. No dependen de que cumpla el plazo de entrega (**art. 304.1**)."
+  ]
+ },
+ "of-07-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 244.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo es de quince años y se cuenta desde la recepción, no desde la adjudicación (**art. 244.1**).",
+   "Es esta. Quince años a contar desde la recepción de la obra (**art. 244.1**).",
+   "No. Son quince años, no diez (**art. 244.1**).",
+   "No. Se cuentan desde la recepción, no desde la adjudicación (**art. 244.1**)."
+  ]
+ },
+ "of-07-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 285.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La gestión de servicios públicos ya no es un contrato de la LCSP actual (**art. 15**).",
+   "No. El contrato administrativo de servicios no exige estudio de viabilidad (**art. 17**).",
+   "Es esta. En la concesión de servicios la tramitación va precedida de un estudio de viabilidad o de viabilidad económico-financiera (**art. 285.2**).",
+   "No. Es una denominación antigua que no recoge la LCSP actual (**art. 15**)."
+  ]
+ },
+ "of-07-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se solicita antes de aprobar el proyecto, no antes de adjudicar (**art. 235**).",
+   "No. El umbral se mide por el presupuesto base de licitación, IVA excluido, no por el valor estimado (**art. 235**).",
+   "Es esta. Es preceptivo también por debajo del umbral cuando la obra afecte a la estabilidad, seguridad o estanqueidad (**art. 235**).",
+   "No. La disponibilidad de terrenos se comprueba en el replanteo, no en la supervisión (**art. 236**)."
+  ]
+ },
+ "of-07-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 234.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cabe excepcionalmente (**art. 234.1**).",
+   "No. La regla general es contratar proyecto y obra por separado (**art. 234.1**).",
+   "Es esta. Solo excepcionalmente, en los supuestos de la ley, y debe justificarse en el expediente (**art. 234.1**).",
+   "No. Hay que justificarlo (**art. 234.1**)."
+  ]
+ },
+ "of-07-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No los fija el contratista (**art. 242.2**).",
+   "Es esta. Los fija la Administración, previa audiencia del contratista por plazo mínimo de tres días hábiles (**art. 242.2**).",
+   "No. No tienen que fijarse necesariamente de mutuo acuerdo (**art. 242.2**).",
+   "No. La audiencia del contratista es necesaria (**art. 242.2**)."
+  ]
+ },
+ "of-07-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 306.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Sí puede, porque se suspendió por más de cuatro meses desde la fecha de entrega fijada (**art. 306.a**).",
+   "No. Sí es causa de resolución (**art. 306.a**).",
+   "No. Ocho meses es el plazo cuando la suspensión es de un suministro ya iniciado (**art. 306.b**).",
+   "No. El plazo es de cuatro meses, no de seis (**art. 306.a**)."
+  ]
+ },
+ "of-07-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es el 6 %, no el 3 % (**art. 307.3**).",
+   "Es esta. Desistida la Administración una vez iniciado el suministro, el contratista percibe el 6 % del precio de los suministros dejados de realizar, como beneficio industrial, IVA excluido (**art. 307.3**).",
+   "No. No se abona el importe íntegro (**art. 307.3**).",
+   "No. La ley no prevé esa facultad (**art. 307**)."
+  ]
+ },
+ "of-07-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Gran reparación es sobre un bien ya existente (**art. 232.1**).",
+   "Es esta. Las obras que dan lugar a la creación de un bien inmueble son de primer establecimiento (**art. 232.2**).",
+   "No. Reforma es sobre un inmueble existente (**art. 232.3**).",
+   "No. Rehabilitación es sobre un inmueble existente (**art. 232.1**)."
+  ]
+ },
+ "of-07-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La supervisión es previa a la aprobación del proyecto (**art. 235**).",
+   "No. El replanteo del proyecto es previo a la aprobación del expediente de contratación (**art. 236**).",
+   "Es esta. La ejecución comienza con el acta de comprobación del replanteo, dentro del plazo del contrato (**art. 237**).",
+   "No. El presupuesto se aprueba con el proyecto, antes de contratar (**art. 233**)."
+  ]
+ },
+ "of-07-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 304.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se reparten por mitades (**art. 304.1**).",
+   "No. No dependen del cumplimiento del plazo (**art. 304.1**).",
+   "No. Salvo pacto, no son de la Administración (**art. 304.1**).",
+   "Es esta. Son de cuenta del contratista, salvo pacto en contrario (**art. 304.1**)."
+  ]
+ },
+ "of-07-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El informe se pide antes de aprobar el proyecto, no después (**art. 235**).",
+   "Es esta. Antes de aprobar el proyecto, con presupuesto base de licitación igual o superior a 500.000 euros, IVA excluido (**art. 235**).",
+   "No. Ni es posterior a la aprobación ni el umbral es de 300.000 euros (**art. 235**).",
+   "No. El umbral no es de 300.000 euros y el IVA se excluye (**art. 235**)."
+  ]
+ },
+ "of-07-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo se cuenta desde la formalización, no desde la adjudicación (**art. 237**).",
+   "No. Son un mes, no dos (**art. 237**).",
+   "Es esta. No puede ser superior a un mes desde la formalización, salvo casos excepcionales justificados (**art. 237**).",
+   "No. Es un mes desde la formalización, no quince días desde la adjudicación (**art. 237**)."
+  ]
+ },
+ "of-07-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El 3 % del precio de adjudicación, IVA excluido (**art. 307.2**).",
+   "No. Es el 3 %, no el 5 % (**art. 307.2**).",
+   "No. El 6 % es el beneficio industrial por desistimiento ya iniciado el suministro (**art. 307.3**).",
+   "No. El IVA se excluye (**art. 307.2**)."
+  ]
+ },
+ "of-07-016": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es el 2 %, no el 3 % (**art. 246.2**).",
+   "Es esta. Una indemnización del 2 % del precio de adjudicación, IVA excluido (**art. 246.2**).",
+   "No. Es el 2 %, no el 5 % (**art. 246.2**).",
+   "No. Es el 2 %, no el 6 % (**art. 246.2**)."
+  ]
+ },
+ "of-07-017": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 16.3.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los contratos de fabricación son suministros, no obras (**art. 16.3.c**).",
+   "Es esta. Se rigen por las normas del contrato de suministro, pues la LCSP los califica así (**art. 16.3.c**).",
+   "No. Mezcla un régimen de obras que la LCSP no recoge (**art. 16.3.c**).",
+   "No. No hay remisión a las normas de las obras para la publicidad y adjudicación (**art. 16.3.c**)."
+  ],
+  "revisar": "Pregunta tomada de la legislación anterior, que mezclaba normas de obras y suministro. Con la LCSP vigente la fabricación es suministro."
+ },
+ "of-08-001": {
+  "bloque": "subv-general",
+  "precepto": "concepto de subvención",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La limitación restringe derechos, y la subvención los favorece.",
+   "No. La actividad arbitral es de resolución de conflictos.",
+   "No. El servicio público es la prestación directa de servicios, y la subvención no lo es.",
+   "Es esta. La subvención es una técnica de fomento: estimula actividades de interés general mediante una ayuda."
+  ],
+  "revisar": "Pregunta de doctrina. No consta en la Ley 38/2003 con esas palabras. Razonada con doctrina general."
+ },
+ "of-08-002": {
+  "bloque": "subv-general",
+  "precepto": "concepto de fomento",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Construir una carretera es prestar un servicio público.",
+   "Es esta. Un premio es un incentivo honorífico, una modalidad de fomento.",
+   "No. Vacunar es prestación de un servicio público.",
+   "No. La licencia sobre el dominio público es una actividad de limitación o intervención."
+  ],
+  "revisar": "Pregunta de doctrina. No consta en la Ley 38/2003 con esas palabras. Razonada con doctrina general."
+ }
+}

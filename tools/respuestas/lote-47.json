@@ -1,0 +1,567 @@
+{
+ "pr-61-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no es contrato armonizado (valor estimado 2.144.784 euros, menos de 5.404.000), así que no va al DOUE.",
+   "No: sin armonización no se publica en el DOUE.",
+   "Correcta: en la AGE el anuncio se publica en el perfil de contratante y además en el BOE (art. 135.1).",
+   "No: en la AGE no basta el perfil, hay que publicar también en el BOE."
+  ],
+  "ojo": "Valor estimado: 1.787.320 x 1,20 = 2.144.784 euros, porque cuenta la modificación prevista del 20 %.",
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-61-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44 y 121 Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en obras el recurso especial exige valor estimado superior a 3.000.000, y aquí son 2.144.784.",
+   "No: tampoco cabe el especial, y el plazo de 15 días hábiles no es el que corresponde aquí.",
+   "Correcta: no cabe recurso especial, así que se impugna por recurso de alzada en el plazo de un mes (art. 121 de la Ley 39/2015).",
+   "No: el recurso de reposición procede cuando el acto agota la vía administrativa, y aquí se supone que hay superior jerárquico."
+  ],
+  "revisar": "La alzada o la reposición dependen de quién sea el órgano de contratación en el Ministerio; se elige alzada. Umbral de 3.000.000 euros para obras (art. 44.1.a)."
+ },
+ "pr-61-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 39 y 40",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no es de las causas de nulidad de los arts. 39 y 47 de la Ley 39/2015.",
+   "Correcta: infringe la igualdad y la concurrencia, y las demás infracciones del ordenamiento son causa de anulabilidad (art. 40).",
+   "No: la invalidez de derecho civil es para contratos privados, no para pliegos de un contrato administrativo.",
+   "No: la experiencia previa con la Administración no se puede valorar como ventaja."
+  ],
+  "revisar": "Hay quien lo plantea como nulidad por vulnerar la igualdad (art. 14 CE, art. 47.1.a de la Ley 39/2015). Se elige anulabilidad por ser la regla general del art. 40."
+ },
+ "pr-61-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 156.6 y DA 12.ª",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 22 de febrero serían 20 días, y el plazo mínimo de obras no armonizadas es de 26.",
+   "No: 23 de febrero serían 21 días.",
+   "No: el 28 de febrero de 2026 es el día 26, pero es sábado, y el plazo pasa al primer día hábil siguiente.",
+   "Correcta: contados desde el día siguiente (3 de febrero) el día 26 es el 28 de febrero, sábado, y se prorroga al lunes 2 de marzo (arts. 156.6 y DA 12.ª)."
+  ]
+ },
+ "pr-61-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.1 y 157.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la documentación de requisitos previos va en sobre o archivo distinto de la proposición (art. 157.1).",
+   "Correcta: dos, uno con la declaración responsable y otro con la proposición, porque los dos criterios son de fórmulas y no hace falta un sobre de juicio de valor.",
+   "No: el segundo sobre de la proposición es solo para los criterios de juicio de valor (art. 157.2), y aquí no hay.",
+   "No: la ley no prevé cuatro sobres."
+  ],
+  "revisar": "El art. 157.2 habla de “pluralidad de criterios”; se entiende que la separación en dos sobres solo tiene sentido si hay criterios de juicio de valor."
+ },
+ "pr-61-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 82 y DT",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las clasificaciones de las comunidades autónomas tienen eficacia general frente a todos los órganos de contratación.",
+   "No: el valor estimado supera los 500.000 euros, por lo que la clasificación sí es exigible (art. 77.1.a).",
+   "No: la clasificación autonómica no queda limitada a su comunidad.",
+   "No: no hace falta la clasificación estatal además de la autonómica."
+  ]
+ },
+ "pr-61-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la apertura se hace en veinte días, no en diez hábiles.",
+   "No: quince días no es el plazo máximo para abrir las proposiciones.",
+   "Correcta: la apertura debe efectuarse como máximo veinte días después de que acabe el plazo de presentación (art. 157.3).",
+   "No: dos meses es el plazo de adjudicación con varios criterios."
+  ]
+ },
+ "pr-61-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: diez días hábiles no es el plazo de adjudicación.",
+   "No: quince días es el plazo si el único criterio fuera el precio.",
+   "No: veinte días es el plazo de apertura de proposiciones.",
+   "Correcta: con pluralidad de criterios (precio 70 % y plazo 30 %) el plazo máximo es de dos meses desde la apertura (art. 158.2)."
+  ]
+ },
+ "pr-61-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: diez días hábiles desde el envío del requerimiento (art. 150.2).",
+   "No: los diez días son hábiles, no naturales.",
+   "No: siete días hábiles es el plazo del procedimiento abierto simplificado.",
+   "No: siete días naturales no es plazo previsto."
+  ]
+ },
+ "pr-61-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la adjudicación se hace dentro de los cinco días hábiles siguientes a recibir la documentación (art. 150.3).",
+   "No: diez días hábiles es el del requerimiento, no el de adjudicación.",
+   "No: quince días es el plazo si el criterio único es el precio, desde la apertura.",
+   "No: dos meses es el plazo desde la apertura con varios criterios."
+  ]
+ },
+ "pr-61-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 34.000 euros sería el 2 %.",
+   "No: 51.000 euros sería el 3 %.",
+   "Correcta: el 5 % del precio final ofertado sin IVA: 1.700.000 x 5 % = 85.000 euros (art. 107.1).",
+   "No: 170.000 euros sería el 10 %."
+  ]
+ },
+ "pr-61-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: diez días no es el plazo.",
+   "No: no antes de quince días es otra regla.",
+   "No: no antes de quince días hábiles solo rige si el contrato admite recurso especial, y aquí no, porque el valor estimado de las obras no supera 3.000.000.",
+   "Correcta: al no ser susceptible de recurso especial, se formaliza a más tardar en los quince días hábiles siguientes a la notificación (art. 153.3)."
+  ],
+  "ojo": "Aquí la diferencia entre “no antes de” (con recurso especial) y “no más tarde de” (sin él) lo decide el valor estimado."
+ },
+ "pr-61-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la garantía provisional no es lo que se incauta.",
+   "No: no se incauta la garantía definitiva, se exige una penalidad.",
+   "Correcta: se exige una penalidad del 3 % del presupuesto base de licitación sin IVA (art. 153.4).",
+   "No: el 3 % se calcula sobre el presupuesto base de licitación, no sobre el precio de adjudicación."
+  ]
+ },
+ "pr-61-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 154.1 y 154.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no hay DOUE porque no es armonizado.",
+   "No: sin armonización no va al DOUE.",
+   "Correcta: la formalización se publica en el perfil de contratante y, en la AGE, además en el BOE (art. 154.1 y 154.2).",
+   "No: en la AGE hay que publicar también en el BOE."
+  ]
+ },
+ "pr-61-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en obras el valor estimado no puede pasar de 2.000.000 y aquí es de 2.144.784 euros (art. 159.1.a).",
+   "No: el procedimiento no está limitado por tener criterios distintos del precio.",
+   "No: aquí no hay criterios de juicio de valor, así que el 25 % no entra en juego.",
+   "No: no se cumple la condición del valor estimado."
+  ]
+ },
+ "pr-61-016": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el arrendamiento de bienes muebles es suministro, no servicio.",
+   "Correcta: son contratos de suministro la adquisición y el arrendamiento de bienes muebles (art. 16.1).",
+   "No: lo celebra la Administración con objeto propio de contrato administrativo.",
+   "No: no está excluido de la LCSP."
+  ]
+ },
+ "pr-61-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 45 % es solo para prestaciones de carácter intelectual.",
+   "Correcta: el juicio de valor no puede superar el 25 % del total (art. 159.1.b).",
+   "No: tener un criterio de juicio de valor no impide el simplificado, solo limita su peso.",
+   "No: el valor estimado es 58.450 x 2 = 116.900 euros, inferior a 140.000 (art. 159.1.a)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-61-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.1.a, 44.2.b y 50.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el valor estimado (116.900) supera 100.000 y la exclusión es acto de trámite recurrible; el plazo es de quince días hábiles (arts. 44 y 50).",
+   "No: la exclusión de un licitador es acto de trámite cualificado que sí se puede recurrir (art. 44.2.b).",
+   "No: el procedimiento simplificado no impide el recurso especial.",
+   "No: el valor estimado supera 100.000 euros, que es el umbral en suministros."
+  ]
+ },
+ "pr-61-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 49 y 53",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la suspensión automática solo afecta al acto de adjudicación, no a la exclusión.",
+   "No: no se suspende por solicitarlo en el escrito, sino que se pide como medida cautelar.",
+   "No: sí puede solicitarse una medida cautelar de suspensión.",
+   "Correcta: no se suspende automáticamente, pero el recurrente puede solicitar la suspensión como medida cautelar (art. 49)."
+  ]
+ },
+ "pr-61-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 57.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo no es un mes.",
+   "Correcta: dos meses desde el día siguiente a la interposición, pasados los cuales se puede entender desestimado a efectos de recurso contencioso (art. 57.5).",
+   "No: tres meses no es el plazo máximo para resolver el recurso.",
+   "No: el silencio es desestimatorio, no estimatorio."
+  ]
+ },
+ "pr-61-021": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 106 y 159.4.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 1.169 euros sería el 2 % del PBL.",
+   "No: 1.753,50 euros sería el 3 % del PBL.",
+   "No: ese importe tampoco es posible.",
+   "Correcta: en el procedimiento abierto simplificado no procede la garantía provisional (art. 159.4.b)."
+  ],
+  "ojo": "El tope general de la garantía provisional es el 3 % del presupuesto base de licitación sin IVA (art. 106.2), pero aquí no se puede exigir."
+ },
+ "pr-61-022": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: ni el BOE ni el DOUE son necesarios aquí. El contrato (58.450 euros) no es armonizado y se tramita por el abierto simplificado.",
+   "No: no es armonizado, así que no va al DOUE, y en el simplificado tampoco se exige el BOE.",
+   "No: el art. 135.1 añade el BOE en la AGE, pero el art. 159.2 lo excluye en el abierto simplificado.",
+   "Correcta: en el procedimiento abierto simplificado el anuncio de licitación únicamente precisa publicación en el perfil de contratante (art. 159.2)."
+  ],
+  "ojo": "La regla general de la AGE (perfil y BOE, art. 135.1) cede ante la norma especial del abierto simplificado (art. 159.2)."
+ },
+ "pr-61-023": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.f",
+  "correcta": 1,
+  "justificaciones": [
+   "No: diez días hábiles es el del requerimiento en el procedimiento abierto ordinario.",
+   "Correcta: en el abierto simplificado se concede un plazo de siete días hábiles para presentar la garantía definitiva y los documentos (art. 159.4.f).",
+   "No: cinco días hábiles es el plazo de adjudicación.",
+   "No: el plazo es de días hábiles, no naturales."
+  ]
+ },
+ "pr-61-024": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: dos meses de preaviso, salvo que el pliego fije uno mayor (art. 29.2).",
+   "No: el pliego puede fijar un preaviso mayor, no menor.",
+   "No: el preaviso es de dos meses, no de tres.",
+   "No: la prórroga es obligatoria para el empresario si hay preaviso en plazo."
+  ]
+ },
+ "pr-61-025": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 118 y 159.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: sí puede tramitarse por el procedimiento sumario.",
+   "No: el contrato menor es una opción, no una obligación.",
+   "Correcta: 17.980 con IVA son 14.859,50 sin IVA, menos de 15.000, y cumple los requisitos del art. 159.6 (menos de 60.000 y solo fórmulas); también cabe como contrato menor.",
+   "No: sí cabe como contrato menor, porque el valor estimado es inferior a 15.000 euros."
+  ]
+ },
+ "pr-61-026": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 2,
+  "justificaciones": [
+   "Es cierta: las proposiciones se presentan únicamente en el registro indicado en el anuncio (art. 159.4.c).",
+   "Es cierta: no se exige garantía provisional ni definitiva (arts. 159.4.b y 159.6.f).",
+   "Es la incorrecta: el plazo mínimo son diez días hábiles, y “diez días” se entendería naturales (DA 12.ª).",
+   "Es cierta: la oferta se presenta en un único sobre o archivo electrónico (art. 159.6.c)."
+  ],
+  "ojo": "La trampa es que falta “hábiles”: sin esa palabra, los plazos por días son naturales."
+ },
+ "pr-61-027": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el suministro se adjudica como contrato específico dentro de un sistema dinámico de adquisición, y esos contratos se perfeccionan con su adjudicación (art. 36.3).",
+   "No: la formalización es la regla general (art. 36.1), pero los contratos específicos de un SDA quedan exceptuados.",
+   "No: el inicio de la ejecución no es lo que perfecciona el contrato.",
+   "No: el cumplimiento a satisfacción es el fin del contrato, no su perfeccionamiento."
+  ],
+  "ojo": "Trampa: la regla general (formalización) no se aplica a los contratos basados en acuerdo marco ni a los específicos de un SDA."
+ },
+ "pr-61-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 18.000 euros supera el límite de 15.000.",
+   "No: 15.000 euros ya no es inferior al límite.",
+   "No: 40.000 euros es el límite de obras, no de servicios.",
+   "Correcta: contrato menor de servicios es el de valor estimado inferior a 15.000 euros, es decir, 14.999,99 (art. 118.1)."
+  ]
+ },
+ "pr-61-029": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 26.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no está excluido de la ley, la LCSP lo regula como contrato privado.",
+   "Correcta: los contratos de creación e interpretación artística y literaria y los de espectáculos son privados (art. 26.1.a).",
+   "No: aunque su objeto sea un servicio, la ley lo califica de privado.",
+   "No: no es contrato administrativo especial."
+  ]
+ },
+ "pr-61-030": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: los servicios sociales del Anexo IV sí pueden estar sujetos a regulación armonizada.",
+   "Correcta: los servicios sociales y otros específicos del Anexo IV son armonizados si su valor estimado es igual o superior a 750.000 euros (art. 22.1.c).",
+   "No: 216.000 euros es el umbral de otros servicios para entes no AGE.",
+   "No: 140.000 euros es el umbral general de servicios para la AGE."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-62-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: El 10 % del precio, IVA excluido no es lo que establece art. 192.1.",
+   "No: El 10 % del valor estimado no es lo que establece art. 192.1.",
+   "Correcta: el total de las penalidades por cumplimiento defectuoso no puede exceder del 50 % del precio del contrato, IVA excluido (art. 192.1).",
+   "No: El 50 % del valor estimado no es lo que establece art. 192.1."
+  ]
+ },
+ "pr-62-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: El 15 % del precio no es lo que establece art. 193.4.",
+   "Correcta: la facultad de resolver o continuar se reabre cada vez que las penalidades alcanzan un múltiplo del 5 % del precio, IVA excluido (art. 193.4).",
+   "No: El 20 % del precio no es lo que establece art. 193.4.",
+   "No: El 10 % del precio no es lo que establece art. 193.4."
+  ],
+  "ojo": "El enunciado cita el art. 193.3, pero la regla del múltiplo del 5 % está en el 193.4."
+ },
+ "pr-62-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 196.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la responsabilidad por vicios del proyecto es de la Administración, no del contratista de las obras.",
+   "No: no es subsidiaria, la Administración responde directamente.",
+   "Correcta: responde la Administración, sin perjuicio de repetir contra el redactor del proyecto (arts. 196.2 y 315).",
+   "No: el tercero reclama a la Administración, no al redactor."
+  ]
+ },
+ "pr-62-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: Noventa días no es lo que establece art. 198.4.",
+   "No: Sesenta días no es lo que establece art. 198.4.",
+   "Correcta: la Administración debe pagar dentro de los treinta días siguientes a la aprobación de la certificación o conformidad (art. 198.4).",
+   "No: Un mes no es lo que establece art. 198.4."
+  ],
+  "ojo": "La ley dice “treinta días”, no “un mes”: son cifras distintas."
+ },
+ "pr-62-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: con demora superior a cuatro meses el contratista puede suspender, comunicándolo con un mes de antelación (art. 198.5).",
+   "No: cinco meses no es el plazo que fija el art. 198.5.",
+   "No: seis meses es el plazo para pedir la resolución, no para suspender (art. 198.6).",
+   "No: ocho meses es el plazo de suspensión por la Administración que da derecho a resolver."
+  ]
+ },
+ "pr-62-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 8 meses no es lo que establece art. 198.6.",
+   "Correcta: con una demora en el pago superior a seis meses el contratista puede resolver y pedir los perjuicios (art. 198.6).",
+   "No: 4 meses no es lo que establece art. 198.6.",
+   "No: 1 año no es lo que establece art. 198.6."
+  ]
+ },
+ "pr-62-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 50 % del valor estimado, IVA incluido no es lo que establece art. 192.1.",
+   "Correcta: cada penalidad por cumplimiento defectuoso no puede superar el 10 % del precio del contrato, IVA excluido (art. 192.1).",
+   "No: 20 % del precio del contrato no es lo que establece art. 192.1.",
+   "No: 50 % del precio, IVA excluido no es lo que establece art. 192.1."
+  ]
+ },
+ "pr-62-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 20 % del valor estimado no es lo que establece art. 204.",
+   "No: 50 % del precio inicial no es lo que establece art. 204.",
+   "No: 20 % del presupuesto base de licitación no es lo que establece art. 204.",
+   "Correcta: las modificaciones previstas en el pliego pueden llegar al 20 % del precio inicial del contrato (art. 204)."
+  ]
+ },
+ "pr-62-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el plazo no es de seis meses.",
+   "No: ni seis meses ni se cuenta desde que se reanude.",
+   "Correcta: el derecho a reclamar prescribe en un año desde que el contratista recibe la orden de reanudar la ejecución (art. 208.2.c).",
+   "No: el plazo es de un año, pero se cuenta desde la orden de reanudar, no desde la reanudación."
+  ]
+ },
+ "pr-62-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 209",
+  "correcta": 1,
+  "justificaciones": [
+   "No: Por mutuo acuerdo no es lo que establece art. 209.",
+   "Correcta: los contratos se extinguen por su cumplimiento o por su resolución (art. 209).",
+   "No: Por mutuo acuerdo o expiración del plazo no es lo que establece art. 209.",
+   "No: Por incumplimiento del contratista o de la Administración no es lo que establece art. 209."
+  ]
+ },
+ "pr-62-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la ley no dice treinta días, dice dentro del mes siguiente.",
+   "Correcta: un mes desde la entrega o realización del objeto, o el plazo que fije el pliego (art. 210.2).",
+   "No: sesenta días no es el plazo.",
+   "No: tres meses es el plazo de aprobar la certificación final de obras, no de la recepción."
+  ]
+ },
+ "pr-62-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la liquidación no extingue la responsabilidad.",
+   "No: realizar la prestación es el cumplimiento, no la extinción de responsabilidad.",
+   "No: no hay un plazo de dos meses tras la garantía.",
+   "Correcta: transcurrido el plazo de garantía sin objeciones de la Administración se extingue la responsabilidad del contratista (art. 210.3)."
+  ]
+ },
+ "pr-62-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: Haya pasado el plazo de entrega no es lo que establece art. 210.1.",
+   "No: Se produzca la liquidación no es lo que establece art. 210.1.",
+   "No: Haya pasado el plazo de garantía sin objeciones no es lo que establece art. 210.1.",
+   "Correcta: el contrato se cumple cuando el contratista realiza la totalidad de la prestación a satisfacción de la Administración (art. 210.1)."
+  ]
+ },
+ "pr-62-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es causa: la declaración de concurso o de insolvencia (art. 211.1.b).",
+   "Sí es causa: la demora en el cumplimiento de los plazos por el contratista (art. 211.1.d).",
+   "No es causa tal como se redacta: solo lo es el incumplimiento de la obligación principal, o de obligaciones esenciales así calificadas (art. 211.1.f), no “cualquiera”.",
+   "Sí es causa: el mutuo acuerdo (art. 211.1.c)."
+  ]
+ },
+ "pr-62-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no se atiende a lo más ventajoso para el contratista.",
+   "No: no cuenta la causa aparecida después.",
+   "No: tampoco se elige la más ventajosa para la Administración.",
+   "Correcta: se atiende a la causa que haya aparecido con prioridad en el tiempo (art. 211.2)."
+  ]
+ },
+ "pr-62-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la cesión se formaliza entre adjudicatario y cesionario en escritura pública (art. 214.2.d).",
+   "No: no basta documento privado.",
+   "No: la Administración no es parte del documento de cesión, solo autoriza.",
+   "No: ni la Administración interviene ni vale el documento privado."
+  ]
+ },
+ "pr-62-017": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el límite no son tres años.",
+   "Correcta: no puede exceder de cuatro años, salvo casos excepcionales debidamente justificados (art. 219.2).",
+   "No: el límite no son cinco años.",
+   "No: hay excepción para casos excepcionales justificados."
+  ]
+ },
+ "pr-62-018": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el órgano de contratación no decide la declaración.",
+   "No: la Junta de Contratación Centralizada contrata, no declara.",
+   "No: no lo decide el Consejo de Ministros.",
+   "Correcta: lo declara el Ministro de Hacienda (art. 229.1)."
+  ]
+ },
+ "pr-62-019": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el Ministro de Hacienda declara la contratación centralizada, pero no contrata.",
+   "Correcta: el órgano de contratación es la Junta de Contratación Centralizada (art. 229.5).",
+   "No: la Junta Consultiva es un órgano consultivo.",
+   "No: la Dirección General presta apoyo técnico, pero no contrata."
+  ]
+ },
+ "pr-62-020": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 212.8",
+  "correcta": 3,
+  "justificaciones": [
+   "No: tres meses no es el plazo.",
+   "No: dos meses no es el plazo.",
+   "No: seis meses no es el plazo.",
+   "Correcta: los expedientes de resolución se instruyen y resuelven en el plazo máximo de ocho meses (art. 212.8)."
+  ],
+  "ojo": "La STC 68/2021 declaró que el plazo de ocho meses no es conforme con el orden de competencias, de modo que no se impone a las comunidades autónomas."
+ }
+}

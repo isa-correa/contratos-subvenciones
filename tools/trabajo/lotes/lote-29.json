@@ -1,0 +1,686 @@
+{
+ "casos": {
+  "caso-01": {
+   "id": "caso-01",
+   "titulo": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "texto": "A efectos del ámbito subjetivo de aplicación de la LCSP, indique qué consideración tienen las siguientes entidades:",
+   "corto": true
+  },
+  "caso-02": {
+   "id": "caso-02",
+   "titulo": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "texto": "Califique los siguientes contratos celebrados por entidades pertenecientes al sector público:",
+   "corto": true
+  },
+  "caso-03": {
+   "id": "caso-03",
+   "titulo": "Ejercicio 3.- Contratos SARA.",
+   "texto": "Indique si los siguientes contratos se encuentran sujetos, o no, a una regulación armonizada:",
+   "corto": true
+  },
+  "caso-04": {
+   "id": "caso-04",
+   "titulo": "Ejercicio 4.- Naturaleza de los contratos",
+   "texto": "Indique qué carácter tiene el siguiente contrato o, en su caso, si queda excluido del ámbito de aplicación de la Ley de Contratos del Sector Público:",
+   "corto": true
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-01-001",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 1,
+   "enunciado": "Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-002",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 2,
+   "enunciado": "Las Mutuas colaboradoras con la Seguridad Social:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-003",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 3,
+   "enunciado": "Instituto Nacional de Estadística, O.A. (Organismo Autónomo adscrito al Ministerio de Economía, Comercio y Empresa):",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-004",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 4,
+   "enunciado": "La Administración General del Estado:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder Adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-005",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 5,
+   "enunciado": "Universidad Pública Carlos III de Madrid:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-006",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 6,
+   "enunciado": "Diputación Foral de Navarra:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-007",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 7,
+   "enunciado": "Renfe Viajeros, S.M.E. (Sociedad Mercantil Estatal perteneciente íntegramente a RENFE-Operadora, E.P.E.):",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-008",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 8,
+   "enunciado": "Agencia Española de Protección de Datos, A.A.I. (Autoridad Administrativa Independiente que se relaciona con el Gobierno a través del Ministerio de Justicia):",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-009",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 9,
+   "enunciado": "RENFE-Operadora, E.P.E. (Entidad Publica empresarial adscrita al Ministerio de Transportes y Movilidad Sostenible):",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-010",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 10,
+   "enunciado": "La Administración de la Junta de Andalucía:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-011",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 11,
+   "enunciado": "Agencia Estatal de Seguridad Aérea, AESA (Agencia Estatal adscrita al Ministerio de Transportes y Movilidad Sostenible):",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-012",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 12,
+   "enunciado": "Centro Nacional de Investigaciones Cardiovasculares Carlos III, F.S.P: (Fundación del Sector Público)",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-013",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 13,
+   "enunciado": "Consorcio Regional de Transportes Públicos Regulares de Madrid:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder Adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-014",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 14,
+   "enunciado": "Fondo de Emprendimiento de la Pequeña y Mediana Empresa F.C.P.J. (Fondo sin personalidad jurídica):",
+   "opciones": [
+    "Administración Pública.",
+    "Poder Adjudicador sin el carácter de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-01-015",
+   "origen": "practicas",
+   "test": "Ejercicio 1.- Ámbito subjetivo LCSP",
+   "n": 15,
+   "enunciado": "Ministerio de Hacienda:",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador que no reúne la condición de Administración Pública.",
+    "Entidad del sector público que no reúne la condición de poder adjudicador."
+   ],
+   "caso": "caso-01"
+  },
+  {
+   "id": "pr-02-001",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 1,
+   "enunciado": "Contrato de fabricación, por los que la cosa haya de ser elaborada con arreglo a características peculiares fijadas previamente por la entidad contratante:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-002",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 2,
+   "enunciado": "Contrato que tiene por objeto la adquisición de programas de ordenador desarrollados a medida:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-003",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 3,
+   "enunciado": "Contratos de adquisición de energía primaria o energía transformada:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-004",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 4,
+   "enunciado": "Contrato de arrendamiento de un bien inmueble:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-005",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 5,
+   "enunciado": "Contrato de redacción de un proyecto de obras:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-006",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 6,
+   "enunciado": "Contrato de arrendamiento de vehículos:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-007",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 7,
+   "enunciado": "Contrato relativo a servicios de arbitraje tramitado por el Ministerio de Trabajo y Economía Social:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-008",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 8,
+   "enunciado": "Contrato que tiene por objeto la ampliación de la Sala de Macro Juicios en la sede de la Audiencia Nacional:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-009",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 9,
+   "enunciado": "Contratación del proyecto de modernización de los portales web del Instituto Nacional de Administración Pública:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-010",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 10,
+   "enunciado": "Contrato que tiene por objeto la instalación de una bomba de calor de aire en el edificio de juzgados de Almagro:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-011",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 11,
+   "enunciado": "Contrato de adquisición de licencias software:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-012",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 12,
+   "enunciado": "Contrato cuyo objeto es la instalación de un ascensor en un edificio administrativo:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-013",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 13,
+   "enunciado": "Contrato de telefonía fija y móvil:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-014",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 14,
+   "enunciado": "Relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público de aplicación general:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-02-015",
+   "origen": "practicas",
+   "test": "Ejercicio 2.- Delimitación de los tipos contractuales",
+   "n": 15,
+   "enunciado": "Contrato cuyo objeto es la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato de servicios.",
+    "Contrato excluido."
+   ],
+   "caso": "caso-02"
+  },
+  {
+   "id": "pr-03-001",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 1,
+   "enunciado": "Contrato de suministro con valor estimado de 150.000 euros adjudicado por el Ministerio de Cultura:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-002",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 2,
+   "enunciado": "Contrato de servicios con valor estimado de 175.000 euros adjudicado por el organismo autónomo Parques Nacionales, adscrito al Ministerio para la Transición Ecológica y el Reto Demográfico:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-003",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 3,
+   "enunciado": "Contrato de suministro con valor estimado de 200.000 euros adjudicado por la Universidad de Jaén:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-004",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 4,
+   "enunciado": "Contrato de suministro con valor estimado de 150.000 euros adjudicado por la Tesorería General de la Seguridad Social: Nota: La Tesorería General de la Seguridad Social tiene la consideración de Servicio común de la Seguridad Social.",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-005",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 5,
+   "enunciado": "Contrato de servicios adjudicado por el Ayuntamiento de Murcia con valor estimado de 225.000 euros:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-006",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 6,
+   "enunciado": "Contrato de suministro con valor estimado de 175.000 euros adjudicado por la Junta de Extremadura:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-007",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 7,
+   "enunciado": "Contrato de suministro con valor estimado de 250.000 euros adjudicado por ASEPEYO (Mutua colaboradora con la Seguridad Social):",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-008",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 8,
+   "enunciado": "Contrato de servicios con valor estimado de 216.000 euros adjudicado por F.S.P. Instituto de Cultura Gitana (Fundación Pública adscrita al Ministerio de Cultura y Deporte):",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-009",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 9,
+   "enunciado": "Contrato de servicios de hostelería y restaurante con valor estimado de 500.000 euros adjudicado por la Universidad de Málaga (servicios específicos enumerados en el anexo IV de la LCSP):",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-03-010",
+   "origen": "practicas",
+   "test": "Ejercicio 3.- Contratos SARA.",
+   "n": 10,
+   "enunciado": "Contrato de obras de valor estimado de 5.500.000 euros adjudicado por RENFE-Operadora, E.P.E.:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-03"
+  },
+  {
+   "id": "pr-04-001",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 1,
+   "enunciado": "Contrato de suscripción a una base de datos, adjudicado por el Ministerio de Justicia:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-002",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 2,
+   "enunciado": "Contrato de suministro de energía eléctrica, adjudicado por un Organismo Autónomo del Estado:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-003",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 3,
+   "enunciado": "Contrato de obras adjudicado por una Entidad Pública Empresarial:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-004",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 4,
+   "enunciado": "Contratos de servicios de vigilancia celebrado por una Comunidad Autónoma:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-005",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 5,
+   "enunciado": "Contrato de servicios de limpieza, adjudicado por una Fundación Pública:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-006",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 6,
+   "enunciado": "Contrato de arrendamiento de un edificio celebrado por el Ministerio de Hacienda:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-007",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 7,
+   "enunciado": "Contrato de concesión de obras celebrado por un Organismo Autónomo:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-008",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 8,
+   "enunciado": "Contrato de arrendamiento de bienes muebles, adjudicado por una sociedad mercantil estatal:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-009",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 9,
+   "enunciado": "Contrato de obras adjudicado por una Autoridad Administrativa Independiente:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  },
+  {
+   "id": "pr-04-010",
+   "origen": "practicas",
+   "test": "Ejercicio 4.- Naturaleza de los contratos",
+   "n": 10,
+   "enunciado": "Contrato de servicios relacionados con campañas políticas, adjudicado por un partido político:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado, incluido en el ámbito de aplicación de la LCSP.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-04"
+  }
+ ]
+}

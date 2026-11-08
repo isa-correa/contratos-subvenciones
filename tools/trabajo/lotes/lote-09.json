@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-11-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 4,
+   "enunciado": "Según la LCSP, los pliegos de cláusulas administrativas particulares deberán aprobarse:",
+   "opciones": [
+    "Conjuntamente con la licitación del contrato.",
+    "Previamente a la autorización del gasto o conjuntamente con ella.",
+    "Posteriormente a la autorización del gasto o conjuntamente con ella.",
+    "Conjuntamente con el informe del Servicio Jurídico."
+   ]
+  },
+  {
+   "id": "au-11-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 5,
+   "enunciado": "Los pliegos de cláusulas administrativas particulares de los contratos públicos deberán ser informados previamente por la Junta Consultiva de Contratación Pública del Estado:",
+   "opciones": [
+    "Solo si lo requiere el órgano de contratación correspondiente.",
+    "En todo caso.",
+    "Cuando incluyan estipulaciones contrarias a los correspondientes pliegos generales.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "au-11-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 6,
+   "enunciado": "De acuerdo con la LCSP, señale la respuesta correcta en relación con los pliegos de cláusulas administrativas particulares:",
+   "opciones": [
+    "Podrán ser modificados por los contratos que finalmente se celebren.",
+    "En todo caso, deberán estar aprobados antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "Su aprobación corresponde al órgano que solicita la celebración del contrato.",
+    "Pueden ser sustituidos por los pliegos de prescripciones técnicas."
+   ]
+  },
+  {
+   "id": "au-11-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 7,
+   "enunciado": "De acuerdo con la LCSP, los pliegos de cláusulas administrativas generales serán aprobados por:",
+   "opciones": [
+    "El Ministro de Hacienda, a propuesta del Consejo de Ministros, y previo dictamen del Consejo de Estado.",
+    "El Consejo de Estado, previo dictamen del Consejo de Ministros.",
+    "El Consejo de Ministros, previo dictamen del Consejo de Estado.",
+    "El órgano de contratación."
+   ]
+  },
+  {
+   "id": "au-11-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 8,
+   "enunciado": "Conforme al artículo 122 de la LCSP, los pliegos de cláusulas administrativas particulares deberán aprobarse previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta:",
+   "opciones": [
+    "Antes de su adjudicación.",
+    "Antes de su formalización.",
+    "Antes de su ejecución.",
+    "Antes de su liquidación."
+   ]
+  },
+  {
+   "id": "au-11-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 9,
+   "enunciado": "La aprobación de los pliegos y documentos que contengan las prescripciones técnicas particulares que hayan de regir la realización de la prestación y definan sus calidades, sus condiciones sociales y ambientales corresponderá a:",
+   "opciones": [
+    "El Consejo de Ministros, previo dictamen del Consejo de Estado.",
+    "El Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "El Consejo de Ministros, previo informe del Tribunal Administrativo Central de Recursos Contractuales.",
+    "El órgano de contratación."
+   ]
+  },
+  {
+   "id": "au-11-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 10,
+   "enunciado": "De acuerdo con la LCSP, una vez aprobados los pliegos de cláusulas administrativas particulares, ¿pueden subsanarse los errores materiales de que adolezcan?",
+   "opciones": [
+    "No, en ningún caso.",
+    "Solo en caso de errores de hecho.",
+    "Solo en caso de errores aritméticos.",
+    "Sí, tanto en caso de errores de hecho como de errores aritméticos."
+   ]
+  },
+  {
+   "id": "au-12-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 1,
+   "enunciado": "En los contratos celebrados por la Administración General del Estado, o por las entidades vinculadas a la misma que gocen de la naturaleza de Administraciones Públicas, no será necesario, con carácter general, publicar el anuncio de licitación en:",
+   "opciones": [
+    "El perfil de contratante.",
+    "En el Boletín Oficial del Estado.",
+    "En el Diario Oficial de la Unión Europea.",
+    "El anuncio de licitación habrá de publicarse necesariamente en todos los lugares señalados."
+   ]
+  },
+  {
+   "id": "au-12-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 2,
+   "enunciado": "La adjudicación de los contratos se realizará, ordinariamente:",
+   "opciones": [
+    "Utilizando el procedimiento abierto o el procedimiento restringido.",
+    "Utilizando el procedimiento abierto o el procedimiento negociado.",
+    "Utilizando el procedimiento restringido o el diálogo competitivo.",
+    "Utilizando el procedimiento negociado o el diálogo competitivo."
+   ]
+  },
+  {
+   "id": "au-12-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 3,
+   "enunciado": "Los anuncios de información previa se publicarán:",
+   "opciones": [
+    "En todo caso, en el Diario Oficial de la Unión Europea.",
+    "En todo caso, en el perfil de contratante del órgano de contratación.",
+    "A elección del órgano de contratación, en el Diario Oficial de la Unión Europea o en el perfil de contratante.",
+    "A elección del contratista, en el Diario Oficial de la Unión Europea o en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "au-12-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 4,
+   "enunciado": "Señala cuáles son los procedimientos de adjudicación de acuerdo con la Ley 9/2017:",
+   "opciones": [
+    "La subasta, el procedimiento restringido y el procedimiento abreviado.",
+    "El procedimiento abierto, el procedimiento restringido, los procedimientos negociados, el diálogo competitivo y la asociación para la innovación.",
+    "El procedimiento abierto, el procedimiento restringido, el procedimiento negociado y el diálogo competitivo.",
+    "La subasta, el concurso y el diálogo competitivo."
+   ]
+  },
+  {
+   "id": "au-12-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 5,
+   "enunciado": "El anuncio de licitación deberá publicarse en el Diario Oficial de la Unión Europea:",
+   "opciones": [
+    "En todos los contratos.",
+    "Cuando los contratos estén sujetos a regulación armonizada.",
+    "En los contratos celebrados por entidades que ostenten la consideración de Poderes Adjudicadores.",
+    "En los procedimientos negociados sin publicidad."
+   ]
+  },
+  {
+   "id": "au-12-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 6,
+   "enunciado": "Un empresario presenta individualmente una proposición en una licitación y además suscribe otra en unión temporal con otros empresarios. Señale la respuesta correcta de conformidad con la LCSP:",
+   "opciones": [
+    "Se le otorgará un plazo de subsanación de 10 días para que señale con qué propuesta quiere concurrir a la licitación.",
+    "No se admitirá ninguna de las propuestas suscritas por dicho empresario.",
+    "Solo se admitirá la propuesta que haya presentado individualmente.",
+    "El empresario incurrirá en una prohibición de contratar."
+   ]
+  },
+  {
+   "id": "au-12-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 7,
+   "enunciado": "Según la LCSP, respecto a las proposiciones de los interesados, y sin perjuicio de lo dispuesto sobre admisibilidad de variantes y sobre presentación de nuevos precios o valores en el seno de una subasta electrónica:",
+   "opciones": [
+    "Cada licitador no podrá presentar más de una proposición.",
+    "Cada licitador podrá presentar dos proposiciones.",
+    "Cada licitador podrá presentar tres proposiciones.",
+    "Cada licitador podrá presentar proposiciones sin límite."
+   ]
+  },
+  {
+   "id": "au-12-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 8,
+   "enunciado": "Señale la respuesta correcta de conformidad con el artículo 131 de la LCSP:",
+   "opciones": [
+    "La adjudicación se realizará, ordinariamente, utilizando una pluralidad de criterios de adjudicación basados en el precio.",
+    "La adjudicación se realizará, en todo caso, utilizando el procedimiento abierto o el procedimiento restringido.",
+    "Los contratos menores podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria.",
+    "Los contratos relativos a la prestación de asistencia sanitaria de urgencia se excluyen del ámbito de aplicación de la LCSP."
+   ]
+  },
+  {
+   "id": "au-12-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 9,
+   "enunciado": "En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con valor estimado inferior a 30.000 euros, no serán de aplicación las disposiciones de esta Ley relativas a:",
+   "opciones": [
+    "La preparación y adjudicación del contrato.",
+    "La preparación y adjudicación del contrato, así como a sus efectos y extinción.",
+    "Los efectos y extinción del contrato.",
+    "La extinción del contrato."
+   ]
+  },
+  {
+   "id": "au-12-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 10,
+   "enunciado": "Según lo dispuesto en el artículo 135 de la LCSP, ¿dónde debe publicarse el anuncio de licitación de un contrato de suministro, con un valor estimado de 150.000 euros, celebrado por un Ministerio?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "Únicamente en el perfil de contratante y en el BOE.",
+    "Únicamente en el perfil de contratante y en el BOE, sin perjuicio de su publicación potestativa en el DOUE.",
+    "En el perfil de contratante, en el BOE y en el DOUE."
+   ]
+  },
+  {
+   "id": "au-12-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 11,
+   "enunciado": "Según lo dispuesto en el artículo 135 de la LCSP, ¿dónde debe publicarse el anuncio de licitación de un contrato de obras, con un valor estimado de 1.500.000 euros, celebrado por un Ministerio?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "Únicamente en el perfil de contratante y en el BOE, sin que resulte posible su publicación en el DOUE.",
+    "Únicamente en el perfil de contratante y en el BOE, sin perjuicio de su publicación potestativa en el DOUE.",
+    "En el perfil de contratante, en el BOE y en el DOUE."
+   ]
+  },
+  {
+   "id": "au-12-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 12,
+   "enunciado": "El anuncio de licitación para la adjudicación de contratos de las Administraciones Públicas, a excepción de los procedimientos negociados sin publicidad, se publicará, en todo caso:",
+   "opciones": [
+    "En el perfil de contratante.",
+    "En el perfil de contratante y en el BOE.",
+    "En el perfil de contratante y en el BOE, sin perjuicio de su publicación potestativa en el DOUE.",
+    "En el perfil de contratante, en el BOE y en el DOUE."
+   ]
+  },
+  {
+   "id": "au-12-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 13,
+   "enunciado": "Señale la respuesta incorrecta, en relación con las proposiciones de los interesados, de acuerdo con el artículo 139 de la LCSP:",
+   "opciones": [
+    "Deberán ajustarse a los pliegos y documentación que rigen la licitación.",
+    "Su presentación supone la aceptación incondicionada por el empresario del contenido de la totalidad de sus cláusulas.",
+    "Las proposiciones serán secretas hasta el momento en que se formalice el contrato.",
+    "Cada licitador no podrá presentar más de una proposición. La infracción de esta normas dará lugar a la no admisión de todas las propuestas por él suscritas."
+   ]
+  },
+  {
+   "id": "au-12-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 14,
+   "enunciado": "De acuerdo con el artículo 140 de la LCSP, las circunstancias relativas a la capacidad, solvencia y ausencia de prohibiciones de contratar deberán concurrir:",
+   "opciones": [
+    "En la fecha final de presentación de ofertas y subsistir en el momento de perfección del contrato.",
+    "En la fecha final de presentación de ofertas y subsistir en el momento de adjudicación del contrato.",
+    "En la fecha inicial de presentación de ofertas y subsistir en el momento de adjudicación del contrato..",
+    "En la fecha inicial de presentación de ofertas y subsistir en el momento de perfección del contrato."
+   ]
+  },
+  {
+   "id": "au-12-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 15,
+   "enunciado": "Señale la respuesta correcta en relación con la admisibilidad de variantes a que se refiere el artículo 142 de la LCSP:",
+   "opciones": [
+    "Solo se admitirán en procedimientos de adjudicación de contratos de suministros o de servicios.",
+    "No podrá rechazarse una de ellas por el único motivo de que, de ser elegida, daría lugar a un contrato de servicios en vez de a un contrato de suministro.",
+    "Solo se admitirá cuando en la adjudicación vaya a ser tenido en cuenta el precio como único criterio de adjudicación.",
+    "La posibilidad de que los licitadores ofrezcan variantes se indicará en el anuncio de adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "au-12-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 16,
+   "enunciado": "Señale la respuesta correcta en relación con la subasta electrónica a que se refiere el artículo 143 de la LCSP:",
+   "opciones": [
+    "Es uno de los procedimientos de adjudicación recogidos en la LCSP.",
+    "Podrá desarrollarse en varias fases sucesivas.",
+    "A lo largo de cada fase de la subasta, se comunicará a los licitadores la información que les permita conocer las características de la mejor oferta presentada.",
+    "La subasta electrónica únicamente podrá basarse en los precios."
+   ]
+  },
+  {
+   "id": "au-12-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 17,
+   "enunciado": "De acuerdo con la LCSP, la adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación:",
+   "opciones": [
+    "Coste-beneficio.",
+    "Coste-rendimiento.",
+    "Calidad-eficacia.",
+    "Calidad-precio."
+   ]
+  },
+  {
+   "id": "au-12-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 18,
+   "enunciado": "Las proposiciones presentadas por los empresarios deberán ajustarse a los pliegos y supone la aceptación incondicionada del contenido de la totalidad de sus cláusulas o condiciones:",
+   "opciones": [
+    "A excepción de los criterios de adjudicación.",
+    "A excepción de los criterios de solvencia.",
+    "A excepción de los criterios de solvencia y adjudicación.",
+    "Sin salvedad o reserva alguna."
+   ]
+  },
+  {
+   "id": "au-12-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 19,
+   "enunciado": "Conforme al artículo 142 de la LCSP, el órgano de contratación podrá tomar en consideración las variantes que ofrezcan los licitadores, siempre que las variantes se prevean en los pliegos, cuando en la adjudicación hayan de tenerse en cuenta:",
+   "opciones": [
+    "Criterios relativos al precio.",
+    "Criterios distintos del precio.",
+    "Únicamente criterios cualitativos.",
+    "Únicamente criterios cuantitantivos."
+   ]
+  },
+  {
+   "id": "au-12-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (12) LCSP (arts. 131 a 144)",
+   "n": 20,
+   "enunciado": "Conforme al artículo 140 de la LCSP, en el procedimiento abierto las proposiciones deberán ir acompañadas de una declaración responsable que se ajustará al formulario de:",
+   "opciones": [
+    "Documento europeo único de contratación (DEUC).",
+    "Documento español único de contratación (DEUC).",
+    "Documento nacional único de contratación (DNUC)",
+    "Documento europeo único de licitación (DEUL)."
+   ]
+  },
+  {
+   "id": "au-13-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 1,
+   "enunciado": "El artículo 145.1 de la Ley 9/2017, de 8 de noviembre, establece sobre la adjudicación de los contratos que:",
+   "opciones": [
+    "Se realizará atendiendo exclusivamente a criterios económicos.",
+    "Podrá realizarse atendiendo exclusivamente a criterios cualitativos.",
+    "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente.",
+    "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio."
+   ]
+  },
+  {
+   "id": "au-13-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 2,
+   "enunciado": "Señale la respuesta correcta en relación con los criterios de adjudicación cualitativos, según la LCSP:",
+   "opciones": [
+    "Podrán incluir aspectos medioambientales o sociales, vinculados o no al objeto del contrato.",
+    "Deberán ir acompañados de un criterio relacionado con los costes.",
+    "No podrán incluir aspectos medioambientales o sociales.",
+    "Su cuantificación dependerá de un juicio de valor."
+   ]
+  },
+  {
+   "id": "au-13-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 3,
+   "enunciado": "De acuerdo con el artículo 146 de la LCSP, cuando solo se utilice un criterio de adjudicación, este deberá estar relacionado con los costes:",
+   "opciones": [
+    "Debiendo ser el precio.",
+    "Debiendo ser el coste del ciclo de vida.",
+    "Debiendo ser un criterio basado en la rentabilidad.",
+    "Pudiendo ser el precio."
+   ]
+  },
+  {
+   "id": "au-13-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 4,
+   "enunciado": "Los criterios relacionados con la calidad deberán representar, al menos, el 51% de la puntuación asignable en la valoración de las ofertas en:",
+   "opciones": [
+    "Los contratos de servicios del Anexo IV.",
+    "Los contratos que tengan por objeto prestaciones de carácter intelectual.",
+    "Las respuestas a y b son correctas.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "au-13-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 5,
+   "enunciado": "Según la LCSP, cuando, por razones objetivas debidamente justificadas, no sea posible ponderar los criterios de adjudicación elegidos, estos se enumerarán del siguiente modo:",
+   "opciones": [
+    "Por orden decreciente de importancia.",
+    "Por orden creciente de importancia.",
+    "En primer lugar los cualitativos y, después, los económicos.",
+    "En primer lugar los económicos y, después, los cualitativos."
+   ]
+  },
+  {
+   "id": "au-13-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 6,
+   "enunciado": "La valoración de los criterios cuya cuantificación dependa de un juicio de valor corresponderá, en los casos en que proceda por tener atribuida una ponderación mayor que la correspondiente a los criterios evaluables de forma automática, a un comité que estará formado por expertos, con cualificación apropiada, que cuente con:",
+   "opciones": [
+    "Un mínimo de tres miembros.",
+    "Un mínimo de cinco miembros.",
+    "Un mínimo de siete miembros.",
+    "Los criterios que dependan de un juicio de valor nunca podrán tener atribuida mayor ponderación que los evaluables de forma automática."
+   ]
+  },
+  {
+   "id": "au-13-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 7,
+   "enunciado": "Conforme al artículo 148 de la LCSP, los órganos de contratación calcularán los costes a que se refieren los apartados primero y segundo del artículo 145 atendiendo, preferentemente a:",
+   "opciones": [
+    "Los costes de prevención.",
+    "Los costes de evaluación.",
+    "El coste del ciclo de vida.",
+    "El coste de adquisición."
+   ]
+  },
+  {
+   "id": "au-13-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 8,
+   "enunciado": "De acuerdo con el artículo 146 de la LCSP, la evaluación de las ofertas conforme a los criterios cuantificables mediante la mera aplicación de fórmulas se realizará:",
+   "opciones": [
+    "Tras efectuar previamente la de aquellos otros criterios en que no concurra esta circunstancia.",
+    "Previamente a la de aquellos otros criterios en que no concurra esta circunstancia.",
+    "Simultáneamente a la de aquellos otros criterios en que no concurra esta circunstancia.",
+    "Indistintamente, con carácter previo o posterior a la de aquellos otros criterios en que no concurra esta circunstancia."
+   ]
+  },
+  {
+   "id": "au-13-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 9,
+   "enunciado": "Conforme al artículo 147 de la LCSP, ¿en qué momento del procedimiento de contratación deberán los licitadores aportar la documentación acreditativa de los criterios de desempate?",
+   "opciones": [
+    "Conjuntamente con la presentación de sus proposiciones.",
+    "En cualquier momento, dentro del plazo de presentación de proposiciones.",
+    "En cualquier momento anterior a la adjudicación del contrato.",
+    "En el momento en que se produzca el empate, y no con carácter previo."
+   ]
+  },
+  {
+   "id": "au-13-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (13) LCSP (arts. 145 a 148)",
+   "n": 10,
+   "enunciado": "En defecto de previsión en los pliegos, el empate entre varias ofertas tras la aplicación de los criterios de adjudicación del contrato se resolverá, en primer lugar, mediante la aplicación del siguiente criterio social:",
+   "opciones": [
+    "Mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada empresa.",
+    "Menor porcentaje de contratos temporales en la plantilla de cada una de las empresas.",
+    "Mayor porcentaje de mujeres empleadas en la plantilla de cada una de las empresas.",
+    "Mayor número de personas empleadas en la plantilla de cada una de las empresas."
+   ]
+  },
+  {
+   "id": "au-14-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 1,
+   "enunciado": "Según el artículo 152 de la LCSP, la Administración puede desistir del procedimiento de adjudicación:",
+   "opciones": [
+    "Por una infracción no subsanable de las normas de preparación del contrato o del procedimiento de adjudicación.",
+    "Por razones de interés público debidamente motivadas.",
+    "Siempre que lo estime conveniente, indemnizando al adjudicatario.",
+    "No puede desistir una vez realizada la adjudicación."
+   ]
+  },
+  {
+   "id": "au-14-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 2,
+   "enunciado": "Según la LCSP, los contratos que celebren los poderes adjudicadores, con carácter general, se perfeccionan:",
+   "opciones": [
+    "Por el consentimiento.",
+    "Por su elevación a público.",
+    "Por su formalización.",
+    "Por concurrir en ellos todos los requisitos exigidos para su validez."
+   ]
+  },
+  {
+   "id": "au-14-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 3,
+   "enunciado": "Según el artículo 150 de la LCSP, ¿cuál es el plazo para la adjudicación de un contrato una vez recepcionada la documentación requerida al licitador que haya presentado mejor oferta?",
+   "opciones": [
+    "5 días naturales.",
+    "10 días hábiles.",
+    "5 días hábiles.",
+    "15 días hábiles."
+   ]
+  },
+  {
+   "id": "au-14-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 4,
+   "enunciado": "En los contratos basados en un acuerdo marco o en los contratos específicos dentro de un sistema dinámico de adquisición:",
+   "opciones": [
+    "No resulta necesaria la formalización del contrato.",
+    "Es necesaria la formalización en todo caso.",
+    "Su formalización solo será necesaria cuando los contratos superen los umbrales del contrato menor.",
+    "Su formalización será potestativa para el adjudicatario."
+   ]
+  },
+  {
+   "id": "au-14-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 5,
+   "enunciado": "En los contratos del sector público, ¿en qué plazo deberá el licitador acreditar la constitución de la garantía definitiva?",
+   "opciones": [
+    "En el plazo de 5 días hábiles desde la adjudicación definitiva.",
+    "En el plazo de 10 días hábiles, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento.",
+    "En el plazo de 10 días hábiles desde la adjudicación definitiva.",
+    "En el plazo de 5 días hábiles, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento."
+   ]
+  },
+  {
+   "id": "au-14-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 6,
+   "enunciado": "Indique la respuesta correcta en relación con la formalización de los contratos, de acuerdo con el artículo 153 de la LCSP:",
+   "opciones": [
+    "Deberá efectuarse, en todo caso, no más tarde de los quince días hábiles siguientes a la notificación de la adjudicación.",
+    "Deberá formalizarse en documento administrativo, pudiendo incluirse cláusulas que alteren los términos de la adjudicación.",
+    "No podrá iniciarse la ejecución del contrato sin su previa formalización, excepto en los casos de urgencia y emergencia.",
+    "En los contratos basados en un acuerdo marco no resultará necesaria la formalización del contrato."
+   ]
+  },
+  {
+   "id": "au-14-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 7,
+   "enunciado": "El desistimiento del procedimiento, según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+   "opciones": [
+    "Impedirá la iniciación inmediata de un procedimiento de contratación.",
+    "Podrá acordarse por el órgano de contratación antes de la formalización del contrato.",
+    "No podrá acordarse por el órgano de contratación una vez haya sido adjudicado el contrato.",
+    "No podrá realizarse, salvo caso de fuerza mayor."
+   ]
+  },
+  {
+   "id": "au-14-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 8,
+   "enunciado": "Según el artículo 153.1 de la LCSP, ¿en cuál de los siguientes casos no resultará necesaria la formalización de los contratos?",
+   "opciones": [
+    "En los contratos adjudicados a través de los procedimientos abiertos simplificados.",
+    "En los contratos adjudicados a través de los procedimientos negociados.",
+    "En los contratos no sujetos a regulación armonizada.",
+    "En los contratos específicos dentro de un sistema dinámico de adquisición."
+   ]
+  },
+  {
+   "id": "au-14-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 9,
+   "enunciado": "La resolución de adjudicación deberá ser motivada y se notificará a los candidatos y licitadores, debiendo ser publicada en el perfil de contratante en el plazo de:",
+   "opciones": [
+    "5 días.",
+    "10 días.",
+    "15 días.",
+    "20 días."
+   ]
+  },
+  {
+   "id": "au-14-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 10,
+   "enunciado": "Indique la respuesta correcta en relación con la decisión de no adjudicar o celebrar el contrato:",
+   "opciones": [
+    "Solo podrá adoptarse por razones de interés público debidamente justificadas en el expediente.",
+    "No impedirá la iniciación inmediata de un procedimiento de licitación.",
+    "No procederá en ningún caso compensación a los candidatos.",
+    "Deberá fundarse en una infracción no subsanable de las normas de preparación del contrato o de la adjudicación del mismo."
+   ]
+  },
+  {
+   "id": "au-14-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 11,
+   "enunciado": "Según la LCSP, remitida la notificación de la adjudicación a los licitadores y candidatos, ¿en qué plazo deberán formalizarse los contratos susceptibles de recurso especial en materia de contratación?",
+   "opciones": [
+    "No antes de que transcurran quince días hábiles.",
+    "No antes de que transcurran cinco días hábiles.",
+    "No antes de que transcurran quince días.",
+    "No más tarde de los quince días hábiles siguientes."
+   ]
+  },
+  {
+   "id": "au-14-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 12,
+   "enunciado": "De acuerdo con el artículo 149 de la LCSP, en los casos en que el órgano de contratación presuma que una oferta resulta inviable por haber sido formulada en términos que la hacen anormalmente baja:",
+   "opciones": [
+    "Solo podrá excluirla del procedimiento de licitación previa tramitación del procedimiento legalmente establecido.",
+    "Deberá excluirla del procedimiento de licitación, sin necesidad de realizar trámite alguno.",
+    "Solo podrá excluirla del procedimiento de licitación cuando concurran otros licitadores.",
+    "Deberá excluirla del procedimiento de licitación previa tramitación del procedimiento legalmente establecido."
+   ]
+  },
+  {
+   "id": "au-14-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 13,
+   "enunciado": "Cuando concurra un solo licitador, se considerarán, en principio, desproporcionadas o temerarias las ofertas que sean inferiores al presupuesto base de licitación en más de:",
+   "opciones": [
+    "5 unidades porcentuales.",
+    "10 unidades porcentuales.",
+    "25 unidades porcentuales.",
+    "20 unidades porcentuales."
+   ]
+  }
+ ]
+}

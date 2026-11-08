@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-03-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 4,
+   "enunciado": "Según la LCSP, están sujetos a regulación armonizada los contratos de servicios adjudicados por la Administración General del Estado, siempre que su valor estimado sea igual o superior a:",
+   "opciones": [
+    "140.000 euros.",
+    "216.000 euros.",
+    "5.404.000 euros.",
+    "215.000 euros."
+   ]
+  },
+  {
+   "id": "au-03-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 5,
+   "enunciado": "Atendiendo a lo dispuesto en la LCSP, la suscripción a revistas es un:",
+   "opciones": [
+    "Contrato administrativo de servicios.",
+    "Contrato privado.",
+    "Contrato administrativo especial.",
+    "Contrato administrativo de suministros."
+   ]
+  },
+  {
+   "id": "au-03-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 6,
+   "enunciado": "De acuerdo con el artículo 26 de la LCSP, los contratos privados que celebren las administraciones públicas, se regirán por el derecho privado, en cuanto a:",
+   "opciones": [
+    "Su preparación y adjudicación.",
+    "Sus efectos, modificación y extinción.",
+    "Su preparación, adjudicación y extinción.",
+    "Ninguna de las anteriores respuestas es correcta ya que se regirán, en defecto de normas específicas, por la LCSP."
+   ]
+  },
+  {
+   "id": "au-03-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 7,
+   "enunciado": "Para determinar si un contrato se encuentra o no sujeto a regulación armonizada debe atenderse a:",
+   "opciones": [
+    "El presupuesto base de licitación.",
+    "El valor estimado.",
+    "El precio.",
+    "El importe de adjudicación."
+   ]
+  },
+  {
+   "id": "au-03-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 8,
+   "enunciado": "Según la LCSP, están sujetos a regulación armonizada los contratos de suministros celebrados por las Comunidades Autónomas cuyo valor estimado sea igual o superior:",
+   "opciones": [
+    "140.000 euros.",
+    "216.000 euros.",
+    "750.000 euros.",
+    "En ningún caso están sujetos a regulación armonizada."
+   ]
+  },
+  {
+   "id": "au-03-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 9,
+   "enunciado": "Según la LCSP, los contratos cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos son:",
+   "opciones": [
+    "Contratos administrativos cuando se realicen por una Administración Pública.",
+    "Contratos de suministros.",
+    "Contratos susceptibles de procedimiento negociado sin publicidad.",
+    "Contratos privados."
+   ]
+  },
+  {
+   "id": "au-03-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 10,
+   "enunciado": "¿Qué naturaleza jurídica tienen los contratos de espectáculos celebrados por la Administración pública?",
+   "opciones": [
+    "Contratos privados.",
+    "Contratos administrativos.",
+    "Contratos tipo.",
+    "Ninguna de las respuestas es correcta."
+   ]
+  },
+  {
+   "id": "au-03-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 11,
+   "enunciado": "Según el artículo 27 de la LCSP, el orden jurisdiccional civil será competente para resolver las cuestiones relativas a:",
+   "opciones": [
+    "Efectos y extinción de contratos celebrados por entidades del sector público que no tengan carácter de Poderes Adjudicadores.",
+    "La adjudicación de los contratos privados de las Administraciones Públicas.",
+    "La preparación y adjudicación de los contratos de entidades del sector público que no sean Poderes Adjudicadores.",
+    "La preparación de los contratos administrativos."
+   ]
+  },
+  {
+   "id": "au-03-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 12,
+   "enunciado": "Están sujetos a regulación armonizada los contratos de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "2.548.000 euros.",
+    "3.350.000 euros.",
+    "4.548.000 euros.",
+    "5.404.000 euros."
+   ]
+  },
+  {
+   "id": "au-03-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 13,
+   "enunciado": "Para determinar las normas que regirán la adjudicación de los contratos mixtos, cuando éste comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios se atenderá a:",
+   "opciones": [
+    "El carácter de la prestación principal.",
+    "El carácter de la prestación secundaria.",
+    "El carácter de la prestación que elija el adjudicatario.",
+    "El carácter de la prestación que tenga mayor valor estimado."
+   ]
+  },
+  {
+   "id": "au-03-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 14,
+   "enunciado": "Estarán sujetos a regulación armonizada los contratos de suministro cuyo valor estimado sea igual o superior a 140.000 euros, cuando sean adjudicados por:",
+   "opciones": [
+    "Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "Universidades Públicas.",
+    "Autoridades Administrativas Independientes.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-03-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 15,
+   "enunciado": "No es competencia del orden jurisdiccional contencioso-administrativo conocer de las cuestiones que se susciten en relación con:",
+   "opciones": [
+    "La preparación y adjudicación de los contratos administrativos.",
+    "La modificación y extinción de los contratos administrativos.",
+    "Los efectos y extinción de los contratos privados de las Administraciones Públicas.",
+    "La preparación y adjudicación de contratos de entidades del sector público que no tengan carácter de poderes adjudicadores."
+   ]
+  },
+  {
+   "id": "au-04-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 1,
+   "enunciado": "Como regla general, de acuerdo con la Ley 9/2017, de Contratos del Sector Público, el plazo máximo de duración, incluyendo las prórrogas del contrato de suministro es de:",
+   "opciones": [
+    "10 años.",
+    "4 años.",
+    "5 años.",
+    "3 años."
+   ]
+  },
+  {
+   "id": "au-04-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 2,
+   "enunciado": "Según el artículo 29.5 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de arrendamiento de bienes muebles no podrán tener una duración superior a:",
+   "opciones": [
+    "Cinco años, excluyendo las posibles prórrogas que acuerde el órgano de contratación.",
+    "Seis años, excluyendo las posibles prórrogas que acuerdo el órgano de contratación.",
+    "Cuatro años, incluyendo las posibles prórrogas que acuerde el órgano de contratación.",
+    "Ninguna de las anteriores respuestas es correcta."
+   ]
+  },
+  {
+   "id": "au-04-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 3,
+   "enunciado": "Según la Ley 9/2017, la duración de los contratos menores no podrá ser superior a:",
+   "opciones": [
+    "Seis meses, con posibilidad de prórroga.",
+    "Un año, con posibilidad de prórroga.",
+    "Seis meses, sin ser objeto de prórroga.",
+    "Un año, sin posibilidad de prórroga."
+   ]
+  },
+  {
+   "id": "au-04-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 4,
+   "enunciado": "¿Cuál es la duración máxima de un contrato de concesión de servicios que comprenda la explotación de un servicio cuyo objeto consista en la prestación de servicios sanitarios?",
+   "opciones": [
+    "Diez años.",
+    "Treinta años.",
+    "Cinco años.",
+    "Veinte años."
+   ]
+  },
+  {
+   "id": "au-04-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 5,
+   "enunciado": "¿Puede producirse la prórroga del plazo de duración de los contratos del sector público por consentimiento tácito de las partes?",
+   "opciones": [
+    "Sí, si así lo prevé el Pliego de Cláusulas Administrativas Particulares.",
+    "No, salvo que obre en expediente informe favorable del responsable del contrato.",
+    "No, en ningún caso.",
+    "Sí, por venir expresamente previsto en el artículo 45 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público."
+   ]
+  },
+  {
+   "id": "au-04-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 6,
+   "enunciado": "De conformidad con lo dispuesto en el artículo 29.8 de la LCSP, los contratos menores:",
+   "opciones": [
+    "No podrán tener una duración superior a un año ni ser objeto de prórroga.",
+    "Solo podrán ser objeto de prórrroga cuando su duración inicial sea inferior a seis meses.",
+    "Podrán tener una duración superior a un año.",
+    "No podrán tener una duración superior a un año, pero sí ser objeto de una única prórroga por idéntico periodo al inicial."
+   ]
+  },
+  {
+   "id": "au-04-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 7,
+   "enunciado": "En el contrato de suministros y de servicios, el plazo máximo de duración es de:",
+   "opciones": [
+    "Tres años, incluyendo las posibles prórrogas.",
+    "Cuatro años, incluyendo las posibles prórrogas.",
+    "Cinco años, incluyendo las posibles prórrogas.",
+    "Seis años, incluyendo las posibles prórrogas."
+   ]
+  },
+  {
+   "id": "au-04-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 8,
+   "enunciado": "Con carácter general, ¿cuál de los siguientes contratos públicos podrá tener una duración superior a cinco años?",
+   "opciones": [
+    "Los contratos de arrendamiento de bienes muebles.",
+    "Los contratos menores.",
+    "Los contratos de suministros y de servicios de prestación sucesiva.",
+    "Los contratos de concesión de servicios."
+   ]
+  },
+  {
+   "id": "au-04-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 9,
+   "enunciado": "En cualquier caso, la duración de los contratos de concesión de obras, no podrá exceder, incluyendo las posibles prórrogas, de:",
+   "opciones": [
+    "Diez años.",
+    "Cuarenta años.",
+    "Veinticinco años.",
+    "Cincuenta años."
+   ]
+  },
+  {
+   "id": "au-04-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (4) - LCSP (arts 28 a 33)",
+   "n": 10,
+   "enunciado": "La duración de los contratos de concesión de servicios que comprendan la explotación de un servicio no relacionado con la prestación de servicios sanitarios no podrá exceder, incluyendo las posibles prórrogas, de:",
+   "opciones": [
+    "Cuarenta años.",
+    "Veinticinco años.",
+    "Diez años.",
+    "Cinco años."
+   ]
+  },
+  {
+   "id": "au-05-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 1,
+   "enunciado": "Atendiendo a lo dispuesto en la LCSP, los contratos del sector público se entenderán celebrados:",
+   "opciones": [
+    "En la plataforma donde se encuentre alojado el perfil del contratante.",
+    "Salvo que se indique otra cosa en su clausulado, en el lugar donde se encuentre la sede del órgano de contratación.",
+    "En todo caso, en el lugar donde se encuentre el domicilio de la dirección del ente público contratante.",
+    "En el lugar donde se encuentre la sede social del contratista."
+   ]
+  },
+  {
+   "id": "au-05-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 2,
+   "enunciado": "La Ley 9/2017, de Contratos del Sector Publico, establece que la contratación de forma verbal:",
+   "opciones": [
+    "Es obligatoria con carácter general.",
+    "Está prohibida en todos los supuestos.",
+    "Solamente podrá utilizarse en contratos de suministro.",
+    "Está permitida solamente cuando los contratos tengan carácter de emergencia."
+   ]
+  },
+  {
+   "id": "au-05-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 3,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, es preceptiva la interposición del recurso especial en materia de contratación como vía previa al recurso contencioso-administrativo:",
+   "opciones": [
+    "En todos los contratos sujetos a regulación armonizada.",
+    "En ningún caso.",
+    "Solo contra los actos de adjudicación de los contratos.",
+    "En los contratos que superen la cuantía marcada por la LCSP."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,513 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-50-003",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 3,
+   "enunciado": "De acuerdo con la LCSP, ¿en qué plazo deberá aprobarse, con carácter general, la certificación final de las obras ejecutadas?",
+   "opciones": [
+    "En el plazo de treinta días desde la recepción de las obras.",
+    "En el plazo de tres meses desde la recepción de las obras.",
+    "En el plazo de tres meses desde la terminación material de las obras.",
+    "En el plazo de tres meses desde el vencimiento del plazo de garantía."
+   ]
+  },
+  {
+   "id": "pr-50-004",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 4,
+   "enunciado": "De acuerdo con la LCSP, ¿en qué circunstancias podrán los pliegos ampliar hasta un máximo de cinco meses el plazo para aprobar la certificación final de las obras ejecutadas?",
+   "opciones": [
+    "Cuando el valor estimado supere 12.000.000 euros y las operaciones de liquidación y medición sean especialmente complejas.",
+    "Cuando el valor estimado supere 10.000.000 euros y las operaciones de liquidación y medición sean especialmente complejas.",
+    "Cuando el valor estimado supere 6.000.000 euros y las operaciones de liquidación y medición sean especialmente complejas.",
+    "Cuando las operaciones de liquidación y medición sean especialmente complejas, cualquiera que sea su valor estimado."
+   ]
+  },
+  {
+   "id": "pr-50-005",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 5,
+   "enunciado": "De acuerdo con la LCSP, ¿desde cuándo comienza a computarse el plazo de garantía de los contratos de obras?",
+   "opciones": [
+    "Desde su terminación material y, salvo casos especiales, no podrá ser inferior a un año.",
+    "Desde la recepción de conformidad y, salvo casos especiales, no podrá ser inferior a dos años.",
+    "Desde su terminación material y, salvo casos especiales, no podrá ser inferior a dos años.",
+    "Desde la recepción de conformidad y, salvo casos especiales, no podrá ser inferior a un año."
+   ]
+  },
+  {
+   "id": "pr-50-006",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 6,
+   "enunciado": "Dentro de los quince días anteriores al vencimiento del plazo de garantía, el director facultativo emite informe favorable sobre el estado de las obras. De acuerdo con la LCSP, señale la afirmación INCORRECTA.",
+   "opciones": [
+    "Se devolverá o cancelará la garantía definitiva.",
+    "Se efectuará la liquidación del contrato.",
+    "Se abonarán, en su caso, las obligaciones pendientes de pago en el plazo de sesenta días.",
+    "El contratista quedará exonerado de toda responsabilidad, incluida la derivada de vicios ocultos."
+   ]
+  },
+  {
+   "id": "pr-50-007",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 7,
+   "enunciado": "Recibidas las obras de construcción de un puente y transcurrido el plazo de garantía, aparecen graves deterioros que impiden su uso. Conforme a la LCSP, ¿durante qué período responderá el contratista por vicios ocultos de la construcción?",
+   "opciones": [
+    "Durante diez años desde la recepción de las obras.",
+    "Durante quince años desde el vencimiento del plazo de garantía.",
+    "Durante diez años desde el vencimiento del plazo de garantía.",
+    "Durante quince años desde la recepción de las obras."
+   ]
+  },
+  {
+   "id": "pr-50-008",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 8,
+   "enunciado": "De acuerdo con la LCSP, ¿cuál de los siguientes plazos NO comienza a computarse desde la recepción de conformidad de las obras?",
+   "opciones": [
+    "El plazo para aprobar la certificación final de las obras.",
+    "El plazo para abonar las obligaciones pendientes derivadas de la liquidación del contrato.",
+    "El plazo de garantía establecido en el pliego de cláusulas administrativas particulares.",
+    "El plazo de responsabilidad del contratista por vicios ocultos."
+   ]
+  },
+  {
+   "id": "pr-50-009",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 9,
+   "enunciado": "De acuerdo con el artículo 245 de la LCSP, ¿cuál de las siguientes NO constituye una causa específica de resolución del contrato de obras?",
+   "opciones": [
+    "La demora injustificada en la comprobación del replanteo.",
+    "La suspensión de la iniciación de las obras por plazo superior a cuatro meses.",
+    "La suspensión de las obras por plazo superior a seis meses por parte de la Administración.",
+    "El desistimiento de la Administración."
+   ]
+  },
+  {
+   "id": "pr-50-010",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 10,
+   "enunciado": "De acuerdo con la LCSP, si se demorase injustificadamente la comprobación del replanteo, dando lugar a la resolución del contrato, ¿qué indemnización tendrá derecho a percibir el contratista?",
+   "opciones": [
+    "El 2 % del precio de adjudicación, IVA excluido.",
+    "El 3 % del precio de adjudicación, IVA excluido.",
+    "El 6 % del precio de adjudicación, IVA excluido.",
+    "No tendrá derecho a indemnización alguna, al no haberse iniciado la ejecución de las obras."
+   ]
+  },
+  {
+   "id": "pr-50-011",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 11,
+   "enunciado": "El Ministerio de Cultura formaliza un contrato de obras para la ampliación de un museo. Antes de iniciarse las obras, la Administración acuerda desistir del contrato por razones de interés público. Según la LCSP, ¿qué indemnización tendrá derecho a percibir el contratista?",
+   "opciones": [
+    "El 2 % del precio de adjudicación, IVA excluido.",
+    "El 3 % del precio de adjudicación, IVA excluido.",
+    "El 6 % del precio de adjudicación, IVA excluido.",
+    "Ninguna, ya que la Administración puede desistir del contrato antes de iniciarse las obras."
+   ]
+  },
+  {
+   "id": "pr-50-012",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 12,
+   "enunciado": "Una vez iniciadas las obras de construcción de un edificio, la Administración acuerda desistir del contrato por razones de interés público. De acuerdo con la LCSP, ¿qué indemnización tendrá derecho a percibir el contratista en concepto de beneficio industrial?",
+   "opciones": [
+    "El 3 % del precio de adjudicación del contrato, IVA excluido.",
+    "El 6 % del precio de adjudicación del contrato, IVA excluido.",
+    "El 3 % del precio de adjudicación de las obras dejadas de realizar, IVA excluido.",
+    "El 6 % del precio de adjudicación de las obras dejadas de realizar, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-50-013",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 13,
+   "enunciado": "El Instituto Nacional de Administración Pública adjudica a Construcciones Alborán, S. A. un contrato de obras para la reforma de un centro de formación, con un presupuesto base de licitación de 1.500.000 € y un precio de adjudicación de 1.200.000 €, ambos IVA excluido. Formalizado el contrato, la Administración suspende la iniciación de las obras y, superado el plazo legalmente previsto, acuerda su resolución a solicitud del contratista. De acuerdo con la LCSP, ¿qué indemnización le corresponderá?",
+   "opciones": [
+    "24.000 €.",
+    "45.000 €.",
+    "72.000 €.",
+    "36.000 €."
+   ]
+  },
+  {
+   "id": "pr-50-014",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 14,
+   "enunciado": "El Ministerio de Cultura adjudica a Rehabilitaciones Ibéricas, S. A. un contrato de obras por importe de 2.000.000 € (IVA excluido). Ejecutado el 90 % del importe del contrato, la Administración suspende las obras y, superado el plazo legalmente previsto, acuerda su resolución a solicitud del contratista. De acuerdo con la LCSP, ¿qué indemnización le corresponderá en concepto de beneficio industrial?",
+   "opciones": [
+    "12.000 €.",
+    "60.000 €.",
+    "108.000 €.",
+    "120.000 €."
+   ]
+  },
+  {
+   "id": "pr-50-015",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 15,
+   "enunciado": "El Ministerio de Transportes adjudica a Vías Peninsulares, S. A. la construcción de una carretera. Iniciada su ejecución, la Administración acuerda suspender las obras el 10 de febrero de 2027. Si la suspensión se mantiene, ¿cuál será la primera fecha en que el contratista podrá solicitar la resolución del contrato conforme a la LCSP?",
+   "opciones": [
+    "El 11 de junio de 2027.",
+    "El 11 de agosto de 2027.",
+    "El 11 de octubre de 2027.",
+    "El 11 de febrero de 2028."
+   ]
+  },
+  {
+   "id": "pr-51-001",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 1,
+   "enunciado": "El Instituto Nacional de Administración Pública contrata el arrendamiento de varias impresoras para sus oficinas. Conforme a la LCSP, señale la afirmación correcta respecto a su mantenimiento:",
+   "opciones": [
+    "Corresponderá a la Administración, salvo que se establezca un canon específico.",
+    "Corresponderá al arrendador, salvo que se establezca un canon específico.",
+    "Corresponderá al arrendador, se establezca o no canon específico.",
+    "Corresponderá a la Administración, se establezca o no canon específico."
+   ]
+  },
+  {
+   "id": "pr-51-002",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 2,
+   "enunciado": "De acuerdo con la LCSP, en los contratos de fabricación, los pliegos podrán establecer la aplicación directa de determinadas normas generales y especiales del contrato de obras, salvo en lo relativo a:",
+   "opciones": [
+    "La publicidad y el procedimiento de adjudicación, que se ajustarán en todo caso a las normas del contrato de suministro.",
+    "La publicidad y el procedimiento de adjudicación, que se ajustarán en todo caso a las normas del contrato de servicios.",
+    "El cumplimiento y la extinción, que se regirán en todo caso por las normas del contrato de suministro.",
+    "El cumplimiento y la extinción, que se regirán en todo caso por las normas del contrato de servicios."
+   ]
+  },
+  {
+   "id": "pr-51-003",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 3,
+   "enunciado": "De acuerdo con la LCSP, ¿en cuál de los siguientes supuestos tendrá derecho el contratista a ser indemnizado por pérdidas, averías o perjuicios ocasionados en los bienes objeto de un contrato de suministro antes de su entrega a la Administración?",
+   "opciones": [
+    "En ningún caso, por aplicación del principio de riesgo y ventura.",
+    "Cuando se trate de bienes o productos perecederos.",
+    "Cuando la Administración hubiera incurrido en mora al recibirlos.",
+    "Cuando las pérdidas o averías sean consecuencia de un supuesto de fuerza mayor."
+   ]
+  },
+  {
+   "id": "pr-51-004",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 4,
+   "enunciado": "En un contrato de suministro se pretende establecer en el pliego de cláusulas administrativas particulares la posibilidad de incrementar el número de unidades a suministrar sin necesidad de tramitar un expediente de modificación contractual. ¿Cuál de los siguientes NO constituye un requisito para aplicar esta posibilidad?",
+   "opciones": [
+    "Que el incremento no supere el 10 % del precio del contrato.",
+    "Que el precio del contrato se haya determinado mediante precios unitarios.",
+    "Que se haya acreditado la correspondiente financiación en el expediente originario del contrato.",
+    "Que el contratista acepte expresamente el incremento de unidades durante la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "pr-51-005",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 5,
+   "enunciado": "El Ministerio de Hacienda adjudica un contrato de suministro de equipos informáticos por importe de 20.000 euros. El PCAP prevé que parte del precio pueda abonarse mediante la entrega de otros bienes de la misma clase. ¿Cuál es el importe máximo que podrá abonarse mediante dichos bienes?",
+   "opciones": [
+    "4.000 euros.",
+    "6.000 euros.",
+    "8.000 euros.",
+    "10.000 euros."
+   ]
+  },
+  {
+   "id": "pr-51-006",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 6,
+   "enunciado": "Según la LCSP, en un contrato de suministro, ¿a quién corresponden los gastos de entrega y transporte de los bienes al lugar convenido?",
+   "opciones": [
+    "Al contratista, salvo pacto en contrario.",
+    "la Administración y al contratista por partes iguales, salvo pacto en contrario.",
+    "A la Administración contratante, salvo pacto en contrario.",
+    "Al contratista, en todo caso."
+   ]
+  },
+  {
+   "id": "pr-51-007",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 7,
+   "enunciado": "Un ministerio adjudica un contrato de suministro por importe de 200.000 euros, IVA excluido. Una vez ejecutados suministros por valor de 80.000 euros, la Administración acuerda desistir del contrato. ¿Qué indemnización corresponderá al contratista?",
+   "opciones": [
+    "6.000 euros.",
+    "7.200 euros.",
+    "12.000 euros.",
+    "4.800 euros."
+   ]
+  },
+  {
+   "id": "pr-51-008",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 8,
+   "enunciado": "De acuerdo con la LCSP, ¿cuál de los siguientes contratos NO tendrá la consideración de contrato de suministro?",
+   "opciones": [
+    "El arrendamiento de vehículos oficiales.",
+    "La fabricación de mobiliario conforme a características específicas fijadas por la Administración.",
+    "La compraventa de equipos informáticos para las dependencias de un ministerio.",
+    "La adquisición de un programa informático desarrollado a medida para la Administración."
+   ]
+  },
+  {
+   "id": "pr-51-009",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 9,
+   "enunciado": "El Ministerio de Cultura adjudica a Limpito, S. L., un contrato de servicios para la limpieza de sus oficinas. A la extinción del contrato, ¿en qué supuesto podrán los trabajadores que hayan realizado estos servicios consolidarse como personal del Ministerio?",
+   "opciones": [
+    "Cuando así se hubiera previsto en los pliegos del contrato, con independencia del tiempo durante el que hayan prestado servicios.",
+    "Cuando así se hubiera previsto en los pliegos del contrato, siempre que hayan prestado servicios durante más de tres años.",
+    "Cuando así se hubiera previsto en los pliegos del contrato, siempre que hayan prestado servicios durante más de cinco años.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "pr-51-010",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 10,
+   "enunciado": "El Ministerio de Cultura planea contratar conjuntamente las fases de redacción del proyecto y dirección de las obras de un nuevo museo. ¿En qué supuesto permite la LCSP esta contratación conjunta?",
+   "opciones": [
+    "Cuando motivos de orden técnico obliguen necesariamente a vincular al empresario a los estudios de las obras.",
+    "Cuando la contratación separada merme la calidad de la obra al dificultar la coordinación entre las fases de redacción y ejecución.",
+    "Cuando la dimensión o dificultades técnicas de las obras requieran soluciones aportadas con medios propios de las empresas.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "pr-51-011",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 11,
+   "enunciado": "El Ministerio de Defensa proyecta la construcción de una base aérea, para lo que necesita la redacción del proyecto, la dirección facultativa y la ejecución de las obras. Según la LCSP, ¿qué prestaciones NO pueden contratarse conjuntamente con una misma empresa?",
+   "opciones": [
+    "La redacción del proyecto y la dirección de las obras.",
+    "La redacción del proyecto y la ejecución de las obras.",
+    "La dirección y la ejecución de las obras.",
+    "Todas las prestaciones anteriores pueden contratarse conjuntamente."
+   ]
+  },
+  {
+   "id": "pr-51-012",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 12,
+   "enunciado": "El Instituto Nacional de Administración Pública contrata a una profesora para impartir en sus instalaciones un curso de formación sobre empleo público dirigido a funcionarios. De acuerdo con la LCSP, ¿cuál de las siguientes NO es una especialidad de este contrato?",
+   "opciones": [
+    "No se aplican las disposiciones de la LCSP relativas a la preparación y adjudicación del contrato.",
+    "Podrá autorizarse su cesión siempre que se haya ejecutado al menos el 20 % del importe del contrato.",
+    "Podrá establecerse el pago parcial anticipado, previa constitución de garantía por parte de la contratista.",
+    "Para acreditar su existencia, bastará la designación o nombramiento efectuado por la autoridad competente."
+   ]
+  },
+  {
+   "id": "pr-51-013",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 13,
+   "enunciado": "El Ministerio de Sanidad adjudica un contrato de servicios por 200.000 euros, IVA excluido. El 1 de marzo de 2026, tras haberse prestado servicios por importe de 80.000 euros, IVA excluido, acuerda suspender su ejecución. El 1 de octubre de 2026, al no haberse reanudado el servicio, el contratista solicita la resolución del contrato. Según la LCSP, ¿qué indemnización le corresponde por la resolución solicitada?",
+   "opciones": [
+    "6.000 euros.",
+    "12.000 euros.",
+    "7.200 euros.",
+    "No procede la resolución por esta causa, al no haberse superado el plazo legal de suspensión."
+   ]
+  },
+  {
+   "id": "pr-51-014",
+   "origen": "practicas",
+   "test": "Examen nº 40 - LCSP (arts 298 a 315)",
+   "n": 14,
+   "enunciado": "El Ministerio de Transportes y Movilidad Sostenible adjudica por 150.000 euros, IVA excluido, un contrato de servicios para la dirección facultativa de las obras de un puente. Tras prestarse servicios por importe de 50.000 euros, IVA excluido, se resuelve el contrato de obras, lo que determina también la resolución del contrato de servicios complementario. ¿Qué indemnización corresponde al adjudicatario del contrato de servicios, con independencia del abono de las prestaciones realizadas?",
+   "opciones": [
+    "3.000 euros.",
+    "4.500 euros.",
+    "6.000 euros.",
+    "9.000 euros."
+   ]
+  },
+  {
+   "id": "pr-52-001",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 1,
+   "enunciado": "En el Ministerio para la Transformación Digital y de la Función Pública, ¿qué autoridades tienen atribuida por la LCSP la condición de órganos de contratación, dentro de sus respectivas competencias?",
+   "opciones": [
+    "El ministro y el subsecretario.",
+    "El ministro y los secretarios de Estado.",
+    "Los secretarios de Estado y los directores generales.",
+    "El subsecretario y el secretario general técnico."
+   ]
+  },
+  {
+   "id": "pr-52-002",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 2,
+   "enunciado": "El Ministerio de Economía y Comercio pretende contratar un servicio de traducción de documentos para sus dos secretarías de Estado: Economía y Apoyo a la Empresa y Comercio. La iniciativa parte de la Secretaría de Estado de Comercio, aunque el servicio atenderá las necesidades de ambas. Conforme a la atribución de competencias del artículo 323 de la LCSP, ¿a quién corresponde celebrar el contrato?",
+   "opciones": [
+    "Al secretario de Estado de Comercio, por haber promovido la contratación.",
+    "A los dos secretarios de Estado, actuando conjuntamente.",
+    "Al ministro, salvo que la competencia esté atribuida a la Junta de Contratación.",
+    "Al subsecretario, por tratarse de un servicio común a varias unidades del departamento."
+   ]
+  },
+  {
+   "id": "pr-52-003",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 3,
+   "enunciado": "El Instituto Nacional de Estadística, organismo autónomo adscrito al Ministerio de Economía, Comercio y Empresa a través de la Secretaría de Estado de Economía y Apoyo a la Empresa, pretende contratar el mantenimiento de sus instalaciones. Según la LCSP, ¿quién tiene atribuida la condición de órgano de contratación del organismo?",
+   "opciones": [
+    "El ministro de Economía, Comercio y Empresa.",
+    "El secretario de Estado de Economía y Apoyo a la Empresa.",
+    "El subsecretario de Economía, Comercio y Empresa.",
+    "El presidente del Instituto Nacional de Estadística."
+   ]
+  },
+  {
+   "id": "pr-52-004",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 4,
+   "enunciado": "Según el artículo 324.1 de la LCSP, ¿cuál de las siguientes actuaciones de un ministerio requiere autorización del Consejo de Ministros?",
+   "opciones": [
+    "La celebración de un contrato de obras con un valor estimado de 10.000.000 euros y un PBL de 12.100.000 euros.",
+    "La celebración de un contrato de arrendamiento de vehículos con opción de compra, con el pago distribuido en cuatro anualidades.",
+    "La adjudicación de un contrato basado en un acuerdo marco cuya celebración ya fue autorizada por el Consejo de Ministros.",
+    "La creación de un sistema dinámico de adquisición con un valor estimado de 12.000.000 euros."
+   ]
+  },
+  {
+   "id": "pr-52-005",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 5,
+   "enunciado": "El Ministerio del Interior tramita un contrato de obras cuya celebración requiere autorización del Consejo de Ministros. Según la LCSP, ¿cuándo debe obtenerse esta autorización y qué efecto tiene sobre la aprobación del gasto?",
+   "opciones": [
+    "Antes de aprobar el expediente de contratación, sin que implique la aprobación del gasto.",
+    "Antes de aprobar el expediente de contratación, llevando implícita la aprobación del gasto.",
+    "Una vez valoradas las ofertas y antes de la adjudicación, sin que implique la aprobación del gasto.",
+    "Una vez valoradas las ofertas y antes de la adjudicación, llevando implícita la aprobación del gasto."
+   ]
+  },
+  {
+   "id": "pr-52-006",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 6,
+   "enunciado": "Se pretende desconcentrar determinadas competencias en materia de contratación atribuidas al ministro de Defensa. Según la LCSP, ¿mediante qué instrumento y en qué órganos puede efectuarse esta desconcentración?",
+   "opciones": [
+    "Mediante orden ministerial, únicamente en órganos dependientes del órgano de contratación.",
+    "Mediante real decreto acordado en Consejo de Ministros, únicamente en órganos dependientes del órgano de contratación.",
+    "Mediante orden ministerial, en órganos dependientes o no del órgano de contratación.",
+    "Mediante real decreto acordado en Consejo de Ministros, en órganos dependientes o no del órgano de contratación."
+   ]
+  },
+  {
+   "id": "pr-52-007",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 7,
+   "enunciado": "Según la LCSP, ¿en qué procedimientos será potestativa, como regla general, la constitución de la mesa de contratación?",
+   "opciones": [
+    "En el procedimiento abierto y en el restringido.",
+    "En el abierto simplificado del artículo 159.6 y en la licitación con negociación.",
+    "En el negociado sin publicidad y en el abierto simplificado del artículo 159.6.",
+    "En el negociado sin publicidad y en el diálogo competitivo."
+   ]
+  },
+  {
+   "id": "pr-52-008",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 8,
+   "enunciado": "Conforme al artículo 326 de la LCSP, ¿cuál de las siguientes actuaciones NO corresponde a la mesa de contratación como órgano de asistencia técnica especializada?",
+   "opciones": [
+    "Acordar el rechazo de una oferta por considerarla anormalmente baja.",
+    "Calificar la documentación acreditativa del cumplimiento de los requisitos previos.",
+    "Valorar las proposiciones presentadas por los licitadores.",
+    "Proponer al órgano de contratación la adjudicación al licitador que haya presentado la mejor oferta."
+   ]
+  },
+  {
+   "id": "pr-52-009",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 9,
+   "enunciado": "Respecto de la composición de la mesa de contratación de un ministerio, señale la afirmación INCORRECTA, de acuerdo con la LCSP:",
+   "opciones": [
+    "Sus miembros serán nombrados por el órgano de contratación.",
+    "Su composición se publicará en el perfil de contratante del órgano de contratación.",
+    "Los funcionarios interinos podrán formar parte de la mesa cuando acrediten mayor cualificación que los funcionarios de carrera.",
+    "El personal eventual no podrá formar parte de la mesa ni emitir informes de valoración de las ofertas."
+   ]
+  },
+  {
+   "id": "pr-52-010",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 10,
+   "enunciado": "En los procedimientos de diálogo competitivo y asociación para la innovación, se incorporan a la mesa personas especialmente cualificadas en la materia objeto del contrato. Según la LCSP, ¿qué proporción mínima deben representar y cómo participarán en sus deliberaciones?",
+   "opciones": [
+    "Una cuarta parte de los miembros de la mesa y participarán con voz, pero sin voto.",
+    "Un tercio de los miembros de la mesa y participarán con voz, pero sin voto.",
+    "Una cuarta parte de los miembros de la mesa y participarán con voz y voto.",
+    "Un tercio de los miembros de la mesa y participarán con voz y voto."
+   ]
+  },
+  {
+   "id": "pr-52-011",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 11,
+   "enunciado": "Según la LCSP, ¿qué órgano aprueba la Estrategia Nacional de Contratación Pública y cuál es su horizonte temporal?",
+   "opciones": [
+    "La Junta Consultiva de Contratación Pública del Estado, con un horizonte temporal de cuatro años.",
+    "La Junta Consultiva de Contratación Pública del Estado, con un horizonte temporal de cinco años.",
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación, con un horizonte temporal de cuatro años.",
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación, con un horizonte temporal de cinco años."
+   ]
+  },
+  {
+   "id": "pr-52-012",
+   "origen": "practicas",
+   "test": "Examen nº 41 - LCSP (arts 323 a 347)",
+   "n": 12,
+   "enunciado": "Según la LCSP, ¿respecto de cuál de los siguientes contratos deberá remitir al Tribunal de Cuentas una copia certificada del documento de formalización, acompañada de un extracto del expediente?",
+   "opciones": [
+    "Un contrato de obras con un presupuesto base de licitación de 600.000 euros.",
+    "Un contrato de servicios con un precio de adjudicación de 180.000 euros.",
+    "Un contrato de suministro con un presupuesto base de licitación de 450.000 euros.",
+    "Un contrato administrativo especial con un precio de adjudicación de 150.000 euros."
+   ]
+  }
+ ]
+}

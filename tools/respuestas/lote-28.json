@@ -1,0 +1,511 @@
+{
+ "vo-14-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Tres meses desde la recepción (**art. 243.1**).",
+   "No. No se cuenta desde el acta de replanteo (**art. 243.1**).",
+   "No. El plazo es de tres meses, no seis (**art. 243.1**).",
+   "No. No se cuenta desde la última certificación (**art. 243.1**)."
+  ]
+ },
+ "vo-14-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El mínimo general es un año (**art. 243.3**).",
+   "No. Sí existe límite inferior: un año salvo casos especiales (**art. 243.3**).",
+   "Es esta. No inferior a un año, salvo casos especiales (**art. 243.3**).",
+   "No. El mínimo es un año, no dos (**art. 243.3**)."
+  ]
+ },
+ "vo-14-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 245",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es causa la demora injustificada, no la justificada (**art. 245.a**).",
+   "No. Suspender la iniciación por más de cuatro meses, no ocho (**art. 245.b**).",
+   "No. Suspender las obras ya iniciadas por más de ocho meses, no cuatro (**art. 245.c**).",
+   "Es esta. El desistimiento es causa específica de resolución del contrato de obras (**art. 245.a**)."
+  ]
+ },
+ "vo-14-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 247.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La ley habla de estudio de viabilidad, no de un informe de rentabilidad (**art. 247.1**).",
+   "Es esta. Acordará la realización de un estudio de viabilidad (**art. 247.1**).",
+   "No. No exige un contraste de equilibrio presupuestario (**art. 247.1**).",
+   "No. No es lo que prevé el art. 247.1 (**art. 247.1**)."
+  ]
+ },
+ "vo-14-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 263.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El límite incluye las prórrogas (**art. 263.3**).",
+   "No. El límite es de tres años, no cinco (**art. 263.3**).",
+   "Es esta. Tres años, incluidas las prórrogas (**art. 263.3**).",
+   "No. El límite es de tres años (**art. 263.3**)."
+  ]
+ },
+ "vo-14-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 279",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La demora que da lugar a resolución es de más de seis meses, no tres (**art. 279.b**).",
+   "No. La causa es la supresión por razones de interés público, no particular (**art. 279.d**).",
+   "Es esta. La ejecución hipotecaria declarada desierta (**art. 279.a**).",
+   "No. Se trata de acuerdos adoptados con posterioridad al contrato, no con anterioridad (**art. 279.e**)."
+  ]
+ },
+ "vo-14-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 284.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Servicios de su titularidad o competencia que sean susceptibles de explotación económica por particulares (**art. 284.1**).",
+   "No. Es lo contrario: deben ser susceptibles de explotación económica (**art. 284.1**).",
+   "No. En ningún caso pueden prestarse así los servicios que impliquen ejercicio de autoridad (**art. 284.1**).",
+   "No. La explotación económica debe ser por particulares, no por poderes públicos (**art. 284.1**)."
+  ]
+ },
+ "vo-14-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 285.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Solo es vinculante cuando concluye la inviabilidad (**art. 285.2**).",
+   "No. No lo es en cualquier caso (**art. 285.2**).",
+   "Es esta. Vinculante cuando concluya la inviabilidad del proyecto (**art. 285.2**).",
+   "No. En caso de inviabilidad sí es vinculante (**art. 285.2**)."
+  ]
+ },
+ "vo-14-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 291.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El servicio revierte (**art. 291.1**).",
+   "No. Debe entregar en estado adecuado de conservación y funcionamiento (**art. 291.1**).",
+   "No. El servicio revierte a la Administración (**art. 291.1**).",
+   "Es esta. Revierte y se entregan las obras e instalaciones en estado adecuado de conservación y funcionamiento (**art. 291.1**)."
+  ]
+ },
+ "vo-14-016": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 300.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Entregar los bienes en el tiempo y lugar fijados y conforme a las prescripciones técnicas y cláusulas administrativas (**art. 300.1**).",
+   "No. Sí está obligado (**art. 300.1**).",
+   "No. La obligación es de acuerdo con las prescripciones técnicas y cláusulas administrativas, no con su oferta (**art. 300.1**).",
+   "No. No es una facultad, es una obligación (**art. 300.1**)."
+  ]
+ },
+ "vo-14-017": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 304.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se incauta la garantía provisional (**art. 304.2**).",
+   "No. Tampoco se devuelve en ese momento (**art. 304.2**).",
+   "No. No se hace constar en la certificación final sino en el acta de recepción (**art. 304.2**).",
+   "Es esta. Se hace constar en el acta de recepción y se dan instrucciones para subsanar o suministrar de nuevo (**art. 304.2**)."
+  ]
+ },
+ "vo-14-018": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es el 3 por ciento, no el 2 (**art. 307.2**).",
+   "Es esta. El 3 por ciento del precio de adjudicación, IVA excluido (**art. 307.2**).",
+   "No. El 6 por ciento corresponde al desistimiento ya iniciado el suministro (**art. 307.3**).",
+   "No. Esa fórmula, con beneficio industrial sobre lo no realizado, es la del desistimiento ya iniciado (**art. 307.3**)."
+  ]
+ },
+ "vo-14-019": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí pueden contratarse (**art. 308.1**).",
+   "Es esta. Llevan aparejada la cesión del derecho a la Administración contratante (**art. 308.1**).",
+   "No. Son contratos de servicios, no de obras (**art. 308.1**).",
+   "No. La segunda es correcta (**art. 308.1**)."
+  ]
+ },
+ "vo-14-020": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 310.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Seminarios, coloquios y conferencias realizados por personas físicas quedan fuera de la preparación y adjudicación (**art. 310.1**).",
+   "No. Los servicios con prestaciones a la ciudadanía tienen su régimen propio (**art. 312**).",
+   "No. Los servicios intelectuales sí están sujetos a la ley (**art. 310**).",
+   "No. El acceso a bases de datos no es el supuesto del art. 310.1 (**art. 310.1**)."
+  ]
+ },
+ "vo-14-021": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo es de ocho meses, no diez (**art. 313.1.b**).",
+   "Es esta. Desistimiento una vez iniciado el servicio o suspensión de más de ocho meses (**art. 313.1.b**).",
+   "No. El plazo es de ocho meses, no seis (**art. 313.1.b**).",
+   "No. Cuatro meses es el plazo para suspender la iniciación (**art. 313.1.a**)."
+  ]
+ },
+ "vo-14-022": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 317",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Rigen las normas de la LCSP (**art. 317**).",
+   "No. No es el Libro II de la LPAC (**art. 317**).",
+   "No. Las instrucciones son para los que no son poder adjudicador (**art. 321**).",
+   "Es esta. Las Secciones 1.ª y 2.ª del Capítulo I del Título I del Libro II (**art. 317**)."
+  ]
+ },
+ "vo-14-023": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 321.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los efectos, modificación y extinción se rigen por el derecho privado (**art. 322**).",
+   "Es esta. La adjudicación se ajusta a las instrucciones aprobadas por los órganos competentes (**art. 321.1**).",
+   "No. La adjudicación se rige por instrucciones, no por el derecho privado (**art. 321**).",
+   "No. Esas secciones son para los poderes adjudicadores (**art. 317**)."
+  ]
+ },
+ "vo-14-024": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El Presidente del Gobierno no es órgano de contratación de la AGE (**art. 323**).",
+   "Es esta. Los Ministros y los Secretarios de Estado (**art. 323**).",
+   "No. Presidente o Director son los de organismos y entidades (**art. 323**).",
+   "No. Los Directores Generales no son órganos de contratación como tales (**art. 323**)."
+  ]
+ },
+ "vo-14-025": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es un funcionario de asesoramiento jurídico, no dos (**art. 326.5**).",
+   "No. El asesoramiento es jurídico, no administrativo (**art. 326.5**).",
+   "Es esta. Un funcionario con asesoramiento jurídico y un interventor (**art. 326.5**).",
+   "No. Falta el interventor y el abogado no es lo que fija la ley (**art. 326.5**)."
+  ]
+ },
+ "vo-14-026": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Valor estimado igual o superior a doce millones de euros (**art. 324.1.a**).",
+   "No. En arrendamiento financiero se exige que las anualidades superen cuatro años, no tres (**art. 324.1.b**).",
+   "No. En acuerdos marco y SDA el umbral es doce millones, no diez (**art. 324.1.c**).",
+   "No. Las subvenciones tienen su propia regla (**art. 10.2 LGS**)."
+  ]
+ },
+ "vo-14-027": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los cargos públicos representativos no pueden formar parte de las Mesas ni emitir informes (**art. 326.5**).",
+   "No. El personal de libre designación puede formar parte (**art. 326.5**).",
+   "No. Quien redactó la documentación técnica sí puede, y no está prohibido (**art. 326.5**).",
+   "No. El funcionario de carrera es quien debe formarla (**art. 326.5**)."
+  ]
+ },
+ "vo-14-028": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 328",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Junta Consultiva de Contratación Pública del Estado (**art. 328**).",
+   "No. El Tribunal resuelve recursos, no es órgano consultivo (**art. 45**).",
+   "No. La Oficina Independiente supervisa y regula, no es el órgano consultivo (**art. 332**).",
+   "No. Ese nombre no es el del órgano de la ley (**art. 328**)."
+  ]
+ },
+ "vo-14-029": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En servicios el umbral es 150.000 euros (**art. 335.1**).",
+   "No. En suministros el umbral es 450.000 euros (**art. 335.1**).",
+   "También es cierta: en acuerdos marco el umbral es de 600.000 euros (**art. 335.1**).",
+   "Es esta. Obras y concesiones por encima de 600.000 euros (**art. 335.1**)."
+  ],
+  "ojo": "La 2 y la 3 son ciertas. Se elige la 3 por ser más general; la 2 también aparece en el art. 335.1."
+ },
+ "vo-14-030": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 337.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Registro depende del Ministerio de Hacienda y Función Pública (**art. 337.2**).",
+   "No. La Junta de Contratación no lo lleva (**art. 337.2**).",
+   "Es esta. Depende del Ministerio de Hacienda y Función Pública (**art. 337.2**).",
+   "No. La Junta Consultiva lleva su gestión por sus órganos de apoyo, pero no es de quien depende (**art. 337.2**)."
+  ]
+ },
+ "vo-14-031": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 346.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Incluye todas las Administraciones, no solo la AGE (**art. 346.1**).",
+   "No. Se inscriben datos básicos, no todos (**art. 346.1**).",
+   "No. Es de las entidades sujetas a la ley, no las no sujetas (**art. 346.1**).",
+   "Es esta. Datos básicos de los contratos de las Administraciones y entidades del sector público sujetas a la ley (**art. 346.1**)."
+  ]
+ },
+ "vo-14-032": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 347.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Pueden optar de forma excluyente y exclusiva (**art. 347.3**).",
+   "No. La ley dice excluyente, no 'restrictiva' (**art. 347.3**).",
+   "No. La ley dice excluyente y exclusiva, no 'particular' (**art. 347.3**).",
+   "No. La ley dice excluyente y exclusiva, no 'privativa' (**art. 347.3**)."
+  ]
+ },
+ "vo-15-001": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El objetivo es determinado, no indeterminado (**art. 2.1.b**).",
+   "No. Es sin contraprestación directa (**art. 2.1.a**).",
+   "Es esta. Fomento de una actividad de utilidad pública o interés social, o de una finalidad pública (**art. 2.1.c**).",
+   "No. Solo la tercera es correcta (**art. 2.1**)."
+  ]
+ },
+ "vo-15-002": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Es cierto. Las prestaciones de la Seguridad Social no son subvención (**art. 2.4.a**).",
+   "Es cierto. Los beneficios fiscales y en la cotización no son subvención (**art. 2.4.g**).",
+   "Es la incorrecta. Es el Fondo de Garantía Salarial, no 'Social' (**art. 2.4.f**).",
+   "Es cierto. Las ayudas de emergencia social no son subvención (**art. 2.4.j**)."
+  ]
+ },
+ "vo-15-003": {
+  "bloque": "subv-general",
+  "precepto": "art. 4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los premios con solicitud previa no están excluidos. Los que se dan sin solicitud, sí (**art. 4.a**).",
+   "No. La ley electoral está excluida (**art. 4.b**).",
+   "No. La financiación de partidos está excluida (**art. 4.c**).",
+   "No. Solo la primera es correcta (**art. 4**)."
+  ]
+ },
+ "vo-15-004": {
+  "bloque": "subv-general",
+  "precepto": "art. 9.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es requisito. Competencia del órgano concedente (**art. 9.4.a**).",
+   "Sí es requisito. Crédito adecuado y suficiente (**art. 9.4.b**).",
+   "Es la incorrecta. La fiscalización previa se exige respecto de los actos de contenido económico en general, no solo de las nominativas (**art. 9.4.d**).",
+   "Sí es requisito. Aprobación del gasto por el órgano competente (**art. 9.4.e**)."
+  ]
+ },
+ "vo-15-005": {
+  "bloque": "subv-general",
+  "precepto": "art. 10",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La autorización no la da el Consejo de Estado (**art. 10.2**).",
+   "No. La autorización no la da el Ministro, sino el Consejo de Ministros (**art. 10.2**).",
+   "No. El Consejo de Ministros autoriza, no concede (**art. 10.2**).",
+   "Es esta. Concede el Ministro, con autorización previa del Consejo de Ministros (**art. 10.1 y 2**)."
+  ]
+ },
+ "vo-15-006": {
+  "bloque": "subv-general",
+  "precepto": "art. 17.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La BDNS no publica las bases así (**art. 17**).",
+   "No. Se aprueban por orden ministerial (**art. 17.1**).",
+   "Es esta. Informe previo de los servicios jurídicos y de la Intervención Delegada (**art. 17.1**).",
+   "No. No requieren autorización del Ministro, las aprueba él (**art. 17.1**)."
+  ]
+ },
+ "vo-15-007": {
+  "bloque": "subv-general",
+  "precepto": "art. 20.9",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se refiere a infracciones muy graves (**art. 20.9**).",
+   "No. Están al revés: las sanciones se imponen por infracciones (**art. 20.9**).",
+   "Es esta. Sanciones firmes impuestas por infracciones muy graves (**art. 20.9**).",
+   "No. Está al revés (**art. 20.9**)."
+  ]
+ },
+ "vo-15-008": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.2.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Con carácter excepcional, razones de interés público, social, económico o humanitario que dificulten la convocatoria pública (**art. 22.2.c**).",
+   "No. La cuantía no es motivo de concesión directa (**art. 22.2**).",
+   "No. Las nominativas de los Presupuestos locales sí son directas (**art. 22.2.a**).",
+   "No. Las que impone la norma son de rango legal, no reglamentario (**art. 22.2.b**)."
+  ]
+ },
+ "vo-15-009": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se computa desde la publicación de la convocatoria, no de las bases (**art. 25.4**).",
+   "No. No es desde el fin del plazo de solicitudes (**art. 25.4**).",
+   "No. No es desde la aprobación de la convocatoria (**art. 25.4**).",
+   "Es esta. Seis meses desde la publicación de la convocatoria (**art. 25.4**)."
+  ]
+ },
+ "vo-15-010": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El umbral es 60.000 euros, no 50.000 (**art. 29.3**).",
+   "No. El porcentaje es del 20 por ciento, no del 30 (**art. 29.3**).",
+   "No. El importe debe ser superior a 60.000, no igual o superior (**art. 29.3**).",
+   "Es esta. Más del 20 por ciento del importe y más de 60.000 euros (**art. 29.3**)."
+  ]
+ },
+ "vo-15-011": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No hay plazo de seis meses desde el otorgamiento (**art. 30**).",
+   "No. No se cuenta desde el pago del último gasto (**art. 30**).",
+   "Es esta. Tres meses desde la finalización del plazo para realizar la actividad (**art. 30.2**).",
+   "No. Una es correcta (**art. 30.2**)."
+  ],
+  "revisar": "El plazo supletorio de tres meses figura en el art. 30 y en el Reglamento (art. 70). Compruébalo contra el BOE."
+ },
+ "vo-15-012": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.8",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los tributos efectivamente abonados sí son subvencionables (**art. 31.8**).",
+   "No. Los de asesoría jurídica son subvencionables si lo prevén las bases (**art. 31.7**).",
+   "Es esta. Los impuestos indirectos susceptibles de recuperación no son subvencionables (**art. 31.8**).",
+   "No. Los gastos financieros son subvencionables si lo prevén las bases (**art. 31.7**)."
+  ]
+ },
+ "vo-15-013": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Previa va la aprobación del gasto, no el compromiso (**art. 34.1**).",
+   "No. La convocatoria no conlleva el compromiso, lo hace la resolución de concesión (**art. 34.2**).",
+   "No. La aprobación va antes de la convocatoria, no después (**art. 34.1**).",
+   "Es esta. La resolución de concesión conlleva el compromiso del gasto (**art. 34.2**)."
+  ]
+ },
+ "vo-15-014": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 37.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es causa. Obtener la subvención falseando las condiciones (**art. 37.1.a**).",
+   "Sí es causa. Incumplir la obligación de justificación o justificarla insuficientemente (**art. 37.1.c**).",
+   "Es la que NO. La carencia o insuficiencia de crédito no figura entre las causas de reintegro (**art. 37.1**).",
+   "Sí es causa. La resistencia a las actuaciones de comprobación y control (**art. 37.1.e**)."
+  ]
+ },
+ "vo-15-015": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 37.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Corre desde el pago, no desde el gasto (**art. 37.1**).",
+   "No. Termina cuando se acuerda, no cuando se notifica (**art. 37.1**).",
+   "No. Corre desde el pago, no desde la justificación (**art. 37.1**).",
+   "Es esta. Desde el pago hasta la fecha en que se acuerde la procedencia del reintegro (**art. 37.1**)."
+  ]
+ },
+ "vo-15-016": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 39.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Son cuatro años (**art. 39.1**).",
+   "Es esta. Cuatro años (**art. 39.1**).",
+   "No. Son cuatro años (**art. 39.1**).",
+   "No. Son cuatro años (**art. 39.1**)."
+  ]
+ },
+ "vo-15-017": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se cuenta desde la fecha del acuerdo, no desde su notificación (**art. 42.4**).",
+   "No. Son doce meses (**art. 42.4**).",
+   "No. Son doce meses (**art. 42.4**).",
+   "Es esta. Doce meses desde la fecha del acuerdo de iniciación (**art. 42.4**)."
+  ]
+ },
+ "vo-15-018": {
+  "bloque": "subv-sanciones",
+  "precepto": "arts. 56 a 58",
+  "correcta": 0,
+  "justificaciones": [
+   "No es leve. La falta de justificación pasado el plazo es infracción grave (**art. 57.c**).",
+   "Sí es leve. Cuentas justificativas inexactas o incompletas (**art. 56.b**).",
+   "Tampoco es leve. La resistencia al control financiero es muy grave (**art. 58.c**).",
+   "Sí es leve. No llevar o conservar la contabilidad (**art. 56.d.2.º**)."
+  ],
+  "ojo": "Pregunta defectuosa: la 0 (grave) y la 2 (muy grave) no son leves. Se marca la 0."
+ },
+ "vo-15-019": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 59.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La multa fija es de 75 a 6.000 euros (**art. 59.2**).",
+   "No. La multa proporcional llega al triple, no al doble (**art. 59.2**).",
+   "Es esta. Multa fija de 75 a 6.000 euros (**art. 59.2**).",
+   "No. La multa fija no se mide en proporción, y el triple corresponde a la multa proporcional (**art. 59.2**)."
+  ]
+ },
+ "vo-15-020": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cuatro años desde el día en que se cometió la infracción (**art. 65.1**).",
+   "No. Se cuenta desde la comisión de la infracción, no desde la concesión (**art. 65.1**).",
+   "No. Eso es la prescripción de las sanciones, que corre desde la firmeza (**art. 65.2**).",
+   "No. La primera es correcta (**art. 65.1**)."
+  ]
+ }
+}

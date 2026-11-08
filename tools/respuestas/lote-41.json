@@ -1,0 +1,556 @@
+{
+ "pr-42-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el simplificado admite criterios de juicio de valor, hasta un 25 % (45 % en servicios intelectuales).",
+   "No: el límite es un valor estimado inferior a 140.000 euros, no igual o inferior a 100.000.",
+   "No: tener criterios de juicio de valor no es condición, solo se limita su peso.",
+   "Correcta: el valor estimado del servicio debe ser inferior a 140.000 euros (art. 159.1.a)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-42-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.d y 159.4.f",
+  "correcta": 1,
+  "justificaciones": [
+   "No: con juicio de valor, la oferta se presenta en dos sobres o archivos, aunque no pase del 25 % (art. 159.4.d).",
+   "Correcta: los criterios de juicio de valor se valoran antes de abrir el archivo con la oferta de fórmulas (art. 159.4.f).",
+   "No: la exención de solvencia es del supersimplificado, que exige menos de 60.000 euros y solo fórmulas.",
+   "No: formalizar con la firma de aceptación es del supersimplificado (art. 159.6.g)."
+  ]
+ },
+ "pr-43-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 190 y 191",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es prerrogativa: el órgano de contratación puede modificar los contratos por razones de interés público (art. 190).",
+   "Sí es prerrogativa: declarar la responsabilidad imputable al contratista a raíz de la ejecución (art. 190).",
+   "Sí es prerrogativa: acordar la resolución y determinar sus efectos (art. 190).",
+   "Es la que no encaja: el art. 190 habla de interpretar el contrato y resolver las dudas de su cumplimiento, no de completar sus cláusulas."
+  ],
+  "revisar": "Las otras tres opciones son literales del art. 190. La opción 3 se elige por descarte porque añade completar las cláusulas."
+ },
+ "pr-43-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.3.a",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es preceptivo: la interpretación con oposición del contratista (art. 191.3.a).",
+   "No es preceptivo: la suspensión no figura entre los casos del art. 191.3.",
+   "Sí es preceptivo: la resolución con oposición del contratista (art. 191.3.a).",
+   "Sí es preceptivo: la nulidad con oposición del contratista (art. 191.3.a)."
+  ]
+ },
+ "pr-43-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.3.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: una modificación sobrevenida e imprevisible sí cabe aunque no esté prevista (art. 205).",
+   "No: el dictamen no se exige en cualquier caso, solo por encima del 20 % y con contrato de 6.000.000 de euros o más.",
+   "Correcta: el dictamen es preceptivo si la modificación no prevista supera el 20 % del precio inicial y el contrato llega a 6.000.000 de euros: el 20 % de 6.000.000 son 1.200.000 (art. 191.3.b).",
+   "No: 3.000.000 de euros sería el 50 %, que es el límite máximo de la modificación, no el umbral del dictamen."
+  ]
+ },
+ "pr-43-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.3.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 20.000 euros no alcanza el umbral del dictamen.",
+   "No: 40.000 euros tampoco alcanza el umbral.",
+   "Correcta: el dictamen es preceptivo en reclamaciones por responsabilidad contractual de la Administración de 50.000 euros o más (art. 191.3.c).",
+   "No: 100.000 euros es más de lo que exige la ley."
+  ]
+ },
+ "pr-43-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los acuerdos del órgano de contratación en ejercicio de las prerrogativas ponen fin a la vía administrativa y son inmediatamente ejecutivos (art. 191.4).",
+   "No: además de poner fin a la vía administrativa, son inmediatamente ejecutivos.",
+   "No: ponen fin a la vía administrativa.",
+   "No: ponen fin a la vía administrativa y son ejecutivos."
+  ]
+ },
+ "pr-43-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el tope por penalidad es del 10 % del precio, que son 60.000 euros, y el total no puede superar el 50 %.",
+   "Correcta: cada penalidad llega al 10 % del precio (60.000 euros) y el total no puede pasar del 50 % (300.000 euros) (art. 192.1).",
+   "No: el total no puede superar el 50 % del precio, que son 300.000 euros, no 360.000.",
+   "No: el total sí tiene límite, que es el 50 % del precio."
+  ]
+ },
+ "pr-43-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la Administración puede optar, no está obligada a resolver.",
+   "No: se invierte la regla: la opción es entre resolver o imponer las penalidades que prevea el pliego.",
+   "Correcta: ante un incumplimiento parcial, la Administración puede optar por resolver o por imponer las penalidades que prevea el pliego (art. 192.2).",
+   "No: la resolución no exige que esté prevista en el pliego, solo las penalidades."
+  ]
+ },
+ "pr-43-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.1 y 193.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el contratista debe cumplir el plazo total y los parciales, y la mora no precisa intimación previa (art. 193.1 y 2).",
+   "No: la mora también puede referirse a plazos parciales.",
+   "No: no hace falta intimación previa.",
+   "No: ni se limita al plazo total ni exige intimación."
+  ]
+ },
+ "pr-43-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 50 euros no corresponde a la proporción legal.",
+   "Correcta: la penalidad diaria legal es de 0,60 euros por cada 1.000 euros del precio: 500.000 euros dan 300 euros al día (art. 193.3).",
+   "No: 5.000 euros no es la proporción de la ley.",
+   "No: la ley prevé una penalidad supletoria aunque el pliego no diga nada."
+  ]
+ },
+ "pr-43-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 15.000 euros es el 3 % del precio, no un múltiplo del 5 %.",
+   "Correcta: cada vez que las penalidades alcanzan un múltiplo del 5 % del precio, la Administración puede resolver. El 5 % de 500.000 son 25.000 euros (art. 193.4).",
+   "No: 50.000 euros es el 10 %, que sería el segundo múltiplo.",
+   "No: puede resolver aunque antes haya impuesto penalidades."
+  ]
+ },
+ "pr-43-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no procede la penalidad de 50 euros al día.",
+   "No: la penalidad de 300 euros al día solo cabe si el pliego lo prevé o si el retraso hace presumir que no se cumplirá el plazo total.",
+   "No: la penalidad de 5.000 euros al día no corresponde a la ley.",
+   "Correcta: en los plazos parciales solo cabe penalizar si lo prevé el pliego o si el retraso hace presumir que no se cumplirá el plazo total. Aquí el retraso es recuperable (art. 193.5)."
+  ]
+ },
+ "pr-43-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 194.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: la penalidad se impone por acuerdo del órgano de contratación.",
+   "Es correcta: el acuerdo se adopta a propuesta del responsable del contrato, si se ha designado.",
+   "Es correcta: el acuerdo es inmediatamente ejecutivo.",
+   "Es la incorrecta: se hace efectiva primero deduciéndola de los pagos y solo sobre la garantía cuando no puede deducirse (art. 194.2)."
+  ]
+ },
+ "pr-43-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 195.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: si el retraso no es imputable al contratista y ofrece cumplir con más plazo, se le concede ampliación.",
+   "No: el plazo concedido es al menos igual al tiempo perdido, salvo que pida otro menor.",
+   "Correcta: se le concede un plazo al menos igual al tiempo perdido, a no ser que el contratista pida otro menor (art. 195.2).",
+   "No: no es siempre exactamente igual: puede ser menor si lo pide el contratista."
+  ]
+ },
+ "pr-43-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 196.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el daño obedece a un vicio del proyecto de la Administración, no a la ejecución del contratista.",
+   "Correcta: la Administración responde de los daños por vicios del proyecto en obras, y puede repetir contra el redactor (art. 196.2, remitiendo al art. 315).",
+   "No: el redactor no responde directamente ante el perjudicado, sino ante la Administración.",
+   "No: la repetición va contra el redactor, no contra el contratista."
+  ]
+ },
+ "pr-43-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 196.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo es de un año, y el requerimiento interrumpe la prescripción.",
+   "No: el plazo es de un año, no de seis meses.",
+   "No: el requerimiento sí interrumpe el plazo de prescripción.",
+   "Correcta: los terceros pueden requerir al órgano de contratación dentro del año siguiente al hecho, y eso interrumpe la prescripción (art. 196.3)."
+  ]
+ },
+ "pr-43-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la ley prevé abonos a cuenta por operaciones preparatorias.",
+   "Correcta: el contratista tiene derecho a abonos a cuenta por operaciones preparatorias en las condiciones de los pliegos, asegurados con garantía (art. 198.3).",
+   "No: los pagos preparatorios deben asegurarse mediante garantía.",
+   "No: solo procede en las condiciones que señalen los pliegos."
+  ]
+ },
+ "pr-43-017": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la Administración aprueba la conformidad en treinta días desde la entrega o la prestación del servicio (art. 198.4).",
+   "No: se cuenta desde la entrega o prestación, no desde la factura.",
+   "No: el plazo es de treinta días, no de sesenta.",
+   "No: ni son sesenta días ni se cuentan desde la factura."
+  ]
+ },
+ "pr-43-018": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el plazo de pago no cuenta desde la prestación del servicio.",
+   "No: no cuenta desde la factura.",
+   "Correcta: el plazo de treinta días para pagar se cuenta desde la aprobación del documento de conformidad (art. 198.4).",
+   "No: no se espera a que acabe el plazo de aprobación, sino a que se apruebe."
+  ]
+ },
+ "pr-43-019": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.5 y 198.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: los intereses de demora se devengan desde que se cumplen los treinta días.",
+   "No: la indemnización por costes de cobro también nace al cumplirse los treinta días.",
+   "No: la suspensión exige una demora superior a cuatro meses, no a tres.",
+   "Correcta: si la demora supera los seis meses, el contratista puede resolver el contrato (art. 198.6)."
+  ]
+ },
+ "pr-43-020": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.7",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí son embargables: los salarios y cuotas sociales del personal del contratista.",
+   "Sí son embargables: las obligaciones con subcontratistas.",
+   "Sí son embargables: las obligaciones con suministradores.",
+   "No son embargables para esta finalidad: las indemnizaciones a terceros no figuran entre los supuestos del art. 198.7."
+  ]
+ },
+ "pr-44-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 203, 205 y 207.3",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: solo se modifican por razones de interés público.",
+   "Es correcta: excepcionalmente cabe modificar sin previsión en el pliego (art. 205).",
+   "Es correcta: con carácter general se formalizan en documento administrativo.",
+   "Es la incorrecta: toda modificación se publica en el perfil de contratante en cinco días, esté prevista o no (art. 207.3)."
+  ]
+ },
+ "pr-44-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 40.000 euros es el 20 % del presupuesto base de licitación, que no es la base.",
+   "No: 48.000 euros es el 20 % del valor estimado, que no es la base.",
+   "Correcta: las modificaciones previstas llegan al 20 % del precio inicial, es decir, de 180.000 euros: 36.000 euros (art. 204.1).",
+   "No: 90.000 euros sería el 50 %, que es el límite de las no previstas."
+  ]
+ },
+ "pr-44-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí lo justifica: añadir obras, suministros o servicios adicionales (art. 205.2.a).",
+   "Sí lo justifica: las circunstancias sobrevenidas e imprevisibles (art. 205.2.b).",
+   "No lo justifica: el mutuo acuerdo entre las partes no es un supuesto del art. 205.2.",
+   "Sí lo justifica: las modificaciones no sustanciales (art. 205.2.c)."
+  ]
+ },
+ "pr-44-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: puede modificarse aunque no esté prevista, si se cumplen los requisitos del art. 205.2.a.",
+   "No: no hace falta que el contratista fuera único licitador.",
+   "No: el límite es del 50 %, no del 20 %.",
+   "Correcta: añadir suministros que no pueden obtenerse con otro contratista por razones técnicas permite modificar hasta el 50 % del precio inicial (art. 205.2.a)."
+  ]
+ },
+ "pr-44-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.b",
+  "correcta": 1,
+  "justificaciones": [
+   "Es requisito: que una Administración diligente no pudiera preverlo.",
+   "No es requisito: que el cambio de contratista no sea posible es del art. 205.2.a, no del 205.2.b.",
+   "Es requisito: que no se altere la naturaleza global del contrato.",
+   "Es requisito: la alteración no puede exceder del 50 % del precio inicial."
+  ]
+ },
+ "pr-44-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 10 % es el límite en contratos que no son de obras.",
+   "Correcta: en obras la modificación no sustancial llega al 15 % del precio inicial, IVA excluido (art. 205.2.c).",
+   "No: el 20 % es el límite de las modificaciones previstas, no de las no sustanciales.",
+   "No: cabe la modificación no prevista si es no sustancial y respeta el límite."
+  ]
+ },
+ "pr-44-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en contratos distintos de obras, la modificación no sustancial llega al 10 % del precio inicial (art. 205.2.c).",
+   "No: el 15 % es el límite de las obras.",
+   "No: el 20 % es el límite de las modificaciones previstas.",
+   "No: cabe la modificación no prevista si es no sustancial."
+  ]
+ },
+ "pr-44-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 205.2.a y 206.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el 20 % (200.000 euros) está por debajo del límite del 50 % del art. 205.2.a.",
+   "No: no necesita conformidad, porque no excede del 20 %.",
+   "Correcta: se puede modificar hasta el 50 % y es obligatoria para el contratista cuando no excede del 20 %, que es el caso (art. 206.1).",
+   "No: no solo se admiten las previstas, también las del art. 205."
+  ]
+ },
+ "pr-44-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 60.000 euros son el 60 % de 100.000, y el límite de la modificación por circunstancias imprevisibles es el 50 % (art. 205.2.b).",
+   "No: no se llega a plantear la conformidad, porque la cuantía excede el límite.",
+   "No: no es posible porque excede el límite legal.",
+   "No: no solo se admiten las modificaciones previstas, pero esta supera el 50 %."
+  ]
+ },
+ "pr-44-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 205.2.b y 206",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la suma, 50.000 más 30.000, es 80.000 euros, el 40 % de 200.000, por debajo del límite del 50 %.",
+   "Correcta: es posible, pero la suma de modificaciones supera el 20 %, así que no es obligatoria para el contratista y requiere su conformidad escrita (art. 206).",
+   "No: no es obligatoria, porque supera el 20 % del precio inicial.",
+   "No: se admiten modificaciones del art. 205 si se cumplen sus requisitos."
+  ]
+ },
+ "pr-44-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 206",
+  "correcta": 3,
+  "justificaciones": [
+   "No: una modificación del 20 % prevista en el pliego no excede el 20 %, y es obligatoria para el contratista.",
+   "No: una modificación no sustancial en obras no puede pasar del 15 %, así que no cabe el 20 %.",
+   "No: el 20 % no excede el 20 %, y es obligatoria.",
+   "Correcta: una modificación del 30 % por prestaciones adicionales es posible (límite 50 %), pero excede el 20 %, así que requiere la conformidad del contratista (art. 206)."
+  ]
+ },
+ "pr-44-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 206.2 y 211.1.g",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la ley no prevé suspender hasta alcanzar un acuerdo.",
+   "No: no se descarta la modificación sin más, el art. 206.2 dispone la resolución.",
+   "Correcta: la modificación del 30 % exige conformidad por escrito, y si el contratista se opone se resuelve el contrato por el art. 211.1.g (art. 206.2).",
+   "No: la ley no permite imponer la modificación por encima del 20 % con dictamen."
+  ]
+ },
+ "pr-45-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: el acta se extiende de oficio o a solicitud del contratista (art. 208.1).",
+   "Es correcta: en ella se consignan las circunstancias y la situación de hecho (art. 208.1).",
+   "Es la incorrecta: el art. 208 no condiciona el inicio de la suspensión a que se extienda el acta.",
+   "Es correcta: solo se indemnizan los periodos documentados en el acta (art. 208.2.b)."
+  ]
+ },
+ "pr-45-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.2.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no es un mes tras la reanudación.",
+   "No: seis meses no es el plazo de prescripción de la reclamación.",
+   "No: no se cuenta desde el acuerdo de suspensión.",
+   "Correcta: el derecho a reclamar prescribe en un año desde que el contratista recibe la orden de reanudar: hasta el 7 de octubre de 2027 (art. 208.2.c)."
+  ]
+ },
+ "pr-45-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.2.a",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí se indemniza: los gastos de mantenimiento de la garantía definitiva (art. 208.2.a.1.º).",
+   "No se indemniza: el beneficio industrial dejado de obtener no figura en la lista de conceptos.",
+   "Sí se indemniza: los gastos salariales del personal adscrito (art. 208.2.a.3.º).",
+   "Sí se indemniza: las pólizas de seguro previstas en el pliego (art. 208.2.a.6.º)."
+  ]
+ },
+ "pr-45-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 209",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los contratos administrativos se extinguen por cumplimiento o por resolución (art. 209).",
+   "No: el fin del plazo de duración no es una forma de extinción por sí sola.",
+   "No: la suspensión no extingue el contrato.",
+   "No: el plazo de garantía no extingue el contrato, sino la responsabilidad del contratista."
+  ]
+ },
+ "pr-45-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la mera entrega no basta, hace falta realizar toda la prestación a satisfacción de la Administración.",
+   "No: el plazo de garantía extingue la responsabilidad, no el cumplimiento.",
+   "Correcta: el contrato se cumple cuando se realiza la totalidad de la prestación de acuerdo con el contrato y a satisfacción de la Administración (art. 210.1).",
+   "No: el pago del precio no determina el cumplimiento del contratista."
+  ]
+ },
+ "pr-45-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo general es de un mes.",
+   "No: tampoco son quince días.",
+   "No: no son treinta días contados así: la ley dice un mes.",
+   "Correcta: el acto de recepción o conformidad se hace dentro del mes siguiente a la entrega (art. 210.2)."
+  ]
+ },
+ "pr-45-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.2 y normativa de la IGAE",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en inversiones de 50.000 euros o más, IVA excluido, es preceptivo solicitar la designación de representante de la IGAE.",
+   "No: la asistencia no es potestativa en estos casos.",
+   "No: la solicitud no es facultativa, es preceptiva.",
+   "No: el umbral incluye los 50.000 euros, no exige superarlos."
+  ],
+  "revisar": "El umbral y los plazos de la IGAE no están en la LCSP sino en resoluciones de la propia IGAE, y una nota del INAP de 2024 apunta a cambios. Confirma la norma vigente."
+ },
+ "pr-45-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.2 y normativa de la IGAE",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en el extranjero el plazo es mayor.",
+   "No: los plazos se cuentan en días hábiles, no naturales.",
+   "Correcta: treinta días hábiles en Madrid y cuarenta y cinco días hábiles si la recepción es en el extranjero (París).",
+   "No: se invierten los plazos."
+  ],
+  "revisar": "El plazo no está en la LCSP sino en resoluciones de la IGAE, y una nota del INAP de 2024 habla de otra antelación. Confirma la norma vigente."
+ },
+ "pr-45-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la liquidación se acuerda, se notifica y se abona el saldo dentro de los treinta días desde el acta de recepción (art. 210.4).",
+   "No: no es un mes, son treinta días.",
+   "No: sesenta días es el plazo máximo de pago de otras leyes, no el de la liquidación.",
+   "No: dos meses no es el plazo del art. 210.4, que es de treinta días."
+  ]
+ },
+ "pr-45-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la entrega no extingue la responsabilidad del contratista.",
+   "No: la recepción inicia el plazo de garantía, no extingue la responsabilidad.",
+   "No: el abono de la liquidación no extingue la responsabilidad.",
+   "Correcta: la responsabilidad se extingue al pasar el plazo de garantía sin objeciones de la Administración (art. 210.3)."
+  ]
+ },
+ "pr-46-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es causa: la muerte o incapacidad sobrevenida del contratista individual (art. 211.1.a).",
+   "No es causa: lo es la declaración de concurso o de insolvencia, no la mera solicitud (art. 211.1.b).",
+   "Sí es causa: el mutuo acuerdo (art. 211.1.c).",
+   "Sí es causa: el incumplimiento de la obligación principal (art. 211.1.f)."
+  ]
+ },
+ "pr-46-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la demora del pago por la Administración es causa cuando supera los seis meses, no los cinco (arts. 198.6 y 211.1.e).",
+   "No: la imposibilidad de ejecutar solo es causa cuando no es posible modificar el contrato (art. 211.1.g).",
+   "Correcta: el impago de los salarios por el contratista a los trabajadores es causa de resolución (art. 211.1.i).",
+   "No: solo es causa el incumplimiento de la obligación principal o de las esenciales calificadas como tales en los pliegos."
+  ]
+ },
+ "pr-46-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1.d",
+  "correcta": 3,
+  "justificaciones": [
+   "No: tres meses es el plazo de la actividad, no el límite de resolución.",
+   "No: seis meses no es el umbral legal.",
+   "No: ocho meses no es el umbral legal.",
+   "Correcta: el retraso injustificado sobre el plan de trabajos es causa si supera un tercio del plazo inicial del contrato, prórrogas incluidas: 36 meses entre 3 son doce (art. 211.1.d)."
+  ]
+ },
+ "pr-46-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: cuando concurren varias causas, prevalece la que apareció antes en el tiempo, y aquí fue el incumplimiento del contratista (art. 211.2).",
+   "No: la demora de la Administración fue posterior.",
+   "No: no prevalece la invocada primero, sino la que surgió primero.",
+   "No: el órgano de contratación no decide según gravedad."
+  ]
+ },
+ "pr-46-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el interés público no basta cuando hay una causa imputable al contratista.",
+   "No: el mutuo acuerdo no se combina con penalidades en estos casos.",
+   "Correcta: el mutuo acuerdo solo es posible cuando no concurre otra causa de resolución imputable al contratista (art. 211.1.c).",
+   "No: el mutuo acuerdo no está limitado al periodo anterior a la ejecución."
+  ]
+ },
+ "pr-46-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 212",
+  "correcta": 3,
+  "justificaciones": [
+   "No: puede iniciarse también a instancia del contratista.",
+   "No: puede iniciarse también a instancia del contratista, y el plazo es de ocho meses.",
+   "No: el plazo máximo es de ocho meses, no de seis.",
+   "Correcta: se inicia de oficio o a instancia del contratista, y se resuelve en el plazo máximo de ocho meses (art. 212)."
+  ]
+ }
+}

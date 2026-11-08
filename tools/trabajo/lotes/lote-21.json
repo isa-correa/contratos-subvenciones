@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-01-029",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 29,
+   "enunciado": "Señale la respuesta correcta. Según la Ley 9/2017, de Contratos del Sector Público:",
+   "opciones": [
+    "Un contrato de arrendamiento de un edificio que celebra un Ministerio tiene la consideración de contrato administrativo.",
+    "Un contrato de obras que celebra una Entidad Pública Empresarial tiene la consideración de contrato privado.",
+    "Un contrato de servicios que celebra una Comunidad Autónoma tiene la consideración de contrato mixto.",
+    "Un contrato de concesión de obras que celebra un Organismo Autónomo tiene la consideración de contrato privado."
+   ]
+  },
+  {
+   "id": "vo-01-030",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 30,
+   "enunciado": "De las cuestiones referidas a efectos y extinción de los contratos que celebren las entidades del sector público que no tengan el carácter de poderes adjudicadores será competente para resolver:",
+   "opciones": [
+    "El orden jurisdiccional civil.",
+    "El orden jurisdiccional social.",
+    "El orden jurisdiccional penal.",
+    "El orden jurisdiccional contencioso-administrativo."
+   ]
+  },
+  {
+   "id": "vo-01-031",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 31,
+   "enunciado": "Conforme al artículo 27 de la Ley de Contratos del Sector Público, las cuestiones que se susciten en relación con la preparación y adjudicación de los contratos privados de las Administraciones públicas serán competencia:",
+   "opciones": [
+    "Del orden jurisdiccional contencioso-administrativo.",
+    "Del orden jurisdiccional civil.",
+    "Del orden jurisdiccional mercantil.",
+    "De la sección de enjuiciamiento contable del Tribunal de Cuentas."
+   ]
+  },
+  {
+   "id": "vo-01-032",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 32,
+   "enunciado": "Según la LCSP, la duración de los contratos de arrendamiento de bienes muebles, incluidas las eventuales prórrogas que puedan acordarse por el órgano de contratación, NO podrá exceder de:",
+   "opciones": [
+    "Cuatro años.",
+    "Dos años.",
+    "Cinco años.",
+    "Diez años."
+   ]
+  },
+  {
+   "id": "vo-01-033",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 33,
+   "enunciado": "Señale la respuesta correcta en relación con la posibilidad de prórroga de un contrato de servicios:",
+   "opciones": [
+    "Cuando la duración inicial del contrato sea de tres años, el contrato podrá prorrogarse por tres años más.",
+    "Se acuerda por el órgano de contratación y obliga al contratista, siempre que se le preavise con un mes de antelación.",
+    "Podrá acordarse por el consentimiento tácito de las partes.",
+    "No será obligatoria para el contratista si la Administración se hubiera demorado en el abono del precio más de seis meses."
+   ]
+  },
+  {
+   "id": "vo-01-034",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 34,
+   "enunciado": "Cuando al vencimiento de un contrato no se hubiera formalizado el nuevo contrato que garantice la continuidad de la prestación como consecuencia de acontecimientos imprevisibles en el procedimiento de adjudicación, y existiesen razones de interés público para no interrumpir la prestación, se podrá prorrogar el contrato originario, hasta que comience la ejecución del nuevo, por un periodo máximo de:",
+   "opciones": [
+    "12 meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de 3 meses.",
+    "12 meses, aunque el anuncio de licitación del nuevo contrato no se haya publicado.",
+    "9 meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de 3 meses.",
+    "9 meses, siempre que el anuncio de licitación del nuevo contrato se haya publicado con una antelación mínima de 6 meses."
+   ]
+  },
+  {
+   "id": "vo-01-035",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 35,
+   "enunciado": "Según la LCSP, el plazo de duración de las concesiones de obras, incluidas las prórrogas, no puede exceder de:",
+   "opciones": [
+    "30 años.",
+    "50 años.",
+    "40 años.",
+    "60 años."
+   ]
+  },
+  {
+   "id": "vo-01-036",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 36,
+   "enunciado": "Conforme al artículo 29 de la LCSP, la duración de un contrato de concesión de servicios no relacionados con la prestación de servicios sanitarios no podrá exceder, incluyendo las posibles prórrogas, de:",
+   "opciones": [
+    "10 años.",
+    "15 años.",
+    "25 años.",
+    "35 años."
+   ]
+  },
+  {
+   "id": "vo-01-037",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 37,
+   "enunciado": "De acuerdo con lo previsto en la LCSP, los contratos menores se caracterizan por:",
+   "opciones": [
+    "Tener una duración de más de un año con posibilidad de prórroga.",
+    "Tener una duración de un año prorrogable por otro.",
+    "Tener una duración no superior al año sin posibilidad de prórroga.",
+    "Tener una duración máxima de seis meses prorrogables por otros seis meses."
+   ]
+  },
+  {
+   "id": "vo-01-038",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 38,
+   "enunciado": "La compensación por los encargos de los Poderes Adjudicadores a medios propios personificados se establecerá, según el artículo 32 de la LCSP:",
+   "opciones": [
+    "Por referencia a los precios de mercado vigentes en el momento de realización del encargo.",
+    "Por referencia a tarifas aprobadas por la entidad pública de la que depende el medio propio personificado.",
+    "En base a la metodología de costes simplificados aprobada por el medio propio personificado.",
+    "Por referencia a tarifas aprobadas por el medio propio personificado."
+   ]
+  },
+  {
+   "id": "vo-01-039",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 39,
+   "enunciado": "Los encargos de los poderes adjudicadores a medios propios personificados:",
+   "opciones": [
+    "No tienen la consideración de contratos, pero se regulan en la Ley de Contratos del Sector Público.",
+    "Tienen la consideración de contratos y se regulan en la Ley de Contratos del Sector Público.",
+    "No tienen la consideración de contratos quedando excluidos de la Ley de Contratos del Sector Público.",
+    "Tienen la consideración de contratos, pero no las regula la Ley de Contratos del Sector Público."
+   ]
+  },
+  {
+   "id": "vo-01-040",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 40,
+   "enunciado": "Señale la respuesta correcta en relación con la ejecución directa de prestaciones por la Administración Pública a través de medios propios no personificados, de acuerdo con lo dispuesto en el artículo 30 de la LCSP:",
+   "opciones": [
+    "La prestación de suministros se realizará normalmente por la propia Administración por sus propios medios.",
+    "La fabricación de bienes muebles podrá realizarse a través de medios propios cuando suponga una economía superior al 5% del importe del contrato.",
+    "Las obras de mera conservación y mantenimiento podrán realizarse por la Administración Pública empleando medios propios no personificados.",
+    "La ejecución de obras no podrá realizarse por los servicios de la Administración Pública empleando exclusivamente medios propios no personificados."
+   ]
+  },
+  {
+   "id": "vo-02-001",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 1,
+   "enunciado": "Conforme a la LCSP, los contratos celebrados por los poderes adjudicadores, a excepción de los menores, basados y específicos, se perfeccionan:",
+   "opciones": [
+    "Con su adjudicación.",
+    "Con su publicación en el perfil del contratante.",
+    "Con su formalización.",
+    "Con la ejecución."
+   ]
+  },
+  {
+   "id": "vo-02-002",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 2,
+   "enunciado": "De conformidad con la LCSP, los contratos basados en un acuerdo marco se perfeccionan: (GACE-PI 2017)",
+   "opciones": [
+    "Con la adjudicación.",
+    "Con la formalización.",
+    "Con la aprobación del expediente de contratación.",
+    "Con la publicación del anuncio de formalización."
+   ]
+  },
+  {
+   "id": "vo-02-003",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 3,
+   "enunciado": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece que la contratación verbal: (ADMVO-PI 2017)",
+   "opciones": [
+    "Está prohibida en todo caso.",
+    "Solo se permite cuando el contrato tenga carácter de emergencia.",
+    "Es obligatoria con carácter general.",
+    "Se utiliza en los contratos de suministro."
+   ]
+  },
+  {
+   "id": "vo-02-004",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 4,
+   "enunciado": "Atendiendo a lo dispuesto en la Ley 9/2017, los contratos del sector público se entenderán celebrados:",
+   "opciones": [
+    "En todo caso, en el lugar donde se encuentre la sede del órgano de contratación.",
+    "En todo caso, en el lugar donde se encuentre la sede social del contratista.",
+    "Salvo que se indique otra cosa en su clausulado, en el lugar donde se encuentre la sede del órgano de contratación.",
+    "Salvo que se indique otra cosa en su clausulado, en el lugar donde se encuentre la sede social del contratista."
+   ]
+  },
+  {
+   "id": "vo-02-005",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 5,
+   "enunciado": "Según la LCSP, la falta de publicación del anuncio de licitación en el perfil de contratante será causa de: (GACE-EST 2023)",
+   "opciones": [
+    "Anulabilidad.",
+    "Subsanación a instancia de parte.",
+    "Corrección por la Junta de Contratación.",
+    "Nulidad de pleno derecho."
+   ]
+  },
+  {
+   "id": "vo-02-006",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 6,
+   "enunciado": "El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos en los artículos 204 y 205, de acuerdo con lo dispuesto en el artículo 40 de la LCSP, constituye:",
+   "opciones": [
+    "Una causa de nulidad de derecho administrativo.",
+    "Una causa de anulabilidad de derecho administrativo.",
+    "Una causa de invalidez de derecho civil.",
+    "No constituye ninguna causa de invalidez."
+   ]
+  },
+  {
+   "id": "vo-02-007",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 7,
+   "enunciado": "De conformidad con la LCSP, la falta de solvencia económica en los contratos celebrados por poderes adjudicadores constituye: (GACE-PI 2021)",
+   "opciones": [
+    "Una causa de resolución del contrato.",
+    "Un supuesto de nulidad de pleno derecho del contrato.",
+    "Una causa de anulabilidad del contrato.",
+    "Una irregularidad no invalidante que puede ser subsanable por el contratista."
+   ]
+  },
+  {
+   "id": "vo-02-008",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 8,
+   "enunciado": "De acuerdo con la LCSP, la nulidad de los actos que no sean preparatorios:",
+   "opciones": [
+    "Implicará la resolución del contrato, que entrará en fase de liquidación.",
+    "Solo afectará a estos y sus consecuencias.",
+    "Llevará en todo caso consigo la del mismo contrato.",
+    "Implicará el deber de las partes de restituirse recíprocamente las cosas que hubiesen recibido en virtud del mismo."
+   ]
+  },
+  {
+   "id": "vo-02-009",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 9,
+   "enunciado": "Si la declaración administrativa de nulidad de un contrato produjese un grave trastorno al servicio público:",
+   "opciones": [
+    "Podrá disponerse la continuación de sus efectos, bajo sus mismas cláusulas, hasta que se adopten las medidas urgentes para evitar el perjuicio.",
+    "Deberá disponerse la continuación de sus efectos, bajo sus mismas cláusulas, hasta que se adopten las medidas urgentes para evitar el perjuicio.",
+    "Obligará a la adopción de medidas urgentes para evitar el perjuicio, sin que, en ningún caso, pueda disponerse la continuación de sus efectos.",
+    "Dicha declaración deberá posponerse hasta la adopción, por el órgano de contratación, de medidas urgentes para evitar cualquier clase de perjuicio."
+   ]
+  },
+  {
+   "id": "vo-02-010",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 10,
+   "enunciado": "De acuerdo con la LCSP, la invalidez de los contratos por causas reconocidas en el derecho civil, en cuanto resulten de aplicación a los contratos, se sujetará a los requisitos y plazos de ejercicio de las acciones establecidos en:",
+   "opciones": [
+    "La 9/2017, de 8 de noviembre, de Contratos del Sector Público.",
+    "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+    "La Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.",
+    "El ordenamiento civil."
+   ]
+  },
+  {
+   "id": "vo-02-011",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 11,
+   "enunciado": "¿En cuál de los siguientes supuestos NO cabe el recurso especial en materia de contratación? (GACE-EST 2023)",
+   "opciones": [
+    "Un contrato de suministro basado en un acuerdo marco por valor estimado de doscientos mil euros.",
+    "Un contrato de obras por valor estimado de un millón de euros.",
+    "Una concesión de servicio por valor estimado de cuatro millones de euros.",
+    "Una concesión de obra por valor estimado de tres millones y medio de euros."
+   ]
+  },
+  {
+   "id": "vo-02-012",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 12,
+   "enunciado": "Según el artículo 44 de la LCSP, son susceptibles de recurso especial en materia de contratación:",
+   "opciones": [
+    "Los contratos de concesión de obras cuyo valor estimado sea superior a un millón de euros.",
+    "Los contratos de suministros cuyo valor estimado sea superior a noventa mil euros.",
+    "Los contratos de servicios cuyo valor estimado sea superior a cien mil euros.",
+    "Los contratos de obras cuyo valor estimado sea superior a dos millones de euros."
+   ]
+  },
+  {
+   "id": "vo-02-013",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 13,
+   "enunciado": "¿En cuál de los siguientes supuestos cabe el recurso especial en materia de contratación?",
+   "opciones": [
+    "Encargos a medios propios cuando, por sus características, no sea posible fijar su importe.",
+    "Contratos administrativos especiales, cuando su valor estimado sea inferior a lo establecido para los contratos de servicios.",
+    "Contratos de concesión de servicios cuyo valor estimado sea superior a un millón de euros.",
+    "Contratos de obras, cualquiera que sea su valor estimado."
+   ]
+  },
+  {
+   "id": "vo-02-014",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 14,
+   "enunciado": "De acuerdo con la LCSP, podrán ser objeto de recurso especial en materia de contratación:",
+   "opciones": [
+    "Los contratos de suministro y servicios siempre que su valor estimado sea igual o superior a 143.000 euros.",
+    "Los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "Los anuncios de licitación, así como los pliegos que establezcan las condiciones que deben regir la contratación.",
+    "Los contratos de obras cuyo valor estimado sea superior a dos millones de euros."
+   ]
+  },
+  {
+   "id": "vo-02-015",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 15,
+   "enunciado": "¿Cuál de las siguientes actuaciones NO puede ser objeto de recurso especial, según el artículo 44.2 de la LCSP? (GACE-PI 2019)",
+   "opciones": [
+    "Los acuerdos de rescate de concesiones.",
+    "Los acuerdos de adjudicación.",
+    "Los actos de la mesa o del órgano de contratación por los que se acuerde la admisión o exclusión de ofertas.",
+    "El acuerdo de inicio del expediente."
+   ]
+  },
+  {
+   "id": "vo-02-016",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 16,
+   "enunciado": "Indique cuál de las siguientes afirmaciones relativas al recurso especial en materia de contratación es conforme con la LCSP:",
+   "opciones": [
+    "Es potestativo y cabe contra actos de trámite que impidan continuar el procedimiento de adjudicación.",
+    "Es obligatorio y gratuito.",
+    "No se puede interponer contra actos de la mesa de contratación que decidan sobre la inadmisión de candidatos.",
+    "Se puede interponer en los procedimientos de adjudicación que se sigan por el trámite de emergencia."
+   ]
+  },
+  {
+   "id": "vo-02-017",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 17,
+   "enunciado": "En el ámbito de la AGE, el órgano competente para resolver el recurso especial en materia de contratación es: (ADVO-PI 2019)",
+   "opciones": [
+    "El Tribunal de Cuentas.",
+    "El Tribunal Económico-Administrativo Central.",
+    "El Tribunal Administrativo Central de Recursos Contractuales.",
+    "El órgano de contratación, salvo que la competencia haya sido delegada o desconcentrada."
+   ]
+  },
+  {
+   "id": "vo-02-018",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 18,
+   "enunciado": "¿Qué plazo marca la LCSP para que las personas legitimadas puedan presentar recurso especial en materia de contratación? (ADMVO-LI 2023)",
+   "opciones": [
+    "10 días hábiles.",
+    "15 días hábiles.",
+    "20 días hábiles.",
+    "Un mes."
+   ]
+  },
+  {
+   "id": "vo-02-019",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 19,
+   "enunciado": "Respecto del recurso especial en materia de contratación, señale la respuesta INCORRECTA: (GACE-LI 2021)",
+   "opciones": [
+    "Podrá interponerlo cualquier persona cuyos derechos o intereses legítimos se hayan visto perjudicados por las decisiones objeto del recurso.",
+    "Las personas legitimadas para interponerlo podrán solicitar ante el órgano competente para resolver el recurso la adopción de medidas cautelares.",
+    "Transcurridos dos meses sin que se haya notificado su resolución el interesado podrá considerarlo desestimado.",
+    "Este recurso será de aplicación en los procedimientos de adjudicación que se sigan por el trámite de emergencia."
+   ]
+  },
+  {
+   "id": "vo-02-020",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 20,
+   "enunciado": "Según la LCSP, ¿qué recurso procede contra la resolución del recurso especial en materia de contratación? (GACE-PI 2023)",
+   "opciones": [
+    "Sólo cabrá la interposición de recurso potestativo de reposición.",
+    "Sólo cabrá la interposición de recurso económico administrativo.",
+    "Sólo cabrá la interposición de recurso contencioso-administrativo.",
+    "Sólo cabrá la interposición de recurso de alzada."
+   ]
+  },
+  {
+   "id": "vo-02-021",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 21,
+   "enunciado": "En relación con el responsable del contrato regulado en el artículo 62 de la LCSP, señale qué afirmación es correcta:",
+   "opciones": [
+    "Los órganos de contratación podrán optar por designar un responsable del contrato.",
+    "En los contratos de obras, las facultades del responsable del contrato no podrán ser ejercidas por el Director Facultativo.",
+    "El responsable del contrato podrá ser una persona física o jurídica vinculada a la entidad contratante o ajena a ella.",
+    "El responsable del contrato podrá ser una persona física o jurídica vinculada, en todo caso, a la entidad contratante."
+   ]
+  },
+  {
+   "id": "vo-02-022",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 22,
+   "enunciado": "Señale la respuesta correcta respecto del perfil de contratante según en el artículo 63 de la Ley de Contratos del Sector Público:",
+   "opciones": [
+    "El acceso a la información del perfil de contratante requerirá identificación previa.",
+    "Toda la información contenida en los perfiles de contratante permanecerá accesible al público durante un periodo de 3 años.",
+    "Los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante.",
+    "La publicación de la información relativa a los contratos menores deberá realizarse al menos anualmente."
+   ]
+  },
+  {
+   "id": "vo-02-023",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 23,
+   "enunciado": "Según la LCSP, no forma parte del contenido mínimo que deberá publicarse en relación con los contratos menores:",
+   "opciones": [
+    "El informe del órgano de contratación motivando la necesidad del contrato.",
+    "El objeto.",
+    "La duración.",
+    "La identidad del adjudicatario, ordenándose los contratos por la identidad del adjudicatario."
+   ]
+  },
+  {
+   "id": "vo-02-024",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 24,
+   "enunciado": "Conforme con la LCSP, los encargos de los poderes adjudicadores a medios propios personificados: (GACE-PI 2017)",
+   "opciones": [
+    "No pueden tener una duración que exceda los dos años.",
+    "Deben ser objeto de publicación en el perfil de contratante cuando su importe sea superior a 50.000 euros, IVA excluido.",
+    "No pueden ser objeto de prórroga.",
+    "Deben ser objeto de publicación en el perfil de contratante cuando su importe sea superior a 30.000 euros, IVA excluido."
+   ]
+  },
+  {
+   "id": "vo-02-025",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 25,
+   "enunciado": "La LCSP dispone que las personas jurídicas: (GACE-LI 2017)",
+   "opciones": [
+    "Podrán ser adjudicatarias de todo contrato independientemente de su objeto social.",
+    "Solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de su objeto social.",
+    "Solo podrán ser adjudicatarias de contratos de obras.",
+    "Nunca podrán ser adjudicatarias de contratos sujetos a regulación armonizada."
+   ]
+  },
+  {
+   "id": "vo-02-026",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 26,
+   "enunciado": "Podrán contratar con el sector público las uniones de empresarios que se constituyan temporalmente al efecto:",
+   "opciones": [
+    "Sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado la adjudicación del contrato a su favor.",
+    "Siempre que se formalicen en escritura pública con anterioridad a la adjudicación del contrato a su favor.",
+    "Sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado la formalización del contrato.",
+    "Sin que sea necesaria la formalización de las mismas en escritura pública en ningún momento."
+   ]
+  },
+  {
+   "id": "vo-02-027",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 27,
+   "enunciado": "Señale la respuesta correcta, de acuerdo con la Ley 9/2017, de Contratos del Sector Público:",
+   "opciones": [
+    "Los empresarios que concurran agrupados en uniones temporales quedarán obligados mancomunadamente.",
+    "El PCAP podrá exigir a una empresa chilena adjudicataria de un contrato de obras que abra sucursal en España.",
+    "Los nacionales de la Unión Europea no precisarán acreditar su clasificación ni poseer las condiciones mínimas de solvencia.",
+    "Un contrato cuyo objeto sea la vigilancia de la ejecución de un contrato debe adjudicarse a la empresa adjudicataria del correspondiente contrato."
+   ]
+  },
+  {
+   "id": "vo-02-028",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 28,
+   "enunciado": "Según la LCSP, no podrán contratar con el sector público personas en quienes concurra alguna de las siguientes circunstancias:",
+   "opciones": [
+    "Tener varios contratos de la misma naturaleza adjudicados por el órgano de contratación.",
+    "Haber sido imputadas por delitos de tráfico de influencias.",
+    "Tener varios contratos adjudicados por el órgano de contratación.",
+    "No hallarse al corriente en el cumplimiento de las obligaciones tributarias o de la Seguridad Social."
+   ]
+  },
+  {
+   "id": "vo-02-029",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 29,
+   "enunciado": "De acuerdo con el artículo 71 de la LCSP, se considera como una prohibición para contratar:",
+   "opciones": [
+    "Haber sido condenado mediante sentencia firme por cualquier delito.",
+    "No acreditar un volumen de negocio superior a 50.000 euros durante el ejercicio anterior.",
+    "En el caso de las empresas de menos de 50 trabajadores, no cumplir con la obligación de contar con un plan de igualdad.",
+    "Haber solicitado la declaración de concurso voluntario."
+   ]
+  },
+  {
+   "id": "vo-02-030",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 30,
+   "enunciado": "En virtud del artículo 71 de la ley 9/2017, de 8 de noviembre, podrán contratar con la Administración las personas que:",
+   "opciones": [
+    "Estén incursas en procesos judiciales por delitos contra la Hacienda Pública y la Seguridad Social.",
+    "Hayan sido sancionadas con carácter firme por infracción grave en materia de integración laboral e igualdad de oportunidades.",
+    "No se hallen al corriente en el cumplimiento de sus obligaciones tributarias o de seguridad social.",
+    "Hayan sido declaradas insolventes."
+   ]
+  },
+  {
+   "id": "vo-02-031",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 31,
+   "enunciado": "Señale la respuesta correcta en relación con los requisitos mínimos de solvencia que deba reunir el empresario, según el artículo 74 de la LCSP: (A1 Junta de Andalucía 2020. Especialidad Archivística)",
+   "opciones": [
+    "Solo deberán acreditarse ante la administración en caso de ser requeridos por el órgano superior al de contratación.",
+    "Solo deberán acreditarse ante la administración en caso de ser requeridos por el órgano de contratación o los tribunales.",
+    "Se darán a conocer tras la adjudicación del contrato, estarán vinculados a su objeto y serán proporcionales al mismo.",
+    "Se indicarán en el anuncio de licitación y se especificarán en el pliego del contrato, debiendo estar vinculados a su objeto y ser proporcionales al mismo."
+   ]
+  },
+  {
+   "id": "vo-02-032",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 32,
+   "enunciado": "Según el artículo 77 de la LCSP, en los contratos de obras es requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras de los Poderes Adjudicadores cuando:",
+   "opciones": [
+    "El presupuesto de licitación sea igual o superior a 500.000 euros.",
+    "El valor estimado sea igual o superior a 500.000 euros.",
+    "El presupuesto de licitación sea igual o superior a 1.000.000 euros.",
+    "El valor estimado sea igual o superior a 1.000.000 euros."
+   ]
+  },
+  {
+   "id": "vo-02-033",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 33,
+   "enunciado": "De acuerdo con el artículo 77 de la LCSP, señale la respuesta correcta en relación con la clasificación de los empresarios como contratistas de servicios de los poderes adjudicadores: (ADMVO-LI 2021)",
+   "opciones": [
+    "Es exigible cuando el valor estimado de los contratos sea igual o superior a 500.000 euros.",
+    "Es exigible cuando el valor estimado de los contratos sea inferior a 500.000 euros.",
+    "En los contratos de servicios no es exigible la clasificación del empresario.",
+    "Es exigible cuando el valor estimado sea igual o superior a 500.000 euros y no se aporten otros requisitos de solvencia."
+   ]
+  },
+  {
+   "id": "vo-02-034",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 34,
+   "enunciado": "La clasificación de las empresas, de acuerdo con el artículo 82.1 de la LCSP tendrá una vigencia:",
+   "opciones": [
+    "Indefinida, en tanto se mantengan por el empresario las condiciones y circunstancias en que se basó su concesión.",
+    "Anual, en tanto se mantengan por el empresario las condiciones y circunstancias en que se basó su concesión.",
+    "De tres años, en tanto se mantengan por el empresario las condiciones y circunstancias en que se basó su concesión.",
+    "Anual, para la solvencia económica y financiera y de tres años, para la solvencia técnica y profesional."
+   ]
+  },
+  {
+   "id": "vo-02-035",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 35,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la clasificación de las empresas:",
+   "opciones": [
+    "No será exigible a empresarios españoles o de Estados miembros de la Unión Europea.",
+    "Se hará en función de la solvencia de las empresas.",
+    "Sólo se puede declarar por sentencia judicial firme.",
+    "Sólo tiene validez frente al órgano de contratación que la realizó."
+   ]
+  },
+  {
+   "id": "vo-02-036",
+   "origen": "votaciones",
+   "test": "Clase 14 - Bloque III",
+   "n": 36,
+   "enunciado": "Señale la respuesta correcta en relación con los acuerdo o decisiones de clasificación de las empresas, según la LCSP:",
+   "opciones": [
+    "Se adoptarán, únicamente, por las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado.",
+    "Una empresa no podrá disponer simultáneamente de clasificación como Contratista de Obras y como Contratista de Servicios.",
+    "Los adoptados por las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado se inscribirán de oficio en el ROLECSP.",
+    "Los adoptados por las Comunidades Autónomas serán inscritos, únicamente, en el Registro de Licitadores de la respectiva Comunidad Autónoma."
+   ]
+  },
+  {
+   "id": "vo-03-001",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 1,
+   "enunciado": "Según el artículo 84 de la LCSP, ¿cómo se acredita la capacidad de obrar de una persona jurídica? (GACE-LI-EXT 2021)",
+   "opciones": [
+    "Mediante declaración jurada de su Presidente.",
+    "Mediante certificación firmada de todos los socios que la componen.",
+    "Mediante acta de su Consejo de Administración en la que se declare dicha capacidad para el contrato concreto al que se opta.",
+    "Mediante la escritura o documento de constitución, estatutos o acta fundacional debidamente inscritos en el Registro público que corresponda."
+   ]
+  },
+  {
+   "id": "vo-03-002",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 2,
+   "enunciado": "Según el artículo 87 de la LCSP, ¿cuál de los siguientes medios permite acreditar la solvencia económica del empresario?",
+   "opciones": [
+    "Declaración indicando el personal técnico u organismos técnicos, estén o no integrados en la empresa.",
+    "Declaración jurada o un certificado, en los términos que se establezcan reglamentariamente.",
+    "Mediante informe de la Misión Diplomática Permanente de España en el Estado correspondiente.",
+    "Volumen anual de negocios, referido al mejor ejercicio de los tres últimos disponibles, por importe igual o superior al exigido en el anuncio de licitación."
+   ]
+  }
+ ]
+}

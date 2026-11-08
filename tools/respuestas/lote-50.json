@@ -1,0 +1,351 @@
+{
+ "pr-66-020": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4 LGS",
+  "correcta": 3,
+  "justificaciones": [
+   "No: cuatro años es el plazo de prescripción del derecho a reconocer o liquidar el reintegro, no el de resolución.",
+   "No: seis meses es el plazo para resolver el procedimiento de concesión (art. 25.4), no el de reintegro.",
+   "No: tres meses no es el plazo de reintegro.",
+   "Correcta: el plazo máximo para resolver y notificar el reintegro es de 12 meses desde el acuerdo de iniciación (art. 42.4)."
+  ]
+ },
+ "pr-66-021": {
+  "bloque": "subv-concesion",
+  "precepto": "arts. 10.2, 17 y 34 LGS",
+  "correcta": 3,
+  "justificaciones": [
+   "No es la incorrecta: el gasto se aprueba con carácter previo a la convocatoria o a la concesión directa (art. 34.1).",
+   "No es la incorrecta: las bases se publican en el diario oficial (art. 17.1).",
+   "No es la incorrecta: las bases reguladoras deben aprobarse antes de otorgar las subvenciones (art. 17).",
+   "Correcta (es la incorrecta): la autorización del Consejo de Ministros no implica la aprobación del gasto, que corresponde en todo caso al órgano competente (art. 10.2)."
+  ]
+ },
+ "pr-66-022": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.1 LGS",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el prorrateo es excepcional y solo si lo prevén las bases reguladoras (art. 22.1).",
+   "No: no basta que el órgano lo considere adecuado, hace falta que lo prevean las bases.",
+   "No: no es la regla general, es excepcional.",
+   "No: el prorrateo es una técnica de la concurrencia competitiva, no de las subvenciones nominativas."
+  ]
+ },
+ "pr-66-023": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42 LGS",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el reintegro se inicia siempre de oficio (art. 42.2), no a solicitud de persona interesada.",
+   "No: el plazo es de 12 meses, no de 6 (art. 42.4).",
+   "Correcta: la resolución del procedimiento de reintegro pone fin a la vía administrativa (art. 42.5).",
+   "No: al poner fin a la vía administrativa cabe recurso potestativo de reposición o contencioso-administrativo."
+  ]
+ },
+ "pr-66-024": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.1.a LGS",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la entrega se realiza sin contraprestación directa, no con ella.",
+   "No: al beneficiario se le exige cumplir obligaciones materiales y formales (art. 2.1.b).",
+   "Correcta: la entrega se realiza sin contraprestación directa de los beneficiarios (art. 2.1.a).",
+   "No: el fin es una actividad de utilidad pública o interés social, no de utilidad privada (art. 2.1.c)."
+  ]
+ },
+ "pr-66-025": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.2 LGS",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la aprobación del gasto es previa a la convocatoria o a la concesión directa.",
+   "Correcta: la resolución de concesión conlleva el compromiso del gasto correspondiente (art. 34.2).",
+   "No: el reconocimiento de la obligación llega después, con la justificación.",
+   "No: la propuesta de pago llega después, con la justificación."
+  ]
+ },
+ "pr-66-026": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.5 LGS",
+  "correcta": 1,
+  "justificaciones": [
+   "No: en subvenciones el silencio es desestimatorio, no estimatorio.",
+   "Correcta: el vencimiento del plazo sin notificar legitima para entender desestimada la solicitud por silencio administrativo (art. 25.5).",
+   "No: en un procedimiento iniciado a solicitud la consecuencia es el silencio, no la caducidad.",
+   "No: no se trata de prescripción de ningún derecho."
+  ]
+ },
+ "pr-66-027": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 37.1 LGS",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el interés se cuenta desde el pago, no desde la concesión.",
+   "No: se cuenta desde el pago y no desde la concesión.",
+   "Correcta: desde el momento del pago hasta la fecha en que se acuerde la procedencia del reintegro (art. 37.1).",
+   "No: el interés no se corta al iniciarse el procedimiento, sino al acordarse el reintegro."
+  ],
+  "ojo": "La ley añade: o hasta la fecha en que el deudor ingrese el reintegro, si es anterior."
+ },
+ "pr-66-028": {
+  "bloque": "subv-general",
+  "precepto": "arts. 2.4 y 4 LGS",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los premios sin solicitud previa quedan excluidos del ámbito de la Ley (art. 4).",
+   "No: las prestaciones de la Seguridad Social no tienen carácter de subvención (art. 2.4.a).",
+   "Correcta: una ayuda social municipal para atención especializada cumple el concepto del art. 2.1 y no está en las exclusiones del art. 2.4.",
+   "No: los beneficios fiscales y en la cotización no tienen carácter de subvención (art. 2.4.g)."
+  ]
+ },
+ "pr-66-052": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en contratos de las Administraciones Públicas no armonizados el plazo no es inferior a quince días, salvo en obras y concesiones (art. 156.6).",
+   "No: en suministros no armonizados también son quince días, no veinte.",
+   "No: en obras el mínimo es de veintiséis días, no de treinta.",
+   "No: en concesiones de obras el mínimo no armonizado es de veintiséis días, no de treinta y cinco."
+  ]
+ },
+ "pr-66-053": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 139.000 era una cifra de años anteriores y no se aplica en 2026.",
+   "No: 140.000 euros es el umbral de la AGE, sus organismos autónomos y la Seguridad Social, y la Junta de Andalucía no es AGE.",
+   "No: 214.000 era una cifra de años anteriores.",
+   "Correcta: la Consejería de la Junta de Andalucía no es AGE, así que el umbral de suministros es 216.000 euros (art. 21.1.b)."
+  ]
+ },
+ "pr-66-055": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 212.8",
+  "correcta": 2,
+  "justificaciones": [
+   "No: cuatro meses no es el plazo.",
+   "No: seis meses no es el plazo.",
+   "Correcta: el plazo máximo para instruir y resolver es de ocho meses (art. 212.8).",
+   "No: doce meses no es el plazo."
+  ],
+  "ojo": "La STC 68/2021 declaró que ese plazo de ocho meses no es conforme con el orden de competencias, de modo que no se impone a las comunidades autónomas."
+ },
+ "pr-66-056": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el umbral es de 500.000 y no de 350.000, y se mide sobre el presupuesto base.",
+   "No: el umbral es de 500.000 euros, no de 350.000.",
+   "No: el umbral se mide sobre el presupuesto base de licitación, no sobre el valor estimado.",
+   "Correcta: cuando el presupuesto base de licitación sea igual o superior a 500.000 euros, IVA excluido (art. 235)."
+  ]
+ },
+ "pr-66-057": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los 15 días son solo si el único criterio es el precio, y no el menor coste del ciclo de vida.",
+   "No: los 15 días no aplican y el plazo no se cuenta desde la publicación.",
+   "Correcta: con el menor coste del ciclo de vida como único criterio, el plazo es de dos meses desde la apertura de las proposiciones (art. 158.2).",
+   "No: el plazo se cuenta desde la apertura de proposiciones, no desde la publicación."
+  ]
+ },
+ "pr-66-058": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el 6 % del precio de adjudicación de los suministros dejados de realizar, en concepto de beneficio industrial, IVA excluido (art. 307.3).",
+   "No: el 3 % es la indemnización del desistimiento antes de iniciar el suministro.",
+   "No: el 3 % del precio de adjudicación es la indemnización del desistimiento antes de la iniciación.",
+   "No: el 6 % se calcula sobre los suministros dejados de realizar, no sobre todo el precio."
+  ]
+ },
+ "pr-66-061": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No es la incorrecta: la calificación de la documentación es función de la mesa (art. 326.2.a).",
+   "No es la incorrecta: la valoración de proposiciones es función de la mesa (art. 326.2.b).",
+   "Correcta (es la incorrecta): la mesa propone la adjudicación, pero adjudica el órgano de contratación (art. 326.2.d).",
+   "No es la incorrecta: proponer la calificación de oferta anormalmente baja es función de la mesa (art. 326.2.c)."
+  ]
+ },
+ "pr-66-062": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: se rigen por sus normas especiales, aplicándose los principios de la Ley para resolver dudas y lagunas (art. 4).",
+   "No: no se rigen exclusivamente por el derecho privado.",
+   "No: los principios de la Ley se aplican a dudas y lagunas, no la Ley entera en defecto de normas especiales.",
+   "No: no se rigen exclusivamente por el derecho administrativo."
+  ]
+ },
+ "pr-66-063": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 36.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los contratos basados en acuerdo marco y los específicos de un sistema dinámico se perfeccionan con su adjudicación (art. 36.3).",
+   "No: la formalización perfecciona los demás contratos de las Administraciones (art. 36.1).",
+   "No: la publicación no perfecciona ningún contrato.",
+   "No: la firma del documento es la formalización, que no perfecciona estos contratos."
+  ]
+ },
+ "pr-66-064": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 29.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 25 años es para concesiones de servicios no sanitarios sin obras.",
+   "No: 10 años es para servicios sanitarios sin ejecución de obras.",
+   "Correcta: si comprende ejecución de obras y explotación del servicio, el máximo es de 40 años, incluidas prórrogas (art. 29.6.a).",
+   "No: 15 años no es un plazo legal en este artículo."
+  ]
+ },
+ "pr-66-065": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el Ayuntamiento de Barcelona no es AGE, así que el umbral es de 216.000 euros.",
+   "No: las Entidades Gestoras de la Seguridad Social tienen el umbral de 140.000 euros.",
+   "Correcta: una comunidad autónoma no es AGE, así que su umbral de servicios es de 216.000 euros (art. 22.1.b).",
+   "No: una universidad pública no es AGE ni organismo autónomo, así que el umbral es de 216.000 euros."
+  ]
+ },
+ "pr-66-066": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 168.a.2.º",
+  "correcta": 1,
+  "justificaciones": [
+   "No: los servicios sociales personalísimos no figuran entre los supuestos del art. 168.",
+   "Correcta: cuando no exista competencia por razones técnicas, el contrato solo puede encomendarse a un empresario (art. 168.a.2.º).",
+   "No: un proyecto o soluciones innovadoras justifican la licitación con negociación o la asociación para la innovación, no el negociado sin publicidad.",
+   "No: los servicios intelectuales de especial complejidad se tramitan por el procedimiento restringido o el diálogo competitivo."
+  ]
+ },
+ "pr-66-017": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-018": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-019": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-029": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-030": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-031": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-032": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-033": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-034": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-035": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-036": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-037": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-038": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-039": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-042": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-045": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-046": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-047": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-048": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-049": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-050": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-051": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-054": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-040": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Constitución, Código Civil, jurisdicción contencioso-administrativa o leyes sociales), fuera de contratos y subvenciones."
+ },
+ "pr-66-041": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Constitución, Código Civil, jurisdicción contencioso-administrativa o leyes sociales), fuera de contratos y subvenciones."
+ },
+ "pr-66-043": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Constitución, Código Civil, jurisdicción contencioso-administrativa o leyes sociales), fuera de contratos y subvenciones."
+ },
+ "pr-66-044": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Constitución, Código Civil, jurisdicción contencioso-administrativa o leyes sociales), fuera de contratos y subvenciones."
+ },
+ "pr-66-059": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Constitución, Código Civil, jurisdicción contencioso-administrativa o leyes sociales), fuera de contratos y subvenciones."
+ },
+ "pr-66-060": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Constitución, Código Civil, jurisdicción contencioso-administrativa o leyes sociales), fuera de contratos y subvenciones."
+ }
+}

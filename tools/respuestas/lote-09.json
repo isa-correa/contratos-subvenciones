@@ -1,0 +1,554 @@
+{
+ "au-11-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los pliegos se aprueban antes de la licitación, no con ella.",
+   "Es esta. Los PCAP se aprueban previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de licitar (**art. 122.1**).",
+   "No. Es al revés: no pueden aprobarse después de autorizar el gasto.",
+   "No. El informe del Servicio Jurídico no es el hito que marca la ley."
+  ]
+ },
+ "au-11-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El informe no depende de que lo pida el órgano de contratación.",
+   "No. No se informan todos los pliegos, solo los que se aparten del pliego general.",
+   "Es esta. La Junta Consultiva informa previamente los PCAP que incluyan estipulaciones contrarias a los pliegos generales (**art. 122.6**).",
+   "No. Sí hay un caso en que es obligatorio."
+  ]
+ },
+ "au-11-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los pliegos solo se modifican después por error material, de hecho o aritmético, y los contratos no pueden alterarlos.",
+   "Es esta. Deben estar aprobados antes de la licitación o, si no la hay, antes de la adjudicación (**art. 122.1**).",
+   "No. Los pliegos los aprueba el órgano de contratación, no el que solicita el contrato (**art. 124**).",
+   "No. Cada pliego cumple una función distinta, el PCAP no se sustituye por el de prescripciones técnicas."
+  ]
+ },
+ "au-11-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 121.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Ministro no aprueba a propuesta del Consejo de Ministros. Es el Consejo de Ministros, a propuesta del Ministro de Hacienda.",
+   "No. El Consejo de Estado dictamina, no aprueba.",
+   "Es esta. Los aprueba el Consejo de Ministros, a propuesta del Ministro de Hacienda y previo dictamen del Consejo de Estado (**art. 121.1**).",
+   "No. El órgano de contratación aprueba los pliegos particulares, no los generales."
+  ]
+ },
+ "au-11-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si no hay licitación, los pliegos se aprueban antes de la adjudicación (**art. 122.1**).",
+   "No. Para entonces ya habría adjudicación sin pliegos aprobados.",
+   "No. La ejecución es muy posterior.",
+   "No. La liquidación es la última fase."
+  ]
+ },
+ "au-11-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 124",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El Consejo de Ministros aprueba los pliegos generales, no los de prescripciones técnicas particulares.",
+   "No. La Junta Consultiva no interviene así en los pliegos técnicos.",
+   "No. El Tribunal Administrativo Central no informa para aprobar pliegos técnicos.",
+   "Es esta. Los pliegos de prescripciones técnicas particulares los aprueba el órgano de contratación (**art. 124**)."
+  ]
+ },
+ "au-11-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí pueden corregirse los errores materiales.",
+   "No. No solo los de hecho: también los aritméticos y los materiales.",
+   "No. No solo los aritméticos: también los de hecho y los materiales.",
+   "Es esta. Los pliegos pueden modificarse por error material, de hecho o aritmético. En otro caso, la modificación obliga a retroceder actuaciones (**art. 122.1**)."
+  ]
+ },
+ "au-12-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Siempre se publica en el perfil de contratante.",
+   "No. En la AGE se publica además en el BOE.",
+   "Es esta. Solo se publica en el DOUE cuando el contrato está sujeto a regulación armonizada (**art. 135.1**).",
+   "No. El DOUE solo es obligatorio para la regulación armonizada."
+  ]
+ },
+ "au-12-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Ordinariamente, la adjudicación se hace por procedimiento abierto o restringido (**art. 131.2**).",
+   "No. El procedimiento negociado solo cabe en los supuestos tasados del **art. 168**.",
+   "No. El diálogo competitivo es excepcional, de los supuestos del **art. 167**.",
+   "No. Ambos son procedimientos excepcionales."
+  ]
+ },
+ "au-12-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "DA 36.ª (anuncio de información previa)",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es “en todo caso” en el DOUE, pues cabe alternativa.",
+   "No. Tampoco es “en todo caso” el perfil de contratante.",
+   "Es esta. Se publican, a elección del órgano de contratación, en el DOUE o en el perfil de contratante alojado en la Plataforma.",
+   "No. La elección es del órgano de contratación, no del contratista."
+  ]
+ },
+ "au-12-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La subasta y el procedimiento abreviado no son procedimientos de adjudicación de la LCSP.",
+   "Es esta. Abierto, restringido, negociados (sin publicidad y licitación con negociación), diálogo competitivo y asociación para la innovación (**art. 131**).",
+   "No. Faltan la licitación con negociación y la asociación para la innovación.",
+   "No. La subasta y el concurso no son procedimientos de la LCSP."
+  ]
+ },
+ "au-12-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En los no armonizados solo es potestativo.",
+   "Es esta. Es obligatorio cuando el contrato está sujeto a regulación armonizada (**art. 135.1**).",
+   "No. Ser poder adjudicador no obliga por sí solo a publicar en el DOUE.",
+   "No. En los negociados sin publicidad no hay anuncio de licitación."
+  ]
+ },
+ "au-12-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La ley no prevé plazo de subsanación para elegir.",
+   "Es esta. No puede presentar proposición individual y en UTE: se inadmiten todas las que suscriba (**art. 139.3**).",
+   "No. Tampoco se salva la individual.",
+   "No. La consecuencia es la inadmisión, no una prohibición de contratar."
+  ]
+ },
+ "au-12-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cada licitador no puede presentar más de una proposición, salvo variantes y subasta electrónica (**art. 139.3**).",
+   "No. El **art. 139.3** no permite presentar dos proposiciones por licitador, salvo variantes o subasta.",
+   "No. El **art. 139.3** no permite presentar tres proposiciones por licitador, salvo variantes o subasta.",
+   "No. Sí hay límite: una sola proposición por licitador (**art. 139.3**)."
+  ]
+ },
+ "au-12-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los criterios son de mejor relación calidad-precio, no basados solo en el precio.",
+   "No. “En todo caso” es falso: hay negociado sin publicidad, diálogo y asociación para la innovación.",
+   "Es esta. Los menores pueden adjudicarse directamente a quien tenga capacidad de obrar y habilitación profesional (**art. 131.3**).",
+   "No. Solo se excluye la preparación y adjudicación de los de menos de 30.000 euros, no toda la Ley (**art. 131.4**)."
+  ]
+ },
+ "au-12-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No se aplican las reglas de preparación y adjudicación (**art. 131.4**).",
+   "No. Los efectos y extinción sí se rigen por la Ley.",
+   "No. No es solo efectos y extinción, que son justo lo que sí se aplica.",
+   "No. La extinción sí sigue la Ley."
+  ]
+ },
+ "au-12-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 3,
+  "revisar": "Depende del umbral de regulación armonizada vigente. En 2026 los suministros de la AGE son SARA desde 140.000 euros, por lo que 150.000 euros queda por encima.",
+  "justificaciones": [
+   "No. En la AGE también se publica en el BOE.",
+   "No. Si es regulación armonizada hay que añadir el DOUE.",
+   "No. Con regulación armonizada el DOUE no es potestativo, es obligatorio.",
+   "Es esta. Un suministro de 150.000 euros de un Ministerio supera el umbral de regulación armonizada de la AGE (140.000 euros desde 2026), así que va en perfil, BOE y DOUE (**art. 135.1**)."
+  ]
+ },
+ "au-12-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 135.1 y 135.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En la AGE se publica además en el BOE.",
+   "No. La publicación en el DOUE es posible cuando el órgano lo estime conveniente.",
+   "Es esta. Una obra de 1,5 millones no llega al umbral de regulación armonizada, así que perfil y BOE, y DOUE potestativo (**art. 135.2**).",
+   "No. El DOUE solo es obligatorio en regulación armonizada, y esta obra no llega al umbral."
+  ]
+ },
+ "au-12-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La publicación que vale en todo caso para las Administraciones Públicas es la del perfil de contratante (**art. 135.1**).",
+   "No. El BOE es solo para la AGE y sus entidades.",
+   "No. El BOE y el DOUE no son comunes a toda Administración Pública.",
+   "No. El DOUE es solo para regulación armonizada."
+  ]
+ },
+ "au-12-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Deben ajustarse a los pliegos (**art. 139.1**).",
+   "Es verdadera, así que no se marca. Presentarla supone aceptar incondicionalmente los pliegos (**art. 139.1**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Son secretas hasta el momento de apertura de las proposiciones, no hasta formalizar el contrato (**art. 139.2**).",
+   "Es verdadera, así que no se marca. Una sola proposición por licitador, con inadmisión de todas si se infringe (**art. 139.3**)."
+  ]
+ },
+ "au-12-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 140.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Deben concurrir en la fecha final de presentación de ofertas y subsistir en el momento de perfección del contrato (**art. 140.4**).",
+   "No. Subsisten hasta la perfección, no solo hasta la adjudicación.",
+   "No. La referencia es la fecha final de presentación, no la inicial.",
+   "No. Falla la fecha: es la final, no la inicial."
+  ]
+ },
+ "au-12-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 142",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las variantes no se limitan a suministros y servicios.",
+   "Es esta. En suministros y servicios no se puede rechazar una variante solo porque llevaría a otro tipo de contrato (**art. 142.3**).",
+   "No. Se admiten cuando haya criterios distintos del precio.",
+   "No. La posibilidad se indica en el anuncio de licitación, no en el de adjudicación (**art. 142.2**)."
+  ]
+ },
+ "au-12-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 143",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La subasta electrónica es un proceso dentro de un procedimiento, no un procedimiento de adjudicación.",
+   "Es esta. La subasta puede desarrollarse en varias fases sucesivas (**art. 143**).",
+   "No. Se comunica como mínimo la clasificación de cada licitador, y datos adicionales solo si lo prevé el pliego.",
+   "No. Puede basarse solo en precios o también en otros valores cuantificables (**art. 143.3**)."
+  ]
+ },
+ "au-12-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La relación que establece la ley es calidad-precio.",
+   "No. No es coste-rendimiento.",
+   "No. No es calidad-eficacia.",
+   "Es esta. La pluralidad de criterios se basa en la mejor relación calidad-precio (**art. 131.2**)."
+  ]
+ },
+ "au-12-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los criterios de adjudicación también se aceptan sin excepción.",
+   "No. Los criterios de solvencia tampoco quedan fuera.",
+   "No. Ni los criterios de solvencia ni los de adjudicación quedan fuera de esa aceptación (**art. 139.1**).",
+   "Es esta. La proposición supone la aceptación de todas las cláusulas sin salvedad o reserva alguna (**art. 139.1**)."
+  ]
+ },
+ "au-12-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 142.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Si solo importa el precio, no se admiten variantes.",
+   "Es esta. Se admiten cuando en la adjudicación se tengan en cuenta criterios distintos del precio y las variantes estén previstas en los pliegos (**art. 142.1**).",
+   "No. No se limita a los cualitativos.",
+   "No. Tampoco a los cuantitativos."
+  ]
+ },
+ "au-12-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 140.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La declaración responsable se ajusta al formulario del documento europeo único de contratación (**art. 140.1.a**).",
+   "No. El documento se llama “europeo”, no “español”.",
+   "No. No existe un documento nacional único de contratación.",
+   "No. No existe un documento europeo único de licitación."
+  ]
+ },
+ "au-13-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No son exclusivamente económicos, hay criterios cualitativos.",
+   "No. Los cualitativos deben ir con un criterio relacionado con los costes (**art. 145.2**).",
+   "No. Ni existe esa excepción, y menos sin justificar.",
+   "Es esta. Se adjudica con pluralidad de criterios en base a la mejor relación calidad-precio (**art. 145.1**)."
+  ]
+ },
+ "au-13-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los aspectos medioambientales o sociales deben estar vinculados al objeto del contrato.",
+   "Es esta. Los criterios cualitativos deben ir acompañados de un criterio relacionado con los costes (**art. 145.2**).",
+   "No. Sí pueden incluir aspectos medioambientales o sociales.",
+   "No. Los hay evaluables por fórmula y los hay de juicio de valor."
+  ]
+ },
+ "au-13-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es obligatorio que sea el precio.",
+   "No. Tampoco es obligatorio que sea el ciclo de vida.",
+   "No. La rentabilidad es una opción, pero no la obligatoria.",
+   "Es esta. Si solo hay un criterio debe relacionarse con los costes y puede ser el precio o la rentabilidad, como el ciclo de vida (**art. 146.1**)."
+  ]
+ },
+ "au-13-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No es solo esta. Los servicios del Anexo IV sí están, pero hay otro supuesto.",
+   "No es solo esta. Las prestaciones de carácter intelectual sí están, pero hay otro supuesto.",
+   "Es esta. En los contratos de servicios del Anexo IV y en los de prestaciones intelectuales, la calidad pesa al menos el 51 por ciento (**art. 145.4**).",
+   "No. Las dos son correctas."
+  ]
+ },
+ "au-13-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si no se puede ponderar por razones justificadas, se enumeran por orden decreciente de importancia (**art. 146.3**).",
+   "No. El orden es decreciente, no creciente.",
+   "No. La ley no ordena por naturaleza del criterio.",
+   "No. Tampoco ordena por naturaleza del criterio."
+  ]
+ },
+ "au-13-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El comité de expertos debe contar con un mínimo de tres miembros (**art. 146.2.a**).",
+   "No. El mínimo es tres, no cinco.",
+   "No. El mínimo es tres, no siete.",
+   "No. Sí pueden tener mayor ponderación, y entonces interviene el comité."
+  ]
+ },
+ "au-13-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 148.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los costes de prevención no son la referencia que fija la ley.",
+   "No. Los costes de evaluación tampoco.",
+   "Es esta. Los costes se calculan preferentemente atendiendo al coste del ciclo de vida (**art. 148.4**).",
+   "No. El coste de adquisición es solo una parte del ciclo de vida."
+  ]
+ },
+ "au-13-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los criterios de fórmula se evalúan tras los de juicio de valor (**art. 146.2**).",
+   "No. Es al revés: primero se valoran los criterios de juicio de valor y después los de fórmula (**art. 146.2**).",
+   "No. No son simultáneos: la ley fija un orden, primero los de juicio de valor (**art. 146.2**).",
+   "No. El orden está fijado."
+  ]
+ },
+ "au-13-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 147.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se aporta con la proposición.",
+   "No. Tampoco dentro del plazo de proposiciones.",
+   "No. No es genérico antes de la adjudicación.",
+   "Es esta. La documentación se aporta en el momento en que se produce el empate, no con carácter previo (**art. 147.1**)."
+  ]
+ },
+ "au-13-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 147.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Primero, mayor porcentaje de trabajadores con discapacidad o en exclusión social (**art. 147.2.a**).",
+   "No. Eso es el segundo criterio (**art. 147.2.b**).",
+   "No. Eso es el tercer criterio (**art. 147.2.c**).",
+   "No. El tamaño de la plantilla no es criterio de desempate."
+  ]
+ },
+ "au-14-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El desistimiento debe fundarse en una infracción no subsanable de las normas de preparación o de adjudicación (**art. 152.4**).",
+   "No. Las razones de interés público justifican la decisión de no adjudicar, no el desistimiento (**art. 152.3**).",
+   "No. No puede desistirse por mera conveniencia.",
+   "No. Puede acordarse hasta antes de la formalización (**art. 152.2**)."
+  ]
+ },
+ "au-14-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 36.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El consentimiento es la regla civil, la LCSP fija otra para los poderes adjudicadores.",
+   "No. La elevación a público es potestativa, a petición del contratista (**art. 153.1**).",
+   "Es esta. Los contratos de los poderes adjudicadores se perfeccionan con su formalización, salvo menores y basados en acuerdo marco (**art. 36.1**).",
+   "No. Esos son requisitos de validez, no el momento de perfección."
+  ]
+ },
+ "au-14-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo es de días hábiles.",
+   "No. Son cinco días hábiles desde la recepción de la documentación, no diez (**art. 150.3**).",
+   "Es esta. La adjudicación se hace en cinco días hábiles desde la recepción de la documentación (**art. 150.3**).",
+   "No. Son cinco, no quince."
+  ]
+ },
+ "au-14-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En los contratos basados en acuerdo marco y en los específicos de un sistema dinámico no es necesaria la formalización (**art. 153.1**).",
+   "No. Precisamente no es necesaria.",
+   "No. No depende del umbral del contrato menor.",
+   "No. No es potestativa, directamente no se exige."
+  ]
+ },
+ "au-14-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 109.1 y 150.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Son diez días hábiles y no se cuentan desde la adjudicación.",
+   "Es esta. Son diez días hábiles desde el siguiente a recibir el requerimiento (**art. 150.2**).",
+   "No. Se cuentan desde el requerimiento, no desde la adjudicación.",
+   "No. Son diez días, no cinco."
+  ]
+ },
+ "au-14-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En los de recurso especial, la formalización no puede hacerse antes de quince días hábiles y luego se requiere al adjudicatario en cinco días.",
+   "No. En ningún caso pueden incluirse cláusulas que alteren los términos de la adjudicación (**art. 153.1**).",
+   "No. Las excepciones son menores, basados en acuerdo marco y emergencia. La urgencia no exime (**art. 153.6**).",
+   "Es esta. En los contratos basados en un acuerdo marco no resulta necesaria la formalización (**art. 153.1**)."
+  ]
+ },
+ "au-14-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El desistimiento no impide iniciar de inmediato un nuevo procedimiento (**art. 152.4**).",
+   "Es esta. Puede acordarse antes de la formalización (**art. 152.2**).",
+   "No. Puede acordarse tras adjudicar, siempre antes de formalizar.",
+   "No. No exige fuerza mayor, sino infracción no subsanable."
+  ]
+ },
+ "au-14-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los abiertos simplificados sí se formalizan.",
+   "No. Los negociados sí se formalizan.",
+   "No. Los no armonizados sí se formalizan, salvo los menores.",
+   "Es esta. Los contratos específicos de un sistema dinámico no necesitan formalización (**art. 153.1**)."
+  ]
+ },
+ "au-14-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 151.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo es de quince días.",
+   "No. El plazo es de quince, no de diez.",
+   "Es esta. La resolución de adjudicación se publica en el perfil de contratante en quince días (**art. 151.1**).",
+   "No. El plazo es de quince, no de veinte."
+  ]
+ },
+ "au-14-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La decisión de no adjudicar o celebrar solo cabe por razones de interés público justificadas en el expediente (**art. 152.3**).",
+   "No. En este caso no puede promoverse nueva licitación mientras subsistan las razones. Lo de la inmediata es del desistimiento.",
+   "No. Se compensa a los candidatos por sus gastos (**art. 152.2**).",
+   "No. Eso es el desistimiento, no la decisión de no adjudicar."
+  ]
+ },
+ "au-14-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No puede formalizarse antes de que pasen quince días hábiles desde la notificación (**art. 153.3**).",
+   "No. Son quince, no cinco.",
+   "No. Es un plazo de espera de quince días hábiles, no naturales (**art. 153.3**).",
+   "No. Es un plazo mínimo de espera, no máximo. El máximo de quince días hábiles es para los demás contratos."
+  ]
+ },
+ "au-14-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 149.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Solo puede excluirla tras tramitar el procedimiento del **art. 149**.",
+   "No. Es imprescindible tramitar el procedimiento.",
+   "No. No depende de que concurran otros licitadores.",
+   "No. No es un deber de exclusión inmediata, hay que justificarlo antes."
+  ]
+ },
+ "au-14-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "Reglamento (RD 1098/2001), art. 85",
+  "correcta": 2,
+  "revisar": "El umbral de un solo licitador (25 unidades porcentuales) viene del Reglamento general de la LCAP, art. 85.",
+  "justificaciones": [
+   "No. Cinco unidades porcentuales no es el umbral del Reglamento para un solo licitador, que es 25.",
+   "No. Diez es la referencia con tres o más licitadores, sobre la media.",
+   "Es esta. Con un solo licitador, la oferta es desproporcionada si baja del presupuesto base de licitación en más de 25 unidades porcentuales.",
+   "No. Veinte es la referencia con dos licitadores, respecto a la otra oferta."
+  ]
+ }
+}

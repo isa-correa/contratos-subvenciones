@@ -1,0 +1,553 @@
+{
+ "au-18-024": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí es causa de resolución la declaración de concurso o insolvencia en cualquier procedimiento (**art. 211.1.b**).",
+   "No. La imposibilidad de ejecutar la prestación cuando no cabe modificar el contrato sí es causa de resolución (**art. 211.1.g**).",
+   "No. El impago de salarios a los trabajadores de la ejecución sí es causa de resolución (**art. 211.1.i**).",
+   "Es esta. Lo que la ley dice es que el retraso injustificado sobre el plan de trabajos debe superar un tercio del plazo inicial, no un sexto (**art. 211.1.d**)."
+  ]
+ },
+ "au-18-025": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 215.2.d",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “Únicamente” es falso: además de los contratos secretos o reservados hay otros casos (**art. 215.2.d**).",
+   "Es esta. Entre otros casos, la autorización expresa es obligada cuando lo exige la protección de los intereses esenciales de la seguridad del Estado (**art. 215.2.d**).",
+   "No. Hay casos en que sí hace falta autorización expresa (**art. 215.2.d**).",
+   "No. “Siempre” es falso: como regla general basta con comunicarlo por escrito (**art. 215.2.b**)."
+  ]
+ },
+ "au-19-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El órgano de contratación del sistema estatal es la Junta de Contratación Centralizada (**art. 229.5**).",
+   "No. La Dirección General presta apoyo técnico, y la Junta está adscrita a ella (**art. 229.5**).",
+   "No. La Junta Consultiva de Contratación Pública asesora, pero no contrata.",
+   "No. No depende de cada Administración: el sistema estatal tiene su propio órgano (**art. 229.5**)."
+  ]
+ },
+ "au-19-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 218",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es cierta, pero no es la única posibilidad del art. 218.",
+   "No. Es cierta, pero tampoco es la única (**art. 218**).",
+   "No. Es cierta, pero falta lo demás que recoge el art. 218.",
+   "Es esta. Las tres cosas son posibles: acuerdos marco, sistemas dinámicos y centralizar la contratación en servicios especializados (**art. 218**)."
+  ]
+ },
+ "au-19-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Fijar las condiciones de los contratos que se adjudicarán durante un período es la función del acuerdo marco (**art. 219.1**).",
+   "No. Los contratos basados se adjudican dentro del acuerdo marco, no lo fijan (**art. 221**).",
+   "No. Los contratos específicos son los del sistema dinámico de adquisición (**art. 226**).",
+   "No. Las centrales de contratación son órganos que contratan para otros, no instrumentos que fijen condiciones (**art. 227**)."
+  ]
+ },
+ "au-19-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Hay excepciones, justificadas en el expediente (**art. 219.2**).",
+   "No. El plazo es de cuatro años, no de cinco (**art. 219.2**).",
+   "Es esta. No puede exceder de cuatro años, salvo casos excepcionales debidamente justificados (**art. 219.2**).",
+   "No. La regla general son cuatro años, no cinco (**art. 219.2**)."
+  ]
+ },
+ "au-19-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No tienen que coincidir con la del acuerdo marco (**art. 219.3**).",
+   "No. No tienen por qué ser más cortos (**art. 219.3**).",
+   "No. Tampoco tienen que ser más largos por regla: su duración se rige por el art. 29 y por los pliegos (**art. 219.3**).",
+   "Es esta. La duración de los contratos basados es independiente de la del acuerdo marco (**art. 219.3**)."
+  ]
+ },
+ "au-19-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No hay margen de seis meses tras la vigencia del acuerdo marco (**art. 219.3**).",
+   "No. Tampoco hay un año de margen (**art. 219.3**).",
+   "No. Tampoco hay dos años de margen (**art. 219.3**).",
+   "Es esta. Los contratos basados solo pueden adjudicarse durante la vigencia del acuerdo marco (**art. 219.3**)."
+  ]
+ },
+ "au-19-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 223.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es parcialmente electrónico ni de duración ilimitada (**art. 223.2**).",
+   "No. Es totalmente electrónico, no parcialmente (**art. 223.2**).",
+   "No. Es totalmente electrónico, pero su duración es limitada (**art. 223.2**).",
+   "Es esta. Es un proceso totalmente electrónico, con duración limitada y determinada en los pliegos (**art. 223.2**)."
+  ]
+ },
+ "au-19-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Quien puede declarar de contratación centralizada los suministros, obras y servicios homogéneos es el Ministro de Hacienda y Función Pública (**art. 229.1**).",
+   "No. El Ministro del Interior no tiene esa competencia (**art. 229.1**).",
+   "No. La Junta Consultiva informa, pero no declara la contratación centralizada.",
+   "No. No es el Consejo de Ministros, sino el Ministro de Hacienda (**art. 229.1**)."
+  ]
+ },
+ "au-19-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 227.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Adquirir suministros y servicios para otros entes es una forma de actuar (**art. 227.2**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. La ley no habla de pactos privados con otros entes, sino de adquirir, adjudicar y celebrar acuerdos marco y sistemas dinámicos (**art. 227.2**).",
+   "Es verdadera, así que no se marca. Adjudicar contratos destinados a otros entes del sector público es una forma de actuar (**art. 227.2**).",
+   "Es verdadera, así que no se marca. Celebrar acuerdos marco y sistemas dinámicos para otros entes también (**art. 227.2**)."
+  ]
+ },
+ "au-19-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 218",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Concluir acuerdos marco es uno de los sistemas (**art. 218**).",
+   "Es verdadera, así que no se marca. Articular sistemas dinámicos también lo es (**art. 218**).",
+   "Es verdadera, así que no se marca. Centralizar la contratación en servicios especializados figura en el art. 218.",
+   "Esta es la falsa, y por eso es la que hay que marcar. La adjudicación directa no es un sistema de racionalización del art. 218."
+  ]
+ },
+ "au-19-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Esta es la falsa, y por eso es la que hay que marcar. La ley admite excepciones: cuatro años, salvo casos excepcionales justificados (**art. 219.2**).",
+   "Es verdadera, así que no se marca. Pueden celebrarse con una o varias empresas (**art. 219.1**).",
+   "Es verdadera, así que no se marca. Pueden celebrarlos uno o varios órganos de contratación (**art. 219.1**).",
+   "Es verdadera, así que no se marca. Es uno de los sistemas de racionalización de la contratación (**art. 218**)."
+  ]
+ },
+ "au-19-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. También pueden celebrarse por los órganos de contratación partes del acuerdo marco (**art. 221.1**).",
+   "No. Con una única empresa los contratos se adjudican con los términos del acuerdo marco, sin nueva licitación (**art. 221.3**).",
+   "No. Con varias empresas se puede adjudicar sin nueva licitación solo si el acuerdo marco fija todos los términos y las condiciones objetivas (**art. 221.4**).",
+   "Es esta. La duración de los contratos basados es independiente de la del acuerdo marco (**art. 219.3**)."
+  ]
+ },
+ "au-19-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 223",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Cualquier empresario interesado puede solicitar participar durante toda la vigencia del sistema (**art. 223.2**).",
+   "Es verdadera, así que no se marca. Es un proceso totalmente electrónico (**art. 223.2**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Su duración es limitada y determinada en los pliegos (**art. 223.2**).",
+   "Es verdadera, así que no se marca. Se usan para obras, servicios y suministros de uso corriente (**art. 223.1**)."
+  ]
+ },
+ "au-19-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Junta de Contratación Centralizada está adscrita a la Dirección General de Racionalización y Centralización de la Contratación (**art. 229.5**).",
+   "No. La Junta Consultiva es un órgano consultivo distinto y no es de la que depende (**art. 229.5**).",
+   "No. El Comité de cooperación no tiene relación orgánica con la Junta de Contratación Centralizada.",
+   "No. La Oficina Independiente de Regulación y Supervisión es otro órgano y no es la que adscribe la Junta (**art. 229.5**)."
+  ]
+ },
+ "au-19-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 230.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Precisamente se trata de los equipos que no han sido declarados de adquisición centralizada (**art. 230.1**).",
+   "Es esta. La competencia corresponde al órgano del sistema estatal aunque no hayan sido declarados de adquisición centralizada (**art. 230.1**).",
+   "No. La ley no hace depender la competencia de una declaración de contratación descentralizada (**art. 230.1**).",
+   "No. No exige autorización: solo oír a los departamentos interesados sobre sus necesidades (**art. 230.1**)."
+  ]
+ },
+ "au-20-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No. “Reconstrucción estructural” no es una categoría de la ley (**art. 232**).",
+   "No. “Restauración funcional” tampoco existe: la restauración es otra categoría (**art. 232.6**).",
+   "No. Si la reparación afecta a la estructura resistente se califica de gran reparación, no de reparación estructural (**art. 232.4**).",
+   "Es esta. Cuando la reparación afecta fundamentalmente a la estructura resistente es gran reparación (**art. 232.4**)."
+  ]
+ },
+ "au-20-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Tras el replanteo el proyecto se incorpora al expediente de contratación (**art. 236.4**).",
+   "Es verdadera, así que no se marca. Se comprueba la disponibilidad de los terrenos (**art. 236.1**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. El replanteo se hace aprobado el proyecto y antes de aprobar el expediente de contratación, no después (**art. 236.1**).",
+   "Es verdadera, así que no se marca. Se comprueba la realidad geométrica de la obra (**art. 236.1**)."
+  ]
+ },
+ "au-20-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Es el primer grupo del art. 232.1.",
+   "Esta es la falsa, y por eso es la que hay que marcar. “Obras de sustitución” no es un grupo del art. 232.1, que habla de reparación simple.",
+   "Es verdadera, así que no se marca. Conservación y mantenimiento es un grupo (**art. 232.1.c**).",
+   "Es verdadera, así que no se marca. Demolición es un grupo (**art. 232.1.d**)."
+  ]
+ },
+ "au-20-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Son obras de primer establecimiento las que dan lugar a la creación de un bien inmueble (**art. 232.2**).",
+   "No. La ley habla solo de bien inmueble, no de bien mueble (**art. 232.2**).",
+   "No. Enmendar un menoscabo es reparación, no primer establecimiento (**art. 232.4**).",
+   "No. Eso es la restauración (**art. 232.6**)."
+  ]
+ },
+ "au-20-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.3",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La ampliación forma parte de la reforma (**art. 232.3**).",
+   "Es verdadera, así que no se marca. La mejora y modernización forman parte de la reforma (**art. 232.3**).",
+   "Es verdadera, así que no se marca. La adaptación, adecuación o refuerzo forman parte de la reforma (**art. 232.3**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Enmendar menoscabos es reparación, no reforma (**art. 232.4**)."
+  ]
+ },
+ "au-20-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Reparación es enmendar un menoscabo producido por causas fortuitas o accidentales (**art. 232.4**).",
+   "No. Conservar la estética al reparar una construcción es restauración (**art. 232.6**).",
+   "No. Si el menoscabo viene del uso natural, se trata de conservación, no de reparación (**art. 232.5**).",
+   "No. Respetar el valor histórico es propio de la restauración (**art. 232.6**)."
+  ]
+ },
+ "au-20-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La restauración no incluye dotarla de una nueva funcionalidad (**art. 232.6**).",
+   "No. Enmendar un menoscabo por causas fortuitas es reparación (**art. 232.4**).",
+   "No. Dotar de una nueva funcionalidad es rehabilitación, no restauración (**art. 232.7**).",
+   "Es esta. Restauración es reparar una construcción conservando su estética, respetando su valor histórico y manteniendo su funcionalidad (**art. 232.6**)."
+  ]
+ },
+ "au-20-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.8",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Enmendar un menoscabo es reparación (**art. 232.4**).",
+   "No. La demolición se refiere a bienes inmuebles, no a bienes muebles (**art. 232.8**).",
+   "Es esta. Demolición es derribar o destruir un bien inmueble (**art. 232.8**).",
+   "No. Enmendar menoscabos que afectan a la estructura es gran reparación (**art. 232.4**)."
+  ]
+ },
+ "au-20-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 234.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La contratación conjunta del proyecto y de las obras tiene carácter excepcional (**art. 234.1**).",
+   "No. Es solo uno de los dos supuestos: también cabe por motivos técnicos que obliguen a vincular al empresario (**art. 234.1**).",
+   "No. Es solo uno de los dos supuestos: también cabe por obras de dimensión excepcional o dificultad singular (**art. 234.1**).",
+   "No. Sí exige que la Administración redacte antes un anteproyecto o documento similar (**art. 234.2**)."
+  ]
+ },
+ "au-20-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 234.3",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. El contratista presenta el proyecto para su supervisión (**art. 234.3**).",
+   "Es verdadera, así que no se marca. También para su aprobación (**art. 234.3**).",
+   "Es verdadera, así que no se marca. También para su replanteo (**art. 234.3**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. El proyecto lo elabora el contratista, y lo que presenta es para supervisión, aprobación y replanteo, no para elaboración (**art. 234.3**)."
+  ]
+ },
+ "au-20-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El umbral es de 500.000 euros, no de 200.000, y sin IVA (**art. 235**).",
+   "No. Los 500.000 euros son sin IVA, no con IVA (**art. 235**).",
+   "No. La base IVA excluido es correcta, pero la cifra es de 500.000, no de 200.000 (**art. 235**).",
+   "Es esta. El informe de supervisión es preceptivo desde 500.000 euros, IVA excluido (**art. 235**)."
+  ],
+  "revisar": "Umbral de 500.000 euros del art. 235 LCSP. Comprobar que sigue vigente."
+ },
+ "au-20-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El replanteo no comprueba la realidad económica (**art. 236.1**).",
+   "No. Comprueba los terrenos, pero no la realidad económica (**art. 236.1**).",
+   "Es esta. Comprueba la realidad geométrica de la obra y la disponibilidad de los terrenos precisos para ejecutarla (**art. 236.1**).",
+   "No. La realidad geométrica sí, pero la adecuación técnica no es lo que comprueba el replanteo (**art. 236.1**)."
+  ]
+ },
+ "au-21-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 245",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí es causa de resolución la demora injustificada en la comprobación del replanteo (**art. 245.a**).",
+   "No. Sí lo es suspender el inicio de las obras más de cuatro meses (**art. 245.b**).",
+   "No. Sí lo es el desistimiento (**art. 245.d**).",
+   "Es esta. La suspensión de las obras por la Administración como causa de resolución exige más de ocho meses, no seis (**art. 245.c**)."
+  ]
+ },
+ "au-21-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El 2 % corresponde a la demora en la comprobación del replanteo (**art. 246.2**).",
+   "No. El 4 % no aparece en el art. 246.",
+   "Es esta. Indemnización del 3 % del precio de adjudicación, IVA excluido (**art. 246.3**).",
+   "No. El 5 % no figura en el art. 246."
+  ]
+ },
+ "au-21-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La ejecución del contrato de obras comienza con el acta de comprobación del replanteo (**art. 237**).",
+   "No. Incorporar el proyecto al expediente es previo a la licitación (**art. 236.4**).",
+   "No. El acta de replanteo no es el hito legal: lo es la de comprobación del replanteo (**art. 237**).",
+   "No. El informe de supervisión es una fase previa a la aprobación del proyecto (**art. 235**)."
+  ]
+ },
+ "au-21-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 238.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las instrucciones verbales deben ratificarse por escrito en el más breve plazo posible para ser vinculantes (**art. 238.2**).",
+   "No. La ley no fija un plazo de tres días, sino “el más breve plazo posible” (**art. 238.2**).",
+   "No. Hay que ratificarlas por escrito para que vinculen (**art. 238.2**).",
+   "No. Para ser vinculantes tienen que ratificarse por escrito (**art. 238.2**)."
+  ]
+ },
+ "au-21-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 238.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Hasta que se cumpla el plazo de garantía el contratista responde de todos los defectos de la construcción (**art. 238.3**).",
+   "No. La responsabilidad por defectos recae en el contratista, no en el órgano de contratación (**art. 238.3**).",
+   "No. No es una responsabilidad compartida (**art. 238.3**).",
+   "No. La Junta Consultiva asesora y no responde de defectos de obra."
+  ]
+ },
+ "au-21-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 239.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El derecho a indemnización solo aparece en casos de fuerza mayor (**art. 239.1**).",
+   "No. Exige además que el contratista no haya actuado imprudentemente (**art. 239.1**).",
+   "Es esta. Hay indemnización en casos de fuerza mayor y siempre que no haya actuación imprudente del contratista (**art. 239.1**).",
+   "No. La ley sí la reconoce, en caso de fuerza mayor (**art. 239.1**)."
+  ]
+ },
+ "au-21-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 239.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es fuerza mayor: los incendios causados por la electricidad atmosférica (**art. 239.2.a**).",
+   "No. Es fuerza mayor: los fenómenos naturales de efectos catastróficos (**art. 239.2.b**).",
+   "No. Es fuerza mayor: los destrozos violentos en robos tumultuosos (**art. 239.2.c**).",
+   "Es esta. Las ruinas por defectos de la obra ejecutada en emergencia no figuran en el listado de fuerza mayor (**art. 239.2**)."
+  ]
+ },
+ "au-21-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 240.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las certificaciones se expiden en los primeros diez días siguientes al mes al que correspondan (**art. 240.1**).",
+   "No. No se expiden antes del mes que certifican, sino después (**art. 240.1**).",
+   "No. El plazo es de diez días, no de cinco (**art. 240.1**).",
+   "No. Son diez días y siguientes, no cinco anteriores (**art. 240.1**)."
+  ]
+ },
+ "au-21-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es cierta, pero concurre también quien se indica en las otras opciones (**art. 243.1**).",
+   "No. Es cierta, pero no es la única presencia (**art. 243.1**).",
+   "No. Es cierta, pero no es la única presencia (**art. 243.1**).",
+   "Es esta. A la recepción concurren el facultativo de la Administración, el director de las obras y el contratista, asistido si quiere de su facultativo (**art. 243.1**)."
+  ]
+ },
+ "au-21-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un mes no es el plazo de la ley (**art. 243.1**).",
+   "No. Dos meses tampoco (**art. 243.1**).",
+   "Es esta. La certificación final se aprueba dentro de los tres meses siguientes a la recepción (**art. 243.1**).",
+   "No. Seis meses supera lo que permite la ley, incluso ampliado, que llega a cinco (**art. 243.1**)."
+  ]
+ },
+ "au-21-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Las dará por recibidas el funcionario técnico designado (**art. 243.2**).",
+   "Es verdadera, así que no se marca. Se levanta el acta (**art. 243.2**).",
+   "Es verdadera, así que no se marca. Comienza entonces el plazo de garantía (**art. 243.2**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. La garantía definitiva se devuelve al terminar el plazo de garantía, no al recibir las obras (**art. 243.3**)."
+  ]
+ },
+ "au-21-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se hace constar en el acta (**art. 243.2**).",
+   "Es verdadera, así que no se marca. El director señala los defectos observados (**art. 243.2**).",
+   "Es verdadera, así que no se marca. Detalla las instrucciones precisas para remediarlos (**art. 243.2**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Se fija un plazo para remediar, y solo si no se hace puede darse otro plazo o resolver, no se resuelve en todo caso (**art. 243.2**)."
+  ]
+ },
+ "au-21-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Hay casos especiales en que puede ser inferior a un año (**art. 243.3**).",
+   "No. El mínimo es un año, no dos (**art. 243.3**).",
+   "Es esta. No puede ser inferior a un año, salvo casos especiales (**art. 243.3**).",
+   "No. El mínimo es un año, no dos (**art. 243.3**)."
+  ]
+ },
+ "au-21-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 244.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cinco años no es el plazo de responsabilidad por vicios ocultos (**art. 244.1**).",
+   "No. Diez años tampoco (**art. 244.1**).",
+   "Es esta. El contratista responde durante quince años desde la recepción (**art. 244.1**).",
+   "No. Veinte años supera el plazo legal (**art. 244.1**)."
+  ]
+ },
+ "au-21-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 245",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es causa la demora injustificada, no la justificada (**art. 245.a**).",
+   "No. La suspensión de la iniciación debe superar cuatro meses, no tres (**art. 245.b**).",
+   "No. La suspensión por la Administración debe superar ocho meses, no seis (**art. 245.c**).",
+   "Es esta. El desistimiento es causa de resolución del contrato de obras (**art. 245.d**)."
+  ]
+ },
+ "au-21-016": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El 2 % es correcto, pero se calcula sin IVA (**art. 246.2**).",
+   "No. El porcentaje es del 2 %, no del 3 %, y se calcula sin IVA (**art. 246.2**).",
+   "Es esta. Indemnización del 2 % del precio de adjudicación, IVA excluido (**art. 246.2**).",
+   "No. El 3 % es el de desistimiento antes de iniciar las obras (**art. 246.3**)."
+  ]
+ },
+ "au-21-017": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El 2 % es el de la demora en el replanteo, y el IVA no se incluye (**art. 246.2**).",
+   "No. El 3 % es correcto, pero se calcula sin IVA (**art. 246.3**).",
+   "No. El porcentaje de este supuesto es del 3 %, no del 2 % (**art. 246.3**).",
+   "Es esta. Indemnización del 3 % del precio de adjudicación, IVA excluido (**art. 246.3**)."
+  ]
+ },
+ "au-21-018": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La suspensión debe superar ocho meses, no cinco, y el porcentaje es del 6 % (**art. 246.4**).",
+   "No. El 6 % es correcto, pero la suspensión debe superar ocho meses, no cinco (**art. 246.4**).",
+   "No. Los ocho meses son correctos, pero el porcentaje es del 6 %, no del 3 % (**art. 246.4**).",
+   "Es esta. Con desistimiento o suspensión superior a ocho meses, el contratista recibe el 6 % del precio de las obras dejadas de realizar, IVA excluido (**art. 246.4**)."
+  ]
+ },
+ "au-22-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 247.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El estudio de viabilidad se acuerda con carácter previo a la decisión de construir y explotar en concesión (**art. 247.1**).",
+   "No. No es simultáneo a la decisión (**art. 247.1**).",
+   "No. No puede ser posterior a la decisión (**art. 247.1**).",
+   "No. Se hace siempre, no solo cuando afecta a la estabilidad de la obra (**art. 247.1**)."
+  ]
+ },
+ "au-22-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 247.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es un mes, y la prórroga es por idéntico plazo, no por la mitad (**art. 247.3**).",
+   "No. El plazo es de un mes, no de dos (**art. 247.3**).",
+   "Es esta. Información pública por un mes, prorrogable por idéntico plazo según la complejidad (**art. 247.3**).",
+   "No. Ni son dos meses ni la prórroga es por la mitad (**art. 247.3**)."
+  ]
+ },
+ "au-22-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 267.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se llama tarifa, no precio, y no es tributaria (**art. 267.1**).",
+   "Es esta. Se denomina tarifa y es una prestación patrimonial de carácter público no tributario (**art. 267.1**).",
+   "No. Es tarifa, pero no tributaria: la naturaleza es no tributaria (**art. 267.1**).",
+   "No. Ni es precio ni es tributaria (**art. 267.1**)."
+  ]
+ }
+}

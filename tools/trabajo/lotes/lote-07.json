@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-08-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 19,
+   "enunciado": "Señale cuál de los siguientes contratos NO podrá ser objeto de revisión periódica y predeterminada de precios:",
+   "opciones": [
+    "Los contratos de suministros de fabricación de armamento y equipamiento de las Administraciones Públicas.",
+    "Los contratos de suministro de energía.",
+    "Los contratos de obra.",
+    "Los contratos en los que el período de recuperación de la inversión sea igual o superior a tres años."
+   ]
+  },
+  {
+   "id": "au-08-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 20,
+   "enunciado": "Salvo en los contratos de suministro de energía, cuando proceda, quedarán excluidos de la revisión periódica y predeterminada de precios:",
+   "opciones": [
+    "El primer 20 por ciento ejecutado y el importe ejecutado en los dos primeros años transcurridos desde la formalización.",
+    "El primer 20 por ciento ejecutado y el importe ejecutado en el primer año transcurrido desde la formalización.",
+    "El primer 10 por ciento ejecutado y el importe ejecutado en los dos primeros años transcurridos desde la formalización.",
+    "El primer 10 por ciento ejecutado y el importe ejecutado en el primer año transcurrido desde la formalización."
+   ]
+  },
+  {
+   "id": "au-09-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 1,
+   "enunciado": "¿En cuál de los siguientes contratos públicos no es posible que el órgano de contratación exima al licitador que presente la mejor oferta de constituir garantía definitiva?",
+   "opciones": [
+    "En los contratos de obras.",
+    "En los contratos de concesión de servicios.",
+    "En los contratos de suministros.",
+    "No existe limitación, el órgano de contratación siempre podrá eximir al contratista de la prestación de garantía definitiva."
+   ]
+  },
+  {
+   "id": "au-09-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 2,
+   "enunciado": "Según el artículo 106 de la LCSP, cuando el órgano de contratación acuerde la exigencia de garantía provisional, el importe de la misma no podrá ser superior a:",
+   "opciones": [
+    "Un 5 por 100 del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Un 1 por 100 del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Un 3 por 100 del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Un 10 por 100 del presupuesto base de licitación del contrato, excluido el IVA."
+   ]
+  },
+  {
+   "id": "au-09-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 3,
+   "enunciado": "Conforme a la Ley 9/2017 de Contratos del Sector Público, en un contrato administrativo, la exigencia de la garantía provisional por el órgano de contratación:",
+   "opciones": [
+    "Es potestativa y su importe será del 2% del valor estimado del contrato.",
+    "Es potestativa, y su exigencia deberá justificarse motivadamente en el expediente.",
+    "Es obligatoria y su importe máximo será del 3% del presupuesto de licitación, excluido el impuesto de Valor Añadido.",
+    "Es obligatoria y su importe será del 3% del valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "au-09-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 4,
+   "enunciado": "Se licita un contrato por un presupuesto base de licitación de 1.000.000 € (Iva excluido) y el órgano de contratación acuerda la exigencia de garantía provisional. ¿Cuál será la cantidad máxima que en forma de garantía provisional podrá exigirse?",
+   "opciones": [
+    "100.000 euros.",
+    "30.000 euros.",
+    "20.000 euros.",
+    "50.000 euros."
+   ]
+  },
+  {
+   "id": "au-09-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 5,
+   "enunciado": "La garantía complementaria regulada en la LCSP podrá alcanzar:",
+   "opciones": [
+    "Un 10 por 100 del precio final ofertado por el licitador que presentó la mejor oferta.",
+    "Un 15 por 100 del precio final ofertado por el licitador que presentó la mejor oferta.",
+    "Un 5 por 100 del precio final ofertado por el licitador que presentó la mejor oferta.",
+    "Un 3 por 100 del precio final ofertado por el licitador que presentó la mejor oferta."
+   ]
+  },
+  {
+   "id": "au-09-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 6,
+   "enunciado": "Señale la opción incorrecta. La garantía definitiva únicamente responderá de los siguientes conceptos:",
+   "opciones": [
+    "De la obligación de formalizar el contrato en plazo.",
+    "De las penalidades impuestas al contratista.",
+    "De la correcta ejecución de las prestaciones contempladas en el contrato.",
+    "De la incautación que pueda decretarse en los casos de suspensión del contrato."
+   ]
+  },
+  {
+   "id": "au-09-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 7,
+   "enunciado": "De acuerdo con la LCSP, ¿cuál de las siguientes garantías responderá de la obligación de formalizar el contrato en plazo?",
+   "opciones": [
+    "La garantía provisional.",
+    "La garantía inicial.",
+    "La garantía intermedia.",
+    "La garantía definitiva."
+   ]
+  },
+  {
+   "id": "au-09-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 8,
+   "enunciado": "Según la LCSP, la garantía que responde del mantenimiento de las ofertas de los licitadores hasta la perfección del contrato se denomina:",
+   "opciones": [
+    "Inicial.",
+    "Provisional.",
+    "Definitiva.",
+    "De licitación."
+   ]
+  },
+  {
+   "id": "au-09-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 9,
+   "enunciado": "De acuerdo con la LCSP, ¿en qué momento se devolverá la garantía provisional al licitador seleccionado como adjudicatario?",
+   "opciones": [
+    "Después de la perfección del contrato.",
+    "Después de la formalización del contrato.",
+    "Una vez transcurrido el plazo de garantía que se haya previsto en el contrato.",
+    "Cuando haya constituido la garantía definitiva."
+   ]
+  },
+  {
+   "id": "au-09-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 10,
+   "enunciado": "Con carácter general, los licitadores que presenten las mejores ofertas, constituirán a disposición del órgano de contratación una garantía de:",
+   "opciones": [
+    "Un 5 por 100 del precio final ofertado por aquellos, excluido el Impuesto sobre el Valor Añadido.",
+    "Un 5 por 100 del precio final ofertado por aquellos, incluido el Impuesto sobre el Valor Añadido.",
+    "Un 5 por 100 del valor estimado del contrato, excluido el Impuesto sobre el Valor Añadido.",
+    "Un 5 por 100 del valor estimado del contrato, incluido el Impuesto sobre el Valor Añadido."
+   ]
+  },
+  {
+   "id": "au-09-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 11,
+   "enunciado": "Cuando el precio del contrato se formule en función de precios unitarios, el importe de la garantía definitiva a constituir se fijará atendiendo al:",
+   "opciones": [
+    "Importe de adjudicación.",
+    "Valor estimado.",
+    "Presupuesto base de licitación.",
+    "Precio del contrato."
+   ]
+  },
+  {
+   "id": "au-09-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 12,
+   "enunciado": "En casos especiales, el órgano de contratación podrá establecer en el PCAP que, además de la garantía definitiva, se preste una complementaria. En tal caso, la garantía total:",
+   "opciones": [
+    "Alcanzará un 10 por 100 del precio final ofertado, excluido el Impuesto sobre el Valor Añadido.",
+    "Alcanzará un 5 por 100 del precio final ofertado, excluido el Impuesto sobre el Valor Añadido.",
+    "Podrá alcanzar un 10 por 100 del precio final ofertado, excluido el Impuesto sobre el Valor Añadido.",
+    "Podrá alcanzar un 5 por 100 del precio final ofertado, excluido el Impuesto sobre el Valor Añadido."
+   ]
+  },
+  {
+   "id": "au-09-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 13,
+   "enunciado": "Las garantías definitivas exigidas en los contratos celebrados con las Administraciones Públicas podrán prestarse, entre otras, de la siguiente forma:",
+   "opciones": [
+    "Mediante seguro de responsabilidad civil.",
+    "En valores, que en ningún caso serán de Deuda Pública.",
+    "Mediante cheque nominativo no a la orden.",
+    "Mediante contrato de seguro de caución."
+   ]
+  },
+  {
+   "id": "au-09-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 14,
+   "enunciado": "El licitador que hubiera presentado la mejor oferta deberá acreditar la constitución de la garantía definitiva en el plazo de:",
+   "opciones": [
+    "5 días.",
+    "10 días.",
+    "15 días.",
+    "10 días hábiles."
+   ]
+  },
+  {
+   "id": "au-09-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 15,
+   "enunciado": "En el caso de que se hagan efectivas sobre la garantía definitiva las penalidades o indemnizaciones exigibles al contratista, este deberá reponer o ampliar aquella, en la cuantía que corresponda, en el plazo de:",
+   "opciones": [
+    "5 días.",
+    "10 días.",
+    "15 días.",
+    "10 días hábiles."
+   ]
+  },
+  {
+   "id": "au-09-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 16,
+   "enunciado": "Finalizado el plazo de garantía, deberá adoptarse y notificarse al interesado el acuerdo de devolución de la garantía definitiva en el plazo de:",
+   "opciones": [
+    "15 días.",
+    "1 mes.",
+    "2 meses.",
+    "3 meses."
+   ]
+  },
+  {
+   "id": "au-09-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 17,
+   "enunciado": "En el supuesto de recepción parcial el contratista podrá solicitar la devolución de la parte proporcional de la garantía definitiva:",
+   "opciones": [
+    "Cuando así se autorice expresamente en el pliego de cláusulas administrativas particulares.",
+    "Cuando así se autorice expresamente en el pliego de prescripciones técnicas.",
+    "En todo caso.",
+    "En todo caso, salvo en contratos de obra y concesiones de obra."
+   ]
+  },
+  {
+   "id": "au-09-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 18,
+   "enunciado": "Señale la respuesta correcta en relación con la garantía complementaria a que se refiere el artículo 107.2 de la LCSP:",
+   "opciones": [
+    "Se exigirá siempre que la oferta del adjudicatario resultara inicialmente incursa en presunción de anormalidad.",
+    "Solo cabrá su exigencia en aquellos casos especiales en que el órgano de contratación la hubiese incluido en el PCAP.",
+    "Solo podrá exigirse cuando la oferta del adjudicatario resultara inicialmente incursa en presunción de anormalidad.",
+    "Cuando se exija, se hará por importe de un 5 por 100 del precio final ofertado por el licitador que presentó la mejor oferta."
+   ]
+  },
+  {
+   "id": "au-09-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 19,
+   "enunciado": "¿Cuál de las siguientes garantías podría constituirse por importe del 2% del precio final ofertado por el licitador que presentó la mejor oferta, excluido el IVA?",
+   "opciones": [
+    "La garantía complementaria.",
+    "La garantía definitiva.",
+    "La garantía provisional.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "au-09-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (9) - LCSP (arts 106 a 114)",
+   "n": 20,
+   "enunciado": "¿Cuál de las siguientes garantías podría constituirse por un importe del 2% del presupuesto base de licitación, excluido el IVA?",
+   "opciones": [
+    "La garantía provisional.",
+    "La garantía definitiva.",
+    "La garantía complementaria.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "au-10-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 1,
+   "enunciado": "Conforme al artículo 115 de la LCSP, es correcto afirmar, respecto a las consultas preliminares del mercado, que:",
+   "opciones": [
+    "Durante el proceso de consultas, el órgano de contratación no podrá revelar las soluciones propuestas por otros participantes.",
+    "En todo caso, el órgano de contratación al elaborar los pliegos deberá introducir los resultados de las consultas realizadas.",
+    "La participación en la consulta impide la posterior intervención en el procedimiento de contratación que en su caso se tramite.",
+    "De las consultas realizadas deberá resultar un objeto contractual que se ajuste a las características de uno de los consultados."
+   ]
+  },
+  {
+   "id": "au-10-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 2,
+   "enunciado": "Según la LCSP, se consideran contratos menores:",
+   "opciones": [
+    "Los contratos de valor estimado inferior a 50.000 euros, cuando se trate de contratos de obras.",
+    "Los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras.",
+    "Los contratos que tengan por objeto obras de conservación.",
+    "Aquellos para cuyo objeto no se requiera la acreditación de la clasificación empresarial por parte del contratista."
+   ]
+  },
+  {
+   "id": "au-10-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 3,
+   "enunciado": "¿Cuál de los siguientes contratos tiene la consideración de contrato menor?",
+   "opciones": [
+    "Un contrato de obras cuyo valor estimado sea 60.000 €.",
+    "Un contrato de obras cuyo valor estimado sea 18.000 €.",
+    "Un contrato de suministros cuyo valor estimado sea 18.000 €.",
+    "Un contrato de servicios cuyo valor estimado sea 15.000 €."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,578 @@
+{
+ "pr-29-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 149 LCSP y art. 85 RGLCAP",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: con un único licitador se presume anormal la oferta que baja más de 25 puntos del presupuesto base de licitación, es decir, la inferior a 75.000 euros.",
+   "80.000 euros equivaldría a una baja del 20 %, que no alcanza el umbral del 25 %.",
+   "90.000 euros equivaldría a una baja del 10 %, muy por debajo del umbral.",
+   "100.000 euros es el presupuesto base de licitación, sin baja alguna."
+  ],
+  "ojo": "El porcentaje no está en la LCSP: lo fija el Reglamento general (art. 85 RGLCAP) para el caso de un solo licitador y precio como único criterio.",
+  "revisar": "Comprueba que tu academia sigue aplicando el art. 85 RGLCAP, que es de 2001."
+ },
+ "pr-29-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 149.2.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la mesa identifica y propone, pero el rechazo de la oferta lo acuerda el órgano de contratación (art. 149.6).",
+   "No: el plazo para justificar es el que se considere suficiente, sin mínimo de diez días hábiles (art. 149.4).",
+   "No: la garantía complementaria es una posibilidad, no una obligación en todo caso (art. 107.2).",
+   "Correcta: con varios criterios, los pliegos fijan los parámetros objetivos de anormalidad, referidos a la oferta considerada en su conjunto (art. 149.2.b)."
+  ]
+ },
+ "pr-29-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: la mesa clasifica las proposiciones por orden decreciente (art. 150.1).",
+   "Es correcta: la mesa eleva la propuesta de adjudicación al órgano de contratación (art. 150.1).",
+   "Es la incorrecta: la propuesta de la mesa no vincula al órgano de contratación, que puede apartarse motivadamente.",
+   "Es correcta: con el precio como único criterio, la mejor oferta es la de precio más bajo (art. 150.1)."
+  ]
+ },
+ "pr-29-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: son diez días hábiles, no naturales.",
+   "Correcta: el licitador con la mejor oferta dispone de diez días hábiles desde el día siguiente a recibir el requerimiento (art. 150.2).",
+   "No: quince días naturales no es el plazo del requerimiento.",
+   "No: el plazo de quince días hábiles es el de espera antes de formalizar (art. 153.3), no el de este requerimiento."
+  ]
+ },
+ "pr-29-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el órgano de contratación adjudica dentro de los cinco días hábiles siguientes a recibir la documentación (art. 150.3).",
+   "No: son cinco días hábiles, no naturales.",
+   "No: diez días naturales no es el plazo del art. 150.3.",
+   "No: quince días es el plazo para publicar la adjudicación en el perfil (art. 151.1)."
+  ]
+ },
+ "pr-29-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 151.1 y DA 12.ª",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo es de quince días.",
+   "Correcta: la adjudicación se publica en el perfil de contratante en quince días, que son naturales por la DA 12.ª (art. 151.1).",
+   "No: cinco días hábiles es el plazo para adjudicar tras recibir la documentación.",
+   "No: no son diez días hábiles, el art. 151.1 dice quince días y no los califica de hábiles."
+  ]
+ },
+ "pr-29-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Es una consecuencia: se entiende que ha retirado su oferta.",
+   "Es una consecuencia: se le exige una penalidad del 3 % del presupuesto base de licitación, IVA excluido.",
+   "Es una consecuencia: se recaba la documentación al siguiente licitador por orden de clasificación.",
+   "Correcta (no es consecuencia): la penalidad se hace efectiva contra la garantía provisional, si se constituyó, y no hay incautación de la definitiva, que aún no existe."
+  ]
+ },
+ "pr-29-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3 y DA 12.ª",
+  "correcta": 2,
+  "justificaciones": [
+   "El 16 de octubre sería solo el décimo día hábil si se descuenta el festivo, no el decimoquinto.",
+   "El 22 de octubre sería el decimoquinto día hábil si no se descontara el 12 de octubre, pero es festivo.",
+   "Correcta: el contrato vale 70.000 euros y no admite recurso especial, así que se formaliza dentro de los quince días hábiles desde la notificación. Contando desde el 2 de octubre y sin el 12, el último es el 23.",
+   "El 26 de octubre ya excede de los quince días hábiles."
+  ],
+  "ojo": "El plazo cuenta solo días hábiles: se excluyen sábados, domingos y festivos, y el 12 de octubre de 2026 es lunes y fiesta nacional.",
+  "revisar": "Cuenta los días en un calendario: el resultado depende de excluir el festivo del 12 de octubre."
+ },
+ "pr-29-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no se incauta íntegramente la garantía provisional, solo se hace efectiva la penalidad.",
+   "Correcta: se exige el 3 % del presupuesto base de licitación, IVA excluido, contra la garantía definitiva si se constituyó (art. 153.4).",
+   "No: la base no es el precio de adjudicación sino el presupuesto base de licitación.",
+   "No: la garantía definitiva no se incauta íntegramente, responde solo de la penalidad del 3 %."
+  ]
+ },
+ "pr-29-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3 y DA 12.ª",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el 16 de octubre no ha transcurrido el plazo de quince días hábiles.",
+   "No: el 21 de octubre tampoco, y no es un máximo, el contrato susceptible de recurso especial no puede formalizarse antes del plazo.",
+   "No: el 22 de octubre sigue dentro del periodo de espera.",
+   "Correcta: el suministro de 180.000 euros admite recurso especial, y no puede formalizarse antes de quince días hábiles. El decimoquinto es el 28 de octubre, así que se formaliza a partir del 29 (art. 153.3)."
+  ],
+  "ojo": "El plazo cuenta solo días hábiles: se excluyen sábados, domingos y festivos, y el 12 de octubre de 2026 es lunes y fiesta nacional."
+ },
+ "pr-29-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: el documento administrativo es título suficiente para acceder a cualquier registro público (art. 153.1).",
+   "Es correcta: el contratista puede pedir la escritura pública y paga los gastos (art. 153.1).",
+   "Es correcta: los contratos basados en un acuerdo marco no necesitan formalización (art. 153.1).",
+   "Es la incorrecta: solo se puede ejecutar antes de formalizar en emergencia, y también en los menores y basados (art. 153.6). La urgencia no lo permite."
+  ]
+ },
+ "pr-29-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 154",
+  "correcta": 1,
+  "justificaciones": [
+   "No: al ser un organismo autónomo estatal (Administración Pública), se publica también en el BOE (art. 154.2).",
+   "Correcta: el contrato no es armonizado (115.000 euros no llega a 140.000), así que va al perfil y al BOE (art. 154.1 y 2).",
+   "No: el DOUE solo se exige en contratos de regulación armonizada.",
+   "No: no se exige el DOUE porque no es armonizado."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-29-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 154.1 y DA 12.ª",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el plazo es de quince días, no diez.",
+   "No: no son diez días hábiles.",
+   "Correcta: la formalización se publica en el perfil en un plazo no superior a quince días, naturales, tras el perfeccionamiento (art. 154.1).",
+   "No: el art. 154.1 no los califica de hábiles, así que son naturales."
+  ]
+ },
+ "pr-29-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: tras decidir no celebrar el contrato por razones de interés público, no cabe nueva licitación mientras subsistan esas razones (art. 152.3).",
+   "No: la compensación se hace en la forma prevista en el anuncio o pliego y, en su defecto, por responsabilidad patrimonial (art. 152.2).",
+   "No: esa exigencia es propia del desistimiento, no de la decisión de no celebrar por razones de interés público (art. 152.4).",
+   "No: la decisión puede adoptarse hasta la formalización, aunque ya se haya adjudicado (art. 152.2)."
+  ]
+ },
+ "pr-29-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: el desistimiento exige infracción no subsanable justificada en el expediente (art. 152.4).",
+   "Es la incorrecta: el desistimiento no impide iniciar de inmediato una nueva licitación (art. 152.4).",
+   "Es correcta: se notifica a los licitadores y, si se anunció en el DOUE, se informa a la Comisión (art. 152.1).",
+   "Es correcta: se compensa a los licitadores por sus gastos (art. 152.2)."
+  ]
+ },
+ "pr-30-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.a y 156.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: servicios de la AGE con 150.000 euros superan los 140.000, son armonizados y el plazo es de 35 días (art. 156.2).",
+   "Treinta días es el plazo de las concesiones armonizadas.",
+   "Veintiséis días es el de las obras y concesiones no armonizadas.",
+   "Quince días es el plazo mínimo de los contratos no armonizados."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-30-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 20.1 y 156.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es para contratos armonizados, y una obra de 3.000.000 de euros no lo es.",
+   "No: treinta días es el de las concesiones armonizadas.",
+   "Correcta: no es armonizado (menos de 5.404.000 euros) y las obras de las Administraciones Públicas tienen un mínimo de veintiséis días (art. 156.6).",
+   "No: quince días es el plazo general de los no armonizados, pero en obras es de veintiséis."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-30-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.3.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es el plazo general sin reducción.",
+   "No: treinta días es el de concesiones.",
+   "No: veinte días no es un plazo que prevea la ley.",
+   "Correcta: con anuncio previo de información, el plazo general de 35 días puede reducirse a quince (art. 156.3.a)."
+  ]
+ },
+ "pr-30-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.3.c y 156.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: treinta días es el plazo general de las concesiones armonizadas, y la presentación electrónica permite reducirlo.",
+   "Correcta: en las concesiones solo se reduce por medios electrónicos, cinco días, así que son veinticinco (art. 156.4). La urgencia no reduce.",
+   "No: la urgencia solo reduce plazos en obras, suministros y servicios, no en concesiones.",
+   "No: diez días no corresponde a ninguna reducción prevista."
+  ]
+ },
+ "pr-30-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.b y 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es para armonizados, y 180.000 euros no llega a 216.000.",
+   "No: treinta días es el de las concesiones armonizadas.",
+   "No: veintiséis días es el de obras y concesiones no armonizadas.",
+   "Correcta: no es armonizado y lo licita una entidad local, por lo que el mínimo es de quince días (art. 156.6)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-30-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.3.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es el plazo general, que la urgencia permite acortar.",
+   "No: veintiséis días es el plazo de obras no armonizadas, y esta obra supera 5.404.000 euros.",
+   "Correcta: con urgencia el plazo no puede ser inferior a quince días desde el envío del anuncio (art. 156.3.b).",
+   "No: trece días baja del mínimo de quince que fija la ley."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-30-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 21.1.a y 156.3.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 35 días es el plazo sin reducción, y aquí se admiten ofertas electrónicas.",
+   "Correcta: es armonizado (180.000 euros supera 140.000), así que son 35 días menos cinco por presentación electrónica: treinta (art. 156.3.c).",
+   "No: veinticinco días restaría diez, y solo se restan cinco.",
+   "No: quince días exigiría anuncio previo o urgencia, que no constan."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-30-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 119.2.b y 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es para armonizados, y una obra de 1.200.000 euros no lo es.",
+   "No: veintiséis días es el plazo ordinario de las obras no armonizadas, y la urgencia lo reduce a la mitad.",
+   "No: quince días es el mínimo de los armonizados en urgencia (art. 156.3.b).",
+   "Correcta: con urgencia, los plazos del procedimiento se reducen a la mitad (art. 119.2.b): 26 entre 2 son trece días."
+  ]
+ },
+ "pr-30-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.3.a y 156.3.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es el plazo sin ninguna reducción.",
+   "No: treinta días solo aplica la reducción electrónica, y hay además anuncio previo.",
+   "No: quince días solo aplica el anuncio previo, y se admiten además ofertas electrónicas.",
+   "Correcta: el anuncio previo lo deja en quince días, y la presentación electrónica resta cinco más: diez días (art. 156.3.a y c)."
+  ]
+ },
+ "pr-30-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: treinta días es para concesiones armonizadas, y 3.000.000 de euros no llega a 5.404.000.",
+   "Correcta: concesión de servicios no armonizada de una Administración Pública, con mínimo de veintiséis días (art. 156.6).",
+   "No: quince días es el mínimo general, pero para concesiones es de veintiséis.",
+   "No: trece días no corresponde a un procedimiento ordinario."
+  ]
+ },
+ "pr-31-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 119.2.b y 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es para armonizados, y 120.000 euros no llega al umbral de servicios.",
+   "No: quince días es el plazo ordinario no armonizado, que la urgencia reduce.",
+   "No: trece días es la mitad de veintiséis, el plazo de obras.",
+   "Correcta: no es armonizado, el plazo ordinario es de quince días, y la urgencia lo reduce a la mitad: ocho (art. 119.2.b)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 20.1 y 156.3.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es el plazo general, reducible con anuncio previo.",
+   "No: veintiséis días es el de obras no armonizadas, y esta obra de 5.500.000 euros sí es armonizada.",
+   "Correcta: obra armonizada con anuncio previo de información: el plazo baja a quince días (art. 156.3.a).",
+   "No: trece días no es un plazo previsto en el art. 156 para armonizados."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.b, 156.6 y 318",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es para contratos armonizados, y 190.000 euros no llega a 216.000.",
+   "No: treinta días es para concesiones armonizadas.",
+   "Correcta: no es armonizado, y se toma el mínimo de quince días de los contratos no armonizados.",
+   "No: diez días no es un plazo previsto para este procedimiento."
+  ],
+  "ojo": "El art. 156.6 se refiere a contratos de Administraciones Públicas. La fundación es poder adjudicador pero no Administración Pública, y el art. 318 le remite al procedimiento abierto. Aquí se responde con el plazo habitual de quince días.",
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 35 días es para obras, suministros y servicios, no para concesiones.",
+   "Correcta: concesión de servicios armonizada (7.000.000 euros supera 5.404.000): treinta días (art. 156.2).",
+   "No: veintiséis días es el de concesiones no armonizadas.",
+   "No: quince días es el de contratos no armonizados."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.a y 156.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: servicio de la AGE con 180.000 euros, armonizado: treinta y cinco días (art. 156.2).",
+   "Treinta días es el de las concesiones.",
+   "Veintiséis días es el de contratos de obras y concesiones no armonizados.",
+   "Quince días es el mínimo de contratos no armonizados."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 20.1 y 156.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es para armonizados, y 4.000.000 de euros no llega a 5.404.000.",
+   "No: treinta días es el de concesiones armonizadas.",
+   "Correcta: no es armonizado y es una obra de una Administración Pública, así que el mínimo es de veintiséis días (art. 156.6).",
+   "No: quince días es el mínimo general, pero las obras tienen veintiséis."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.a y 156.3.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es el plazo general, que la urgencia permite acortar.",
+   "No: treinta días corresponde a la reducción por medios electrónicos, no a la urgencia.",
+   "Correcta: con urgencia, el servicio armonizado tiene un mínimo de quince días (art. 156.3.b).",
+   "No: ocho días es la mitad de quince y solo vale para contratos no armonizados."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 119.2.b y 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: treinta días es de concesiones armonizadas, y 2.000.000 de euros no lo es.",
+   "No: veintiséis días es el ordinario de las concesiones no armonizadas, que la urgencia reduce.",
+   "No: quince días es el mínimo general de los no armonizados, pero en concesiones es de veintiséis.",
+   "Correcta: veintiséis días entre dos, trece, por la urgencia (art. 119.2.b)."
+  ]
+ },
+ "pr-31-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 35 días es el plazo sin reducciones.",
+   "No: quince días no suma la reducción electrónica de cinco días.",
+   "Correcta: el anuncio previo o la urgencia dejan el plazo en quince días, y la presentación electrónica resta otros cinco: diez (art. 156.3).",
+   "No: el plazo no puede acabar antes de publicarse el anuncio."
+  ],
+  "ojo": "Se aplica el criterio habitual: las reducciones del art. 156.3 se acumulan y la electrónica resta cinco días al plazo ya reducido. El apartado 3.b fija un mínimo de quince días solo para la urgencia por sí sola.",
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-31-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: treinta días es el plazo general de las concesiones, que se reduce por medios electrónicos.",
+   "Correcta: la concesión solo reduce por medios electrónicos, y la urgencia no cuenta: 30 menos 5 son veinticinco días (art. 156.4).",
+   "No: quince días es el mínimo de la urgencia, que no se aplica a concesiones.",
+   "No: trece días no corresponde a ningún supuesto."
+  ]
+ },
+ "pr-32-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en el abierto simplificado, las obras tienen un mínimo de veinte días naturales (art. 159.3).",
+   "No: quince días es el mínimo para servicios y suministros, no para obras.",
+   "No: diez días hábiles es el del abierto supersimplificado (art. 159.6).",
+   "No: cinco días hábiles es solo para compras corrientes en el supersimplificado."
+  ]
+ },
+ "pr-32-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: veinte días es el plazo de las obras.",
+   "Correcta: en servicios, el mínimo es de quince días naturales (art. 159.3).",
+   "No: diez días hábiles es del supersimplificado.",
+   "No: cinco días hábiles es del supersimplificado para compras corrientes."
+  ]
+ },
+ "pr-32-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: veinte días es el plazo del simplificado ordinario en obras.",
+   "No: quince días es el del simplificado ordinario.",
+   "Correcta: obras de menos de 80.000 euros por el procedimiento supersimplificado: diez días hábiles (art. 159.6.a).",
+   "No: cinco días hábiles es solo para compras corrientes de bienes disponibles en el mercado."
+  ]
+ },
+ "pr-32-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: veinte días es el de las obras en el simplificado ordinario.",
+   "No: quince días es el del simplificado ordinario.",
+   "Correcta: en el supersimplificado el mínimo son diez días hábiles (art. 159.6.a).",
+   "No: cinco días hábiles solo vale para compras corrientes de bienes."
+  ],
+  "ojo": "El enunciado no da valor estimado. Se responde con el plazo general del supersimplificado, que exige un servicio de menos de 60.000 euros y no intelectual."
+ },
+ "pr-32-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: diez días hábiles es el plazo general del supersimplificado, no el de compras corrientes.",
+   "No: el supersimplificado no cuenta en días naturales.",
+   "No: cinco días naturales es menos que cinco hábiles.",
+   "Correcta: en compras corrientes de bienes disponibles en el mercado, el plazo es de cinco días hábiles (art. 159.6.a)."
+  ]
+ },
+ "pr-32-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en el abierto simplificado la urgencia no reduce los plazos (art. 159.5), así que las obras mantienen veinte días.",
+   "No: quince días es el de servicios y suministros.",
+   "No: diez días hábiles es del supersimplificado.",
+   "No: diez días naturales supondría reducir el plazo, y la urgencia no lo permite."
+  ]
+ },
+ "pr-32-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No: quince días naturales es el del simplificado ordinario.",
+   "Correcta: la urgencia no reduce el plazo del supersimplificado, que sigue siendo de diez días hábiles (art. 159.5 y 6).",
+   "No: ocho días naturales aplicaría una reducción a la mitad que la ley excluye.",
+   "No: cinco días hábiles es solo para compras corrientes de bienes."
+  ]
+ },
+ "pr-32-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: veinte días es el plazo de las obras.",
+   "No: no son hábiles, el art. 159.3 habla de quince días sin más.",
+   "Correcta: suministro por abierto simplificado: quince días naturales (art. 159.3).",
+   "No: cinco días hábiles es del supersimplificado de compras corrientes."
+  ]
+ },
+ "pr-32-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: quince días naturales es el del simplificado ordinario.",
+   "No: no se cuentan en días naturales.",
+   "Correcta: supersimplificado de suministro: diez días hábiles (art. 159.6.a).",
+   "No: cinco días hábiles solo se aplica a compras corrientes de bienes disponibles en el mercado."
+  ],
+  "ojo": "Unos uniformes pueden ser o no una compra corriente de bienes disponibles en el mercado. El enunciado no lo dice, así que se aplica el plazo general del supersimplificado."
+ },
+ "pr-32-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: quince días naturales es el del simplificado ordinario.",
+   "No: diez días hábiles es el plazo general del supersimplificado.",
+   "No: no son días naturales.",
+   "Correcta: material sanitario de uso corriente disponible en el mercado: cinco días hábiles (art. 159.6.a)."
+  ]
+ },
+ "pr-33-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 21.1.a, 119.2.b y 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es para armonizados, y 130.000 euros no llega a 140.000.",
+   "No: quince días es el plazo ordinario no armonizado, que la urgencia reduce.",
+   "No: diez días hábiles no es un plazo previsto aquí.",
+   "Correcta: no es armonizado y la urgencia reduce a la mitad los quince días: ocho (art. 119.2.b)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-33-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: veintiséis días es el de obras no armonizadas por abierto ordinario.",
+   "Correcta: en el abierto simplificado las obras tienen un mínimo de veinte días naturales (art. 159.3).",
+   "No: quince días es el de servicios y suministros.",
+   "No: diez días hábiles es del supersimplificado."
+  ]
+ },
+ "pr-33-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: quince días naturales es el del simplificado ordinario.",
+   "No: diez días hábiles es el plazo general del supersimplificado.",
+   "No: cinco días naturales no es el plazo, que se cuenta en hábiles.",
+   "Correcta: ropa de uso corriente disponible en el mercado: cinco días hábiles (art. 159.6.a)."
+  ]
+ },
+ "pr-33-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.b, 119.2.b y 156.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: veintiséis días es el de obras y concesiones no armonizadas.",
+   "No: quince días es el plazo ordinario, que la urgencia reduce a la mitad.",
+   "No: ocho días hábiles no es lo que dice la ley, los días son naturales (DA 12.ª).",
+   "Correcta: no es armonizado (180.000 euros no llega a 216.000) y la urgencia reduce a ocho los quince días naturales (art. 119.2.b)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ },
+ "pr-33-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: treinta días es el plazo general de la concesión armonizada, que la presentación electrónica reduce.",
+   "Correcta: concesión armonizada (6.000.000 euros), sin reducción por urgencia: 30 menos 5 por ofertas electrónicas son veinticinco días (art. 156.4).",
+   "No: quince días es el mínimo de la urgencia, que no se aplica a concesiones.",
+   "No: trece días no corresponde a ningún supuesto."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años (en 2026: 140.000, 216.000 y 5.404.000 euros)."
+ }
+}

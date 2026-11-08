@@ -1,0 +1,557 @@
+{
+ "vo-09-015": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 65.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Pueden contratar también las personas extranjeras (**art. 65.1**).",
+   "Es esta. Personas naturales o jurídicas, españolas o extranjeras, con plena capacidad de obrar y sin prohibición de contratar (**art. 65.1**).",
+   "No. La ley no limita el acceso a las comunitarias (**art. 65.1**).",
+   "No. La ley no distingue así: dice españolas o extranjeras (**art. 65.1**)."
+  ]
+ },
+ "vo-09-016": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 68.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La sucursal es para contratos de obras, no de concesión de obras, y el registro es el Mercantil, no el de Licitadores (**art. 68.2**).",
+   "No. La sucursal ha de abrirse en España, no en Europa (**art. 68.2**).",
+   "Es esta. Contratos de obras, sucursal en España, apoderados o representantes e inscripción en el Registro Mercantil (**art. 68.2**).",
+   "No. Habla de contratos de obras, no de concesión de obras (**art. 68.2**)."
+  ]
+ },
+ "vo-09-017": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 69.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Pueden contratar sin escritura pública hasta que se les adjudique el contrato (**art. 69.1**).",
+   "No. Quedan obligados solidariamente, no mancomunadamente (**art. 69.3**).",
+   "No. La unión dura hasta la extinción del contrato, no hasta un año después (**art. 69.3**).",
+   "No. Las operaciones de fusión o escisión no impiden la continuación de la unión (**art. 69.8**)."
+  ]
+ },
+ "vo-09-018": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 71.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Está prohibido. Haber sido declarada insolvente en cualquier procedimiento (**art. 71.1.c**).",
+   "Está prohibido. No estar al corriente con la Seguridad Social (**art. 71.1.d**).",
+   "Es esta. Retirar justificadamente la proposición no es prohibición. Lo es retirarla indebidamente (**art. 71.2.a**).",
+   "No. No todas tienen prohibición de contratar (**art. 71**)."
+  ]
+ },
+ "vo-09-019": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 72.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cuando la sentencia penal fija la duración, rige la prevista en ella (**art. 72.2**).",
+   "No. El límite de cinco años no figura en el art. 72.2 para estos casos (**art. 72.2**).",
+   "No. No se limita a tres años (**art. 72.2**).",
+   "No. Añade un tope de cinco años que la ley no establece para los casos con pronunciamiento de la sentencia (**art. 72.2**)."
+  ],
+  "ojo": "Los topes de duración de la prohibición (cinco y ocho años) rigen cuando la sentencia no fija plazo, según el art. 72.2 y 3."
+ },
+ "vo-09-020": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 75.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Puede basarse en la solvencia y medios de otras entidades, sea cual sea la naturaleza de los vínculos, si demuestra que dispondrá de ellos (**art. 75.1**).",
+   "No. Sí puede (**art. 75.1**).",
+   "No. No tiene que limitarse a medios propios (**art. 75.1**).",
+   "No. La primera es correcta (**art. 75.1**)."
+  ]
+ },
+ "vo-09-021": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 77.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Obras con valor estimado igual o superior a 500.000 euros (**art. 77.1.a**).",
+   "No. Se exige desde 500.000, incluido (**art. 77.1.a**).",
+   "No. Se mide por el valor estimado, no por el precio de adjudicación (**art. 77.1.a**).",
+   "No. Se mide por el valor estimado y se incluye el umbral (**art. 77.1.a**)."
+  ]
+ },
+ "vo-09-022": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 82.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La técnica y profesional se justifica cada tres años (**art. 82.2**).",
+   "Es esta. La solvencia económica y financiera se justifica anualmente (**art. 82.2**).",
+   "No. La económica es anual, no cada tres años (**art. 82.2**).",
+   "No. La técnica es cada tres años, no cada dos (**art. 82.2**)."
+  ]
+ },
+ "vo-09-023": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 84",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí se inscriben (**art. 84**).",
+   "No. Se inscriben en el Registro Oficial estatal, no en los autonómicos (**art. 84**).",
+   "No. No es a instancia de parte (**art. 84**).",
+   "Es esta. De oficio, en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público (**art. 84**)."
+  ],
+  "revisar": "El precepto exacto sobre la inscripción de oficio de los acuerdos de clasificación debe comprobarse. Aquí está citado el art. 84 por aproximación."
+ },
+ "vo-10-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 84.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Informe de la Misión Diplomática Permanente de España en el Estado correspondiente o de la Oficina Consular (**art. 84.3**).",
+   "No. Eso es para empresarios de la UE o del EEE (**art. 84.2**).",
+   "No. Eso es para personas jurídicas españolas (**art. 84.1**).",
+   "No. La oficina consular es alternativa, y el domicilio es el de la empresa, no el del órgano de contratación (**art. 84.3**)."
+  ]
+ },
+ "vo-10-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 87.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El volumen de negocios se refiere al mejor ejercicio de los tres últimos disponibles, no cinco (**art. 87.1.a**).",
+   "No. El seguro debe ser de importe igual o superior al exigido, no inferior (**art. 87.1.b**).",
+   "Es esta. Patrimonio neto al cierre del último ejercicio igual o superior al exigido (**art. 87.1.c**).",
+   "No. Las medidas de gestión medioambiental son un medio de solvencia técnica (**art. 88 a 90**)."
+  ]
+ },
+ "vo-10-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 96.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Solo vale frente a todos el Registro Oficial estatal (**art. 96.1**).",
+   "No. Vale frente a los entes dependientes de la Comunidad y de las entidades locales, no los independientes (**art. 96.2**).",
+   "No. Solo las entidades locales incluidas en su ámbito territorial (**art. 96.2**).",
+   "Es esta. Frente a la Comunidad Autónoma, y también a sus entidades locales y entes dependientes (**art. 96.2**)."
+  ]
+ },
+ "vo-10-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 88.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Son los últimos cinco años (**art. 88.1.a**).",
+   "Es esta. Obras ejecutadas en los últimos cinco años (**art. 88.1.a**).",
+   "No. Son cinco años, no tres (**art. 88.1.a**).",
+   "No. Hay un periodo de diez años solo para ciertos subgrupos de clasificación (**art. 88.1.a**)."
+  ]
+ },
+ "vo-10-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 89.1.e",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las medidas de gestión medioambiental son de obras y servicios (**arts. 88.1.d y 90.1.f**).",
+   "Es esta. Muestras, descripciones y fotografías de los productos (**art. 89.1.e**).",
+   "No. Indicar la parte a subcontratar es medio de servicios (**art. 90.1.i**).",
+   "No. El volumen anual de negocios es de solvencia económica (**art. 87.1.a**)."
+  ]
+ },
+ "vo-10-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 90.1.i",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La relación de servicios abarca como máximo los tres últimos años (**art. 90.1.a**).",
+   "Es esta. Indicación de la parte del contrato que se pretende subcontratar (**art. 90.1.i**).",
+   "No. La plantilla media se declara sobre los tres últimos años, no el último (**art. 90.1.g**).",
+   "No. El seguro de responsabilidad civil es un medio de solvencia económica (**art. 87.1.b**)."
+  ]
+ },
+ "vo-10-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En obras sí puede justificarse no dividir en lotes (**art. 99.3**).",
+   "No. La excepción es solo para la concesión de obras, no de servicios (**art. 99.3**).",
+   "Es esta. En la concesión de obras no cabe no dividir en lotes por la vía de motivos válidos (**art. 99.3**).",
+   "No. En concesión de servicios sí cabe (**art. 99.3**)."
+  ]
+ },
+ "vo-10-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Es cierto. El objeto debe ser determinado (**art. 99.1**).",
+   "Es cierto. Si es posible, se divide en lotes (**art. 99.3**).",
+   "Es la incorrecta. Sí se puede limitar el número de lotes que se adjudican a cada licitador (**art. 99.4.b**).",
+   "Es cierto. No se puede fraccionar para eludir publicidad o procedimiento (**art. 99.2**)."
+  ]
+ },
+ "vo-10-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Habla de gasto, no de coste (**art. 100.1**).",
+   "No. Habla de gasto y el IVA se incluye (**art. 100.1**).",
+   "Es esta. Límite máximo de gasto, incluido el IVA, salvo disposición en contrario (**art. 100.1**).",
+   "No. Incluye el IVA (**art. 100.1**)."
+  ]
+ },
+ "vo-10-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El importe total sin IVA, pagadero según las estimaciones (**art. 101.1.a**).",
+   "No. Sin IVA (**art. 101.1.a**).",
+   "No. Esa fórmula es de las concesiones (**art. 101.1.b**).",
+   "No. Esa fórmula es de las concesiones, y ya sin IVA (**art. 101.1.b**)."
+  ]
+ },
+ "vo-10-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Puede satisfacerse en moneda distinta del euro (**art. 102.2**).",
+   "Es esta. Se entiende incluido el IVA, que se indica como partida independiente (**art. 102.1**).",
+   "No. La revisión es al alza o a la baja (**art. 102.5**).",
+   "No. Es 'a tanto alzado', no 'aplazado', y la frase tal como está no recoge la ley (**art. 102.4**)."
+  ]
+ },
+ "vo-10-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 103.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El segundo requisito es un año desde la formalización, no dos (**art. 103.5**).",
+   "Es esta. El primer 20 por ciento ejecutado y el primer año quedan excluidos de la revisión (**art. 103.5**).",
+   "No. Quedan excluidos de la revisión, no incluidos (**art. 103.5**).",
+   "No. El porcentaje es 20, no 15, y el plazo un año (**art. 103.5**)."
+  ]
+ },
+ "vo-10-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No puede ser superior al 3 por ciento del presupuesto base de licitación, IVA excluido (**art. 106.2**).",
+   "No. Es un tope máximo, no una cuantía fija (**art. 106.2**).",
+   "No. El tope es 3 por ciento, no 5 (**art. 106.2**).",
+   "No. El tope es 3 por ciento y no es fijo (**art. 106.2**)."
+  ]
+ },
+ "vo-10-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cinco por ciento del precio final ofertado, IVA excluido (**art. 107.1**).",
+   "No. El porcentaje es el cinco por ciento (**art. 107.1**).",
+   "No. El porcentaje es el cinco por ciento (**art. 107.1**).",
+   "No. Es el cinco por ciento, no 'hasta' (**art. 107.1**)."
+  ]
+ },
+ "vo-10-015": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es hasta un 5 por ciento, y sin IVA (**art. 107.2**).",
+   "No. Se calcula sin IVA (**art. 107.2**).",
+   "No. Es hasta un 5 por ciento, no un 4 (**art. 107.2**).",
+   "Es esta. Hasta un 5 por ciento del precio final ofertado, IVA excluido, y la garantía total hasta el 10 por ciento (**art. 107.2**)."
+  ]
+ },
+ "vo-10-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 111.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se cuenta desde la finalización del plazo de garantía, no del contrato (**art. 111.2**).",
+   "Es esta. Dos meses desde la finalización del plazo de garantía (**art. 111.2**).",
+   "No. Son dos meses y desde el fin del plazo de garantía (**art. 111.2**).",
+   "No. Son dos meses, no tres (**art. 111.2**)."
+  ]
+ },
+ "vo-10-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 111.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En obras de valor estimado inferior a 1.000.000 de euros, el plazo se reduce a seis meses (**art. 111.5**).",
+   "No. No es de un año. Un año es el plazo general (**art. 111.5**).",
+   "No. Es seis meses, no nueve (**art. 111.5**).",
+   "No. Es seis meses, no tres (**art. 111.5**)."
+  ]
+ },
+ "vo-10-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 150.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Son diez días hábiles, no naturales (**art. 150.2**).",
+   "No. Son diez días hábiles, no quince (**art. 150.2**).",
+   "No. Se cuentan desde el siguiente a la recepción del requerimiento, no a su emisión (**art. 150.2**).",
+   "Es esta. Diez días hábiles desde el siguiente a la recepción del requerimiento (**art. 150.2**)."
+  ]
+ },
+ "vo-10-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 108.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta. La tarjeta de crédito no es forma admisible de garantía definitiva (**art. 108.1**).",
+   "Es admisible. Valores de Deuda Pública (**art. 108.1.a**).",
+   "Es admisible. Aval (**art. 108.1.b**).",
+   "Es admisible. Seguro de caución (**art. 108.1.c**)."
+  ]
+ },
+ "vo-11-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 115.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El objeto no puede quedar tan concreto que solo se ajuste a uno de los consultados (**art. 115.3**).",
+   "Es esta. El órgano nunca puede revelar a los participantes las soluciones propuestas por otros (**art. 115.5**).",
+   "No. La participación no impide la intervención posterior, salvo que se falsee la competencia (**art. 115.3**).",
+   "No. El órgano puede tener en cuenta los resultados para los pliegos, sin ventajas indebidas (**art. 115.3**)."
+  ]
+ },
+ "vo-11-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En el diálogo competitivo se sustituye por el documento descriptivo (**art. 116.3**).",
+   "Es esta. En los contratos basados en acuerdo marco con nueva licitación, por el documento de licitación (**arts. 116.3 y 221.5**).",
+   "No. La asociación para la innovación mantiene pliegos (**art. 116.3**).",
+   "No. En los contratos basados, el sustituto es el documento de licitación, no el descriptivo (**art. 116.3**)."
+  ]
+ },
+ "vo-11-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 117.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta, pero no la única (**art. 117.1**).",
+   "Es correcta, pero no la única. La resolución se publica en el perfil de contratante (**art. 117.1**).",
+   "Es correcta, pero no la única. La resolución dispone la apertura del procedimiento (**art. 117.1**).",
+   "Es esta. Las tres afirmaciones son ciertas (**art. 117.1**)."
+  ]
+ },
+ "vo-11-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es inferior a, no igual o inferior a (**art. 118.1**).",
+   "Es esta. Valor estimado inferior a 40.000 euros en obras y a 15.000 en suministros y servicios (**art. 118.1**).",
+   "No. Se mide por valor estimado, no por presupuesto base de licitación (**art. 118.1**).",
+   "No. Habla de contratos de obras, suministros y servicios, no de concesiones ni mixtos (**art. 118.1**)."
+  ]
+ },
+ "vo-11-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.2.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Algunos plazos no se reducen a la mitad (**art. 119.2.b**).",
+   "No. La urgencia responde a una necesidad inaplazable (**art. 119.1**).",
+   "No. El plazo es de un mes, no de 20 días (**art. 119.2.c**).",
+   "Es esta. El inicio de la ejecución no puede exceder de un mes desde la formalización (**art. 119.2.c**)."
+  ]
+ },
+ "vo-11-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.1.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo es de un mes (**art. 120.1.c**).",
+   "No. El plazo es de un mes (**art. 120.1.c**).",
+   "No. La ley dice un mes, no 30 días naturales (**art. 120.1.c**).",
+   "Es esta. No podrá ser superior a un mes desde el acuerdo (**art. 120.1.c**)."
+  ]
+ },
+ "vo-11-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 121.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El Consejo de Ministros, previo dictamen del Consejo de Estado (**art. 121.1**).",
+   "No. Los aprueba el Consejo de Ministros, no el órgano de contratación (**art. 121.1**).",
+   "No. Requiere dictamen del Consejo de Estado, no un mero informe de la Junta Consultiva (**art. 121.1**).",
+   "No. Los aprueba el Consejo de Ministros (**art. 121.1**)."
+  ]
+ },
+ "vo-11-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Antes de la autorización del gasto o con ella, y siempre antes de licitar, o de adjudicar si no hay licitación (**art. 122.1**).",
+   "No. La retención de crédito no es el hito de referencia (**art. 122.1**).",
+   "No. Es antes, no después, de la licitación (**art. 122.1**).",
+   "No. Es antes, no después, de la autorización del gasto (**art. 122.1**)."
+  ]
+ },
+ "vo-11-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Informa la Junta Consultiva, no el órgano de contratación (**art. 122.6**).",
+   "No. Informa antes, no después (**art. 122.6**).",
+   "No. Informa la Junta Consultiva, no el Consejo de Ministros (**art. 122.6**).",
+   "Es esta. La Junta Consultiva de Contratación Pública del Estado informa con carácter previo (**art. 122.6**)."
+  ]
+ },
+ "vo-11-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 123",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Basta el informe de la Junta Consultiva, no hace falta dictamen del Consejo de Estado (**art. 123**).",
+   "No. Los aprueba el Consejo de Ministros (**art. 123**).",
+   "Es esta. El Consejo de Ministros, previo informe de la Junta Consultiva, a propuesta del Ministro correspondiente (**art. 123**).",
+   "No. Los aprueba el Consejo de Ministros (**art. 123**)."
+  ]
+ },
+ "vo-11-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 124",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los aprueba el órgano de contratación (**art. 124**).",
+   "Es esta. El órgano de contratación, antes de la autorización del gasto o con ella, y siempre antes de licitar (**art. 124**).",
+   "No. La ley habla de autorización del gasto, no de formalización (**art. 124**).",
+   "No. Los aprueba el órgano de contratación y la referencia es la autorización del gasto (**art. 124**)."
+  ]
+ },
+ "vo-11-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 127.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una etiqueta específica como medio de prueba (**art. 127.2**).",
+   "No. La declaración responsable no es el medio de prueba que prevé el art. 127 (**art. 127.2**).",
+   "No. Una marca no es medio de prueba: la ley habla de etiquetas (**art. 127.2**).",
+   "No. Un distintivo no es la figura que recoge el art. 127 (**art. 127.2**)."
+  ]
+ },
+ "vo-11-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Asistencia sanitaria de urgencia con valor estimado inferior a 30.000 euros (**art. 131.4**).",
+   "No. El art. 131.4 no recoge defensa nacional con 100.000 euros (**art. 131.4**).",
+   "No. El art. 131.4 no recoge defensa nacional (**art. 131.4**).",
+   "No. El umbral es 30.000 euros, no 100.000 (**art. 131.4**)."
+  ]
+ },
+ "vo-11-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 134",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es una opción del órgano en contratos sujetos a regulación armonizada (**art. 134.1**).",
+   "No. Se refiere a obras, suministros y servicios (**art. 134.1**).",
+   "No. Se publica en el DOUE o en el perfil de contratante, a elección (**art. 134.2**).",
+   "No. No reduce plazos a la mitad, los reduce a quince días si cumple condiciones (**art. 156.3.a**)."
+  ]
+ },
+ "vo-11-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta, pero incompleta: falta la excepción de los negociados sin publicidad (**art. 135.1**).",
+   "No. El BOE se añade solo en contratos de la AGE y entidades vinculadas (**art. 135.1**).",
+   "No. El DOUE se añade si el contrato es de regulación armonizada, no cuando no lo es (**art. 135.1**).",
+   "Es esta. Salvo los negociados sin publicidad, se publica en el perfil de contratante (**art. 135.1**)."
+  ],
+  "ojo": "Las opciones 0 y 3 son ciertas. Se elige la 3 por ser la completa."
+ },
+ "vo-11-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 141.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Tres días al empresario para corregir defectos subsanables (**art. 141.2**).",
+   "No. Son tres días (**art. 141.2**).",
+   "No. Son tres días (**art. 141.2**).",
+   "No. Son tres días (**art. 141.2**)."
+  ]
+ },
+ "vo-11-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 142.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Solo se toman variantes cuando hay criterios distintos del precio (**art. 142.1**).",
+   "No. No pueden rechazarlas solo porque den lugar a otro tipo de contrato (**art. 142.3**).",
+   "Es esta. No pueden rechazar una variante solo porque resultaría un contrato de servicios en vez de suministro (**art. 142.3**).",
+   "No. Se indica en el anuncio de licitación, no en la formalización (**art. 142.2**)."
+  ]
+ },
+ "vo-11-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 143.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Si hay varios criterios, también valen nuevos valores de elementos objetivos (**art. 143.1.b**).",
+   "No. Son elementos objetivos, no subjetivos (**art. 143.1.b**).",
+   "No. Si solo cuenta el precio, la subasta recae solo en precios (**art. 143.1.a**).",
+   "Es esta. Solo precios, cuando el contrato se adjudica atendiendo exclusivamente al precio (**art. 143.1.a**)."
+  ]
+ },
+ "vo-11-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Mejor relación calidad-precio (**art. 145.1**).",
+   "No. La ley no habla de tiempo de ejecución como eje (**art. 145.1**).",
+   "No. La ley no habla de tiempo de ejecución como eje (**art. 145.1**).",
+   "No. La ley dice calidad-precio (**art. 145.1**)."
+  ]
+ },
+ "vo-11-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es un criterio de gasto de personal (**art. 146.1**).",
+   "No. Un criterio único no puede ser de juicio de valor, debe ser de costes (**art. 146.1**).",
+   "Es esta. Puede ser el precio o un criterio de rentabilidad como el coste del ciclo de vida (**art. 146.1**).",
+   "No. No es el valor unitario de cada elemento (**art. 146.1**)."
+  ]
+ },
+ "vo-11-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 147.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es el tercero (**art. 147.2.c**).",
+   "No. Es el segundo (**art. 147.2.b**).",
+   "Es esta. El primero es el mayor porcentaje de trabajadores con discapacidad o en exclusión (**art. 147.2.a**).",
+   "No. El sorteo es el último (**art. 147.2.d**)."
+  ]
+ },
+ "vo-12-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "RD 1098/2001, art. 85",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Con cuatro o más licitadores, las inferiores en más de 10 unidades porcentuales a la media aritmética (**RD 1098/2001, art. 85**).",
+   "No. Eso es el tope absoluto de baja, no la regla general de la media (**RD 1098/2001, art. 85**).",
+   "No. Se compara con la media de ofertas, no con el presupuesto base (**RD 1098/2001, art. 85**).",
+   "No. En la LCSP actual lo determina el PCAP (**art. 149**), pero la pregunta pide el RD 1098/2001."
+  ],
+  "ojo": "La LCSP actual remite al PCAP (art. 149.2.b). Este supuesto es del reglamento antiguo.",
+  "revisar": "El Reglamento general de 2001 no está en mis fuentes. Compruébalo en el texto vigente (hoy se aplica supletoriamente) antes de estudiarlo."
+ }
+}

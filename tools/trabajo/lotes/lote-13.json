@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-22-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 4,
+   "enunciado": "Las tarifas que abonen los usuarios por la utilización de las obras serán fijadas por el órgano de contratación en el acuerdo de adjudicación y:",
+   "opciones": [
+    "Tendrán el carácter de mínimas y los concesionarios podrán aplicar tarifas superiores cuando así lo estimen conveniente.",
+    "Tendrán el carácter de mínimas y los concesionarios podrán aplicar tarifas inferiores cuando así lo estimen conveniente.",
+    "Tendrán el carácter de máximas y los concesionarios podrán aplicar tarifas inferiores cuando así lo estimen conveniente.",
+    "Tendrán el carácter de máximas y los concesionarios podrán aplicar tarifas superiores cuando así lo estimen conveniente."
+   ]
+  },
+  {
+   "id": "au-22-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 5,
+   "enunciado": "Señale cuál de las siguientes NO es causa de resolución del contrato de concesión de obras de acuerdo con la LCSP:",
+   "opciones": [
+    "La ejecución hipotecaria declarada desierta.",
+    "La demora superior a 3 meses por parte del órgano de contratación en la entrega al concesionario de la contraprestación.",
+    "El rescate de la explotación de las obras por el órgano de contratación.",
+    "La supresión de la explotación de las obras por razones de interés público."
+   ]
+  },
+  {
+   "id": "au-22-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 6,
+   "enunciado": "De acuerdo con el artículo 283 de la LCSP, respecto al destino de las obras a la extinción de la concesión de obras, y sin perjuicio de lo establecido por los pliegos:",
+   "opciones": [
+    "El concesionario negociará con la Administración concedente el destino de las obras incluidas en la concesión.",
+    "El concesionario quedará obligado a la demolición de las obras incluidas en la concesión.",
+    "Los bienes afectos a la concesión que vayan a revertir a la Administración podrán ser objeto de embargo.",
+    "El concesionario quedará obligado a hacer entrega a la Administración concedente de las obras incluidas en la concesión."
+   ]
+  },
+  {
+   "id": "au-22-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 7,
+   "enunciado": "La Administración podrá gestionar indirectamente, mediante contrato de concesión de servicios:",
+   "opciones": [
+    "Los servicios de su titularidad o competencia siempre que sean susceptibles de explotación económica por particulares.",
+    "Los servicios que no sean de su competencia siempre que sean susceptibles de explotación económica por particulares.",
+    "Los servicios de su titularidad o competencia que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+    "Los servicios de su titularidad siempre que no sean susceptibles de explotación económica por particulares."
+   ]
+  },
+  {
+   "id": "au-22-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 8,
+   "enunciado": "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos:",
+   "opciones": [
+    "En ningún caso podrán prestarse mediante concesión de servicios.",
+    "Excepcionalmente podrán prestarse mediante concesión de servicios.",
+    "Con carácter general, podrán prestarse mediante concesión de servicios.",
+    "Deberán gestionarse indirectamente, mediante contrato de concesión de servicios."
+   ]
+  },
+  {
+   "id": "au-22-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 9,
+   "enunciado": "En los contratos de concesión de servicios la tramitación del expediente irá precedida de la realización y aprobación de un estudio de viabilidad de los mismos o en su caso, de un estudio de viabilidad económico-financiera, que:",
+   "opciones": [
+    "Tendrán carácter vinculante en los supuestos en que concluyan en la viabilidad del proyecto.",
+    "Tendrán carácter vinculante en los supuestos en que concluyan en la inviabilidad del proyecto.",
+    "Tendrán carácter vinculante en todo caso.",
+    "No tendrán carácter vinculante en ningún caso."
+   ]
+  },
+  {
+   "id": "au-22-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 10,
+   "enunciado": "El concesionario tiene derecho a las contraprestaciones económicas previstas en el contrato, entre las que se incluirá, para hacer efectivo su derecho a la explotación del servicio, una retribución fijada en función de su utilización que se percibirá:",
+   "opciones": [
+    "De la propia Administración.",
+    "Directamente de los usuarios.",
+    "Directamente de los usuarios o de la propia Administración.",
+    "Mediante canon."
+   ]
+  },
+  {
+   "id": "au-22-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 11,
+   "enunciado": "Indique cuál de las siguientes NO es causa de resolución del contrato de concesión de servicios conforme a la LCSP:",
+   "opciones": [
+    "El rescate del servicio por la Administración para su gestión indirecta por razones de interés público.",
+    "La ejecución hipotecaria declarada desierta.",
+    "La imposibilidad de la explotación del servicio como consecuencia de acuerdos posteriores adoptados por la Administración.",
+    "La demora superior a seis meses por parte de la Administración en la entrega al concesionario de la contraprestación."
+   ]
+  },
+  {
+   "id": "au-22-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (22) - LCSP (arts 247 a 286)",
+   "n": 12,
+   "enunciado": "Conforme a la LCSP, es causa de resolución del contrato de concesión de servicios la demora por parte de la Administración en la entrega al concesionario de la contraprestación o de los medios auxiliares a que se obligó según el contrato:",
+   "opciones": [
+    "Superior a 1 mes.",
+    "Superior a 2 meses.",
+    "Superior a 3 meses.",
+    "Superior a 6 meses."
+   ]
+  },
+  {
+   "id": "au-23-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 1,
+   "enunciado": "Según el artículo 298 de la LCSP, en el contrato de arrendamiento, durante el plazo de vigencia del contrato, la obligación del mantenimiento del objeto del mismo será asumida por:",
+   "opciones": [
+    "El arrendador o empresario.",
+    "El arrendatario.",
+    "La Administración.",
+    "El órgano de contratación."
+   ]
+  },
+  {
+   "id": "au-23-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 2,
+   "enunciado": "De acuerdo con el artículo 300 de la LCSP, el contratista estará obligado a entregar los bienes objeto de suministro en el tiempo y lugar fijados en:",
+   "opciones": [
+    "El acto de adjudicación y de conformidad con los principios de publicidad, transparencia, igualdad y no discriminación.",
+    "El acto de adjudicación y de conformidad con las prescripciones técnicas y cláusulas administrativas.",
+    "El contrato y de conformidad con los principios de publicidad, concurrencia, transparencia, igualdad y no discriminación.",
+    "El contrato y de conformidad con las prescripciones técnicas y cláusulas administrativas."
+   ]
+  },
+  {
+   "id": "au-23-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 3,
+   "enunciado": "El adjudicatario no tendrá derecho a indemnización por causa de pérdidas, averías o perjuicios ocasionados en los bienes antes de su entrega a la Administración:",
+   "opciones": [
+    "Salvo en el caso de suministro de bienes o productos perecederos.",
+    "Cualquiera que sea el tipo de suministro, aun cuando esta hubiere incurrido en mora al recibirlos.",
+    "Salvo que se trate de suministro de bienes arrendados.",
+    "Cualquiera que sea el tipo de suministro, salvo que esta hubiere incurrido en mora al recibirlos."
+   ]
+  },
+  {
+   "id": "au-23-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 4,
+   "enunciado": "Respecto a la ejecución del contrato de suministro, cuando el acto formal de la recepción de los bienes, de acuerdo con el pliego, sea posterior a su entrega, será responsable de la custodia de los mismos durante el tiempo que medie entre una y otra:",
+   "opciones": [
+    "La Administración.",
+    "El suministrador.",
+    "El contratista.",
+    "El arrendador."
+   ]
+  },
+  {
+   "id": "au-23-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 5,
+   "enunciado": "Respecto a la ejecución del contrato de suministro, una vez recibidos de conformidad por la Administración bienes o productos perecederos, será responsable de su gestión, uso o caducidad:",
+   "opciones": [
+    "El suministrador, en todo caso.",
+    "La Administración, sin que quepa exigir responsabilidad alguna al suministrador.",
+    "La Administración, sin perjuicio de la responsabilidad del suministrador por los vicios o defectos ocultos de los mismos.",
+    "El suministrador, sin perjuicio de la responsabilidad de la Administración por los vicios o defectos ocultos de los mismos."
+   ]
+  },
+  {
+   "id": "au-23-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 6,
+   "enunciado": "Señale la respuesta correcta respecto a los gastos de entrega y transporte de los bienes objeto de suministro al lugar convenido:",
+   "opciones": [
+    "Salvo pacto en contrario, serán por cuenta de la Administración.",
+    "En todo caso, serán por cuenta del contratista.",
+    "Salvo pacto en contrario, serán por cuenta del contratista.",
+    "En todo caso, serán por cuenta de la Administración."
+   ]
+  },
+  {
+   "id": "au-23-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 7,
+   "enunciado": "Es causa de resolución, el desistimiento antes de la iniciación del suministro o la suspensión de la iniciación del mismo por causa imputable a la Administración por:",
+   "opciones": [
+    "Plazo superior a 2 meses a partir de la fecha señalada en el contrato para la entrega salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 4 meses a partir de la fecha señalada en el contrato para la entrega salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 2 meses a partir de la fecha señalada en el contrato para la entrega salvo que en el pliego se señale otro mayor.",
+    "Plazo superior a 4 meses a partir de la fecha señalada en el contrato para la entrega salvo que en el pliego se señale otro mayor."
+   ]
+  },
+  {
+   "id": "au-23-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 8,
+   "enunciado": "Es causa de resolución del contrato el desistimiento una vez iniciada la ejecución del suministro o la suspensión del suministro por un:",
+   "opciones": [
+    "Plazo superior a 2 meses acordada por la Administración, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 4 meses acordada por la Administración, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 6 meses acordada por la Administración, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 8 meses acordada por la Administración, salvo que en el pliego se señale otro menor."
+   ]
+  },
+  {
+   "id": "au-23-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 9,
+   "enunciado": "Cuando se resuelva un contrato de suministro por la suspensión de la iniciación por causa imputable a la Administración por un plazo superior a cuatro meses, el contratista solo tendrá derecho a percibir, por todos los conceptos, una indemnización del:",
+   "opciones": [
+    "3 por ciento del precio de la adjudicación del contrato, IVA incluido.",
+    "3 por ciento del precio de la adjudicación del contrato, IVA excluido.",
+    "6 por ciento del precio de la adjudicación del contrato, IVA incluido.",
+    "6 por ciento del precio de la adjudicación del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-23-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 10,
+   "enunciado": "En caso de desistimiento antes de la iniciación del suministro, el contratista tendrá derecho a percibir, por todos los conceptos, una indemnización de:",
+   "opciones": [
+    "El 3% del precio de la adjudicación del contrato, IVA incluido.",
+    "El 6% del precio de la adjudicación del contrato, IVA incluido.",
+    "El 3% del precio de la adjudicación del contrato, IVA excluido.",
+    "El 6% del precio de la adjudicación del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-23-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 11,
+   "enunciado": "En caso de desistimiento una vez iniciada la ejecución del suministro, el contratista tendrá derecho a percibir, en concepto de beneficio industrial:",
+   "opciones": [
+    "El 3% del precio de adjudicación del contrato de los suministros dejados de realizar, IVA incluido.",
+    "El 6% del precio de adjudicación del contrato de los suministros dejados de realizar, IVA incluido.",
+    "El 3% del precio de adjudicación del contrato de los suministros dejados de realizar, IVA excluido.",
+    "El 6% del precio de adjudicación del contrato de los suministros dejados de realizar, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-23-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 12,
+   "enunciado": "Respecto al contrato de servicios, en ningún caso la entidad contratante podrá instrumentar la contratación de personal a través del contrato de servicios:",
+   "opciones": [
+    "Salvo casos de fuerza mayor.",
+    "Salvo los que tengan carácter de emergencia.",
+    "Salvo los que por razón de la cuantía se tramiten como contratos menores.",
+    "Incluidos los que por razón de la cuantía se tramiten como contratos menores."
+   ]
+  },
+  {
+   "id": "au-23-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 13,
+   "enunciado": "Indique la afirmación incorrecta en relación con el contrato de servicios, según lo establecido en la LCSP:",
+   "opciones": [
+    "No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+    "Motivadamente, podrá contratarse de forma conjunta la redacción de proyectos y la dirección de obra.",
+    "La entidad contratante podrá instrumentar la contratación de personal a través del contrato de servicios.",
+    "Los contratos complementarios quedarán resueltos, en todo caso, cuando se resuelva el contrato principal."
+   ]
+  },
+  {
+   "id": "au-23-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 14,
+   "enunciado": "En los contratos que tengan por objeto la prestación de actividades docentes en centros del sector público desarrolladas en forma de cursos de formación o perfeccionamiento del personal al servicio de la Administración, las disposiciones de esta Ley:",
+   "opciones": [
+    "Serán de aplicación a la preparación y adjudicación del contrato.",
+    "Serán de aplicación a la preparación pero no a la adjudicación del contrato.",
+    "No serán de aplicación a la preparación pero sí lo serán a la adjudicación del contrato.",
+    "No serán de aplicación a la preparación y adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "au-23-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 15,
+   "enunciado": "Es causa de resolución de los contratos de servicios el desistimiento antes de iniciar la prestación del servicio o la suspensión por causa imputable al órgano de contratación de la iniciación del contrato por:",
+   "opciones": [
+    "Plazo superior a 2 meses, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 4 meses, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 6 meses, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 8 meses, salvo que en el pliego se señale otro menor."
+   ]
+  },
+  {
+   "id": "au-23-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 16,
+   "enunciado": "Es causa de resolución de los contratos de servicios el desistimiento una vez iniciada la prestación del servicio o la suspensión del contrato por:",
+   "opciones": [
+    "Plazo superior a 2 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 4 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 6 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+    "Plazo superior a 8 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor."
+   ]
+  },
+  {
+   "id": "au-23-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 17,
+   "enunciado": "Cuando se resuelva un contrato de servicios por el desistimiento antes de iniciar la prestación por causa imputable al órgano de contratación, el contratista solo tendrá derecho a percibir, por todos los conceptos, una indemnización del:",
+   "opciones": [
+    "6 por ciento del precio de adjudicación del contrato, IVA excluido.",
+    "5 por ciento del precio de adjudicación del contrato, IVA incluido.",
+    "7 por ciento del precio de adjudicación del contrato, IVA excluido.",
+    "3 por ciento del precio de adjudicación del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-23-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (23) - LCSP (arts 287 a 315)",
+   "n": 18,
+   "enunciado": "Conforme a la LCSP, NO es causa de resolución de los contratos de servicios:",
+   "opciones": [
+    "La suspensión de la iniciación del contrato por plazo superior a tres meses a partir de la fecha señalada en el contrato.",
+    "El desistimiento una vez iniciada la prestación del servicio.",
+    "La suspensión del contrato por plazo superior a ocho meses acordada por el órgano de contratación.",
+    "El desistimiento antes de iniciar la prestación del servicio."
+   ]
+  },
+  {
+   "id": "au-24-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 1,
+   "enunciado": "Según el artículo 323 de la LCSP, son órganos de contratación de la Administración General del Estado, facultados para celebrar en su nombre los contratos en el ámbito de su competencia:",
+   "opciones": [
+    "Los Ministros y los Secretarios de Estado.",
+    "Únicamente los Ministros.",
+    "Únicamente los Secretarios de Estado.",
+    "Los Ministros, los Secretarios de Estado y los Subsecretarios de Estado."
+   ]
+  },
+  {
+   "id": "au-24-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 2,
+   "enunciado": "En los departamentos ministeriales en los que existan varios órganos de contratación, la competencia para celebrar los contratos de suministro y de servicios que afecten al ámbito de más de uno de ellos corresponderá:",
+   "opciones": [
+    "En todo caso al Ministro.",
+    "En todo caso al Secretario de Estado.",
+    "Al Ministro, salvo en los casos en que la misma se atribuya a la Junta de Contratación.",
+    "Al Secretario de Estado, salvo en los casos en que la misma se atribuya a la Junta de Contratación."
+   ]
+  },
+  {
+   "id": "au-24-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 3,
+   "enunciado": "Los órganos de contratación de las entidades del sector público estatal con consideración de poder adjudicador necesitarán la autorización del Consejo de Ministros para celebrar contratos cuando el valor estimado del contrato, calculado conforme a lo señalado en el artículo 101, sea:",
+   "opciones": [
+    "Superior a 10 millones de euros.",
+    "Igual o superior a 10 millones de euros.",
+    "Superior a 12 millones de euros.",
+    "Igual o superior a 12 millones de euros."
+   ]
+  },
+  {
+   "id": "au-24-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 4,
+   "enunciado": "Los órganos de contratación de las entidades del sector público estatal con consideración de poder adjudicador necesitarán la autorización del Consejo de Ministros para celebrar contratos cuando el pago de los contratos se concierte mediante el sistema de arrendamiento financiero o mediante el sistema de arrendamiento con opción de compra y el número de anualidades supere:",
+   "opciones": [
+    "2 años.",
+    "3 años.",
+    "4 años.",
+    "5 años."
+   ]
+  },
+  {
+   "id": "au-24-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 5,
+   "enunciado": "La mesa de contratación, de acuerdo con el artículo 326 de la LCSP, estará constituida por:",
+   "opciones": [
+    "Un Presidente, un Vicepresidente y dos vocales.",
+    "Un Presidente, un Vicepresidente y un Secretario.",
+    "Un Presidente, un Secretario y un Subsecretario.",
+    "Un Presidente, los vocales que se determinen reglamentariamente, y un Secretario."
+   ]
+  },
+  {
+   "id": "au-24-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 6,
+   "enunciado": "Señale la respuesta incorrecta en relación con la mesa de contratación, de acuerdo con lo dispuesto en la LCSP:",
+   "opciones": [
+    "La composición de la mesa se publicará en el perfil de contratante del órgano de contratación correspondiente.",
+    "En los procedimientos negociados sin publicidad, la constitución de la mesa será obligatoria para el órgano de contratación.",
+    "Los miembros de la mesa serán nombrados por el órgano de contratación.",
+    "En ningún caso podrán formar parte de las Mesas de contratación el personal eventual."
+   ]
+  },
+  {
+   "id": "au-24-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 7,
+   "enunciado": "Para asistir al órgano de contratación en procedimientos de diálogo competitivo o asociación para la innovación, se constituirá una mesa a la que se incorporarán personas especialmente cualificadas en la materia. El número de estas personas será igual o superior a:",
+   "opciones": [
+    "Un tercio de los componentes de la Mesa y participarán en las deliberaciones con voz pero sin voto.",
+    "La mitad de los componentes de la Mesa y participarán en las deliberaciones con voz pero sin voto.",
+    "La mitad de los componentes de la Mesa y participarán en las deliberaciones con voz y voto.",
+    "Un tercio de los componentes de la Mesa y participarán en las deliberaciones con voz y voto."
+   ]
+  },
+  {
+   "id": "au-24-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 8,
+   "enunciado": "Las Mesas de Contratación son, de acuerdo con el artículo 326 de la LCSP:",
+   "opciones": [
+    "Órganos de contratación.",
+    "Órganos consultivos.",
+    "Órganos de asistencia técnica especializada.",
+    "Órganos decisorios."
+   ]
+  },
+  {
+   "id": "au-24-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 9,
+   "enunciado": "Señale la afirmación correcta en relación con las mesas de Contratación del artículo 326 de LCSP:",
+   "opciones": [
+    "Podrá formar parte de las Juntas de Contratación el personal eventual.",
+    "Podrá formar parte de las Juntas de Contratación el personal que haya participado en la redacción de la documentación técnica del contrato de que se trate.",
+    "Debe figurar entre sus vocales un funcionario que tenga atribuido, legal o reglamentariamente, el asesoramiento jurídico del órgano de contratación y un interventor.",
+    "Podrán emitir informes de valoración de las ofertas los cargos públicos representativos."
+   ]
+  },
+  {
+   "id": "au-24-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 10,
+   "enunciado": "Los órganos de contratación de las entidades del sector público estatal con consideración de poder adjudicador, necesitarán la autorización del Consejo de Ministros para celebrar contratos públicos:",
+   "opciones": [
+    "En contratos de obras en que el presupuesto de licitación sea igual o superior a doce millones de euros.",
+    "En los acuerdos marco cuyo valor estimado sea igual o superior a diez millones de euros.",
+    "En contratos cuyo pago se concierte mediante arrendamiento financiero y el número de anualidades supere cuatro años.",
+    "Todas las respuestas son correctas."
+   ]
+  },
+  {
+   "id": "au-24-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 11,
+   "enunciado": "¿A quién corresponden las funciones de órgano de contratación del sistema estatal de contratación centralizada?",
+   "opciones": [
+    "A los Secretarios de Estado.",
+    "Al Ministerio de Hacienda, a través de los Secretarios de Estado.",
+    "Al Ministerio de Hacienda, a través de la Junta de Contratación Centralizada.",
+    "Al Presidente del Gobierno, a través de la Junta de Contratación Centralizada."
+   ]
+  },
+  {
+   "id": "au-24-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 12,
+   "enunciado": "Señale cuál de los siguientes no tiene la consideración de órgano de contratación estatal, de conformidad con lo dispuesto en el artículo 323 de la LCSP:",
+   "opciones": [
+    "Los Secretarios de Estado.",
+    "Los Presidentes o Directores de los organismos autónomos.",
+    "Los Directores generales de las distintas Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "El Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "au-24-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 13,
+   "enunciado": "Señale la respuesta incorrecta, en relación con la autorización del Consejo de Ministros para celebrar contratos a que se refiere el artículo 324 de la LCSP:",
+   "opciones": [
+    "Será necesaria cuando el valor estimado del contrato, calculado conforme a lo señalado en el artículo 101, sea igual o superior a doce millones de euros.",
+    "Con carácter previo a la obtención de la autorización del Consejo de Ministros, al órgano de contratación le corresponderá la aprobación del expediente y la aprobación del gasto.",
+    "Será necesaria en los acuerdos marco cuyo valor estimado sea igual o superior a doce millones de euros.",
+    "La autorización del Consejo de Ministros deberá obtenerse antes de la aprobación del expediente."
+   ]
+  },
+  {
+   "id": "au-24-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 14,
+   "enunciado": "Señale la respuesta correcta, en relación con la autorización del Consejo de Ministros para celebrar contratos a que se refiere el artículo 324 de la LCSP:",
+   "opciones": [
+    "La autorización del Consejo de Ministros deberá obtenerse previa o simultáneamente a la aprobación del expediente.",
+    "El Consejo de Ministros podrá reclamar discrecionalmente el conocimiento y autorización de cualquier contrato.",
+    "La autorización del Consejo de Ministros implicará la aprobación del gasto.",
+    "La autorización del Consejo de Ministros implicará la aprobación del expediente."
+   ]
+  },
+  {
+   "id": "au-24-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (24) - LCSP (arts 316 a 327)",
+   "n": 15,
+   "enunciado": "En el ámbito del Sector Público Estatal, antes de celebrar un contrato de concesión de obras, será preceptivo y vinculante un informe del Ministerio de Hacienda, para contratos cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "Tres millones de euros.",
+    "Seis millones de euros.",
+    "Diez millones de euros.",
+    "Doce millones de euros."
+   ]
+  },
+  {
+   "id": "au-25-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 1,
+   "enunciado": "El órgano específico de regulación y consulta en materia de contratación pública del sector público estatal es:",
+   "opciones": [
+    "La Junta Consultiva de Contratación Pública del Estado.",
+    "El Comité de cooperación en materia de contratación pública.",
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación.",
+    "La Intervención General de la Administración del Estado."
+   ]
+  },
+  {
+   "id": "au-25-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 2,
+   "enunciado": "Con la finalidad de velar por la correcta aplicación de la legislación y, en particular, promover la concurrencia y combatir las ilegalidades, en relación con la contratación pública se crea:",
+   "opciones": [
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación.",
+    "El Comité de cooperación en materia de contratación pública.",
+    "La Junta Consultiva de Contratación Pública del Estado.",
+    "La Comisión Nacional de los Mercados y la Competencia."
+   ]
+  },
+  {
+   "id": "au-25-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 3,
+   "enunciado": "A efectos puramente organizativos y presupuestarios, la Oficina Independiente de Regulación y Supervisión de la Contratación se adscribe a:",
+   "opciones": [
+    "El Ministerio de Hacienda.",
+    "El Ministerio de Interior.",
+    "El Ministerio de Presidencia.",
+    "El Ministerio de Industria."
+   ]
+  },
+  {
+   "id": "au-25-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 4,
+   "enunciado": "La Estrategia Nacional de Contratación Pública tendrá un horizonte temporal de:",
+   "opciones": [
+    "Un año.",
+    "Dos años.",
+    "Tres años.",
+    "Cuatro años."
+   ]
+  },
+  {
+   "id": "au-25-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 5,
+   "enunciado": "En los casos previstos en el artículo 335 de la LCSP, para el ejercicio de la función fiscalizadora, deberá remitirse al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma una copia certificada del documento en el que se hubiere formalizado el contrato:",
+   "opciones": [
+    "Dentro del mes siguiente a la formalización del contrato.",
+    "Dentro de los dos meses siguientes a la formalización del contrato.",
+    "Dentro de los tres meses siguientes a la formalización del contrato.",
+    "Dentro de los seis meses siguientes a la formalización del contrato."
+   ]
+  },
+  {
+   "id": "au-25-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 6,
+   "enunciado": "Tiene por objeto la inscripción de los datos y circunstancias que resulten relevantes para acreditar las condiciones de aptitud de los empresarios para contratar con las Administraciones Públicas y demás organismos y entidades del sector público:",
+   "opciones": [
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación.",
+    "La Oficina Nacional de Evaluación.",
+    "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "El Comité de cooperación en materia de contratación pública."
+   ]
+  },
+  {
+   "id": "au-25-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 7,
+   "enunciado": "El Ministerio de Hacienda mantendrá un Registro de Contratos, en el que se inscribirán:",
+   "opciones": [
+    "Los datos básicos de los contratos adjudicados por las distintas Administraciones Públicas.",
+    "Todos los datos de los contratos adjudicados por las distintas Administraciones Públicas.",
+    "Los datos básicos de los contratos adjudicados por la Administración General del Estado, exclusivamente.",
+    "Todos los datos de los contratos adjudicados por la Administración General del Estado."
+   ]
+  },
+  {
+   "id": "au-25-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (25) - LCSP (arts 328 a 347)",
+   "n": 8,
+   "enunciado": "Constituye el sistema oficial central de información sobre la contratación pública en España:",
+   "opciones": [
+    "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "El Registro de Contratos del Sector Público.",
+    "La estrategia de contratación pública.",
+    "La Plataforma de Contratación del Sector Público."
+   ]
+  }
+ ]
+}

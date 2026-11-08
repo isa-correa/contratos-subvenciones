@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-01-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 1,
+   "enunciado": "A través de la nueva Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo:",
+   "opciones": [
+    "2013/23/UE y 2013/24/UE, de 26 de febrero de 2013.",
+    "2015/23/UE y 2015/24/UE, de 26 de febrero de 2015.",
+    "2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.",
+    "2016/23/UE y 2016/24/UE, de 26 de febrero de 2016."
+   ]
+  },
+  {
+   "id": "au-01-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 2,
+   "enunciado": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, entra en vigor:",
+   "opciones": [
+    "A los 4 meses de su publicación en el BOE, salvo las excepciones previstas en su disposición final 16.",
+    "A los 6 meses de su publicación en el BOE, salvo las excepciones previstas en su disposición final 16.",
+    "A los 8 meses de su publicación en el BOE, salvo las excepciones previstas en su disposición final 16.",
+    "A los 9 meses de su publicación en el BOE, salvo las excepciones previstas en su disposición final 16."
+   ]
+  },
+  {
+   "id": "au-01-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 3,
+   "enunciado": "La Ley 9/2017, de Contratos del Sector Público, tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de:",
+   "opciones": [
+    "Publicidad, transparencia, eficacia y eficiencia en la contratación pública.",
+    "Eficacia y eficiencia en la contratación.",
+    "No discriminación e igualdad de trato entre los licitadores y coordinación entre las Administraciones.",
+    "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores."
+   ]
+  },
+  {
+   "id": "au-01-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 4,
+   "enunciado": "Según el artículo 9 de la LCSP, ¿cuál de los siguientes contratos se excluye de su ámbito de aplicación?",
+   "opciones": [
+    "Contrato de suscripción a revistas, publicaciones periódicas y bases de datos.",
+    "Contrato de arrendamiento de bienes inmuebles.",
+    "Contrato de concesión de obras.",
+    "Contrato de suministros."
+   ]
+  },
+  {
+   "id": "au-01-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 5,
+   "enunciado": "Los plazos establecidos en la Ley 9/2017, se entienden referidos a:",
+   "opciones": [
+    "Días hábiles, salvo que se indique expresamente que solo deben computarse los días naturales.",
+    "Días naturales, salvo que se indique expresamente que solo deben computarse los días hábiles.",
+    "Días naturales, en todo caso.",
+    "Días hábiles, en todo caso."
+   ]
+  },
+  {
+   "id": "au-01-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 6,
+   "enunciado": "¿Cuál de los siguientes tipos de contratos están excluidos del ámbito de la Ley 9/2017?",
+   "opciones": [
+    "Contrato concesión de obras.",
+    "Contrato de suministros.",
+    "Contrato de servicios.",
+    "Contrato relativo a servicios de arbitraje y conciliación."
+   ]
+  },
+  {
+   "id": "au-01-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 7,
+   "enunciado": "A los efectos del ámbito subjetivo de la Ley de Contratos del Sector Publico, las fundaciones públicas tienen la consideración de:",
+   "opciones": [
+    "Administraciones Públicas.",
+    "Poderes adjudicadores.",
+    "Entes del sector público con carácter de Administración pública.",
+    "Entes del sector público sin el carácter de poder adjudicador."
+   ]
+  },
+  {
+   "id": "au-01-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 8,
+   "enunciado": "¿Cuál de los siguientes contratos está excluido del ámbito de la Ley 9/2017, de contratos del sector público?",
+   "opciones": [
+    "Contratos que tengan por objeto servicios relacionados con campañas políticas, adjudicados por un partido político.",
+    "Contratos de concesión de servicios.",
+    "Contratos de concesión de obras.",
+    "Contratos de espectáculos."
+   ]
+  },
+  {
+   "id": "au-01-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 9,
+   "enunciado": "Se encuentra excluido de aplicación de acuerdo con la Ley 9/2017, el siguiente contrato:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de compraventa sobre propiedades incorporales, a no ser que recaiga sobre programas de ordenador.",
+    "Contrato de suministros.",
+    "Contrato de concesión de obras."
+   ]
+  },
+  {
+   "id": "au-01-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 10,
+   "enunciado": "¿Qué carácter tendrán los contratos de compraventa, donación, permuta y arrendamiento sobre valores negociables?",
+   "opciones": [
+    "Contratos administrativos.",
+    "Contratos de suministros.",
+    "Contratos de servicios.",
+    "Contratos privados."
+   ]
+  },
+  {
+   "id": "au-01-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 11,
+   "enunciado": "A tenor del artículo 11, quedan excluidos del ámbito de aplicación de la LCSP, los siguientes negocios o contratos:",
+   "opciones": [
+    "La relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral.",
+    "La prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público.",
+    "Los contratos relativos a servicios de arbitraje y conciliación.",
+    "Todos los anteriores quedan excluidos de la aplicación de esta ley."
+   ]
+  },
+  {
+   "id": "au-01-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 12,
+   "enunciado": "¿Qué calificación jurídica reciben los fondos sin personalidad jurídica a efectos de la aplicación de la LCSP?",
+   "opciones": [
+    "Administración pública.",
+    "Poder adjudicador.",
+    "Sector público.",
+    "Están excluidos del ámbito de aplicación de la LCSP."
+   ]
+  },
+  {
+   "id": "au-01-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 13,
+   "enunciado": "Según la LCSP, no se consideran Administraciones públicas:",
+   "opciones": [
+    "Las Diputaciones Forales y las Juntas Generales de los Territorios Históricos del País Vasco.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.",
+    "Las Ciudades Autónomas de Ceuta y Melilla y las Entidades que integran la Administración Local."
+   ]
+  },
+  {
+   "id": "au-26-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 1,
+   "enunciado": "¿Cuál de las siguientes actuaciones es propia de la actividad de policía de la Administración?",
+   "opciones": [
+    "La licencia de apertura de un establecimiento de hostelería.",
+    "Una subvención a una asociación agraria para limitar la proliferación de plagas.",
+    "La prestación de un servicio de transporte regular limitado.",
+    "Las bonificaciones en la cotización de formación profesional de la Seguridad Social."
+   ]
+  },
+  {
+   "id": "au-26-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 2,
+   "enunciado": "Indique cuál de las siguientes respuestas se refiere a una actividad administrativa de servicio público:",
+   "opciones": [
+    "Concesión de una licencia para realizar una obra menor.",
+    "Apertura de un hospital por parte del Ministerio de Sanidad.",
+    "Concesión de una beca por parte del Ministerio de Educación.",
+    "Premios principe de Asturias."
+   ]
+  },
+  {
+   "id": "au-26-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 3,
+   "enunciado": "Señale cuál de los siguientes NO es uno de los requisitos de las subvenciones, conforme al artículo 2 de la LGS:",
+   "opciones": [
+    "Que la entrega se realice con contraprestación directa del beneficiario.",
+    "Que la entrega esté sujeta al cumplimiento de un determinado objetivo.",
+    "Que el proyecto tenga por objeto el fomento de una actividad de utilidad pública o interés social.",
+    "Que la entrega se realice sin contraprestación directa de los beneficiarios."
+   ]
+  },
+  {
+   "id": "au-26-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 4,
+   "enunciado": "Indique cuál de las siguientes respuestas se refiere a una actividad administrativa de fomento:",
+   "opciones": [
+    "La ejecución de las obras de un colegio por parte de la Junta de Andalucía.",
+    "La concesión de una licencia para la ocupación del dominio público por parte de un Ayuntamiento.",
+    "Autorización de residencia para extranjeros.",
+    "Exoneración de cuotas a la seguridad social por contratar a trabajadores con un grado de discapacidad."
+   ]
+  },
+  {
+   "id": "au-26-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 5,
+   "enunciado": "Señale la respuesta incorrecta. De acuerdo con el artículo 2 de la LGS, no tienen carácter de subvenciones:",
+   "opciones": [
+    "Los beneficios fiscales y beneficios en la cotización a la Seguridad Social.",
+    "Las disposiciones dinerarias realizadas a favor de personas públicas o privadas que cumplan determinados requisitos.",
+    "Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social.",
+    "Las prestaciones reconocidas por el Fondo de Garantía Salarial."
+   ]
+  },
+  {
+   "id": "au-26-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 6,
+   "enunciado": "¿Cuál de los siguientes supuestos tiene carácter de subvención de acuerdo a la Ley 38/2003, General de Subvenciones?",
+   "opciones": [
+    "Los premios que se otorguen previa solicitud del beneficiario.",
+    "Las prestaciones no contributivas del Sistema de Seguridad Social.",
+    "Las prestaciones contributivas del Sistema de Seguridad Social.",
+    "Los beneficios fiscales y beneficios en la cotización a la Seguridad Social."
+   ]
+  },
+  {
+   "id": "au-26-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 7,
+   "enunciado": "¿Cuál de las siguientes subvenciones no está excluida de la aplicación de la Ley General de Subvenciones?",
+   "opciones": [
+    "Las subvenciones para la financiación de los partidos políticos.",
+    "Las subvenciones previstas nominativamente en los Presupuestos Generales de cada Administración pública.",
+    "Las subvenciones previstas en la Ley Orgánica de Régimen Electoral.",
+    "Los premios que se otorguen sin la previa solicitud del beneficiario."
+   ]
+  },
+  {
+   "id": "au-26-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 8,
+   "enunciado": "Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social:",
+   "opciones": [
+    "Solo las contributivas tienen carácter de subvenciones a efectos de la Ley 38/2003.",
+    "Solo las no contributivas tienen carácter de subvenciones a efectos de la Ley 38/2003.",
+    "No tienen carácter de subvenciones.",
+    "Tienen carácter de subvenciones a efectos de la Ley 38/2003."
+   ]
+  },
+  {
+   "id": "au-26-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 9,
+   "enunciado": "¿Cuál de los siguientes medios es un ejemplo de actividad de fomento?",
+   "opciones": [
+    "Servicio de transporte público.",
+    "Multas administrativas.",
+    "Licencias de obra.",
+    "Condecoraciones y títulos."
+   ]
+  },
+  {
+   "id": "au-26-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 10,
+   "enunciado": "¿Cuál es la finalidad principal de la actividad de fomento de la Administración?",
+   "opciones": [
+    "Mantener el orden público.",
+    "Dirigir la acción de los particulares hacía fines de interés general.",
+    "Suministrar prestaciones a los particulares.",
+    "Reprimir conductas contrarias a la ley."
+   ]
+  },
+  {
+   "id": "au-26-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 11,
+   "enunciado": "¿Cuál de los siguientes no es un requisito para que una disposición dineraria sea considerada subvención?",
+   "opciones": [
+    "Que la otorgue una persona física o jurídica.",
+    "Que se entregue sin contraprestación directa.",
+    "Tener por objeto el fomento de una actividad de utilidad pública o interés social.",
+    "Que la entrega esté sujeta al cumplimiento de un determinado objetivo."
+   ]
+  },
+  {
+   "id": "au-26-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 12,
+   "enunciado": "Señale la respuesta incorrecta. Según el articulo 2 de la LGS, no tendrán carácter de subvención:",
+   "opciones": [
+    "Las prestaciones a favor de afectados por el virus de inmunodeficiencia humana.",
+    "Subvención a los intereses del crédito oficial.",
+    "Las ayudas económicas concedidas a víctimas de violencia de género.",
+    "Los beneficios fiscales."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-05-042",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 42,
+   "enunciado": "Conforme a la LCSP, señale la respuesta INCORRECTA en relación con el procedimiento de diálogo competitivo:",
+   "opciones": [
+    "El procedimiento podrá articularse en fases sucesivas, a fin de reducir progresivamente el número de soluciones a examinar.",
+    "La mesa especial de diálogo competitivo dirige un diálogo con los candidatos seleccionados.",
+    "El procedimiento de diálogo competitivo no estará precedido de la publicación de un anuncio de licitación.",
+    "En caso de que se decida limitar el número de empresas a las que se invitará a dialogar, el número mínimo será de tres."
+   ]
+  },
+  {
+   "id": "vo-05-043",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 43,
+   "enunciado": "Según el artículo 177 de la LCSP, el procedimiento cuya finalidad es el desarrollo de productos, obras y servicios innovadores y la compra ulterior de los mismos es: (Galicia A1 2021)",
+   "opciones": [
+    "La asociación para la innovación.",
+    "El diálogo competitivo.",
+    "La licitación con negociación.",
+    "El procedimiento negociado sin publicidad."
+   ]
+  },
+  {
+   "id": "vo-05-044",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 44,
+   "enunciado": "Conforme a la LCSP, indique cuál de las siguientes NO es una característica del procedimiento de asociación para la innovación.",
+   "opciones": [
+    "La asociación se estructurará en fases sucesivas siguiendo la secuencia de las etapas del proceso de investigación.",
+    "El órgano de contratación podrá decidir al final de cada fase resolver la asociación, indemnizando a los participantes.",
+    "Los PCAP determinarán la necesidad que no puede ser satisfecha mediante las soluciones ya disponibles en el mercado.",
+    "Podrá limitarse el número de candidatos aptos que hayan de ser invitados a participar, siendo tres el número mínimo."
+   ]
+  },
+  {
+   "id": "vo-05-045",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 45,
+   "enunciado": "En relación con el procedimiento de asociación para la innovación, cuando la adquisición de las obras, servicios o suministros resultantes conlleve la realización de prestaciones sucesivas, aquella solo se podrá llevar a cabo durante un periodo máximo de:",
+   "opciones": [
+    "2 años.",
+    "4 años.",
+    "5 años.",
+    "10 años."
+   ]
+  },
+  {
+   "id": "vo-06-001",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 1,
+   "enunciado": "Entre las prerrogativas de la Administración Pública en contratos administrativos NO se encuentra: (Castilla La Mancha 2019)",
+   "opciones": [
+    "Un derecho general a inspeccionar las instalaciones, oficinas y emplazamientos en que el contratista desarrolle sus actividades.",
+    "Interpretar los contratos, resolviendo las dudas que ofrezca su cumplimiento.",
+    "Modificar los contratos por razones de interés público.",
+    "Declarar la responsabilidad imputable al contratista a raíz de la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "vo-06-002",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 2,
+   "enunciado": "Conforme al artículo 191.4 de la LCSP, los acuerdos que adopte el órgano de contratación durante la ejecución de los contratos administrativos, en el ejercicio de sus prerrogativas: (Cortes Generales A2 2020)",
+   "opciones": [
+    "No pondrán fin a vía administrativa.",
+    "Pondrán fin a la vía administrativa y serán inmediatamente ejecutivos.",
+    "Pondrán fin a la vía administrativa pero no serán inmediatamente ejecutivos.",
+    "No pondrán fin a vía administrativa y serán inmediatamente ejecutivos."
+   ]
+  },
+  {
+   "id": "vo-06-003",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 3,
+   "enunciado": "En el ejercicio de sus prerrogativas en materia de contratación, la Administración General del Estado, con carácter preceptivo, solicitará el dictamen del Consejo de Estado:",
+   "opciones": [
+    "Cuando declare la nulidad de un contrato administrativo, se formule o no oposición del contratista.",
+    "Cuando acuerde una modificación del contrato prevista en el PCAP que exceda del 20 % de su precio inicial.",
+    "Cuando en la interpretación de un contrato administrativo se formule oposición por parte del contratista.",
+    "Cuando acuerde cualquier modificación del contrato que no estuviera previstas en el PCAP."
+   ]
+  },
+  {
+   "id": "vo-06-004",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 4,
+   "enunciado": "De acuerdo con el artículo 192 de la LCSP, la cuantía de cada una de las penalidades para el caso de cumplimiento defectuoso de la prestación objeto del contrato, no podrá ser superior a: (GACE-LI-EXT 2021)",
+   "opciones": [
+    "El 10% del precio del contrato, IVA excluido.",
+    "El 10% del precio del contrato, IVA incluido.",
+    "El 50% del precio del contrato, IVA excluido.",
+    "El 20% del precio del contrato, IVA incluido."
+   ]
+  },
+  {
+   "id": "vo-06-005",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 5,
+   "enunciado": "Conforme al artículo 192 de la LCSP, cuando el contratista, por causas imputables al mismo, hubiere incumplido parcialmente la ejecución de las prestaciones definidas en el contrato, la Administración, atendidas las circunstancias del caso:",
+   "opciones": [
+    "Acordará la resolución del contrato.",
+    "Acordará la imposición de las penalidades que, para tal supuesto, deberán prever los PCAP.",
+    "Podrá optar por resolver el contrato o por la imposición de las penalidades que se determinen en el PCAP.",
+    "Podrá optar por su resolución o por imponer penalidades diarias de 0,60 euros por cada 1.000 euros del precio del contrato."
+   ]
+  },
+  {
+   "id": "vo-06-006",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 6,
+   "enunciado": "Conforme al artículo 192 de la LCSP, la cuantía total de las penalidades para el supuesto de incumplimiento de los compromisos o de las condiciones especiales de ejecución del contrato no podrán ser superiores a:",
+   "opciones": [
+    "El 10% del precio del contrato, IVA excluido.",
+    "El 10% del precio del contrato, IVA incluido.",
+    "El 20% del precio del contrato, IVA incluido.",
+    "El 50% del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "vo-06-007",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 7,
+   "enunciado": "Conforme a la LCSP, en caso de demora en el plazo total de ejecución del contrato, la Administración: (ADMVO-LI-EXT 2021)",
+   "opciones": [
+    "Procederá a la resolución del contrato, que implicará la imposición de penalidades diarias.",
+    "Podrá optar entre resolver el contrato o imponer penalidades, siempre que la demora sea imputable al contratista.",
+    "Procederá, previa intimación al contratista, a la resolución del contrato.",
+    "Podrá optar entre resolver el contrato o imponer penalidades, aun cuando la demora no fuese imputable al contratista."
+   ]
+  },
+  {
+   "id": "vo-06-008",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 8,
+   "enunciado": "Según el artículo 193 de la LCSP, el órgano de contratación estará facultado para resolver el contrato o acordar la imposición de nuevas penalidades por demora, cada vez que estas alcancen un múltiplo del: (GACE-LI-EXT 2021)",
+   "opciones": [
+    "5 por 100 del precio del contrato, IVA incluido.",
+    "5 por 100 del precio del contrato, IVA excluido.",
+    "3 por 100 del precio del contrato, IVA incluido.",
+    "3 por 100 del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "vo-06-009",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 9,
+   "enunciado": "Según el artículo 193 de la LCSP, cuando el contratista, por causas imputables al mismo, hubiere incurrido en demora respecto al cumplimiento del plazo total para la ejecución del contrato, la Administración podrá optar por:",
+   "opciones": [
+    "La resolución del contrato o la imposición de penalidades semanales.",
+    "La suspensión del contrato o la imposición de penalidades diarias.",
+    "La resolución del contrato o la imposición de penalidades diarias.",
+    "La suspensión del contrato o la modificación del mismo."
+   ]
+  },
+  {
+   "id": "vo-06-010",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 10,
+   "enunciado": "Conforme al artículo 194 de la LCSP, la imposición de penalidades en los supuestos de incumplimiento parcial de un contrato administrativo por parte de un contratista se impondrá por acuerdo de: (ADMVO-PI-EXT 2021)",
+   "opciones": [
+    "El responsable del contrato.",
+    "La mesa de contratación.",
+    "La Junta Consultiva de Contratación Administrativa.",
+    "El órgano de contratación."
+   ]
+  },
+  {
+   "id": "vo-06-011",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 11,
+   "enunciado": "Conforme al artículo 195.2 de la LCSP, en los supuestos de retraso producido por motivos no imputables al contratista, si este ofreciera cumplir sus compromisos, el órgano de contratación: (Galicia C1 2021)",
+   "opciones": [
+    "Le concederá un plazo al menos igual al tiempo perdido, a no ser que el contratista pidiese otro menor.",
+    "Le concederá un plazo al menos igual al tiempo perdido, a no ser que el contratista pidiese otro mayor.",
+    "Le concederá al contratista el plazo que estime suficiente para cumplir sus compromisos.",
+    "Podrá optar entre la resolución del contrato o la imposición de penalidades."
+   ]
+  },
+  {
+   "id": "vo-06-012",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 12,
+   "enunciado": "De acuerdo con el artículo 196 de la LCSP, indemnizar todos los daños y perjuicios que se causen a terceros como consecuencia de las operaciones que requiera la ejecución del contrato será obligación de:",
+   "opciones": [
+    "El contratista, en todo caso.",
+    "La Administración, en todo caso.",
+    "La Administración, cuando los daños se hayan ocasionado como consecuencia de vicios del proyecto en el contrato de obras.",
+    "La Administración, cuando los daños hayan sido ocasionados como consecuencia indirecta de una orden de la Administración."
+   ]
+  },
+  {
+   "id": "vo-06-013",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 13,
+   "enunciado": "De acuerdo con lo previsto en el artículo 198 de la LCSP, el contratista podrá proceder a suspender el cumplimiento del contrato, debiendo comunicarlo a la Administración, con un mes de antelación: (Galicia A1 2021)",
+   "opciones": [
+    "Si la demora en el pago fuese superior a seis meses.",
+    "Si la demora en el pago fuese superior a cuatro meses.",
+    "Si la demora en el pago fuese superior a cinco meses.",
+    "Si la demora en el pago fuese superior a tres meses."
+   ]
+  },
+  {
+   "id": "vo-06-014",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 14,
+   "enunciado": "De acuerdo con el artículo 198 de la LCSP, la Administración tendrá la obligación de abonar el precio dentro de:",
+   "opciones": [
+    "Los 30 días siguientes a la aprobación de los documentos que acrediten la conformidad con los servicios prestados.",
+    "Los 60 días siguientes a la fecha de aprobación de las certificaciones de obra.",
+    "Los 30 días siguientes a la entrega o realización del objeto del contrato.",
+    "Los 60 días siguientes a la entrega o realización del objeto del contrato."
+   ]
+  },
+  {
+   "id": "vo-06-015",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 15,
+   "enunciado": "Conforme al artículo 198 de la LCSP, y en relación al pago del precio: (Universidad de Mérida, Esp. Jurídica 2021)",
+   "opciones": [
+    "La Administración abonará el precio dentro de los 60 días siguientes a la fecha de aprobación de las certificaciones de obra.",
+    "Si la demora en el pago fuese superior a cuatro meses, el contratista podrá proceder, en su caso, a la resolución del contrato.",
+    "Si la demora en el pago fuese superior a treinta días, el contratista podrá suspender el cumplimiento del contrato.",
+    "Los abonos a cuenta podrán ser embargados para el pago de salarios devengados por el personal en la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "vo-06-016",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 16,
+   "enunciado": "Según el artículo 204 de la LCSP, cuando en los PCAP se hubiere advertido expresamente esta posibilidad, los contratos podrán modificarse durante su vigencia hasta un máximo del: (Galicia C1 2021)",
+   "opciones": [
+    "Veinte por ciento del presupuesto base de licitación.",
+    "Treinta por ciento del valor estimado.",
+    "Cincuenta por ciento del precio final.",
+    "Veinte por ciento del precio inicial."
+   ]
+  },
+  {
+   "id": "vo-06-017",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 17,
+   "enunciado": "Según el artículo 203 de la LCSP, en relación con las modificaciones de los contratos administrativos: (Castilla La Mancha 2019)",
+   "opciones": [
+    "Podrán modificarse hasta un máximo del 20 % del valor estimado cuando se hubiese advertido expresamente en los PCAP.",
+    "En ningún caso los PCAP podrán prever modificaciones que puedan alterar la naturaleza global del contrato inicial.",
+    "Las Administraciones Públicas no podrán modificar los contratos si no ha sido previsto expresamente en los PCAP.",
+    "La cláusula para la modificación de los contratos administrativos deberá estar prevista de forma clara y precisa en los PPT."
+   ]
+  },
+  {
+   "id": "vo-06-018",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 18,
+   "enunciado": "El incumplimiento de los requisitos exigidos para modificar los contratos en los artículos 204 y 205 de la LCSP, constituye:",
+   "opciones": [
+    "Una causa de nulidad de derecho administrativo.",
+    "Una causa de anulabilidad de derecho administrativo.",
+    "Una causa de invalidez de derecho civil.",
+    "No constituye ninguna causa de invalidez."
+   ]
+  },
+  {
+   "id": "vo-06-019",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 19,
+   "enunciado": "Para tramitar una modificación de un contrato que NO estaba prevista en el PCAP, se deben cumplir los requisitos del artículo 205 de la LCSP. Señale la respuesta FALSA en relación con dichos requisitos: (ADMVO-LI 2023)",
+   "opciones": [
+    "La modificación se limitará a introducir variaciones indispensables para responder a la causa objetiva que la haga necesaria.",
+    "La modificación no alterará la naturaleza global del contrato.",
+    "La necesidad de la modificación se derivará de circunstancias que una Administración diligente hubiera podido prever.",
+    "La modificación no implicará una alteración en su cuantía que exceda del 50 % de su precio inicial, IVA excluido."
+   ]
+  },
+  {
+   "id": "vo-06-020",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 20,
+   "enunciado": "Conforme al artículo 205 de la LCSP, una modificación de un contrato se considera sustancial: (Castilla La Mancha A2 2019)",
+   "opciones": [
+    "Cuando supere el 5% del precio inicial, IVA excluido.",
+    "Cuando tenga como resultado un contrato de naturaleza materialmente diferente al celebrado en un principio.",
+    "Cuando el contratista se oponga a la modificación.",
+    "Cuando no haya sido prevista en el Pliego de cláusulas Administrativas Particulares (PCAP)."
+   ]
+  },
+  {
+   "id": "vo-06-021",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 21,
+   "enunciado": "Según la LCSP, los supuestos de modificación del contrato recogidos en el artículo 205 serán obligatorios para los contratistas cuando impliquen, aislada o conjuntamente: (Cortes Generales A2 2020)",
+   "opciones": [
+    "Una alteración en su cuantía que no exceda del 20 % del precio inicial del contrato, IVA incluido.",
+    "Una alteración en su cuantía que no exceda del 50 % del precio inicial del contrato, IVA excluido.",
+    "Una alteración en su cuantía que no exceda del 20 % del precio inicial del contrato, IVA excluido.",
+    "Una alteración en su cuantía que no exceda del 50 % del precio inicial del contrato, IVA incluido."
+   ]
+  },
+  {
+   "id": "vo-06-022",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 22,
+   "enunciado": "Según el artículo 208 de la LCSP, si la Administración acuerda suspender un contrato: (Cuerpo Ingenieros Caminos AGE 2021)",
+   "opciones": [
+    "El derecho a reclamar prescribe a los tres meses.",
+    "El derecho a reclamar prescribe a los seis meses desde que el contratista reciba la orden de reanudar la ejecución.",
+    "Se extenderá un acta, solo de oficio, en la que se consignarán las circunstancias que motivaron la suspensión.",
+    "Se extenderá un acta, de oficio o a solicitud del contratista, consignándose las circunstancias que motivan la suspensión."
+   ]
+  },
+  {
+   "id": "vo-06-023",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 23,
+   "enunciado": "Conforme al artículo 208 de la LCSP, si la Administración acuerda la suspensión de un contrato de obras, ¿cuándo prescribe el derecho a reclamar, contado desde que el contratista recibe la orden de reanudar la ejecución del contrato? (GACE-LI 2021)",
+   "opciones": [
+    "En tres meses.",
+    "En seis meses.",
+    "En un año.",
+    "En dieciocho meses."
+   ]
+  },
+  {
+   "id": "vo-06-024",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 24,
+   "enunciado": "Si un Ministerio adquiere mobiliario para sus nuevas instalaciones, ¿cuándo se entendería cumplido el contrato según la LCSP? (ADMVO-LI 2019)",
+   "opciones": [
+    "Cuando haya transcurrido el plazo establecido para la entrega.",
+    "Cuando haya transcurrido el plazo de garantía señalado y se haya levantado acta de conformidad por la Administración.",
+    "Cuando tenga lugar la liquidación del contrato.",
+    "Cuando el contratista haya realizado la totalidad de la prestación, a satisfacción de la Administración."
+   ]
+  },
+  {
+   "id": "vo-06-025",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 25,
+   "enunciado": "Según la LCSP, la constatación del cumplimiento de un contrato exigirá, en todo caso, un acto formal y positivo de recepción o conformidad por parte de la Administración:",
+   "opciones": [
+    "En un plazo de tres meses desde la entrega o realización del objeto del contrato.",
+    "Dentro de la semana siguiente a la entrega o realización del objeto.",
+    "Al día siguiente a la entrega o realización del objeto del contrato.",
+    "Dentro del mes siguiente a la entrega o realización del objeto del contrato."
+   ]
+  },
+  {
+   "id": "vo-06-026",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 26,
+   "enunciado": "De acuerdo con el artículo 210 de la LCSP, la responsabilidad del contratista quedará extinguida:",
+   "opciones": [
+    "Cuando tenga lugar la liquidación del contrato.",
+    "Transcurrido el plazo de garantía sin objeciones por parte de la Administración.",
+    "Transcurridos treinta días a contar desde la fecha del acta de recepción o conformidad, sin objeción por la Administración.",
+    "Cuando el contratista haya realizado la totalidad de la prestación, a satisfacción de la Administración."
+   ]
+  },
+  {
+   "id": "vo-06-027",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 27,
+   "enunciado": "Según el artículo 213 de la LCSP, cuando el contrato se resuelva por incumplimiento culpable del contratista: (ADMVO-PI 2019)",
+   "opciones": [
+    "Deberá abonar los daños y perjuicios ocasionados hasta el importe de la garantía.",
+    "Solo le será incautada la garantía en pago de los daños y perjuicios ocasionados.",
+    "Solo le será incautada la garantía cuando concurra dolo, culpa o negligencia del contratista.",
+    "Le será incautada la garantía, debiendo, además, indemnizar los daños y perjuicios ocasionados en lo que excedan su importe."
+   ]
+  },
+  {
+   "id": "vo-06-028",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 28,
+   "enunciado": "Los expedientes de resolución contractual deberán ser instruidos y resueltos en el plazo máximo de: (GACE-LI 2019)",
+   "opciones": [
+    "Ocho meses.",
+    "Seis meses.",
+    "Diez meses.",
+    "Cuatro meses."
+   ]
+  },
+  {
+   "id": "vo-06-029",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 29,
+   "enunciado": "Según la LCSP que es causa de resolución del contrato el retraso injustificado sobre el plan de trabajos establecido en el pliego o en el contrato, por un plazo superior a: (Castilla León A1 2021)",
+   "opciones": [
+    "Un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas.",
+    "Un tercio del plazo de duración inicial del contrato excluidas las posibles prórrogas.",
+    "Un cuarto del plazo de duración inicial del contrato, incluidas las posibles prórrogas.",
+    "Un cuarto del plazo de duración inicial del contrato excluidas las posibles prórrogas."
+   ]
+  },
+  {
+   "id": "vo-06-030",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 30,
+   "enunciado": "Según el artículo 214 de la LCSP, NO es un requisito para que los contratistas puedan ceder sus contratos a terceros:",
+   "opciones": [
+    "Que la cesión se formalice, entre el adjudicatario y el cesionario, en escritura pública.",
+    "Que el órgano de contratación autorice, de forma previa y expresa, la cesión.",
+    "Que hubiesen transcurrido dos años desde la formalización del contrato.",
+    "Que el cesionario tenga capacidad para contratar con la Administración."
+   ]
+  },
+  {
+   "id": "vo-06-031",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 31,
+   "enunciado": "¿Cuál es el límite mínimo de ejecución para que un contratista pueda ceder un contrato de obras?",
+   "opciones": [
+    "El cedente debe tener ejecutado, al menos, el 20% del importe del contrato.",
+    "El cedente debe tener ejecutado, al menos, la quinta parte del plazo de ejecución de contrato.",
+    "No hay ningún límite, siempre que el cesionario reúna los requisitos de aptitud para contratar.",
+    "La cesión de un contrato de obras solo será posible cuando el contratista principal se halle en situación de insolvencia."
+   ]
+  },
+  {
+   "id": "vo-06-032",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 32,
+   "enunciado": "Según la LCSP, en los contratos de carácter secreto o reservado, la celebración de los subcontratos:",
+   "opciones": [
+    "Deberá formalizarse en escritura pública.",
+    "Habrá de ser comunicada al Consejo de Ministros en el plazo máximo de 30 días.",
+    "Requerirá siempre autorización expresa del órgano de contratación.",
+    "Está expresamente prohibida."
+   ]
+  },
+  {
+   "id": "vo-06-033",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 33,
+   "enunciado": "Conforme a lo dispuesto en el artículo 218 de la LCSP, ¿cuál de los siguientes NO es uno de los sistema para la racionalización de la contratación de las Administraciones Públicas?",
+   "opciones": [
+    "Los acuerdos marco.",
+    "La subasta electrónica.",
+    "Los sistemas dinámicos de adquisición.",
+    "Las centrales de contratación."
+   ]
+  },
+  {
+   "id": "vo-06-034",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 34,
+   "enunciado": "De acuerdo con lo dispuesto en el artículo 219 de la LCSP, la duración de un acuerdo marco no podrá exceder de:",
+   "opciones": [
+    "4 años, en ningún caso.",
+    "2 años, en ningún caso.",
+    "4 años, salvo en casos excepcionales, debidamente justificados.",
+    "2 años, salvo en casos excepcionales, debidamente justificados."
+   ]
+  },
+  {
+   "id": "vo-06-035",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 35,
+   "enunciado": "De acuerdo con la LCSP, la duración de los contratos basados en un acuerdo marco:",
+   "opciones": [
+    "Será la misma que la duración del acuerdo marco.",
+    "Será inferior a la duración del acuerdo marco.",
+    "Será superior a la duración del acuerdo marco.",
+    "Será independiente de la duración del acuerdo marco."
+   ]
+  },
+  {
+   "id": "vo-06-036",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 36,
+   "enunciado": "De conformidad con la LCSP, los sistemas dinámicos de adquisición:",
+   "opciones": [
+    "No podrán tener una duración superior a 4 años.",
+    "Permanecerán abiertos durante su vigencia a cualquier empresa interesada que cumpla los criterios de selección.",
+    "Permitirán la adquisición de servicios y suministros de uso corriente, pero no de obras.",
+    "Tendrán una duración indefinida."
+   ]
+  },
+  {
+   "id": "vo-06-037",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 37,
+   "enunciado": "Establece la LCSP, en relación con la adjudicación de los contratos específicos en el marco de un SDA, que:",
+   "opciones": [
+    "El plazo mínimo para la presentación de ofertas será de 20 días, a partir de la fecha de envío de la invitación escrita.",
+    "Los órganos de contratación invitarán a un mínimo de tres empresas.",
+    "Cada contrato que se pretenda adjudicar deberá ser objeto de una licitación.",
+    "Cuando el SDA establezca todos los términos de los contratos específicos, estos podrán adjudicarse sin nueva licitación."
+   ]
+  },
+  {
+   "id": "vo-06-038",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 38,
+   "enunciado": "Conforme al artículo 229 de la LCSP, la declaración de suministros, obras y servicios como bienes de contratación centralizada corresponde a:",
+   "opciones": [
+    "El Ministro de Hacienda.",
+    "El Consejo de Ministros.",
+    "La Junta Consultiva de Contratación Centralizada.",
+    "El órgano de contratación."
+   ]
+  },
+  {
+   "id": "vo-06-039",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 39,
+   "enunciado": "Si nos encontráramos ante un servicio declarado de contratación centralizada ¿cuál sería, de acuerdo con la LCSP, el órgano de contratación del sistema estatal? (ADMVO-LI-EXT 2023)",
+   "opciones": [
+    "La Ministra de Hacienda.",
+    "La Dirección de Racionalización y Centralización de la Contratación, por delegación de la Ministra de Hacienda.",
+    "La Junta de Contratación Centralizada.",
+    "La Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "vo-06-040",
+   "origen": "votaciones",
+   "test": "Clase 18 - Bloque III",
+   "n": 40,
+   "enunciado": "Para fijar las condiciones a que habrán de ajustarse los contratos que pretendan adjudicarse durante un período determinado, uno o varios órganos de contratación podrán celebrar, con una o varias empresas: (C1 Castilla La Mancha 2019)",
+   "opciones": [
+    "Centrales de compras.",
+    "Acuerdos marco.",
+    "Contratos basados.",
+    "Contratos específicos."
+   ]
+  },
+  {
+   "id": "vo-07-003",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 3,
+   "enunciado": "Según la Ley General de Subvenciones, una subvención que no van a ser financiada con cargo a fondos de la Unión Europea, ¿que régimen jurídico le será de aplicación?",
+   "opciones": [
+    "Las normas de derecho privado en todo caso.",
+    "El derecho comunitario, dado que las subvenciones van dirigidas a varias Comunidades Autónomas.",
+    "El derecho privado y las restantes normas de desarrollo y, en su defecto, el derecho administrativo.",
+    "La Ley General de Subvenciones y sus disposiciones de desarrollo, las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado."
+   ]
+  },
+  {
+   "id": "vo-07-004",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 4,
+   "enunciado": "Indique la afirmación correcta en relación con el concepto de subvención y el ámbito de aplicación de la LGS:",
+   "opciones": [
+    "La entrega ha de estar sujeta al cumplimiento de un determinado objetivo, siempre que estos hayan sido ya realizados.",
+    "Tienen carácter de subvención las prestaciones no contributivas del Sistema de la Seguridad Social.",
+    "Están excluidas del ámbito de aplicación de la Ley los premios que se otorguen a solicitud del beneficiario.",
+    "No tienen carácter de subvención las prestaciones reconocidas por el Fondo de Garantía Salarial."
+   ]
+  },
+  {
+   "id": "vo-07-007",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 7,
+   "enunciado": "Según el artículo 10 de la LGS, en un organismo autónomo, ¿cuál es la autoridad competente para conceder una subvención de cuantía superior a 12 millones de euros?",
+   "opciones": [
+    "El Consejo de Ministros.",
+    "El Presidente o Director del organismo autónomo, con autorización del Consejo de Ministros.",
+    "El titular del Departamento ministerial, con autorización del Consejo de Ministros.",
+    "El Presidente o Director del organismo autónomo, con autorización del titular del Departamento ministerial."
+   ]
+  },
+  {
+   "id": "vo-07-008",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 8,
+   "enunciado": "Conforme a la LGS, ¿cuál de los siguientes NO es un requisito que debe cumplir el otorgamiento de una subvención?",
+   "opciones": [
+    "La competencia del órgano administrativo concedente.",
+    "La existencia de crédito adecuado y suficiente para atender las obligaciones económicas que se derivan de su concesión.",
+    "La tramitación del procedimiento de concesión de acuerdo con las normas que resulten de aplicación.",
+    "La audiencia pública."
+   ]
+  },
+  {
+   "id": "vo-07-009",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 9,
+   "enunciado": "La aprobación de las bases reguladoras de las subvenciones, a nivel estatal, se lleva a cabo por:",
+   "opciones": [
+    "Real Decreto del Consejo de Ministros.",
+    "Por Orden ministerial.",
+    "Resolución, o en su caso, instrucción.",
+    "Ley Orgánica."
+   ]
+  },
+  {
+   "id": "vo-07-011",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 11,
+   "enunciado": "Según la LGS, la duración total, incluido prórrogas, de un convenio de colaboración entre un órgano administrativo concedente y una entidad colaboradora no podrá ser superior a:",
+   "opciones": [
+    "Cuatro años.",
+    "Cinco años.",
+    "Seis años.",
+    "Diez años."
+   ]
+  }
+ ]
+}

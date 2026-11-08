@@ -1,0 +1,561 @@
+{
+ "pr-25-001": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 25.1.a y 22.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No es privado: lo celebra una Administración Pública (organismo autónomo) y es un contrato de servicios.",
+   "Correcta: servicios de una Administración Pública son contrato administrativo (art. 25.1.a).",
+   "Está dentro del ámbito de la LCSP.",
+   "No es armonizado: su valor estimado (60.000 € más la prórroga, 120.000 €) no llega a 140.000 € (art. 22.1.a)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-25-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 117.2",
+  "correcta": 2,
+  "justificaciones": [
+   "Se puede adjudicar antes: la tramitación anticipada permite adelantar el expediente.",
+   "No hay que esperar a 2027 para formalizar.",
+   "Correcta: el expediente puede ultimarse con la adjudicación y la formalización aunque la ejecución empiece el ejercicio siguiente (art. 117.2).",
+   "No se exige que la ejecución sea de una sola anualidad."
+  ]
+ },
+ "pr-25-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 63.3.a",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí debe publicarse la memoria justificativa del contrato.",
+   "Correcta: la justificación del procedimiento solo se publica si no es el abierto ni el restringido, y aquí es abierto (art. 63.3.a).",
+   "Sí debe publicarse el informe de insuficiencia de medios en contratos de servicios.",
+   "Sí debe publicarse el anuncio de licitación (art. 63.3.c)."
+  ]
+ },
+ "pr-25-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.a",
+  "correcta": 3,
+  "justificaciones": [
+   "El valor estimado se calcula sin IVA.",
+   "La garantía definitiva no entra en el valor estimado.",
+   "El valor estimado se fija antes de licitar. El precio de adjudicación es posterior y no lo integra.",
+   "Correcta: las eventuales prórrogas se computan en el valor estimado (art. 101.2.a)."
+  ]
+ },
+ "pr-25-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 90.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es medio válido: relación de servicios de los tres últimos años (art. 90.1.a).",
+   "Sí es medio válido: plantilla media y directivos de los tres últimos años (art. 90.1.g).",
+   "Sí es medio válido: indicar la parte a subcontratar (art. 90.1.i).",
+   "Correcta: muestras, descripciones y fotografías son un medio del contrato de suministro, no del de servicios."
+  ]
+ },
+ "pr-25-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Al ser un contrato de la AGE (organismo autónomo), además del perfil debe publicarse en el BOE.",
+   "Además del BOE debe publicarse en el perfil de contratante.",
+   "Correcta: contrato no armonizado de un organismo autónomo estatal: perfil de contratante y BOE (art. 135.1).",
+   "El DOUE solo hace falta en contratos de regulación armonizada, y este no lo es."
+  ]
+ },
+ "pr-25-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a y 44.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el anuncio de licitación es recurrible en especial (el contrato supera 100.000 € de valor estimado), y contra él no caben recursos ordinarios (art. 44.5).",
+   "No cabe reposición: la vía es el recurso especial.",
+   "No cabe alzada: la vía es el recurso especial.",
+   "Los anuncios de licitación sí son recurribles (art. 44.2.a)."
+  ]
+ },
+ "pr-25-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 1,
+  "justificaciones": [
+   "1.500 € es el 3 % del importe de adjudicación, porcentaje que no corresponde.",
+   "Correcta: 5 % del precio final sin IVA (art. 107.1): 5 % de 50.000 € = 2.500 €.",
+   "3.000 € es el 5 % del PBL sin IVA, y la base es el precio final.",
+   "3.250 € no responde a un cálculo legal."
+  ]
+ },
+ "pr-25-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.1.a y 53",
+  "correcta": 3,
+  "justificaciones": [
+   "El recurso especial no exige que el contrato sea armonizado.",
+   "Se supera el umbral: el valor estimado es 120.000 € (más de 100.000 €).",
+   "La adjudicación es un acto recurrible (art. 44.2.c).",
+   "Correcta: si el acto recurrido es la adjudicación, queda suspendida la tramitación (art. 53)."
+  ]
+ },
+ "pr-25-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la prórroga no puede producirse por consentimiento tácito (art. 29.2).",
+   "El preaviso es de al menos dos meses, no tres.",
+   "La prórroga es obligatoria para el empresario si preavisa en plazo (art. 29.2).",
+   "La tramitación anticipada no impide prever prórrogas."
+  ]
+ },
+ "pr-25-011": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 37.1",
+  "correcta": 3,
+  "justificaciones": [
+   "La contratación verbal está permitida cuando el contrato es de emergencia.",
+   "Ser contrato basado en acuerdo marco no autoriza a contratar verbalmente.",
+   "El valor inferior a 15.000 € no autoriza a contratar verbalmente.",
+   "Correcta: salvo emergencia, los contratos no pueden celebrarse verbalmente (art. 37.1)."
+  ]
+ },
+ "pr-25-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.3",
+  "correcta": 1,
+  "justificaciones": [
+   "El inicio de ejecución no perfecciona el contrato.",
+   "Correcta: los contratos basados en un acuerdo marco se perfeccionan con su adjudicación (art. 36.3).",
+   "La licitación no perfecciona el contrato.",
+   "La formalización es la regla general, pero no para los contratos basados en acuerdo marco."
+  ]
+ },
+ "pr-25-013": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No es de servicios: se entregan bienes elaborados.",
+   "No es de obras: no hay construcción de un inmueble.",
+   "Correcta: los contratos de fabricación con características peculiares fijadas por la entidad son suministro (art. 16.3).",
+   "Está dentro del ámbito de la LCSP."
+  ]
+ },
+ "pr-25-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: con precios unitarios se calcula sobre el PBL sin IVA (art. 107.3).",
+   "La presenta solo el licitador con la mejor oferta, tras el requerimiento.",
+   "Es el 5 % del precio final sin IVA, no con IVA.",
+   "Eso describe la garantía provisional, no la definitiva."
+  ]
+ },
+ "pr-25-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Falta el DOUE: el contrato alcanza 140.000 €, umbral para organismos autónomos estatales.",
+   "Faltan el perfil y el DOUE.",
+   "Faltan el BOE y el DOUE: el contrato es armonizado y de un organismo de la AGE.",
+   "Correcta: es armonizado (140.000 € alcanza el umbral del art. 21.1.a) y de la AGE, así que perfil, BOE y DOUE (art. 135.1)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-25-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.2.a",
+  "correcta": 1,
+  "justificaciones": [
+   "El plazo de inicio de ejecución es de un mes desde la formalización, no de 30 días.",
+   "Correcta: los órganos intervinientes disponen de cinco días para sus informes (art. 119.2.a).",
+   "La urgencia no elimina la formalización.",
+   "Eso es la emergencia, no la urgencia."
+  ],
+  "ojo": "La opción 0 habla de 30 días y la ley dice un mes (art. 119.2.c). Se elige la 1, que es literal."
+ },
+ "pr-25-017": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 9.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el arrendamiento de inmuebles está excluido de la LCSP y se rige por la legislación patrimonial (art. 9.2).",
+   "No es contrato administrativo: está excluido.",
+   "No está incluido en el ámbito de la LCSP.",
+   "No es administrativo especial: está excluido."
+  ]
+ },
+ "pr-25-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en obras es menor el contrato de valor estimado inferior a 40.000 €, es decir, hasta 39.999,99 €.",
+   "40.000 € ya no es inferior al límite.",
+   "14.999,99 € es el límite de suministros y servicios, no de obras.",
+   "15.000 € es el límite de suministros y servicios y no es inferior."
+  ]
+ },
+ "pr-25-019": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a.2.º",
+  "correcta": 1,
+  "justificaciones": [
+   "No es administrativo: la suscripción a revistas es privada por mandato legal.",
+   "Correcta: los contratos de suscripción a revistas, publicaciones y bases de datos son privados (art. 25.1.a.2.º).",
+   "No es administrativo especial.",
+   "No está excluido de la LCSP."
+  ]
+ },
+ "pr-25-020": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "El orden mercantil no es competente.",
+   "Correcta: la preparación y adjudicación de contratos privados de las AP corresponde al contencioso (art. 27.1.b).",
+   "El orden civil conoce de efectos y extinción, no de preparación y adjudicación.",
+   "El orden social no es competente."
+  ]
+ },
+ "pr-26-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 2,
+  "justificaciones": [
+   "El diálogo competitivo solo procede en los supuestos del art. 172.",
+   "El restringido también es forma ordinaria (art. 131.2), así que la pregunta admite dos respuestas.",
+   "Correcta: la adjudicación se hace ordinariamente por procedimiento abierto o restringido (art. 131.2).",
+   "La licitación con negociación solo procede en los supuestos del art. 167."
+  ],
+  "ojo": "Las opciones 1 y 2 son ambas formas ordinarias (abierto y restringido). Se señala la 2."
+ },
+ "pr-26-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es procedimiento: licitación con negociación.",
+   "Sí es procedimiento: asociación para la innovación.",
+   "Correcta: la subasta electrónica es un proceso repetitivo dentro de otros procedimientos, no un procedimiento de adjudicación (art. 143).",
+   "Sí es procedimiento: diálogo competitivo."
+  ]
+ },
+ "pr-26-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 131.3 y 118",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: es un servicio menor (inferior a 15.000 €) y se adjudica directamente (art. 131.3).",
+   "Las concesiones de servicios no tienen la categoría de contrato menor.",
+   "El valor de 40.000 € no es inferior al límite de obras menores.",
+   "Un suministro de 60.000 € supera el límite del menor."
+  ]
+ },
+ "pr-26-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No es 15.000 €: ese es el límite de suministros y servicios menores.",
+   "No es 15.000 €: ese límite no se refiere a la asistencia sanitaria urgente.",
+   "30.000 € justos sí quedan sometidos a la preparación y adjudicación: la exclusión exige un valor inferior.",
+   "Correcta: si el valor estimado es inferior a 30.000 €, no se aplican las disposiciones sobre preparación y adjudicación."
+  ]
+ },
+ "pr-26-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 134 y 164",
+  "correcta": 2,
+  "justificaciones": [
+   "El anuncio de información previa solo se aplica a contratos de regulación armonizada.",
+   "La reducción de plazos se prevé en el procedimiento abierto y en el restringido, no en la licitación con negociación.",
+   "Correcta: en contratos armonizados con procedimiento restringido, el anuncio de información previa permite reducir el plazo (art. 164).",
+   "El anuncio de información previa se refiere a obras, suministros y servicios, no a concesiones de servicios."
+  ]
+ },
+ "pr-26-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 134.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No es solo el perfil: puede ser también el DOUE.",
+   "No es solo el DOUE: puede ser el perfil de contratante.",
+   "Correcta: a elección del órgano de contratación, en el DOUE o en el perfil de contratante (art. 134.2).",
+   "No necesariamente en ambos."
+  ]
+ },
+ "pr-26-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Al ser un ministerio (AGE), debe publicarse también en el BOE.",
+   "Correcta: contrato de la AGE no armonizado (70.000 €): perfil de contratante y BOE (art. 135.1).",
+   "El DOUE solo aplica a contratos armonizados.",
+   "El valor de 70.000 € no llega al umbral armonizado, así que no hay DOUE."
+  ]
+ },
+ "pr-26-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: contrato de una comunidad autónoma por debajo del umbral de 216.000 €: solo perfil de contratante (art. 135.1).",
+   "El BOE solo se exige a los contratos de la AGE y entidades vinculadas que sean AP.",
+   "No es armonizado: 170.000 € no llega a 216.000 €.",
+   "No es contrato de la AGE ni es armonizado."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-26-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Faltan el BOE y el DOUE: el contrato es armonizado y de un organismo de la AGE.",
+   "Falta el DOUE: el contrato alcanza 140.000 €, umbral del organismo autónomo estatal.",
+   "Falta el BOE: INJUVE es AP vinculada a la AGE.",
+   "Correcta: contrato armonizado (140.000 € alcanza el umbral del art. 22.1.a) de un organismo autónomo estatal: perfil, BOE y DOUE."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-26-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Es un contrato armonizado, así que debe publicarse también en el DOUE.",
+   "El BOE solo se exige a la AGE y sus entidades vinculadas, no a un ayuntamiento.",
+   "Correcta: obras armonizadas (5.500.000 € supera 5.404.000 €) de un ayuntamiento: perfil de contratante y DOUE (art. 135.1).",
+   "No hay BOE para un ayuntamiento."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-26-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 136",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los fijan los órganos de contratación respetando los plazos mínimos de la Ley (art. 136).",
+   "La Ley fija plazos mínimos, no máximos.",
+   "No los fija la mesa, sino el órgano de contratación.",
+   "Sí hay que fijarlos: la Ley establece mínimos."
+  ]
+ },
+ "pr-26-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: deben ajustarse a los pliegos (art. 139.1).",
+   "Es la incorrecta: son secretas hasta la apertura de las proposiciones, no hasta la adjudicación (art. 139.2).",
+   "Es correcta: el IVA se indica como partida independiente (art. 139.4).",
+   "Es correcta: la presentación supone aceptación incondicionada de los pliegos (art. 139.1)."
+  ]
+ },
+ "pr-26-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No se admite ninguna, ni siquiera la individual.",
+   "No se admite ninguna, ni siquiera la de la UTE.",
+   "No pueden admitirse las dos.",
+   "Correcta: no puede presentar proposición individual y en UTE: se inadmiten todas las suscritas por él (art. 139.3)."
+  ]
+ },
+ "pr-26-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 140.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Los documentos justificativos se aportan después, solo el licitador propuesto como adjudicatario.",
+   "El certificado del registro no se exige con la oferta.",
+   "Correcta: se presenta una declaración responsable conforme al formulario del DEUC (art. 140.1).",
+   "Sí debe aportarse la declaración responsable junto con la oferta."
+  ]
+ },
+ "pr-26-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 140.4",
+  "correcta": 1,
+  "justificaciones": [
+   "El momento inicial es la fecha final de presentación de ofertas, no la del anuncio.",
+   "Correcta: deben concurrir en la fecha final de presentación de ofertas y subsistir hasta la perfección del contrato (art. 140.4).",
+   "El momento inicial no es el del anuncio de licitación.",
+   "La subsistencia no es hasta la adjudicación sino hasta la perfección."
+  ]
+ },
+ "pr-26-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 142.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No puede rechazarse por ese motivo (art. 142.3).",
+   "Una variante no se admite solo en defecto de otras ofertas: la ley no lo exige.",
+   "Correcta: no puede rechazarse por dar lugar a un contrato de servicios en vez de suministro (art. 142.3).",
+   "Las variantes exigen criterios distintos del precio, no que el precio sea el único."
+  ],
+  "ojo": "El art. 142.1 solo admite variantes cuando hay criterios distintos del precio."
+ },
+ "pr-26-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 143",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: la subasta admite varios criterios, siempre que los elementos sean cuantificables en cifras o porcentajes (art. 143.3), no que todos los criterios sean evaluables por fórmulas.",
+   "Es correcta: se celebra tras una primera evaluación completa de las ofertas (art. 143.1).",
+   "Es correcta: las ofertas se clasifican con métodos de evaluación automatizados (art. 143.1).",
+   "Es correcta: se comunica la clasificación a los licitadores de forma continua e instantánea."
+  ],
+  "ojo": "La subasta exige una primera evaluación completa y elementos cuantificables en cifras o porcentajes, no que todos los criterios sean fórmulas."
+ },
+ "pr-26-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.3 y 142",
+  "correcta": 1,
+  "justificaciones": [
+   "No puede presentar dos proposiciones independientes.",
+   "Correcta: cada licitador presenta una sola proposición, sin perjuicio de las variantes admitidas (arts. 139.3 y 142).",
+   "No puede concurrir individualmente y en unión temporal.",
+   "No puede figurar en más de una unión temporal."
+  ]
+ },
+ "pr-26-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la mejor relación calidad-precio se evalúa con criterios económicos y cualitativos (art. 145.2).",
+   "No son criterios económicos y cuantitativos.",
+   "Objetivos y subjetivos no son categorías de la ley.",
+   "Cuantitativos y cualitativos no es la clasificación de la ley."
+  ]
+ },
+ "pr-26-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146",
+  "correcta": 3,
+  "justificaciones": [
+   "Los criterios económicos se valoran mediante fórmulas, no por juicio de valor.",
+   "Los cualitativos pueden valorarse por fórmulas o por juicio de valor, no siempre por fórmulas.",
+   "Los cualitativos pueden valorarse también por fórmulas, no siempre por juicio de valor.",
+   "Correcta: los criterios cualitativos pueden valorarse mediante fórmulas o mediante juicios de valor."
+  ]
+ },
+ "pr-26-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.2",
+  "correcta": 2,
+  "justificaciones": [
+   "El plazo de entrega no es un criterio económico, sino cualitativo (art. 145.2.3.º).",
+   "No es económico ni sujeto a juicio de valor.",
+   "Correcta: el plazo de entrega es un criterio cualitativo y aquí se evalúa mediante fórmula (2 puntos por día de reducción).",
+   "No es sujeto a juicio de valor: se puntúa con una fórmula."
+  ]
+ },
+ "pr-26-022": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.2",
+  "correcta": 1,
+  "justificaciones": [
+   "El diseño y la estética no se valoran con una fórmula.",
+   "Correcta: las características estéticas son un criterio cualitativo valorado por juicio de valor (art. 145.2.1.º).",
+   "No es económico ni se evalúa con fórmula.",
+   "No es un criterio económico: el diseño no se mide con una fórmula de precio."
+  ]
+ },
+ "pr-26-023": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Se puede usar un único criterio (art. 146.1).",
+   "No es obligatorio el precio: cabe también un criterio de rentabilidad.",
+   "Correcta: único criterio: precio o criterio basado en la rentabilidad, como el coste del ciclo de vida (art. 146.1).",
+   "El único criterio debe estar relacionado con los costes, no es cualitativo."
+  ]
+ },
+ "pr-26-024": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 145.4 y 146",
+  "correcta": 2,
+  "justificaciones": [
+   "El 51 % se refiere a criterios relacionados con la calidad, no solo a los de juicio de valor (art. 145.4).",
+   "La valoración de los criterios por fórmula se hace después de la de los de juicio de valor (art. 146.2).",
+   "Correcta: si no es posible ponderar por razones objetivas justificadas, se enumeran por orden decreciente de importancia (art. 146.3).",
+   "El comité de expertos solo se exige cuando los criterios de juicio de valor pesan más que los automáticos (art. 146.2.a)."
+  ]
+ },
+ "pr-26-025": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 147.2",
+  "correcta": 1,
+  "justificaciones": [
+   "La temporalidad es el segundo criterio, no el primero.",
+   "Correcta: primero, el mayor porcentaje de trabajadores con discapacidad o en exclusión social (art. 147.2.a).",
+   "El porcentaje de mujeres viene después.",
+   "El sorteo es el último criterio."
+  ]
+ },
+ "pr-27-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los contratos de fabricación con características peculiares fijadas por la entidad son contratos de suministro (art. 16.3).",
+   "No son contratos de obras.",
+   "No son contratos de servicios.",
+   "No son contratos mixtos: se califican como suministro."
+  ]
+ },
+ "pr-27-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.2.b",
+  "correcta": 3,
+  "justificaciones": [
+   "La preparación de los contratos administrativos es del orden contencioso.",
+   "La adjudicación de los contratos privados de las AP es del orden contencioso (art. 27.1.b).",
+   "La preparación y adjudicación de contratos de entidades no AP: contencioso si son poderes adjudicadores (art. 27.1.c).",
+   "Correcta: la extinción de los contratos de entes que no son poderes adjudicadores es del orden civil (art. 27.2.b)."
+  ]
+ },
+ "pr-27-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No se da recurso especial en la emergencia (art. 44.4).",
+   "Las concesiones de servicios deben superar tres millones de euros.",
+   "Correcta: los pliegos son actos recurribles (art. 44.2.a).",
+   "En suministros y servicios el umbral es superior a 100.000 €, no a 80.000 €."
+  ]
+ },
+ "pr-27-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 53",
+  "correcta": 1,
+  "justificaciones": [
+   "La suspensión no opera en todo caso: hay excepciones.",
+   "Correcta: en los contratos basados en un acuerdo marco no se suspende la tramitación (art. 53).",
+   "Sí suspende, salvo en esos contratos.",
+   "La suspensión es de la tramitación del procedimiento, no del acto de apertura."
+  ]
+ },
+ "pr-27-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 62.2",
+  "correcta": 3,
+  "justificaciones": [
+   "El promotor no ejerce las facultades del responsable.",
+   "El constructor es el contratista.",
+   "El proyectista no ejerce esas facultades.",
+   "Correcta: en los contratos de obras las ejerce el director facultativo (art. 62.2)."
+  ]
+ }
+}

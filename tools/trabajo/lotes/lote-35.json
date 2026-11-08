@@ -1,0 +1,565 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-23-006",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 6,
+   "enunciado": "El Ministerio de Cultura tiene vigente un contrato para la limpieza de sus dependencias cuya ejecución finaliza el 15 de enero de 2027. Para garantizar la continuidad del servicio, en septiembre de 2026 inicia la tramitación anticipada del expediente del nuevo contrato. Según el artículo 117.2 de la LCSP, ¿hasta qué actuación podrá llegarse durante dicho ejercicio?",
+   "opciones": [
+    "Hasta la aprobación del expediente de contratación, sin que pueda publicarse el anuncio de licitación.",
+    "Hasta la publicación del anuncio de licitación y la recepción de proposiciones, sin que pueda adjudicarse el contrato.",
+    "Hasta la adjudicación del contrato, debiendo posponerse su formalización al ejercicio siguiente.",
+    "Hasta la formalización del contrato, aun cuando su ejecución deba iniciarse en el ejercicio siguiente."
+   ]
+  },
+  {
+   "id": "pr-23-007",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 7,
+   "enunciado": "El organismo autónomo Jefatura Central de Tráfico proyecta celebrar distintos contratos. De acuerdo con el artículo 118 de la LCSP, atendiendo a su objeto y valor estimado, ¿cuál de los siguientes NO podría tener la consideración de contrato menor?",
+   "opciones": [
+    "La reparación de la cubierta de la Jefatura Provincial de Tráfico de Albacete, con un valor estimado de 39.500 euros.",
+    "La redacción del proyecto de reforma de un centro de exámenes, con un valor estimado de 18.000 euros.",
+    "La adquisición de etilómetros portátiles, con un valor estimado de 14.500 euros.",
+    "La elaboración de una guía didáctica sobre seguridad vial, con un valor estimado de 14.900 euros."
+   ]
+  },
+  {
+   "id": "pr-23-008",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 8,
+   "enunciado": "El Ministerio de Agricultura, Pesca y Alimentación proyecta celebrar varios contratos relacionados con sus laboratorios agroalimentarios. De acuerdo con el artículo 118 de la LCSP, ¿cuál de los siguientes podría tener la consideración de contrato menor?",
+   "opciones": [
+    "La construcción de una rampa de acceso, con un valor estimado de 18.000 euros.",
+    "La reforma de un laboratorio de análisis agroalimentario, con un valor estimado de 40.000 euros.",
+    "La adquisición de microscopios, con un valor estimado de 15.000 euros.",
+    "La reparación de un equipo de análisis de alimentos, con un valor estimado de 18.000 euros."
+   ]
+  },
+  {
+   "id": "pr-23-009",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 9,
+   "enunciado": "El Ministerio de Cultura tramita un contrato menor para realizar obras de adecuación en un edificio administrativo, sin que estas afecten a su estabilidad, seguridad o estanqueidad. De conformidad con la LCSP, ¿cuál de los siguientes documentos NO deberá incorporarse necesariamente al expediente?",
+   "opciones": [
+    "El informe del órgano de contratación motivando la necesidad y la no alteración del objeto del contrato para eludir los umbrales.",
+    "El informe de la oficina o unidad de supervisión de proyectos.",
+    "La aprobación del gasto y la incorporación de la factura correspondiente.",
+    "El presupuesto de las obras y, cuando lo requieran las disposiciones vigentes, el correspondiente proyecto."
+   ]
+  },
+  {
+   "id": "pr-23-010",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 10,
+   "enunciado": "La Confederación Hidrográfica del Guadalquivir necesita adaptar con celeridad sus controles de calidad del agua a una nueva normativa, para lo que debe adquirir determinados equipos de análisis químico. Entendiendo que concurren razones de interés público, considera necesario acelerar la adjudicación del contrato. Conforme a la LCSP, ¿qué modalidad de tramitación podrá acordar?",
+   "opciones": [
+    "La tramitación excepcional.",
+    "La tramitación de emergencia.",
+    "La tramitación urgente.",
+    "La tramitación anticipada."
+   ]
+  },
+  {
+   "id": "pr-23-011",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 11,
+   "enunciado": "El Ministerio de Cultura tramita un contrato de servicios para la restauración de documentos de un archivo estatal, con un valor estimado de 120.000 euros, y declara urgente su tramitación por responder a una necesidad inaplazable. Según la LCSP, ¿cuál de las siguientes NO constituye una especialidad de la tramitación urgente?",
+   "opciones": [
+    "El expediente gozará de preferencia para su despacho por los distintos órganos intervinientes.",
+    "Los órganos intervinientes dispondrán, con carácter general, de cinco días para emitir sus informes.",
+    "El plazo de inicio de la ejecución no podrá exceder de un mes, contado desde la formalización.",
+    "El plazo de quince días hábiles de espera antes de formalizar el contrato se reducirá a la mitad."
+   ]
+  },
+  {
+   "id": "pr-23-012",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 12,
+   "enunciado": "Conforme al artículo 120 de la LCSP, cuando la Administración deba actuar de manera inmediata, ¿cuál de las siguientes circunstancias NO habilita, por sí sola, para acudir a la tramitación de emergencia?",
+   "opciones": [
+    "Razones de interés público que exijan acelerar la adjudicación del contrato.",
+    "Acontecimientos catastróficos.",
+    "Situaciones que supongan grave peligro.",
+    "Necesidades que afecten a la defensa nacional."
+   ]
+  },
+  {
+   "id": "pr-23-013",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 13,
+   "enunciado": "Una riada provoca graves daños en un puente y existe riesgo de derrumbe. El Ministerio de Transportes y Movilidad Sostenible acuerda la tramitación de emergencia de las obras necesarias. Conforme al artículo 120 de la LCSP, ¿cuál de las siguientes NO constituye una especialidad de esta tramitación?",
+   "opciones": [
+    "Podrá ordenarse la ejecución de lo necesario sin tramitar expediente de contratación.",
+    "Podrá contratarse aun cuando no exista crédito suficiente.",
+    "Una vez formalizado el contrato, las obras deberán iniciarse en el plazo máximo de un mes.",
+    "Deberá darse cuenta del acuerdo al Consejo de Ministros en el plazo máximo de treinta días."
+   ]
+  },
+  {
+   "id": "pr-23-014",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 14,
+   "enunciado": "La Administración General del Estado pretende establecer cláusulas administrativas comunes aplicables a sus contratos de suministro mediante la aprobación de un pliego de cláusulas administrativas generales. Conforme a la LCSP, ¿a quién corresponde su aprobación?",
+   "opciones": [
+    "Al Consejo de Ministros, previo dictamen del Consejo de Estado.",
+    "Al Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "Al Ministro de Hacienda, previo dictamen del Consejo de Estado.",
+    "Al Ministro de Hacienda, previo informe de la Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "pr-23-015",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 15,
+   "enunciado": "El Ministerio de Cultura prepara los pliegos de cláusulas administrativas particulares para un nuevo contrato. De acuerdo con la LCSP, ¿a quién corresponde su aprobación?",
+   "opciones": [
+    "Al órgano de contratación, previamente a la licitación del contrato o conjuntamente con ella.",
+    "Al responsable del contrato, previamente a la autorización del gasto o conjuntamente con ella.",
+    "Al órgano de contratación, previamente a la autorización del gasto o conjuntamente con ella.",
+    "Al responsable del contrato, previamente a la licitación del contrato o conjuntamente con ella."
+   ]
+  },
+  {
+   "id": "pr-23-016",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 16,
+   "enunciado": "Durante el plazo de presentación de proposiciones para contratar la limpieza de una sede administrativa, se advierte que el pliego de cláusulas administrativas sitúa el edificio en el número 25 de la calle Mayor, cuando en el resto del expediente consta el número 52. Conforme a la LCSP, ¿cómo podrá proceder el órgano de contratación?",
+   "opciones": [
+    "Deberá desistir del procedimiento e iniciar un nuevo expediente de contratación.",
+    "Podrá modificar el pliego, sin que ello conlleve la retroacción de actuaciones.",
+    "Podrá modificar el pliego, debiendo retrotraer las actuaciones al inicio de la licitación.",
+    "Podrá modificar el pliego, debiendo retrotraer las actuaciones al momento de su aprobación."
+   ]
+  },
+  {
+   "id": "pr-23-017",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 17,
+   "enunciado": "El Ministerio de Cultura pretende contratar la digitalización de expedientes de personal, lo que requiere que el contratista trate datos personales por cuenta del responsable del tratamiento. Conforme al artículo 122.2 de la LCSP, ¿cómo deben calificarse en el pliego las obligaciones relativas al tratamiento de datos personales y qué consecuencia tendrá su incumplimiento?",
+   "opciones": [
+    "Como no esenciales, aunque su incumplimiento constituirá causa de resolución del contrato.",
+    "Como no esenciales, sin que su incumplimiento constituya causa de resolución del contrato.",
+    "Como esenciales, aunque su incumplimiento no constituirá causa de resolución del contrato.",
+    "Como esenciales, constituyendo su incumplimiento causa de resolución del contrato."
+   ]
+  },
+  {
+   "id": "pr-23-018",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 18,
+   "enunciado": "El Ministerio de Defensa pretende incluir en el pliego de cláusulas administrativas particulares de un contrato de obras una estipulación contraria al pliego general aplicable. Conforme a la LCSP, ¿resulta admisible dicha estipulación?",
+   "opciones": [
+    "No, pues incurriría en nulidad de pleno derecho.",
+    "Sí, debiendo recabarse previamente informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "Sí, debiendo recabarse previamente dictamen del Consejo de Estado.",
+    "Sí, siendo suficiente el informe previo del servicio jurídico correspondiente."
+   ]
+  },
+  {
+   "id": "pr-23-019",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 19,
+   "enunciado": "La Administración General del Estado pretende establecer requisitos técnicos comunes para sus contratos de suministro de equipos informáticos mediante un pliego de prescripciones técnicas generales. Conforme a la LCSP, ¿a quién corresponde su aprobación?",
+   "opciones": [
+    "Al órgano de contratación, previo dictamen del Consejo de Estado.",
+    "Al órgano de contratación, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "Al Consejo de Ministros, previo dictamen del Consejo de Estado.",
+    "Al Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "pr-23-020",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 20,
+   "enunciado": "Un hospital público prepara un contrato de suministro de alimentos y se plantea incluir en el pliego de prescripciones técnicas una referencia a una marca determinada, acompañada de la mención «o equivalente». Conforme a la LCSP, ¿en cuál de los siguientes casos estará permitida dicha referencia?",
+   "opciones": [
+    "Cuando no sea posible hacer una descripción lo bastante precisa e inteligible del objeto del contrato.",
+    "Cuando existan, al menos, tres distribuidores que puedan suministrar productos de esa marca.",
+    "Cuando dicha referencia permita simplificar la descripción de las prestaciones y del nivel de calidad exigido.",
+    "Cuando un informe técnico acredite su idoneidad a partir de la experiencia en suministros anteriores."
+   ]
+  },
+  {
+   "id": "pr-24-001",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 1,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, un contrato de servicios adjudicado por la Junta de Castilla y León estará sujeto a regulación armonizada si su valor estimado es:",
+   "opciones": [
+    "Igual o superior a 140.000 euros.",
+    "Superior a 140.000 euros.",
+    "Igual o superior a 216.000 euros.",
+    "Superior a 215.000 euros"
+   ]
+  },
+  {
+   "id": "pr-24-002",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 2,
+   "enunciado": "En los contratos de concesión de servicios, el derecho de explotación implicará:",
+   "opciones": [
+    "La transferencia al concesionario del riesgo operacional.",
+    "El derecho del concesionario a la percepción de un precio cierto.",
+    "La permanencia del riesgo operacional en el poder adjudicador.",
+    "La independencia del riesgo operacional al tratarse de un servicio privado."
+   ]
+  },
+  {
+   "id": "pr-24-003",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 3,
+   "enunciado": "Según el artículo 25.1 de la LCSP, tendrán carácter privado los siguientes contratos celebrados por una Administración Pública:",
+   "opciones": [
+    "Contratos de servicios sociales personalísimos.",
+    "Contratos de compraventa, donación, arrendamiento o permuta de un bien mueble.",
+    "Contratos de servicios que tengan por objeto la creación e interpretación artística y literaria.",
+    "Los contratos de las Administraciones Públicas siempre tienen carácter administrativo."
+   ]
+  },
+  {
+   "id": "pr-24-004",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 4,
+   "enunciado": "Los contratos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad son:",
+   "opciones": [
+    "Contratos administrativos especiales.",
+    "Contratos de obras.",
+    "Contratos de suministro.",
+    "Contratos de servicios."
+   ]
+  },
+  {
+   "id": "pr-24-005",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 5,
+   "enunciado": "Tienen la consideración de Administraciones Públicas, a efectos de la Ley de Contratos del Sector Público:",
+   "opciones": [
+    "Las Fundaciones del Sector Público.",
+    "Las Sociedades Mercantiles Estatales.",
+    "Las Universidades Públicas.",
+    "Las Mutuas colaboradoras con la Seguridad Social."
+   ]
+  },
+  {
+   "id": "pr-24-006",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 6,
+   "enunciado": "La duración de los contratos de concesión de servicios que comprendan la explotación de un servicio cuyo objeto consista en la prestación de servicios sanitarios y lleven aparejada la ejecución de obras no podrá exceder, incluidas las posibles prórrogas, de:",
+   "opciones": [
+    "Cuarenta años.",
+    "Veinticinco años.",
+    "Cinco años.",
+    "Diez años."
+   ]
+  },
+  {
+   "id": "pr-24-007",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 7,
+   "enunciado": "Según la LCSP, los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de:",
+   "opciones": [
+    "Seis años, incluyendo las posibles prorrogas.",
+    "Cinco años, incluyendo las posibles prorrogas.",
+    "Un año, incluyendo las posibles prorrogas.",
+    "Cinco años, excluyendo las posibles prorrogas."
+   ]
+  },
+  {
+   "id": "pr-24-008",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 8,
+   "enunciado": "A los efectos de aplicación de la LCSP, tienen la consideración de poder adjudicador no administración pública, entre otras:",
+   "opciones": [
+    "Las Entidades Gestoras de la Seguridad Social.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las entidades creadas específicamente para satisfacer necesidades que tengan carácter industrial o mercantil.",
+    "Los fondos sin personalidad jurídica."
+   ]
+  },
+  {
+   "id": "pr-24-009",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 9,
+   "enunciado": "Señale la respuesta correcta. Según la LCSP:",
+   "opciones": [
+    "Un contrato de arrendamiento de un edificio que celebra un Ministerio tiene la consideración de contrato administrativo.",
+    "Un contrato de obras que celebra una Entidad Pública Empresarial tiene la consideración de contrato privado.",
+    "Un contrato de servicios que celebra una Comunidad Autónoma tiene la consideración de contrato mixto.",
+    "Un contrato de concesión de obras que celebra un Organismo Autónomo tiene la consideración de contrato privado."
+   ]
+  },
+  {
+   "id": "pr-24-010",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 10,
+   "enunciado": "Según la LCSP, los contratos que se celebren por una Administración Pública:",
+   "opciones": [
+    "Serán siempre contratos sujetos a regulación armonizada.",
+    "Serán siempre privados.",
+    "Podrán tener la consideración de contratos privados.",
+    "Serán siempre administrativos."
+   ]
+  },
+  {
+   "id": "pr-24-011",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 11,
+   "enunciado": "Según la LCSP, los contratos que tengan por objeto la adquisición de energía transformada tendrán la calificación de:",
+   "opciones": [
+    "Contrato de suministro.",
+    "Contrato mixto de servicio y suministro.",
+    "Contrato de servicios.",
+    "Contrato de concesión de servicios."
+   ]
+  },
+  {
+   "id": "pr-24-012",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 12,
+   "enunciado": "¿Cuál de los siguientes contratos está excluido del ámbito de aplicación de la LCSP?",
+   "opciones": [
+    "Contrato de concesión de obras.",
+    "Contrato de creación e interpretación artística y literaria.",
+    "Contrato de servicios.",
+    "Contrato relativo a servicios de arbitraje y conciliación."
+   ]
+  },
+  {
+   "id": "pr-24-014",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 14,
+   "enunciado": "El cómputo de los plazos en materia de contratación se realizará en:",
+   "opciones": [
+    "Días naturales, salvo que se indique expresamente en la LCSP que son hábiles.",
+    "Días hábiles, salvo que se indique expresamente en la LCSP que son naturales.",
+    "Para el procedimiento serán días hábiles y para los plazos relativos a la ejecución, naturales.",
+    "Para el procedimiento serán días naturales y para los plazos relativos a la ejecución, hábiles."
+   ]
+  },
+  {
+   "id": "pr-24-015",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 15,
+   "enunciado": "Según el artículo 36 de la Ley de Contratos del Sector Público, ¿cómo se perfeccionan los contratos basados en un acuerdo marco?",
+   "opciones": [
+    "Con su formalización.",
+    "Con su publicación en el Diario Oficial de la Unión Europea.",
+    "Con su adjudicación.",
+    "De conformidad con la legislación por la que se rijan."
+   ]
+  },
+  {
+   "id": "pr-24-016",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 16,
+   "enunciado": "De acuerdo con el artículo 69 de la LCSP, podrán contratar con el sector público las uniones de empresarios que se constituyan temporalmente al efecto, sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado:",
+   "opciones": [
+    "La presentación de la proposición.",
+    "La adjudicación del contrato a su favor.",
+    "La publicación del anuncio de licitación.",
+    "La constitución de la garantía definitiva."
+   ]
+  },
+  {
+   "id": "pr-24-018",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 18,
+   "enunciado": "De las cuestiones referidas a los efectos y extinción de los contratos que celebren las entidades del sector público que no tengan el carácter de poderes adjudicadores será competente para conocer:",
+   "opciones": [
+    "El orden jurisdiccional civil.",
+    "El orden jurisdiccional social.",
+    "El orden jurisdiccional penal.",
+    "El orden jurisdiccional contencioso-administrativo."
+   ]
+  },
+  {
+   "id": "pr-24-019",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 19,
+   "enunciado": "De acuerdo con el artículo 29 de la Ley de Contratos del Sector Público, el plazo máximo de la duración de las concesiones de obras, incluidas las prórrogas, NO podrá exceder de:",
+   "opciones": [
+    "25 años.",
+    "40 años.",
+    "50 años.",
+    "60 años."
+   ]
+  },
+  {
+   "id": "pr-24-020",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 20,
+   "enunciado": "Señale la respuesta incorrecta. De acuerdo con la Ley de Contratos del Sector Público, se entiende por “obra” :",
+   "opciones": [
+    "El resultado de un conjunto de trabajos de construcción o de ingeniería civil que tenga por objeto un bien inmueble.",
+    "La realización de trabajos que modifiquen la forma o sustancia del terreno o de su vuelo.",
+    "La realización de trabajos de mejora del medio físico o natural.",
+    "El resultado de un conjunto de trabajos de construcción o de ingeniería civil que tenga por objeto un bien mueble."
+   ]
+  },
+  {
+   "id": "pr-24-021",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 21,
+   "enunciado": "Conforme al artículo 19.2 de la Ley de Contratos, un contrato de concesión de servicios:",
+   "opciones": [
+    "No estará, en ningún caso, sujeto a regulación armonizada.",
+    "Estará sujeto a regulación armonizada si su valor estimado es igual o superior a 5.350.000 euros.",
+    "Estará sujeto a regulación armonizada si su valor estimado es igual o superior a 5.382.000 euros.",
+    "Estará sujeto a regulación armonizada si su valor estimado es igual o superior a 5.404.000 euros."
+   ]
+  },
+  {
+   "id": "pr-24-022",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 22,
+   "enunciado": "Según el artículo 44 de la LCSP, un contrato de suministro adjudicado por una Comunidad Autónoma es susceptible de recurso especial en materia de contratación siempre que su valor estimado sea superior a:",
+   "opciones": [
+    "100.000€.",
+    "140.000€.",
+    "216.000€.",
+    "500.000€."
+   ]
+  },
+  {
+   "id": "pr-24-023",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 23,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las personas jurídicas:",
+   "opciones": [
+    "Podrán ser adjudicatarias de todo contrato con independencia de su objeto social.",
+    "Solo podrán ser adjudicatarias de contratos de obras.",
+    "Solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de su objeto social.",
+    "Nunca podrán ser adjudicatarias de contratos sujetos a legislación armonizada."
+   ]
+  },
+  {
+   "id": "pr-24-024",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 24,
+   "enunciado": "Según el artículo 62 de la LCSP, los órganos de contratación designarán un responsable del contrato al que corresponderá:",
+   "opciones": [
+    "Convocar las licitaciones.",
+    "Formalizar el contrato.",
+    "Supervisar la ejecución y adoptar las decisiones necesarias para asegurar la correcta realización de la prestación pactada.",
+    "Suscribir acuerdos de información previa."
+   ]
+  },
+  {
+   "id": "pr-24-025",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 25,
+   "enunciado": "Según el artículo 57 de la LCSP, los interesados podrán considerar desestimado un recurso especial en materia de contratación cuando, desde su interposición, hayan trascurrido:",
+   "opciones": [
+    "Dos meses.",
+    "Tres meses.",
+    "Seis meses.",
+    "Quince días hábiles."
+   ]
+  },
+  {
+   "id": "pr-24-026",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 26,
+   "enunciado": "Según el artículo 1 de la LCSP, en toda contratación pública se incorporarán criterios sociales y medioambientales:",
+   "opciones": [
+    "De manera transversal y progresiva, siempre que guarden relación con el objeto del contrato.",
+    "De manera transversal y preceptiva, aun cuando no guarden relación con el objeto del contrato.",
+    "De manera transversal y preceptiva, siempre que guarden relación con el objeto del contrato.",
+    "De manera transversal y progresiva, aun cuando no guarden relación con el objeto del contrato."
+   ]
+  },
+  {
+   "id": "pr-24-027",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 27,
+   "enunciado": "La LCSP establece que el plazo de vigencia de la clasificación de las empresas será:",
+   "opciones": [
+    "De un año.",
+    "De tres años para el mantenimiento de la solvencia económica y financiera y de un año para la solvencia técnica y profesional.",
+    "Indefinida, en tanto se mantengan por el empresario las condiciones y circunstancias en que se basó su concesión.",
+    "De un año para el mantenimiento de la solvencia económica y financiera y de tres años para la solvencia técnica y profesional."
+   ]
+  },
+  {
+   "id": "pr-24-028",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 28,
+   "enunciado": "La duración del nombramiento de los vocales del Tribunal Administrativo Central de Recursos Contractuales será de:",
+   "opciones": [
+    "4 años prorrogables.",
+    "4 años y no podrá prorrogarse.",
+    "6 años prorrogables.",
+    "6 años y no podrá prorrogarse."
+   ]
+  },
+  {
+   "id": "pr-24-029",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 29,
+   "enunciado": "Conforme al artículo 72.6 de la LCSP, cuando la sentencia penal firme no haya establecido la duración de la prohibición de contratar, dicha duración no podrá exceder, desde la fecha de la condena por sentencia firme, de:",
+   "opciones": [
+    "Tres años.",
+    "Cuatro años.",
+    "Un año.",
+    "Cinco años."
+   ]
+  },
+  {
+   "id": "pr-24-030",
+   "origen": "practicas",
+   "test": "Examen nº 20 - LCSP (arts 1 a 83)",
+   "n": 30,
+   "enunciado": "Interpuesto recurso especial en materia de contratación, la tramitación del procedimiento quedará en suspenso si el acto recurrido es:",
+   "opciones": [
+    "El acuerdo de adjudicación.",
+    "El acuerdo de rescate de concesiones.",
+    "El anuncio de licitación.",
+    "Los pliegos y los documentos contractuales que establezcan las condiciones que deban regir la contratación."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "of-01-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 6,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, los contratos que pretenda celebrar el Ministerio que tengan por objeto la adquisición o el arrendamiento de productos o bienes muebles serán contratos de:",
+   "opciones": [
+    "Servicios.",
+    "Suministros.",
+    "Obra.",
+    "Gestión de servicios Públicos."
+   ]
+  },
+  {
+   "id": "of-01-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 7,
+   "enunciado": "A los efectos del ámbito subjetivo de aplicación la LCSP, las fundaciones públicas tienen la consideración de:",
+   "opciones": [
+    "Administraciones públicas.",
+    "Poderes Adjudicadores.",
+    "Entes del sector público con carácter de Administración pública.",
+    "Entes del sector público sin el carácter de Poder Adjudicador."
+   ]
+  },
+  {
+   "id": "of-01-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 8,
+   "enunciado": "La LCSP establece que están sujetos a regulación armonizada los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "5.404.000 euros.",
+    "6.404.000 euros",
+    "7.404.000 euros.",
+    "8.404.000 euros."
+   ]
+  },
+  {
+   "id": "of-01-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 9,
+   "enunciado": "De conformidad con lo dispuesto en la LCSP, los contratos de suministros tendrán un plazo máximo de duración de:",
+   "opciones": [
+    "Cuatro años, incluidas las prórrogas.",
+    "Cinco años, incluidas las prórrogas.",
+    "Seis años, incluidas las prórrogas.",
+    "Cinco años, y dos años más de posible prórroga."
+   ]
+  },
+  {
+   "id": "of-01-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 10,
+   "enunciado": "Según el artículo 29 de la Ley 9/2017, de 8 de noviembre, el plazo máximo de la duración de las concesiones de obras, incluidas las prórrogas, NO podrá exceder de:",
+   "opciones": [
+    "30 años.",
+    "50 años.",
+    "40 años.",
+    "60 años."
+   ]
+  },
+  {
+   "id": "of-01-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 11,
+   "enunciado": "Según lo señalado en la LCSP, la prórroga de los contratos del sector público:",
+   "opciones": [
+    "No puede producirse por el consentimiento tácito de las partes.",
+    "Puede producirse por el consentimiento tácito de las partes.",
+    "No puede producirse por el consentimiento tácito de las partes, salvo que así se establezca en los pliegos.",
+    "Puede producirse por el consentimiento tácito de las partes, cuando la duración del contrato no exceda de 4 años."
+   ]
+  },
+  {
+   "id": "of-01-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 12,
+   "enunciado": "De acuerdo con la LCSP, las encomiendas de gestión:",
+   "opciones": [
+    "Quedan excluidas del ámbito de la Ley de Contratos del Sector Público.",
+    "Son contratos entre Administraciones públicas.",
+    "Son convenios entre Administraciones públicas y particulares.",
+    "Son un tipo de contrato de servicios."
+   ]
+  },
+  {
+   "id": "of-01-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 13,
+   "enunciado": "Según la LCSP, los contratos de los poderes adjudicadores que no pertenecen a la categoría de Administraciones Públicas:",
+   "opciones": [
+    "Serán siempre contratos sujetos a regulación armonizada.",
+    "Serán siempre privados.",
+    "En algún caso serán administrativos.",
+    "Nunca serán privados."
+   ]
+  },
+  {
+   "id": "of-01-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 14,
+   "enunciado": "Según la LCSP, los contratos de suministros y de servicios de prestación sucesiva tendrán un plazo máximo de duración de:",
+   "opciones": [
+    "5 años, incluidas las prórrogas.",
+    "5 años, prorrogables por otros 2.",
+    "4 años, prorrogables por otros 2.",
+    "6 años, incluidas las prórrogas."
+   ]
+  },
+  {
+   "id": "of-01-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 15,
+   "enunciado": "Quedan excluidos del ámbito de aplicación de la LCSP:",
+   "opciones": [
+    "Los contratos de adquisición de programas de ordenador a medida tramitados por entidades gestoras de la Seguridad Social.",
+    "Los contratos de obras tramitados por las Universidades Públicas.",
+    "Los contratos de suministros tramitados por las Diputaciones forales.",
+    "Los contratos relativos a servicios de arbitraje tramitados por las entidades locales."
+   ]
+  },
+  {
+   "id": "of-01-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 16,
+   "enunciado": "¿Cuál de los siguientes es un contrato que se rige por la LCSP?",
+   "opciones": [
+    "El contrato para el suministro de un aparato de desinfección con ozono para su uso en las oficinas de un ministerio.",
+    "El convenio firmado entre dos organismos públicos para compartir información vital para el ejercicio de sus competencias.",
+    "El alquiler de un edificio para uso de la Administración.",
+    "El contrato a tiempo parcial de un cocinero para la cafetería de un ministerio."
+   ]
+  },
+  {
+   "id": "of-01-017",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 17,
+   "enunciado": "De acuerdo con lo establecido en la LCSP están sujetos a una regulación armonizada:",
+   "opciones": [
+    "Los contratos de obras que deban adjudicarse por los órganos dependientes de la Administración General del Estado.",
+    "Los contratos de servicios que deban adjudicarse por las Entidades Locales con valor estimado igual o superior a 216.000€.",
+    "Los contratos de obras y de concesión de servicios que deban adjudicarse por los órganos dependientes de la Administración general del Estado con valor estimado igual o superior a 5.000.000€.",
+    "Los contratos de servicios que deban adjudicarse por las entidades Locales con valor estimado igual o superior a 140.000€."
+   ]
+  },
+  {
+   "id": "of-01-018",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 18,
+   "enunciado": "Según la LCSP, los contratos celebrados por entidades del sector público que NO reúnan la condición de poder adjudicador tendrán la consideración de:",
+   "opciones": [
+    "Contratos privados.",
+    "Contratos administrativos.",
+    "Contratos mixtos.",
+    "Contratos de servicios."
+   ]
+  },
+  {
+   "id": "of-01-019",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 19,
+   "enunciado": "De conformidad con la LCSP, los contratos cuyo objeto sea la suscripción a bases de datos son:",
+   "opciones": [
+    "Contratos de suministros.",
+    "Contratos privados.",
+    "Contratos de servicios.",
+    "Contratos administrativos, cuando los suscriba una Administración pública."
+   ]
+  },
+  {
+   "id": "of-01-020",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 20,
+   "enunciado": "Según el artículo 16 de la LCSP, los contratos cuyo objeto sea la adquisición de programas de ordenador desarrollados a medida tendrán la consideración de:",
+   "opciones": [
+    "Contratos de servicios.",
+    "Contratos de suministro.",
+    "Contratos mixtos.",
+    "Contratos privados."
+   ]
+  },
+  {
+   "id": "of-01-021",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 21,
+   "enunciado": "Señale la respuesta correcta en relación con la posibilidad de prórroga de un contrato de servicios:",
+   "opciones": [
+    "El contrato podrá tener una duración inicial de tres años pudiendo prorrogarse por tres años más.",
+    "La prórroga será obligatoria para el empresario, siempre que su preaviso se produzca al menos con tres meses de antelación.",
+    "La prórroga podrá acordarse por el consentimiento tácito de las partes.",
+    "La prórroga no será obligatoria para el contratista si la Administración se hubiese demorado más de seis meses en el pago."
+   ]
+  },
+  {
+   "id": "of-01-022",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 22,
+   "enunciado": "De conformidad con la LCSP, la prórroga de un contrato se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca, salvo que en el pliego que rija el contrato se establezca un plazo mayor:",
+   "opciones": [
+    "Al menos con un mes de antelación a la finalización del plazo de duración del contrato.",
+    "Al menos con dos meses de antelación a la finalización del plazo de duración del contrato.",
+    "Al menos con tres meses de antelación a la finalización del plazo de duración del contrato.",
+    "Al menos con quince días hábiles de antelación a la finalización del plazo de duración del contrato."
+   ]
+  },
+  {
+   "id": "of-01-023",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 23,
+   "enunciado": "¿Cuál de los siguientes negocios o contratos NO está excluido del ámbito de aplicación de la LCSP?",
+   "opciones": [
+    "Los relativos a servicios financieros relacionados con la emisión, compra, venta o transferencia de valores.",
+    "Los acuerdos que celebre el Estado con otros Estados o sujetos de Derecho Internacional.",
+    "Los que tengan por objeto la adquisición de energía primaria o energía transformada.",
+    "Los de servicios de arbitraje y conciliación."
+   ]
+  },
+  {
+   "id": "of-01-024",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 24,
+   "enunciado": "Según la LCSP, ¿qué tipo de contrato es el arrendamiento, con o sin opción de compra, de productos o bienes muebles?",
+   "opciones": [
+    "Contrato de suministro.",
+    "Contrato de concesión de servicios.",
+    "Contrato de servicios.",
+    "Contrato mixto."
+   ]
+  },
+  {
+   "id": "of-01-025",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 25,
+   "enunciado": "De acuerdo con lo dispuesto en la LCSP, señale cuál de los siguientes NO es un poder adjudicador:",
+   "opciones": [
+    "Las Administraciones Públicas.",
+    "Las Corporaciones de derecho privado.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las fundaciones públicas."
+   ]
+  },
+  {
+   "id": "of-01-026",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 26,
+   "enunciado": "El artículo 16 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece que son contratos de suministro:",
+   "opciones": [
+    "Aquellos por el que uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia.",
+    "Los que tienen por objeto la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto.",
+    "Aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra.",
+    "Los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles."
+   ]
+  },
+  {
+   "id": "of-01-027",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 27,
+   "enunciado": "Según lo dispuesto en el artículo 29 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de concesión de obras y de concesión de servicios que comprendan la ejecución de obras y la explotación de servicio tendrán una duración máxima, incluidas prórrogas, de:",
+   "opciones": [
+    "10 años.",
+    "20 años.",
+    "30 años.",
+    "40 años."
+   ]
+  },
+  {
+   "id": "of-01-028",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 28,
+   "enunciado": "Según lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué tipo de contrato sería la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas, y la cesión del derecho de uso de estos últimos, en cualquiera de sus modalidades de puesta a disposición, a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida?",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de concesión de servicios.",
+    "Contrato de suministro.",
+    "Contrato mixto."
+   ]
+  },
+  {
+   "id": "of-01-029",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 29,
+   "enunciado": "¿Cuál es el orden jurisdiccional competente para las cuestiones relacionadas con la preparación y adjudicación de los contratos privados de las Administraciones Públicas, de acuerdo con el artículo 27 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público?",
+   "opciones": [
+    "Orden jurisdiccional social.",
+    "Orden jurisdiccional contencioso-administrativo.",
+    "Orden jurisdiccional civil.",
+    "Orden jurisdiccional penal."
+   ]
+  },
+  {
+   "id": "of-01-030",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 30,
+   "enunciado": "Con base en lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, cuál de los siguientes NO tiene consideración de poder adjudicador:",
+   "opciones": [
+    "Las Administraciones Públicas.",
+    "Las fundaciones públicas.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las asociaciones inscritas en el Registro Nacional de Asociaciones."
+   ]
+  },
+  {
+   "id": "of-02-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 1,
+   "enunciado": "De acuerdo con el artículo 50 de la LCSP, el procedimiento de recurso especial en materia de contratación se iniciará mediante escrito que deberá presentarse en el plazo de:",
+   "opciones": [
+    "Diez días hábiles.",
+    "Quince días hábiles.",
+    "Treinta días hábiles.",
+    "Veinte días hábiles."
+   ]
+  },
+  {
+   "id": "of-02-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 2,
+   "enunciado": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece que la contratación verbal:",
+   "opciones": [
+    "Está prohibida en todo caso.",
+    "Solo se permite cuando el contrato tenga carácter de emergencia.",
+    "Se utiliza en los contratos de suministro.",
+    "Es obligatoria con carácter general."
+   ]
+  },
+  {
+   "id": "of-02-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 3,
+   "enunciado": "Según el artículo 45 de la Ley 9/2017, de 8 de noviembre, el órgano competente para la resolución del recurso especial en materia de contratación en el ámbito de la Administración General del Estado es:",
+   "opciones": [
+    "El Tribunal Administrativo Central de Recursos Contractuales.",
+    "El Tribunal de Defensa de la Competencia.",
+    "El Tribunal de Cuentas.",
+    "El Tribunal Económico-Administrativo Central."
+   ]
+  },
+  {
+   "id": "of-02-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 4,
+   "enunciado": "Según el artículo 82 de la Ley 9/2017, de 8 de noviembre, la clasificación de las empresas tendrá una vigencia de:",
+   "opciones": [
+    "5 años.",
+    "Indefinida, en tanto se mantengan por el empresario las condiciones y circunstancias en que se base su concesión.",
+    "1 año.",
+    "3 años."
+   ]
+  },
+  {
+   "id": "of-02-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 5,
+   "enunciado": "Según lo dispuesto en la LCSP, podrán ser objeto de recurso especial en materia de contratación:",
+   "opciones": [
+    "Los encargos cuando su importe, atendida su duración total más las prórrogas, sea igual o inferior a 100.000 euros.",
+    "Las concesiones de obras o de servicios cuyo valor estimado supere los 3 millones de euros.",
+    "Los contratos de obras cuyo valor estimado sea superior a 2 millones de euros.",
+    "Los contratos de obras cuyo valor estimado sea superior a 500.000 euros."
+   ]
+  },
+  {
+   "id": "of-02-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 6,
+   "enunciado": "La LCSP dispone que las personas jurídicas:",
+   "opciones": [
+    "Solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de su objeto social.",
+    "Solo podrán ser adjudicatarias de contratos de obras.",
+    "Nunca podrán ser adjudicatarias de contratos sujetos a regulación armonizada.",
+    "Podrán ser adjudicatarias de todo contrato independientemente de su objeto social."
+   ]
+  },
+  {
+   "id": "of-02-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 7,
+   "enunciado": "De acuerdo con la LCSP, la interposición del recurso especial en materia de contratación:",
+   "opciones": [
+    "Exige que el interesado confiera su representación a un procurador y sea asistido por abogado.",
+    "Exige que el interesado esté asistido por abogado.",
+    "Es preceptivo para poder interponer recurso contencioso-administrativo.",
+    "Tiene carácter potestativo y gratuito para los recurrentes."
+   ]
+  },
+  {
+   "id": "of-02-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 8,
+   "enunciado": "Según la LCSP, los contratos que celebren los poderes adjudicadores, a excepción de los contratos menores y de los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición, se perfeccionan:",
+   "opciones": [
+    "Con su formalización.",
+    "Con su adjudicación.",
+    "Con la aprobación del expediente de contratación.",
+    "Con la publicación del anuncio de formalización."
+   ]
+  },
+  {
+   "id": "of-02-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 9,
+   "enunciado": "Conforme con la LCSP, los encargos de los poderes adjudicadores a medios propios personificados deben ser objeto de formalización en un documento que será publicado en la Plataforma de Contratación correspondiente cuando su importe sea:",
+   "opciones": [
+    "Superior a 50.000 euros, IVA excluido.",
+    "Superior a 5.000 euros, IVA excluido.",
+    "Superior a 50.000 euros, IVA incluido.",
+    "Superior a 5.000 euros, IVA incluido."
+   ]
+  },
+  {
+   "id": "of-02-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 10,
+   "enunciado": "Señale cuál de las siguientes actuaciones NO puede ser objeto de recurso especial, en virtud del artículo 44 de la LCSP:",
+   "opciones": [
+    "Los anuncios de licitación.",
+    "Los actos de la mesa o del órgano de contratación por los que se acuerde la admisión o inadmisión de candidatos o licitadores.",
+    "El acuerdo de inicio del expediente.",
+    "Los pliegos y los documentos contractuales que establezcan las condiciones que deban regir la contratación."
+   ]
+  },
+  {
+   "id": "of-02-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 11,
+   "enunciado": "De acuerdo con la LCSP, la clasificación de los empresarios como contratistas de servicios de los poderes adjudicadores se exige:",
+   "opciones": [
+    "En los contratos de servicios no es exigible la clasificación del empresario.",
+    "Cuando el valor estimado de los contratos sea igual o superior a 500.000 euros.",
+    "Cuando el valor estimado de los contratos sea inferior a 500.000 euros.",
+    "Cuando el valor estimado de los contratos sea igual o superior a 500.000 euros y no se aporten otros requisitos de solvencia."
+   ]
+  },
+  {
+   "id": "of-02-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 12,
+   "enunciado": "Según la LCSP, ¿con que periodicidad debe publicarse al menos la información relativa a los contratos menores?",
+   "opciones": [
+    "Semestralmente.",
+    "Trimestralmente.",
+    "Mensualmente.",
+    "Anualmente."
+   ]
+  },
+  {
+   "id": "of-02-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 13,
+   "enunciado": "Según la LCSP, será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras o de servicios de los poderes adjudicadores, en el caso de:",
+   "opciones": [
+    "Contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Contratos de obras cuyo importe total, IVA excluido, sea inferior a 500.000 euros.",
+    "Contratos de obras y servicios cuyo importe total, IVA incluido, sea igual o inferior a 500.000 euros.",
+    "Contratos de obras y servicios cuyo valor estimado sea superior a 500.000 euros."
+   ]
+  },
+  {
+   "id": "of-02-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 14,
+   "enunciado": "Señale la respuesta INCORRECTA respecto del recurso especial en materia de contratación regulado en la LCSP:",
+   "opciones": [
+    "Las personas legitimadas para interponerlo podrán solicitar la adopción de medidas cautelares.",
+    "Este recurso será de aplicación en los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "Transcurridos dos meses contados desde el siguiente a la interposición del recurso sin que se haya notificado su resolución el interesado podrá considerarlo desestimado a los efectos de interponer recurso contencioso-administrativo.",
+    "Podrá interponerlo cualquier persona física o jurídica cuyos derechos o intereses legítimos, individuales o colectivos, se hayan visto perjudicados o puedan resultar afectados, de manera directa o indirecta, por las decisiones objeto del recurso."
+   ]
+  },
+  {
+   "id": "of-02-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 15,
+   "enunciado": "De conformidad con lo establecido en la LCSP los contratos basados en un acuerdo marco se perfeccionan:",
+   "opciones": [
+    "En el momento de la firma del contratista.",
+    "En el momento de la entrega del suministro o cumplimiento del servicio objeto del contrato.",
+    "En el momento de su adjudicación.",
+    "En el momento de su formalización."
+   ]
+  },
+  {
+   "id": "of-02-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 16,
+   "enunciado": "De conformidad con la LCSP, la falta de solvencia económica en los contratos celebrados por poderes adjudicadores constituye:",
+   "opciones": [
+    "Una irregularidad no invalidante que puede ser subsanable por el contratista.",
+    "Un supuesto de nulidad de pleno derecho del contrato.",
+    "Una causa de resolución del contrato.",
+    "Una causa de anulabilidad del contrato."
+   ]
+  },
+  {
+   "id": "of-02-017",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 17,
+   "enunciado": "Si el contrato se formalizase con la empresa mejor posicionada sin haber esperado la resolución del recurso especial en materia de contratación interpuesto por otra de las empresas licitadoras:",
+   "opciones": [
+    "La formalización del contrato, en este supuesto, sería causa de nulidad.",
+    "La formalización del contrato, en este supuesto, sería ajustada a derecho.",
+    "La formalización del contrato, en este supuesto, sería causa de anulabilidad.",
+    "La formalización del contrato, en este supuesto, sería causa de irregularidad no invalidante."
+   ]
+  },
+  {
+   "id": "of-02-018",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 18,
+   "enunciado": "¿Cuál sería la consecuencia de haberse celebrado un contrato sin crédito suficiente?",
+   "opciones": [
+    "Sería un motivo de anulabilidad del contrato.",
+    "Sería un motivo de nulidad del contrato.",
+    "Sería un motivo de nulidad del contrato, salvo que se hubiera declarado el procedimiento de urgencia.",
+    "Sería una irregularidad no invalidante."
+   ]
+  },
+  {
+   "id": "of-02-019",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 19,
+   "enunciado": "En relación con el recurso especial en materia de contratación, señale la respuesta correcta:",
+   "opciones": [
+    "En caso de que se detecten defectos en el escrito del recurso, se requerirá al interesado a fin de que subsane la falta o acompañe los documentos preceptivos, continuando con la tramitación del recurso en caso de que no subsanase.",
+    "Podrán ser objeto del recurso los actos del órgano de contratación por el que acuerde la admisión o exclusión de ofertas, incluidas las ofertas que sean excluidas por resultar anormalmente bajas.",
+    "Una vez interpuesto el recurso quedará en suspenso la tramitación del procedimiento cuando el acto recurrido sea el Pliego de Cláusulas Administrativas Particulares.",
+    "El procedimiento de recurso especial se iniciará mediante escrito que deberá presentarse en el plazo de veinte días hábiles."
+   ]
+  },
+  {
+   "id": "of-02-020",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 20,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la falta de publicación del anuncio de licitación en el perfil de contratante alojado en la Plataforma de Contratación del Sector Público, será causa de:",
+   "opciones": [
+    "Nulidad de pleno derecho.",
+    "Corrección por la Junta de Contratación.",
+    "Subsanación a instancia de parte.",
+    "Anulabilidad."
+   ]
+  },
+  {
+   "id": "of-02-021",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 21,
+   "enunciado": "Según lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, indique para qué tipo de contratos es requisito indispensable que el empresario se encuentre debidamente clasificado:",
+   "opciones": [
+    "Contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Contratos de suministros cuyo valor estimado sea igual o superior a 300.000 euros.",
+    "Contratos de obras cuyo valor estimado sea inferior a 500.000 euros.",
+    "Contratos de suministros cuyo valor estimado sea inferior a 200.000 euros."
+   ]
+  },
+  {
+   "id": "of-02-022",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 22,
+   "enunciado": "¿En cuál de los siguientes supuestos NO cabe el recurso especial en materia de contratación?",
+   "opciones": [
+    "Una concesión de servicio por valor estimado de cuatro millones de euros.",
+    "Una concesión de obra por valor estimado de tres millones y medio de euros.",
+    "Un contrato de obras por valor estimado de un millón de euros.",
+    "Un contrato de suministro basado en un acuerdo marco por valor estimado de doscientos mil euros."
+   ]
+  },
+  {
+   "id": "of-02-023",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 23,
+   "enunciado": "De conformidad con lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, indique qué recurso procede contra la resolución del recurso especial en materia de contratación:",
+   "opciones": [
+    "Sólo cabrá la interposición de recurso de alzada.",
+    "Sólo cabrá la interposición de recurso potestativo de reposición.",
+    "Sólo cabrá la interposición de recurso económico administrativo.",
+    "Sólo cabrá la interposición de recurso contencioso-administrativo."
+   ]
+  },
+  {
+   "id": "of-02-024",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 24,
+   "enunciado": "¿Qué plazo marca la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para que las personas legitimadas puedan presentar el recurso especial en materia de contratación?",
+   "opciones": [
+    "Un mes.",
+    "15 días hábiles.",
+    "20 días hábiles.",
+    "10 días hábiles."
+   ]
+  },
+  {
+   "id": "of-02-025",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 25,
+   "enunciado": "Según la LCSP, para la conservación de la clasificación de las empresas, el mantenimiento de la solvencia técnica y profesional deberá justificarse:",
+   "opciones": [
+    "Anualmente.",
+    "Cada tres años.",
+    "Cada dos años.",
+    "Cada 5 años."
+   ]
+  }
+ ]
+}

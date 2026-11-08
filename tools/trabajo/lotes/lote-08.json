@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-10-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 4,
+   "enunciado": "Según el artículo 118 de la Ley de Contratos del Sector Publico, en los contratos menores:",
+   "opciones": [
+    "La tramitación del expediente exigirá el informe del órgano de contratación motivando la necesidad del contrato.",
+    "No será necesaria la tramitación de expediente de contratación.",
+    "Solo será exigible la tramitación de expediente en contratos menores de obras.",
+    "No se requerirá la aprobación del gasto, pero sí la incorporación al expediente de la factura correspondiente."
+   ]
+  },
+  {
+   "id": "au-10-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 5,
+   "enunciado": "La celebración de contratos por las Administraciones Públicas requerirá la previa tramitación del expediente de contratación, que se iniciará por el órgano de contratación:",
+   "opciones": [
+    "Motivando su necesidad, pudiendo publicarse en el perfil de contratante.",
+    "Sin necesidad de motivar el contrato y deberá ser publicado en la Plataforma de contratación de la que sea titular.",
+    "Motivando la necesidad del contrato y deberá ser publicado en el perfil de contratante.",
+    "Sin necesidad de motivar el contrato y deberá ser publicado en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "au-10-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 6,
+   "enunciado": "Los contratos menores definidos en el apartado primero del artículo 118 de la LCSP, no podrán tener una duración superior a:",
+   "opciones": [
+    "Un año ni ser objeto de prórroga.",
+    "Cinco años ni ser objeto de prórroga.",
+    "Dos años ni ser objeto de prórroga.",
+    "Un año con posibilidad de prórroga."
+   ]
+  },
+  {
+   "id": "au-10-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 7,
+   "enunciado": "Atendiendo a lo dispuesto en la LCSP, se consideran contratos menores de concesión de obras los contratos adjudicados por las AA.PP, cuyo valor estimado sea inferior a:",
+   "opciones": [
+    "15.000 euros.",
+    "40.000 euros.",
+    "50.000 euros.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "au-10-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 8,
+   "enunciado": "En relación a la tramitación de emergencia, el órgano de contratación podrá ordenar la ejecución de lo necesario para remediar el acontecimiento producido o satisfacer la necesidad sobrevenida o contratar libremente su objeto, en todo o en parte:",
+   "opciones": [
+    "Sin obligación de tramitar el expediente administrativo, ni sujetarse a los requisitos formales establecidos en la Ley, incluso el de la existencia de crédito suficiente.",
+    "Previa tramitación del expediente administrativo, sujetándose a los requisitos formales establecidos en la Ley, incluido el de la existencia de crédito suficiente.",
+    "Sin obligación de tramitar el expediente administrativo, ni sujetarse a los requisitos formales establecidos en la Ley, salvo el de la existencia de crédito suficiente.",
+    "Previa tramitación del expediente administrativo, sujetándose a los requisitos formales establecidos en la Ley, excepto el de la existencia de crédito suficiente."
+   ]
+  },
+  {
+   "id": "au-10-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 9,
+   "enunciado": "Señale la respuesta correcta respecto a la tramitación anticipada de expedientes de contratación:",
+   "opciones": [
+    "Su ejecución debe iniciarse en el ejercicio que se tramita, aun cuando su cumplimiento finalice en ejercicios posteriores.",
+    "La adjudicación deberá realizarse en el ejercicio siguiente al que se inició la tramitación del expediente.",
+    "Podrán ultimarse incluso con la adjudicación y formalización del correspondiente contrato.",
+    "La formalización deberá realizarse en el ejercicio siguiente al que se inició la tramitación del expediente."
+   ]
+  },
+  {
+   "id": "au-10-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 10,
+   "enunciado": "De acuerdo con el artículo 116 de la Ley 9/2017, el expediente de contratación se inicia:",
+   "opciones": [
+    "Con la convocatoria de la licitación.",
+    "Con la aprobación del pliego.",
+    "Con la aprobación del gasto.",
+    "Motivando la necesidad de realizar el contrato."
+   ]
+  },
+  {
+   "id": "au-10-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 11,
+   "enunciado": "¿En qué supuestos la LCSP no obliga al órgano de contratación a tramitar el expediente de contratación?",
+   "opciones": [
+    "En la tramitación de urgencia.",
+    "En la tramitación de emergencia.",
+    "En la tramitación excepcional.",
+    "En la tramitación plurianual."
+   ]
+  },
+  {
+   "id": "au-10-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 12,
+   "enunciado": "Señale la respuesta incorrecta. Según la LCSP, la tramitación de emergencia tendrá lugar cuando la Administración tenga que actuar de forma inmediata a causa de:",
+   "opciones": [
+    "Acontecimientos catastróficos.",
+    "Situaciones que supongan grave peligro.",
+    "Una necesidad inaplazable.",
+    "Necesidades que afecten a la defensa nacional."
+   ]
+  },
+  {
+   "id": "au-10-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 13,
+   "enunciado": "Según la LCSP, los expedientes de tramitación urgentes gozarán de preferencia para su despacho por los distintos órganos que intervengan en su tramitación, los cuales dispondrán de un plazo para emitir sus informes o cumplimentar trámites, de:",
+   "opciones": [
+    "5 días. Por causas justificadas dicho plazo quedará prorrogado hasta 10 días, previa comunicación al órgano de contratación.",
+    "5 días. Dicho plazo no admitirá prórroga.",
+    "10 días. Por causas justificadas dicho plazo quedará prorrogado hasta 20 días, previa comunicación al órgano de contratación.",
+    "10 días. Dicho plazo no admitirá prórroga."
+   ]
+  },
+  {
+   "id": "au-10-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 14,
+   "enunciado": "Señale la respuesta incorrecta. Según la LCSP, en el expediente se justificará adecuadamente:",
+   "opciones": [
+    "La elección del procedimiento de licitación.",
+    "La clasificación que se exija a los participantes.",
+    "La existencia de mesa de contratación.",
+    "Los criterios de solvencia técnica o profesional, y económica y financiera."
+   ]
+  },
+  {
+   "id": "au-10-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 15,
+   "enunciado": "Señale cuál de las siguientes no es una característica propia de la tramitación urgente de los expedientes de contratación:",
+   "opciones": [
+    "Los órganos que intervienen en su tramitación dispondrán de un plazo de 5 días para emitir informes o cumplimentar trámites.",
+    "El plazo para emitir informes podrá ser prorrogado hasta 10 días en atención a la complejidad del expediente.",
+    "Acordada la apertura del procedimiento de adjudicación, los plazos establecidos para la licitación se reducirán a la mitad.",
+    "El plazo de inicio de la ejecución no podrá ser superior a un mes, contado desde la adopción del acuerdo de urgencia."
+   ]
+  },
+  {
+   "id": "au-10-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 16,
+   "enunciado": "De acuerdo con la LCSP, en el expediente de contratación se justificará adecuadamente:",
+   "opciones": [
+    "La necesidad a la que se pretende dar satisfacción mediante la contratación de las prestaciones correspondientes.",
+    "En los contratos de servicios, el informe de insuficiencia de medios.",
+    "La decisión de no dividir en lotes el objeto del contrato, en su caso.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-10-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 17,
+   "enunciado": "Completado el expediente de contratación, se dictará resolución motivada por el órgano de contratación aprobando el mismo y disponiendo la apertura de:",
+   "opciones": [
+    "El procedimiento de adjudicación.",
+    "El trámite de información pública.",
+    "El plazo de formalización del contrato.",
+    "El plazo de interposición del recurso especial en materia de contratación."
+   ]
+  },
+  {
+   "id": "au-10-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 18,
+   "enunciado": "Completado el expediente de contratación, se dictará resolución motivada por el órgano de contratación que implicará:",
+   "opciones": [
+    "El establecimiento de la garantía definitiva.",
+    "La aprobación del gasto.",
+    "La acreditación de la solvencia económica y financiera.",
+    "El compromiso del gasto."
+   ]
+  },
+  {
+   "id": "au-10-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 19,
+   "enunciado": "Podrán ser objeto de tramitación urgente los expedientes correspondientes a los contratos cuya celebración responda a:",
+   "opciones": [
+    "Una necesidad inaplazable.",
+    "Acontecimientos catastróficos.",
+    "Situaciones que supongan grave peligro.",
+    "Necesidades que afecten a la defensa nacional."
+   ]
+  },
+  {
+   "id": "au-10-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 20,
+   "enunciado": "En general, en el caso de tramitación urgente del expediente, acordada la apertura del procedimiento de adjudicación, los plazos establecidos en la LCSP para la licitación, adjudicación y formalización del contrato se reducirán a:",
+   "opciones": [
+    "10 días.",
+    "15 días.",
+    "La mitad.",
+    "La tercera parte."
+   ]
+  },
+  {
+   "id": "au-10-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 21,
+   "enunciado": "El plazo de inicio de la ejecución del contrato que haya sido objeto de tramitación urgente no podrá exceder, contado desde la formalización, de:",
+   "opciones": [
+    "10 días.",
+    "15 días.",
+    "Un mes.",
+    "30 días."
+   ]
+  },
+  {
+   "id": "au-10-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 22,
+   "enunciado": "Cuando la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos, si el contrato ha sido celebrado por la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de Seguridad Social o entidades públicas estatales:",
+   "opciones": [
+    "Se dará cuenta de dichos acuerdos al Congreso de los Diputados en el plazo máximo de 45 días.",
+    "Se dará cuenta de dichos acuerdos al Consejo de Ministros en el plazo máximo de 30 días.",
+    "Se dará cuenta de dichos acuerdos al Consejo de Ministros en el plazo máximo de un mes.",
+    "Se dará cuenta de dichos acuerdos al Congreso de los Diputados en el plazo máximo de 30 días."
+   ]
+  },
+  {
+   "id": "au-10-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 23,
+   "enunciado": "Respecto a la tramitación de emergencia, el plazo de inicio de la ejecución de las prestaciones, contado desde la adopción del acuerdo correspondiente por el órgano de contratación:",
+   "opciones": [
+    "No podrá ser superior a 10 días.",
+    "No podrá ser superior a 15 días.",
+    "No podrá ser superior a un mes.",
+    "No podrá ser superior a 30 días."
+   ]
+  },
+  {
+   "id": "au-10-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 24,
+   "enunciado": "Según el artículo 117.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Resolución por la que se aprueba el expediente de contratación:",
+   "opciones": [
+    "Se publica en el perfil de contratante.",
+    "Se publica en el perfil de contratante y en el Boletín Oficial del Estado.",
+    "Se publica sólo en el Boletín Oficial del Estado.",
+    "No es objeto de publicación."
+   ]
+  },
+  {
+   "id": "au-10-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (10) LCSP (arts. 115 a 120)",
+   "n": 25,
+   "enunciado": "De acuerdo con el artículo 120.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, si en la tramitación de emergencia se excede el plazo de inicio de la ejecución de las prestaciones:",
+   "opciones": [
+    "Este plazo sólo podrá prorrogarse por un plazo máximo de 10 días adicionales.",
+    "Si es culpa del contratista, éste dispondrá de un plazo de 3 días para justificar la demora.",
+    "La contratación de dichas prestaciones requerirá la tramitación de un procedimiento ordinario.",
+    "El órgano de contratación podrá acordar la suspensión del contrato, previa audiencia al contratista."
+   ]
+  },
+  {
+   "id": "au-11-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 1,
+   "enunciado": "Según la LCSP, la aprobación de un Pliego de Cláusulas Administrativas Particulares (PCAP) con estipulaciones contrarias a un Pliego de Cláusulas Administrativas Generales (PCAG):",
+   "opciones": [
+    "No podrá darse en ningún caso.",
+    "Requiere la aprobación de tales cláusulas por el órgano que aprobó el PCAG.",
+    "Requiere informe previo del Servicio Jurídico correspondiente.",
+    "Requiere informe previo de la Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "au-11-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 2,
+   "enunciado": "El Pliego de Cláusulas Administrativas Particulares (PCAP) no será exigible:",
+   "opciones": [
+    "En los contratos que se adjudiquen utilizando el procedimiento negociado.",
+    "En los contratos menores.",
+    "Nunca es exigible, quedando a criterio del órgano de contratación.",
+    "Siempre es exigible, sin excepción."
+   ]
+  },
+  {
+   "id": "au-11-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (11) LCSP (arts. 121 a 130)",
+   "n": 3,
+   "enunciado": "De acuerdo con la LCSP, ¿podrán las prescripciones técnicas hacer referencia a una fabricación o una procedencia determinada, o a un procedimiento concreto que caracterice a los productos o servicios ofrecidos por un empresario determinado?",
+   "opciones": [
+    "Nunca podrán realizar tal referencia.",
+    "Tal referencia se autorizará, con carácter general, por los Pliegos de Cláusulas Administrativas Generales.",
+    "Se admite tal referencia, con carácter excepcional, en el caso en que no sea posible hacer una descripción lo bastante precisa e inteligible del objeto del contrato, en cuyo caso irá acompañada de la mención “o equivalente”.",
+    "Solo se admiten referencias al rendimiento o exigencias funcionales."
+   ]
+  }
+ ]
+}

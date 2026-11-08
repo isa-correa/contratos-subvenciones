@@ -1,0 +1,683 @@
+{
+ "casos": {
+  "caso-11": {
+   "id": "caso-11",
+   "titulo": "Ejercicio 11.- Del recurso especial (2)",
+   "texto": "Indique si cabría interponer recurso especial en materia de contratación frente a los actos que se indican a continuación:",
+   "corto": true
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-11-001",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 1,
+   "enunciado": "Anuncio de licitación de un contrato de servicios de limpieza, con un valor estimado de 120.000 euros, celebrado por el Ministerio de Cultura:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-002",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 2,
+   "enunciado": "Acto de adjudicación de un contrato de obras, con un valor estimado de 2.000.000 de euros, celebrado por una Mutua Colaboradora con la Seguridad Social:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-003",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 3,
+   "enunciado": "Pliegos de un contrato de suministro, con un valor estimado de 143.000 euros, celebrado por un Ayuntamiento:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-004",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 4,
+   "enunciado": "Informe de insuficiencia de medios para la celebración de un contrato de servicios de vigilancia, con valor estimado de 600.000 euros, celebrado por la Comunidad Autónoma de Madrid:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-005",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 5,
+   "enunciado": "Informe justificativo de la necesidad e idoneidad de un contrato de obras de valor estimado de 3.000.000 de euros celebrado por una Autoridad Administrativa Independiente:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-006",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 6,
+   "enunciado": "Exclusión de una de las ofertas presentadas en la licitación de un contrato de concesión de obras, con un valor estimado de 4.000.000 de euros, celebrado por una Entidad Pública Empresarial:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-007",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 7,
+   "enunciado": "Acuerdo de rescate de una concesión de servicios de un valor estimado de 2.000.000 de euros, celebrado por la Diputación Provincial de Huelva:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el contrato ha sido adjudicado por un ente que no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-008",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 8,
+   "enunciado": "Acto de adjudicación de un contrato administrativo especial, con un valor estimado de 200.000 euros, adjudicado por una Fundación Pública:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-009",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 9,
+   "enunciado": "Acto de admisión de un candidato en la licitación de un contrato de suministro, con un valor estimado de 120.000 euros, basado en un acuerdo marco celebrado por una Universidad Pública:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-11-010",
+   "origen": "practicas",
+   "test": "Ejercicio 11.- Del recurso especial (2)",
+   "n": 10,
+   "enunciado": "Pliego de prescripciones técnicas de un contrato de servicios de un valor estimado de 220.000 euros, celebrado por una Sociedad Mercantil Estatal:",
+   "opciones": [
+    "No, porque se trata de un contrato no comprendido en el artículo 44.1 de la LCSP, al no superar el umbral exigido.",
+    "No, porque se trata de un acto no comprendido en el artículo 44.2 de la LCSP.",
+    "No, porque ni el contrato ni el acto reúnen los requisitos del artículo 44 de la LCSP.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "Sí, cabe interponer recurso especial en materia de contratación."
+   ],
+   "caso": "caso-11"
+  },
+  {
+   "id": "pr-12-001",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 1,
+   "enunciado": "En un procedimiento abierto para la adjudicación de un contrato de servicios sujeto a regulación armonizada, se fija un plazo de 35 días para la presentación de proposiciones. De acuerdo con la disposición adicional duodécima de la Ley de Contratos del Sector Público, y teniendo en cuenta que el precepto regulador de dicho plazo no establece lo contrario, ¿cómo deberá computarse?",
+   "opciones": [
+    "En días naturales; si el último día del plazo fuera inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+    "En días naturales; si el último día del plazo fuera inhábil, el plazo finalizará ese mismo día.",
+    "En días hábiles; si el último día del plazo fuera inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+    "En días hábiles; si el último día del plazo fuera inhábil, el plazo finalizará ese mismo día."
+   ]
+  },
+  {
+   "id": "pr-12-002",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 2,
+   "enunciado": "El artículo 1.1 de la Ley de Contratos del Sector Público establece una serie de principios a los que deberá ajustarse la contratación del sector público. Indique cuál de los siguientes NO constituye uno de dichos principios:",
+   "opciones": [
+    "La libertad de acceso a las licitaciones.",
+    "La publicidad y transparencia de los procedimientos.",
+    "La no discriminación e igualdad de trato entre los licitadores.",
+    "La incorporación de criterios sociales y medioambientales que no guarden relación con el objeto del contrato."
+   ]
+  },
+  {
+   "id": "pr-12-003",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 3,
+   "enunciado": "Señale la respuesta CORRECTA en relación con el ámbito subjetivo de aplicación de la Ley de Contratos del Sector Público:",
+   "opciones": [
+    "Una Entidad Gestora de la Seguridad Social tiene la consideración de poder adjudicador, pero no de Administración Pública.",
+    "Una fundación pública forma parte del sector público, pero no tiene la consideración de poder adjudicador.",
+    "Una autoridad administrativa independiente tiene la consideración de Administración Pública y, por tanto, de poder adjudicador.",
+    "Un fondo sin personalidad jurídica queda excluido del ámbito de aplicación de la Ley de Contratos del Sector Público."
+   ]
+  },
+  {
+   "id": "pr-12-004",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 4,
+   "enunciado": "De acuerdo con el artículo 2.1 de la Ley de Contratos del Sector Público, los contratos celebrados por las entidades enumeradas en el artículo 3 quedarán sometidos a dicha Ley, cualquiera que sea su naturaleza jurídica, siempre que tengan carácter:",
+   "opciones": [
+    "Lucrativo.",
+    "Oneroso.",
+    "Gratuito.",
+    "No lucrativo."
+   ]
+  },
+  {
+   "id": "pr-12-005",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 5,
+   "enunciado": "¿Cuál de los siguientes negocios o contratos NO se encuentra excluido del ámbito de aplicación de la Ley de Contratos del Sector Público?",
+   "opciones": [
+    "Los que tengan por objeto servicios relacionados con campañas políticas, cuando sean adjudicados por un partido político.",
+    "Los relativos a servicios de arbitraje y conciliación.",
+    "Los que tengan por objeto la creación e interpretación artística y literaria.",
+    "La relación de servicio de los funcionarios públicos."
+   ]
+  },
+  {
+   "id": "pr-12-006",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 6,
+   "enunciado": "De acuerdo con el artículo 9 de la Ley de Contratos del Sector Público, ¿cuál de los siguientes contratos tendrá siempre carácter privado y se regirá por la legislación patrimonial?",
+   "opciones": [
+    "Un contrato de compraventa de bienes muebles.",
+    "Un contrato de adquisición de programas de ordenador desarrollados a medida.",
+    "Un contrato que tenga por objeto la construcción de un bien inmueble.",
+    "Un contrato de donación de valores negociables."
+   ]
+  },
+  {
+   "id": "pr-12-007",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 7,
+   "enunciado": "De acuerdo con el artículo 13 de la Ley de Contratos del Sector Público, señale la respuesta correcta:",
+   "opciones": [
+    "La contratación conjunta de la redacción de un proyecto y la ejecución de la obra tendrá la consideración de contrato mixto.",
+    "Se entenderá por obra el resultado de un conjunto de trabajos que tenga por objeto un bien de naturaleza mueble o inmueble.",
+    "Podrán contratarse separadamente partes de una obra completa que sean susceptibles de utilización independiente.",
+    "La realización de trabajos que modifiquen la forma o sustancia del terreno o de su vuelo no tendrá la consideración de obra."
+   ]
+  },
+  {
+   "id": "pr-12-008",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 8,
+   "enunciado": "Una Administración pretende contratar la construcción de una autopista. Para que el contrato pueda ser calificado como concesión de obras, la contraprestación a favor del concesionario deberá consistir en el derecho a explotar la obra. En relación con dicho derecho de explotación, señale la respuesta CORRECTA:",
+   "opciones": [
+    "No podrá ir acompañado, en ningún caso, del derecho a percibir un precio.",
+    "Deberá ir necesariamente acompañado del derecho a percibir un precio.",
+    "Deberá ir acompañado del derecho a percibir un precio, salvo cuando el concesionario no asuma riesgo operacional.",
+    "Deberá implicar la transferencia al concesionario de un riesgo operacional en la explotación de la obra."
+   ]
+  },
+  {
+   "id": "pr-12-009",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 9,
+   "enunciado": "El Ministerio de Igualdad pretende adjudicar los siguientes contratos. De acuerdo con el artículo 16 de la Ley de Contratos del Sector Público, ¿cuál de ellos NO tendrá la consideración de contrato de suministro?",
+   "opciones": [
+    "La adquisición de valores negociables.",
+    "La adquisición de equipos y sistemas de telecomunicaciones.",
+    "La fabricación de mobiliario con arreglo a características peculiares fijadas previamente por el Ministerio.",
+    "La adquisición de energía eléctrica."
+   ]
+  },
+  {
+   "id": "pr-12-010",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 10,
+   "enunciado": "Conforme a lo dispuesto en la LCSP, señale la respuesta INCORRECTA en relación con el contrato de concesión de servicios:",
+   "opciones": [
+    "Su contrapartida consistirá en el derecho a explotar los servicios, solo o acompañado del derecho a percibir un precio.",
+    "Excepcionalmente, podrá tener por objeto servicios que impliquen el ejercicio de la autoridad inherente a los poderes públicos.",
+    "Solo podrán celebrarlo las entidades que tengan la consideración de poderes adjudicadores.",
+    "El derecho de explotación implicará la transferencia del riesgo operacional al concesionario."
+   ]
+  },
+  {
+   "id": "pr-12-011",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 11,
+   "enunciado": "Una Administración pretende contratar conjuntamente el suministro de equipos de aire acondicionado y las obras necesarias para su instalación en una de sus dependencias. Al tratarse de prestaciones directamente vinculadas y complementarias entre sí, se celebra un contrato mixto. Según el artículo 18 de la Ley de Contratos del Sector Público, ¿qué normas regirán su preparación y adjudicación?",
+   "opciones": [
+    "Las correspondientes al contrato de obras.",
+    "Las correspondientes al contrato de suministro.",
+    "Las correspondientes a la prestación que tenga carácter principal.",
+    "Las correspondientes a la prestación que tenga mayor valor estimado."
+   ]
+  },
+  {
+   "id": "pr-12-012",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 12,
+   "enunciado": "El Ministerio de Justicia pretende contratar conjuntamente el suministro de equipos informáticos y el servicio de mantenimiento y soporte técnico de dichos equipos. Al tratarse de prestaciones directamente vinculadas y complementarias entre sí, se celebra un contrato mixto. De acuerdo con la Ley de Contratos del Sector Público, ¿qué normas regirán sus efectos, cumplimiento y extinción?",
+   "opciones": [
+    "Las correspondientes al contrato de suministro.",
+    "Las correspondientes al contrato de servicios.",
+    "Las correspondientes a la prestación que tenga mayor valor estimado.",
+    "Las que se determinen en los pliegos de cláusulas administrativas particulares."
+   ]
+  },
+  {
+   "id": "pr-12-013",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 13,
+   "enunciado": "De acuerdo con el artículo 19.1 de la Ley de Contratos del Sector Público, señale cuál de los siguientes NO constituye, con carácter general, uno de los requisitos necesarios para que un contrato esté sujeto a regulación armonizada:",
+   "opciones": [
+    "Que el contrato tenga carácter administrativo.",
+    "Que se califique como contrato de obras, concesión de obras, concesión de servicios, suministro o servicios.",
+    "Que la entidad contratante tenga el carácter de poder adjudicador.",
+    "Que su valor estimado sea igual o superior a la cuantía establecida para el correspondiente tipo contractual."
+   ]
+  },
+  {
+   "id": "pr-12-014",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 14,
+   "enunciado": "El Instituto de las Mujeres, organismo autónomo adscrito al Ministerio de Igualdad, pretende adjudicar los siguientes contratos. Atendiendo a los umbrales vigentes desde el 1 de enero de 2026, indique cuál de ellos NO estará sujeto a regulación armonizada:",
+   "opciones": [
+    "Un contrato de obras para la construcción de un centro de formación, con un valor estimado de 5.404.000 euros.",
+    "Un contrato de servicios sociales de los enumerados en el anexo IV, con un valor estimado de 250.000 euros.",
+    "Un contrato de suministro de equipos informáticos, con un valor estimado de 140.000 euros.",
+    "Un contrato de servicios para la redacción de un proyecto de obras, con un valor estimado de 215.000 euros."
+   ]
+  },
+  {
+   "id": "pr-12-015",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 15,
+   "enunciado": "En una revisión de los anuncios de licitación difundidos a través de la Plataforma de Contratación del Sector Público se han seleccionado los siguientes contratos. Atendiendo a la entidad contratante, al tipo de contrato y a su valor estimado, indique cuál de ellos está sujeto a regulación armonizada:",
+   "opciones": [
+    "Un contrato de obras licitado por Paradores de Turismo de España, S.M.E., S.A., con un valor estimado de 5.600.000 €.",
+    "Un contrato de servicios licitado por la Fundación Biodiversidad, F.S.P., con un valor estimado de 215.000 €.",
+    "Un contrato de suministro licitado por el Ministerio de Igualdad, con un valor estimado de 139.000 €.",
+    "Un contrato de servicios licitado por FREMAP, Mutua Colaboradora con la Seguridad Social, con un valor estimado de 218.000 €."
+   ]
+  },
+  {
+   "id": "pr-12-016",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 16,
+   "enunciado": "El Ministerio de Cultura; el Instituto Nacional de Administración Pública, O.A.; la Fundación Biodiversidad, F.S.P.; y el Instituto de Crédito Oficial, E.P.E., han celebrado, cada uno de ellos, un contrato de obras. De acuerdo con la Ley de Contratos del Sector Público, ¿cuáles de dichos contratos tendrán carácter administrativo?",
+   "opciones": [
+    "Únicamente el celebrado por el Ministerio de Cultura.",
+    "Los celebrados por el Ministerio de Cultura y el Instituto Nacional de Administración Pública, O.A.",
+    "Todos, excepto el celebrado por la Fundación Biodiversidad, F.S.P.",
+    "Todos, excepto el celebrado por el Instituto de Crédito Oficial, E.P.E."
+   ]
+  },
+  {
+   "id": "pr-12-017",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 17,
+   "enunciado": "De acuerdo con la Ley de Contratos del Sector Público, señale cuál de los siguientes contratos NO tendrá carácter privado:",
+   "opciones": [
+    "Un contrato de obras para la reforma de su sede celebrado por la Fundación Biodiversidad, F.S.P.",
+    "Un contrato de suscripción a una revista científica especializada celebrado por el Centro de Investigaciones Sociológicas, O.A.",
+    "Un contrato de suministro de equipos informáticos celebrado por la Autoridad Independiente de Responsabilidad Fiscal, AAI.",
+    "Un contrato de arrendamiento de un bien inmueble destinado a oficinas celebrado por el Ministerio de Cultura."
+   ]
+  },
+  {
+   "id": "pr-12-018",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 18,
+   "enunciado": "Un Ministerio celebra un contrato de suministro de equipos de vigilancia. En relación con dicho contrato se suscitan dos controversias: una relativa a su adjudicación y otra a sus efectos. ¿Qué orden jurisdiccional será competente para conocer de cada una de ellas?",
+   "opciones": [
+    "El orden contencioso-administrativo en ambos casos.",
+    "El orden civil en ambos casos.",
+    "El orden contencioso-administrativo respecto de la adjudicación y el orden civil respecto de los efectos.",
+    "El orden civil respecto de la adjudicación y el orden contencioso-administrativo respecto de los efectos."
+   ]
+  },
+  {
+   "id": "pr-12-019",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 19,
+   "enunciado": "La Fundación Biodiversidad, F.S.P., celebra un contrato de suministro de equipos de monitorización ambiental. En relación con dicho contrato se suscitan dos controversias: una relativa a su adjudicación y otra a su extinción. ¿Qué orden jurisdiccional será competente para conocer de cada una de ellas?",
+   "opciones": [
+    "El orden contencioso-administrativo respecto de la adjudicación y el orden civil respecto de la extinción.",
+    "El orden civil respecto de la adjudicación y el orden contencioso-administrativo respecto de la extinción.",
+    "El orden contencioso-administrativo en ambos casos.",
+    "El orden civil en ambos casos."
+   ]
+  },
+  {
+   "id": "pr-12-020",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 20,
+   "enunciado": "El Ministerio del Interior adjudica un contrato de servicios de vigilancia por un plazo de un año, prorrogable por otro. El pliego no establece un plazo de preaviso superior al previsto legalmente. Acordada la prórroga por el órgano de contratación, ¿en cuál de los siguientes casos NO será obligatoria para el contratista?",
+   "opciones": [
+    "Cuando el preaviso se hubiera realizado con un mes de antelación a la finalización del contrato.",
+    "Cuando la Administración se hubiera demorado en el abono del precio más de cuatro meses.",
+    "Cuando otro contrato adjudicado al contratista dificultara la ejecución simultánea del servicio de vigilancia.",
+    "La prórroga no será obligatoria en ningún caso para el contratista, requiriéndose siempre su aceptación expresa."
+   ]
+  },
+  {
+   "id": "pr-12-021",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 21,
+   "enunciado": "El Ministerio del Interior pretende celebrar un contrato de suministro de combustible para su parque móvil. El contrato prevé dos posibles prórrogas de un año de duración cada una. De acuerdo con la regla general establecida en el artículo 29 de la Ley de Contratos del Sector Público, ¿cuál podrá ser, como máximo, la duración inicial del contrato?",
+   "opciones": [
+    "Un año.",
+    "Tres años.",
+    "Cuatro años.",
+    "Cinco años."
+   ]
+  },
+  {
+   "id": "pr-12-022",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 22,
+   "enunciado": "Un contrato de servicios de limpieza de un edificio administrativo finaliza el 1 de septiembre de 2026. El anuncio de licitación del nuevo contrato se publicó el 15 de junio y, como consecuencia de acontecimientos imprevisibles producidos durante el procedimiento de adjudicación, llegado el vencimiento no ha podido formalizarse el nuevo contrato. Existiendo razones de interés público para no interrumpir el servicio de limpieza, ¿podrá acordarse la continuidad del contrato originario?",
+   "opciones": [
+    "No, porque el anuncio de licitación debería haberse publicado con una antelación mínima de tres meses.",
+    "No, porque el anuncio de licitación debería haberse publicado con una antelación mínima de seis meses.",
+    "Sí, hasta que comience la ejecución del nuevo contrato y por un período máximo de seis meses.",
+    "Sí, hasta que comience la ejecución del nuevo contrato y por un período máximo de nueve meses."
+   ]
+  },
+  {
+   "id": "pr-12-023",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 23,
+   "enunciado": "El Ministerio de Cultura pretende adjudicar la explotación del servicio de cafetería-restaurante de un museo estatal, transfiriéndose al concesionario el riesgo operacional derivado de dicha explotación. De acuerdo con el artículo 29 de la Ley de Contratos del Sector Público, ¿qué duración máxima podrá tener la concesión, incluidas las posibles prórrogas?",
+   "opciones": [
+    "Cinco años.",
+    "Diez años.",
+    "Veinticinco años.",
+    "Cuarenta años."
+   ]
+  },
+  {
+   "id": "pr-12-024",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 24,
+   "enunciado": "El Servicio Andaluz de Salud pretende adjudicar una concesión que comprende la construcción de un nuevo centro de rehabilitación y la posterior explotación del servicio de rehabilitación sanitaria, transfiriéndose al concesionario el correspondiente riesgo operacional. De acuerdo con la Ley de Contratos del Sector Público, ¿cuál será la duración máxima del contrato, incluidas las posibles prórrogas?",
+   "opciones": [
+    "Cinco años.",
+    "Diez años.",
+    "Veinticinco años.",
+    "Cuarenta años."
+   ]
+  },
+  {
+   "id": "pr-12-025",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 25,
+   "enunciado": "El Ministerio de Juventud e Infancia adjudica un contrato menor para el suministro de material de oficina por un período de tres meses. ¿Qué plazo de prórroga podrá preverse en dicho contrato?",
+   "opciones": [
+    "Tres meses, puesto que los contratos menores no pueden tener una duración superior a seis meses.",
+    "Nueve meses, puesto que los contratos menores no pueden tener una duración superior a un año.",
+    "Veintiún meses, puesto que los contratos menores no pueden tener una duración superior a dos años.",
+    "Ninguno, puesto que los contratos menores no pueden ser objeto de prórroga."
+   ]
+  },
+  {
+   "id": "pr-12-026",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 26,
+   "enunciado": "El Ministerio de Cultura pretende ejecutar unas obras de reforma en uno de sus archivos estatales mediante un contrato menor de obras de ocho meses de duración. Asimismo, pretende adjudicar un contrato menor de servicios para la dirección facultativa de dichas obras, cuya duración deberá extenderse durante el período de garantía y hasta la realización de los trabajos relacionados con la liquidación del contrato de obras. ¿Cuál podrá ser la duración máxima de este contrato menor de servicios?",
+   "opciones": [
+    "Treinta meses.",
+    "Veinticuatro meses.",
+    "Dieciocho meses.",
+    "Doce meses."
+   ]
+  },
+  {
+   "id": "pr-12-027",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 27,
+   "enunciado": "De acuerdo con el artículo 30 de la Ley de Contratos del Sector Público, ¿cuál de las siguientes NO constituye una circunstancia que permita a la Administración ejecutar obras empleando exclusivamente sus propios medios no personificados?",
+   "opciones": [
+    "Que no haya habido ofertas de empresarios en la licitación previamente efectuada.",
+    "Que se trate de obras de mera conservación y mantenimiento.",
+    "Que, dada la naturaleza de la prestación, sea imposible la fijación previa de un precio cierto.",
+    "Que la ejecución de las obras haya sido declarada urgente conforme a lo previsto en el artículo 119 de la Ley."
+   ]
+  },
+  {
+   "id": "pr-12-028",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 28,
+   "enunciado": "Un Ayuntamiento necesita fabricar señales metálicas y dispone de un taller propio, planchas de aluminio y maquinaria que pueden ser utilizadas por sus operarios para fabricar dichas señales. ¿Qué economía deberá suponer la utilización de estos elementos auxiliares respecto de su contratación con un tercero para poder acudir a sus propios medios no personificados?",
+   "opciones": [
+    "Superior al 5 %.",
+    "Superior al 10 %.",
+    "Superior al 20 %.",
+    "Superior al 25 %."
+   ]
+  },
+  {
+   "id": "pr-12-029",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 29,
+   "enunciado": "Un Ayuntamiento dispone de jardineros, vehículos y herramientas suficientes para mantener sus parques y jardines. ¿Qué economía deberá obtener respecto de su contratación con un tercero para prestar el servicio con sus propios medios no personificados?",
+   "opciones": [
+    "Superior al 5 %.",
+    "Superior al 10 %.",
+    "Superior al 20 %.",
+    "Ninguna; el servicio se prestará normalmente con medios propios."
+   ]
+  },
+  {
+   "id": "pr-12-030",
+   "origen": "practicas",
+   "test": "Examen nº16 - LCSP (arts 1 a 33)",
+   "n": 30,
+   "enunciado": "Conforme al artículo 32 de la Ley de Contratos del Sector Público, para que una entidad pueda considerarse medio propio personificado, ¿qué parte de su actividad debe realizar en el ejercicio de los cometidos confiados por el poder adjudicador que la controla?",
+   "opciones": [
+    "La totalidad de su actividad.",
+    "Más del 80% de su actividad.",
+    "Más del 70% de su actividad.",
+    "Más del 50% de su actividad."
+   ]
+  },
+  {
+   "id": "pr-13-001",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 1,
+   "enunciado": "Conforme al artículo 34.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos del sector público podrán incluir cualesquiera pactos, cláusulas y condiciones, siempre que respeten determinados límites. ¿Cuál de los siguientes no es uno de ellos?",
+   "opciones": [
+    "El interés público.",
+    "El ordenamiento jurídico.",
+    "Los principios de buena administración.",
+    "El principio de igualdad en la asunción de riesgos."
+   ]
+  },
+  {
+   "id": "pr-13-002",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 2,
+   "enunciado": "Para que puedan fusionarse distintas prestaciones en un contrato mixto, el artículo 34.2 de la LCSP establece que estas deben reunir determinadas características. ¿Cuál de las siguientes NO resulta exigible?",
+   "opciones": [
+    "Que correspondan a contratos de distinta clase.",
+    "Que la diferencia entre sus respectivos valores estimados no exceda del 20 %.",
+    "Que mantengan relaciones de complementariedad que exijan su consideración y tratamiento como una unidad funcional.",
+    "Que estén directamente vinculadas entre sí."
+   ]
+  },
+  {
+   "id": "pr-13-003",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 3,
+   "enunciado": "Conforme al artículo 35 de la LCSP, los documentos en los que se formalicen los contratos que celebren las entidades del sector público deberán contener una serie de menciones. ¿Cuál de las siguientes NO se encuentra entre las previstas en dicho artículo?",
+   "opciones": [
+    "La identificación de las partes.",
+    "El precio cierto o el modo de determinarlo.",
+    "Los derechos y obligaciones de las partes distintos de los previstos en los pliegos.",
+    "Los supuestos en que procede la resolución."
+   ]
+  },
+  {
+   "id": "pr-13-004",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 4,
+   "enunciado": "Señale la respuesta correcta en relación con la perfección y la forma de los contratos, de acuerdo con los artículos 36 y 37 de la LCSP:",
+   "opciones": [
+    "Cuando el contrato tenga carácter de emergencia, las entidades del sector público podrán contratar verbalmente.",
+    "Los contratos celebrados por entidades que no tengan la consideración de Administración Pública no requieren formalización.",
+    "Los contratos se entenderán celebrados, en todo caso, en el lugar donde se encuentre la sede del órgano de contratación.",
+    "Con carácter general, los contratos celebrados por poderes adjudicadores se perfeccionan con su adjudicación."
+   ]
+  },
+  {
+   "id": "pr-13-005",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 5,
+   "enunciado": "Conforme a la LCSP, ¿cuál de las siguientes NO constituye una causa de nulidad de derecho administrativo?",
+   "opciones": [
+    "El incumplimiento de las circunstancias y requisitos exigidos para modificar el contrato en los artículos 204 y 205 de la LCSP.",
+    "La falta de publicación del anuncio de licitación en el medio de publicidad que resulte preceptivo.",
+    "La formalización del contrato sin respetar, cuando proceda, la suspensión automática del acto de adjudicación.",
+    "La falta de capacidad de obrar del adjudicatario."
+   ]
+  },
+  {
+   "id": "pr-13-006",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 6,
+   "enunciado": "¿Cuál de las siguientes constituye una causa de anulabilidad de derecho administrativo conforme a la LCSP?",
+   "opciones": [
+    "Que la adjudicación se acuerde prescindiendo total y absolutamente del procedimiento legalmente establecido.",
+    "Que se incluyan cláusulas que otorguen ventajas a las empresas que hayan contratado previamente con cualquier Administración.",
+    "Que el adjudicatario se encuentre incurso en una prohibición de contratar.",
+    "Que la adjudicación sea acordada por un órgano manifiestamente incompetente por razón de la materia o del territorio."
+   ]
+  },
+  {
+   "id": "pr-13-007",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 7,
+   "enunciado": "De acuerdo con el artículo 39 de la LCSP, la carencia o insuficiencia de crédito:",
+   "opciones": [
+    "Constituye causa de anulabilidad de derecho administrativo.",
+    "Constituye causa de nulidad de pleno derecho, salvo en los supuestos de urgencia o emergencia.",
+    "Constituye causa de nulidad de pleno derecho, salvo en los supuestos de emergencia.",
+    "Constituye, en todo caso, causa de nulidad de pleno derecho."
+   ]
+  },
+  {
+   "id": "pr-13-008",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 8,
+   "enunciado": "El ministro, en su condición de órgano de contratación, delega en el subsecretario del departamento la competencia para contratar. Conforme al artículo 41.4 de la LCSP, si en un procedimiento de revisión de oficio por causa de nulidad se estimase pertinente reconocer una indemnización por perjuicios, ¿a qué órgano correspondería la facultad de acordarla?",
+   "opciones": [
+    "Al subsecretario, al entenderse esta facultad delegada junto con la competencia para contratar.",
+    "Al subsecretario, siempre que esta facultad le hubiera sido expresamente delegada.",
+    "Al ministro, sin que esta facultad sea susceptible de delegación.",
+    "Al ministro o al subsecretario, indistintamente."
+   ]
+  },
+  {
+   "id": "pr-13-009",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 9,
+   "enunciado": "Durante la ejecución de un contrato se dicta un acto cuya nulidad es posteriormente declarada. De acuerdo con el artículo 42 de la LCSP, ¿qué efectos producirá dicha declaración?",
+   "opciones": [
+    "Llevará en todo caso consigo la nulidad del contrato, que entrará en fase de liquidación.",
+    "Llevará consigo la nulidad del contrato, salvo que ello produzca un grave trastorno al servicio público.",
+    "Afectará al acto declarado nulo y a todos los actos posteriores de ejecución del contrato.",
+    "Solo afectará al acto declarado nulo y a sus consecuencias."
+   ]
+  },
+  {
+   "id": "pr-13-010",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 10,
+   "enunciado": "Conforme al artículo 43 de la LCSP, señale la respuesta correcta respecto de las causas de invalidez reconocidas en el Derecho civil cuando concurran en contratos celebrados por una Administración Pública:",
+   "opciones": [
+    "La concurrencia de cualquiera de estas causas determinará la nulidad de pleno derecho del contrato.",
+    "El procedimiento para hacerlas valer se someterá a lo previsto en el ordenamiento civil.",
+    "Los requisitos y los plazos de ejercicio de las acciones serán los establecidos en el ordenamiento civil.",
+    "Los contratos administrativos únicamente podrán resultar inválidos por las causas previstas en el Derecho administrativo."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-62-021",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 21,
+   "enunciado": "Conforme establece el artículo 221.4 de la LCSP, cuando un acuerdo marco celebrado con varias empresas establezca todos los términos, la adjudicación de los contratos basados se realizará:",
+   "opciones": [
+    "Necesariamente a través de una nueva licitación a la que se invitará a todas las empresas parte del acuerdo marco.",
+    "Necesariamente a través de una nueva licitación a la que se invitará a, al menos, cinco empresas parte del acuerdo marco.",
+    "Necesariamente a través de una nueva licitación a la que se invitará a, al menos, tres empresas parte del acuerdo marco.",
+    "Bien sin nueva licitación, bien con nueva licitación."
+   ]
+  },
+  {
+   "id": "pr-62-022",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 22,
+   "enunciado": "Conforme al artículo 231 de la LCSP, la adjudicación de un contrato de obras requerirá, por este orden, la previa:",
+   "opciones": [
+    "Elaboración, supervisión, aprobación y replanteo del correspondiente proyecto.",
+    "Elaboración, supervisión, replanteo y aprobación del correspondiente del proyecto.",
+    "Elaboración, replanteo, supervisión y aprobación del correspondiente proyecto.",
+    "Elaboración, aprobación, supervisión y replanteo del correspondiente proyecto."
+   ]
+  },
+  {
+   "id": "pr-62-023",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 23,
+   "enunciado": "Según el artículo 232 de la LCSP, y atendiendo a la clasificación de las obras según su objeto y naturaleza, aquellas que sean necesarias para enmendar el menoscabo producido por el transcurso del tiempo y el uso natural de un bien inmueble se consideran obras de:",
+   "opciones": [
+    "Reparación simple o gran reparación.",
+    "Reforma.",
+    "Restauración o rehabilitación.",
+    "Conservación o mantenimiento."
+   ]
+  },
+  {
+   "id": "pr-62-024",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 24,
+   "enunciado": "Conforme al artículo 232 de la LCSP, las obras de reparación que afecten fundamentalmente a la estructura resistente tendrán la consideración de:",
+   "opciones": [
+    "Reparación estructural.",
+    "Reparación compleja.",
+    "Gran reparación.",
+    "Reparación mayor."
+   ]
+  },
+  {
+   "id": "pr-62-025",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 25,
+   "enunciado": "De conformidad con la LCSP, la contratación por separado de la elaboración del proyecto y la ejecución de las obras correspondientes:",
+   "opciones": [
+    "Constituye la regla general, dado que su contratación conjunta tiene carácter excepcional.",
+    "Tiene carácter excepcional, debiendo justificarse en el expediente la concurrencia del supuesto que lo permita.",
+    "Solo será posible cuando se trate de obras de dimensión excepcional o que presenten dificultades técnicas singulares.",
+    "Solo será posible cuando motivos de orden técnico obliguen necesariamente a vincular al empresario a los estudios de las obras."
+   ]
+  },
+  {
+   "id": "pr-62-026",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 26,
+   "enunciado": "De conformidad con el artículo 235 de la LCSP, en los contratos de obras cuyo presupuesto base de licitación sea inferior a 500.000 euros, IVA excluido, el informe de supervisión tendrá:",
+   "opciones": [
+    "Carácter preceptivo, en todo caso.",
+    "Carácter preceptivo, salvo que se trate de obras que no afecten a la estabilidad, seguridad o estanqueidad de la obra",
+    "Carácter facultativo, salvo que se trate de obras con afección a sectores económicos estratégicos.",
+    "Carácter facultativo, salvo que se trate de obras que afecten a la estabilidad, seguridad o estanqueidad de la obra."
+   ]
+  },
+  {
+   "id": "pr-62-027",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 27,
+   "enunciado": "De acuerdo con el artículo 236 de la LCSP, el replanteo del proyecto de obras:",
+   "opciones": [
+    "Tendrá lugar una vez adjudicadas las obras, antes de su inicio.",
+    "Se llevará a cabo tras la aprobación del proyecto de obras.",
+    "Se realizará en presencia del contratista.",
+    "Se efectuará una vez aprobado el expediente de contratación de las obras."
+   ]
+  },
+  {
+   "id": "pr-62-028",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 28,
+   "enunciado": "Conforme al artículo 237 de la LCSP, la comprobación del replanteo tendrá lugar dentro del plazo que se consigne en el contrato, que, salvo casos excepcionales justificados, no podrá ser superior a:",
+   "opciones": [
+    "30 días desde su adjudicación.",
+    "Un mes desde su formalización.",
+    "30 días desde su formalización.",
+    "Un mes desde su adjudicación."
+   ]
+  },
+  {
+   "id": "pr-62-029",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 29,
+   "enunciado": "De acuerdo con el artículo 237 de la LCSP, la ejecución del contrato de obras comenzará con:",
+   "opciones": [
+    "El replanteo del proyecto.",
+    "El informe de supervisión.",
+    "La aprobación del proyecto de obras por el órgano de contratación.",
+    "El acta de comprobación del replanteo."
+   ]
+  },
+  {
+   "id": "pr-62-030",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 30,
+   "enunciado": "Según el artículo 240 de la LCSP, y salvo prevención en contrario en el PCAP, ¿con qué periodicidad y en qué plazo deberá la Administración expedir las certificaciones de obra?",
+   "opciones": [
+    "Con la periodicidad que libremente acuerden la Administración y el empresario al formalizar del contrato.",
+    "En contratos inferiores a un año, con periodicidad mensual y en los primeros cinco días siguientes al mes al que correspondan.",
+    "Con periodicidad mensual y en los primeros diez días siguientes al mes al que correspondan.",
+    "Con periodicidad mensual y en los primeros quince días siguientes al mes al que correspondan."
+   ]
+  },
+  {
+   "id": "pr-62-031",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 31,
+   "enunciado": "Conforme al artículo 242 de la LCSP, cuando una modificación del contrato de obras contemple unidades que hayan de quedar posterior y definitivamente ocultas, ¿con qué antelación mínima deberá comunicarse su medición parcial a la Intervención de la Administración correspondiente?",
+   "opciones": [
+    "Dos días.",
+    "Tres días.",
+    "Cinco días.",
+    "Diez días."
+   ]
+  },
+  {
+   "id": "pr-62-032",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 32,
+   "enunciado": "Conforme al artículo 242 de la LCSP, en los contratos de obras, los excesos de mediciones no tendrán la consideración de modificación contractual siempre que, en global, no representen un incremento del gasto superior a:",
+   "opciones": [
+    "El 20 % del precio del contrato inicial.",
+    "El 15 % del precio del contrato inicial.",
+    "El 10 % del precio del contrato inicial.",
+    "El 3 % del precio del contrato inicial."
+   ]
+  },
+  {
+   "id": "pr-62-033",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 33,
+   "enunciado": "Según el artículo 242 de la LCSP, cuando una modificación del contrato de obras suponga la introducción de unidades no previstas en el proyecto, ¿quién fijará los precios aplicables?",
+   "opciones": [
+    "La Administración, sin necesidad de audiencia del contratista.",
+    "El contratista.",
+    "La Administración, previa audiencia del contratista.",
+    "Se fijarán necesariamente de mutuo acuerdo entre la Administración y el contratista."
+   ]
+  },
+  {
+   "id": "pr-62-034",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 34,
+   "enunciado": "De acuerdo con el artículo 243 de la LCSP, ¿cuál es el plazo general para que el órgano de contratación apruebe la certificación final de las obras ejecutadas, contado desde su recepción?",
+   "opciones": [
+    "Un mes.",
+    "Dos meses.",
+    "Treinta días.",
+    "Tres meses."
+   ]
+  },
+  {
+   "id": "pr-62-035",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 35,
+   "enunciado": "Conforme al artículo 243 de la LCSP, cuando el valor estimado de las obras supere los doce millones de euros y las operaciones de liquidación y medición sean especialmente complejas, los pliegos podrán prever la ampliación del plazo de aprobación de la certificación final, sin que pueda superar:",
+   "opciones": [
+    "Tres meses.",
+    "Cinco meses.",
+    "Seis meses.",
+    "Doce meses."
+   ]
+  },
+  {
+   "id": "pr-62-036",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 36,
+   "enunciado": "De acuerdo con el artículo 243 de la LCSP, el plazo de garantía de los contratos de obras, que se fijará en el pliego de cláusulas administrativas particulares atendiendo a la naturaleza y complejidad de la obra, no podrá ser inferior, salvo casos especiales, a:",
+   "opciones": [
+    "Un año.",
+    "Dos años.",
+    "Tres años.",
+    "Quince años."
+   ]
+  },
+  {
+   "id": "pr-62-037",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 37,
+   "enunciado": "En virtud de lo establecido en el artículo 245 de la LCSP, NO constituye una causa específica de resolución del contrato de obras:",
+   "opciones": [
+    "El desistimiento.",
+    "La demora injustificada en la comprobación del replanteo.",
+    "La suspensión de la iniciación de las obras por plazo superior a cuatro meses.",
+    "La suspensión de las obras por plazo superior a seis meses por parte de la Administración."
+   ]
+  },
+  {
+   "id": "pr-62-038",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 38,
+   "enunciado": "Conforme al artículo 246.4 de la LCSP, en caso de desistimiento por parte de la Administración una vez iniciada la ejecución de las obras, el contratista tendrá derecho, por todos los conceptos, a una indemnización del:",
+   "opciones": [
+    "3 % del precio de adjudicación de las obras dejadas de realizar, en concepto de beneficio industrial.",
+    "2 % del precio de adjudicación del contrato.",
+    "6 % del precio de adjudicación de las obras dejadas de realizar, en concepto de beneficio industrial.",
+    "3 % del precio de adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "pr-62-039",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 39,
+   "enunciado": "Según el artículo 246 de la LCSP, cuando la demora injustificada en la comprobación del replanteo dé lugar a la resolución del contrato de obras, el contratista tendrá derecho, por todos los conceptos, a una indemnización equivalente al:",
+   "opciones": [
+    "3% del precio de la adjudicación, IVA excluido.",
+    "2% del precio de la adjudicación, IVA excluido.",
+    "3% del precio de la adjudicación, IVA incluido.",
+    "2% del precio de la adjudicación, IVA incluido."
+   ]
+  },
+  {
+   "id": "pr-62-040",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 40,
+   "enunciado": "Según el artículo 247.3 de la LCSP, en los contratos de concesión de obras, la Administración concedente someterá el estudio de viabilidad a información pública por un plazo de:",
+   "opciones": [
+    "Un mes, prorrogable por idéntico plazo, en razón de la complejidad del mismo.",
+    "Dos meses, prorrogable por idéntico plazo, en razón de la complejidad del mismo.",
+    "Dos meses, prorrogable por un plazo de un mes, en razón de la complejidad del mismo.",
+    "Un mes, prorrogable por un plazo de quince días, en razón de la complejidad del mismo."
+   ]
+  },
+  {
+   "id": "pr-62-041",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 41,
+   "enunciado": "Conforme al artículo 267 de la LCSP, las tarifas que el concesionario de obras tiene derecho a percibir de los usuarios o de la Administración por la utilización de las mismas tendrán la naturaleza de:",
+   "opciones": [
+    "Una tasa por la utilización privativa o el aprovechamiento especial del dominio público local.",
+    "Una prestación patrimonial de carácter público y naturaleza tributaria.",
+    "Una prestación patrimonial de carácter público no tributario.",
+    "Un ingreso de derecho privado."
+   ]
+  },
+  {
+   "id": "pr-62-042",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 42,
+   "enunciado": "Conforme a la LCSP, ¿cuál de los siguientes documentos es específico de los contratos de concesión de obras y de concesión de servicios?",
+   "opciones": [
+    "El documento descriptivo.",
+    "El pliego de cláusulas administrativas particulares.",
+    "El estudio de viabilidad.",
+    "El pliego de prescripciones técnicas."
+   ]
+  },
+  {
+   "id": "pr-62-043",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 43,
+   "enunciado": "Según el artículo 294 de la LCSP, ¿cuál de las siguientes NO es una causa específica de resolución del contrato de concesión de servicios?",
+   "opciones": [
+    "La imposibilidad de la explotación del servicio por acuerdos adoptados por la Administración con posterioridad al contrato.",
+    "La demora de cuatro meses por parte de la Administración en la entrega al concesionario de la contraprestación.",
+    "El rescate del servicio por la administración para su gestión directa por razones de interés público.",
+    "El secuestro de la concesión por plazo superior al establecido, sin que el contratista garantice la asunción de sus obligaciones."
+   ]
+  },
+  {
+   "id": "pr-62-044",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 44,
+   "enunciado": "Conforme al artículo 298 de la LCSP, en los contratos de arrendamiento de bienes muebles, ¿quién asumirá la obligación de mantenimiento durante la vigencia del contrato?",
+   "opciones": [
+    "El arrendador o empresario.",
+    "El arrendatario.",
+    "La Administración.",
+    "El empresario y la Administración, de forma mancomunada."
+   ]
+  },
+  {
+   "id": "pr-62-045",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 45,
+   "enunciado": "Conforme al artículo 307 de la LCSP, en caso de desistimiento del contrato de suministro por parte de la Administración antes de su iniciación, el contratista tendrá derecho, por todos los conceptos, a una indemnización del:",
+   "opciones": [
+    "2% del precio de adjudicación del contrato, IVA excluido.",
+    "3% del precio de adjudicación del contrato, IVA excluido.",
+    "5% del precio de adjudicación del contrato, IVA excluido.",
+    "6% del precio de adjudicación del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-62-046",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 46,
+   "enunciado": "Según la LCSP, la suspensión del suministro acordada por la Administración constituirá causa de resolución del contrato si se prolonga durante un plazo superior a:",
+   "opciones": [
+    "Dos meses.",
+    "Cuatro meses.",
+    "Seis meses.",
+    "Ocho meses."
+   ]
+  },
+  {
+   "id": "pr-62-047",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 47,
+   "enunciado": "De acuerdo con el artículo 299 de la LCSP, ¿qué normas se aplicarán a los contratos de fabricación de bienes muebles?",
+   "opciones": [
+    "Las del contrato de obras, salvo las relativas a su publicidad y procedimiento de adjudicación que se acomodarán al de servicios.",
+    "Las del contrato de obras, salvo las relativas a su publicidad y procedimiento de adjudicación que se acomodarán al de suministros.",
+    "Las del contrato de suministros, salvo las relativas a su publicidad y procedimiento de adjudicación que se acomodarán al de obras.",
+    "Las del contrato de obras, incluidas las relativas a su publicidad y procedimiento de adjudicación."
+   ]
+  },
+  {
+   "id": "pr-62-048",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 48,
+   "enunciado": "De acuerdo con el artículo 302 de la LCSP, cuando razones técnicas o económicas debidamente justificadas en el expediente lo aconsejen, podrá establecerse en el PCAP que parte del precio del suministro se pague mediante la entrega de otros bienes de la misma clase, sin que el importe de estos pueda superar:",
+   "opciones": [
+    "El 20 % del precio total.",
+    "El 30 % del precio total.",
+    "El 40 % del precio total.",
+    "El 50 % del precio total."
+   ]
+  },
+  {
+   "id": "pr-62-049",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 49,
+   "enunciado": "De acuerdo con el artículo 308.4 de la LCSP, ¿es posible contratar de forma conjunta la redacción de proyectos y la dirección de obras?",
+   "opciones": [
+    "No, en ningún caso.",
+    "Sí, salvo que concurran causas excepcionales, que deberán justificarse adecuadamente en los pliegos de la licitación.",
+    "Sí, cuando la contratación separada conllevase una merma en la calidad de las prestaciones objeto del contrato.",
+    "Sí, siempre que ambas prestaciones no superen los umbrales de un contrato menor."
+   ]
+  },
+  {
+   "id": "pr-62-050",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 50,
+   "enunciado": "De conformidad con el artículo 309.1 de la LCSP, en los contratos de servicios cuyo precio se determine mediante unidades de ejecución, las variaciones en el número de unidades realmente ejecutadas no tendrán la consideración de modificaciones contractuales, siempre que así se haya establecido en el PCAP y no representen un incremento del gasto superior al:",
+   "opciones": [
+    "20 % del valor estimado del contrato.",
+    "20 % del precio del contrato.",
+    "10 % del valor estimado del contrato.",
+    "10 % del precio del contrato."
+   ]
+  },
+  {
+   "id": "pr-62-051",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 51,
+   "enunciado": "Conforme al artículo 308 de la LCSP, los contratos de servicios que tengan por objeto el desarrollo y la puesta a disposición de productos protegidos por un derecho de propiedad intelectual o industrial:",
+   "opciones": [
+    "Llevarán aparejada la cesión de este a la Administración, salvo que en el contrato o en los PCAP se disponga otra cosa.",
+    "No llevarán aparejada la cesión de este a la Administración, salvo que en el contrato o en los PCAP se disponga otra cosa.",
+    "Llevarán en todo caso aparejada la cesión de este a la Administración.",
+    "En ningún caso llevarán aparejada la cesión de este a la Administración."
+   ]
+  },
+  {
+   "id": "pr-62-052",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 52,
+   "enunciado": "De acuerdo con el artículo 310 de la LCSP, en los contratos que tengan por objeto actividades docentes en centros del sector público, desarrolladas en forma de cursos de formación o perfeccionamiento del personal al servicio de la Administración y realizadas por personas físicas, no serán de aplicación las disposiciones de esta Ley relativas a:",
+   "opciones": [
+    "La preparación y adjudicación del contrato.",
+    "Los efectos, cumplimiento y extinción del contrato.",
+    "La extinción del contrato.",
+    "La modificación, duración y régimen de prórrogas del contrato."
+   ]
+  },
+  {
+   "id": "pr-62-053",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 53,
+   "enunciado": "Conforme al artículo 313 de la LCSP, cuando un contrato de servicios complementario quede resuelto como consecuencia de la resolución del contrato principal, el contratista tendrá derecho a percibir, por todos los conceptos, una indemnización del:",
+   "opciones": [
+    "6 % del precio de los servicios dejados de prestar, en concepto de beneficio industrial, IVA excluido.",
+    "3 % del presupuesto base de licitación del contrato, IVA excluido.",
+    "3 % del valor estimado del contrato, IVA excluido.",
+    "3 % del precio de adjudicación del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-62-054",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 54,
+   "enunciado": "Un organismo autónomo de la Administración General del Estado pretende celebrar un contrato de obras cuyo valor estimado asciende a 14 millones de euros. Conforme al artículo 324 de la Ley de Contratos del Sector Público, para su celebración necesitará:",
+   "opciones": [
+    "Informe justificativo de la Secretaría de Estado de Presupuestos y Gastos.",
+    "Autorización previa del Ministerio de Hacienda.",
+    "Ratificación del Departamento Ministerial al que se encuentre adscrito.",
+    "Autorización previa del Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-62-055",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 55,
+   "enunciado": "Conforme al artículo 323 de la LCSP, ¿cuál de los siguientes tiene la consideración de órgano de contratación?",
+   "opciones": [
+    "El subsecretario de un departamento ministerial.",
+    "La Dirección General de Racionalización y Centralización de la Contratación.",
+    "El director general del Instituto Nacional de la Seguridad Social.",
+    "El Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-62-056",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 56,
+   "enunciado": "Conforme al artículo 326 de la LCSP, ¿en cuál de los siguientes procedimientos de adjudicación la constitución de la mesa de contratación tendrá carácter potestativo?",
+   "opciones": [
+    "Diálogo competitivo.",
+    "Licitación con negociación.",
+    "Abierto simplificado al que se refiere el artículo 159.6.",
+    "Tanto en la licitación con negociación como en el abierto simplificado al que se refiere el artículo 159.6."
+   ]
+  },
+  {
+   "id": "pr-62-057",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 57,
+   "enunciado": "De acuerdo con los artículos 323 y 324 de la LCSP, señale la afirmación correcta en relación con la contratación en el ámbito de la Administración General del Estado:",
+   "opciones": [
+    "Los ministros y los subsecretarios son los órganos de contratación de la Administración General del Estado.",
+    "Cuando el presupuesto base de licitación exceda de doce millones de euros será necesaria la autorización del Consejo de Ministros.",
+    "La autorización del Consejo de Ministros, cuando sea necesaria, deberá obtenerse antes de aprobar el expediente de contratación.",
+    "Antes de celebrar un contrato de concesión de obras será preceptivo y vinculante un informe del Ministerio de Hacienda."
+   ]
+  },
+  {
+   "id": "pr-62-058",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 58,
+   "enunciado": "De acuerdo con el artículo 335 de la LCSP, en los supuestos legalmente previstos, ¿en qué plazo deberá remitirse al Tribunal de Cuentas, para el ejercicio de su función fiscalizadora, una copia certificada del documento de formalización del contrato?",
+   "opciones": [
+    "Dentro de los tres meses siguientes a su formalización.",
+    "Dentro de los seis meses siguientes a su formalización.",
+    "Dentro de los tres meses siguientes a la publicación del anuncio de formalización en el perfil de contratante.",
+    "Dentro de los seis meses siguientes a la publicación del anuncio de formalización en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "pr-62-059",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 59,
+   "enunciado": "Según el artículo 335 de la LCSP, ¿cuál de los siguientes contratos debe remitirse al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma para el ejercicio de su función fiscalizadora?",
+   "opciones": [
+    "Un contrato de obras cuyo precio de adjudicación exceda de 450.000 euros.",
+    "Un contrato de suministro cuyo valor estimado exceda de 450.000 euros.",
+    "Un contrato administrativo especial cuyo precio de adjudicación exceda de 150.000 euros.",
+    "Un contrato de servicios cuyo valor estimado exceda de 150.000 euros."
+   ]
+  },
+  {
+   "id": "pr-62-060",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 60,
+   "enunciado": "Conforme al artículo 337 de la LCSP, señale la respuesta CORRECTA en relación con el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público:",
+   "opciones": [
+    "No admitirá inscripciones de clasificación de empresas adoptados por órganos de las Comunidades Autónomas.",
+    "Estará interconectado y será interoperable con el Registro Civil.",
+    "Contendrá los datos básicos de los contratos adjudicados por las distintas Administraciones Públicas.",
+    "Dependerá del Ministerio de Hacienda."
+   ]
+  },
+  {
+   "id": "pr-63-001",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 1,
+   "enunciado": "Como consecuencia de circunstancias sobrevenidas, imprevisibles en el momento en que tuvo lugar la licitación, el Ministro de Defensa se plantea acordar una modificación no prevista en el pliego de cláusulas administrativas particulares. Sabiendo que el contrato se adjudicó por 10.000.000 euros (IVA excluido), ¿cuándo sería preceptivo el dictamen del Consejo de Estado?",
+   "opciones": [
+    "Cuando la cuantía de la modificación, aislada o conjuntamente con otras, sea superior a 2.000.000 euros (IVA excluido).",
+    "Cuando la cuantía de la modificación, aislada o conjuntamente con otras, sea superior a 5.000.000 euros (IVA excluido).",
+    "Siempre que se formule oposición por parte del contratista, con independencia de la cuantía de la modificación.",
+    "En ningún caso puede acordarse una modificación que no esté prevista expresamente en los pliegos de la licitación."
+   ]
+  },
+  {
+   "id": "pr-63-002",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 2,
+   "enunciado": "El Ministerio de Defensa adjudicó por 8.000.000 de euros (IVA excluido) un contrato de suministro e instalación de un sistema integrado de comunicaciones, cuyo valor estimado ascendía a 10.000.000 de euros. Durante su ejecución, resulta necesario incorporar equipos adicionales no previstos inicialmente, cuyo suministro por otra empresa provocaría incompatibilidades técnicas y un aumento sustancial de costes para la Administración. De acuerdo con la LCSP, ¿hasta qué importe máximo resultaría obligatoria para el contratista una modificación de estas características?",
+   "opciones": [
+    "Hasta 4.000.000 de euros.",
+    "Hasta 2.000.000 de euros.",
+    "Hasta 1.600.000 euros.",
+    "Hasta 5.000.000 de euros."
+   ]
+  },
+  {
+   "id": "pr-63-003",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 3,
+   "enunciado": "El Ministerio de Igualdad adjudicó un contrato de servicios por importe de 100.000 euros (IVA excluido). El contratista, por causas que le son imputables, incurrió en una demora de 20 días respecto del plazo total de ejecución. Teniendo en cuenta que el PCAP no establece penalidades específicas por demora, ¿cuál sería el importe total de las penalidades que la Administración podría imponer al contratista?",
+   "opciones": [
+    "600 euros.",
+    "1200 euros.",
+    "10.000 euros.",
+    "La Administración no podría imponerle penalidades por demora, al no contemplarse las mismas en el pliego."
+   ]
+  },
+  {
+   "id": "pr-63-004",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 4,
+   "enunciado": "El Ministerio de Cultura adjudicó un contrato de suministro a la empresa SUMINISTROS DEL SUR, S.L. La empresa realizó la primera entrega parcial de los bienes contratados el 1 de marzo de 2025 y presentó la correspondiente factura en tiempo y forma. De acuerdo con el artículo 198 de la LCSP, ¿cuál sería el plazo máximo total del que dispone la Administración para abonar el importe de dicha entrega, contado desde la fecha en que se produjo?",
+   "opciones": [
+    "30 días.",
+    "1 mes.",
+    "60 días.",
+    "2 meses."
+   ]
+  },
+  {
+   "id": "pr-63-005",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 5,
+   "enunciado": "El Ministerio del Interior adjudicó un contrato de servicios a la empresa AL ALBA, S. L., por un importe de 80.000 euros (IVA excluido). El valor estimado del contrato era de 100.000 euros y su presupuesto base de licitación se calculó sobre 90.000 euros, sin IVA. Durante su ejecución, el contratista incumplió gravemente dos condiciones especiales de ejecución previstas en los pliegos, que contemplaban para cada incumplimiento la imposición de la penalidad máxima permitida por la LCSP. De acuerdo con el artículo 192 de la LCSP, ¿cuál sería el importe total máximo de las penalidades que la Administración podría imponer por ambos incumplimientos?",
+   "opciones": [
+    "9.000 euros.",
+    "10.000 euros.",
+    "16.000 euros.",
+    "40.000 euros."
+   ]
+  },
+  {
+   "id": "pr-63-006",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 6,
+   "enunciado": "El Ministerio de Agricultura, Pesca y Alimentación adjudicó a la empresa INFRATEC, S. L., un contrato de servicios de mantenimiento de instalaciones eléctricas por 360.000 euros (IVA excluido). El valor estimado del contrato ascendía a 480.000 euros y el presupuesto base de licitación, sin IVA, a 420.000 euros. Durante su ejecución, la empresa incumplió gravemente seis compromisos de adscripción de medios personales y materiales establecidos en los pliegos, que preveían para cada incumplimiento la penalidad máxima permitida por la LCSP. De acuerdo con el artículo 192 de la LCSP, ¿cuál sería el importe total máximo de las penalidades que la Administración podría imponer por el conjunto de estos incumplimientos?",
+   "opciones": [
+    "216.000 euros.",
+    "180.000 euros.",
+    "252.000 euros.",
+    "288.000 euros."
+   ]
+  },
+  {
+   "id": "pr-63-007",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 7,
+   "enunciado": "El Ministerio de Educación adjudicó un contrato de suministro de equipos informáticos por importe de 180.000 euros. La empresa adjudicataria realizó la entrega efectiva el 23 de abril de 2026. Posteriormente, el 19 de mayo de 2026, la Administración formalizó el acto positivo de recepción, iniciándose un plazo de garantía de seis meses. De acuerdo con el artículo 210 de la LCSP, ¿en qué fecha debe entenderse cumplido el contrato?",
+   "opciones": [
+    "23 de abril de 2026, fecha en la que se produjo la entrega efectiva del suministro.",
+    "19 de mayo de 2026, fecha del acto formal y positivo de recepción del suministro.",
+    "23 de octubre de 2026, fecha en la que finalizaría el plazo de garantía si se contara desde la entrega del suministro.",
+    "19 de noviembre de 2026, fecha de finalización del plazo de garantía contado desde la recepción del suministro."
+   ]
+  },
+  {
+   "id": "pr-63-008",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 8,
+   "enunciado": "La Secretaría de Estado de Medio Ambiente adjudicó un contrato de obras a la empresa CONSTRUCCIONES RIVERA, S. L., con una duración inicial de 18 meses, sin prórrogas previstas. Conforme al artículo 211 de la LCSP, constituirá, en todo caso, causa de resolución del contrato el retraso injustificado sobre el plan de trabajos establecido en el pliego por un plazo superior a:",
+   "opciones": [
+    "Seis meses.",
+    "Tres meses.",
+    "Dos meses.",
+    "Un mes."
+   ]
+  },
+  {
+   "id": "pr-63-009",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 9,
+   "enunciado": "El 15 de junio de 2023, la Junta de Contratación Centralizada formalizó un acuerdo marco para la prestación de servicios de vigilancia en edificios administrativos, cuya vigencia finaliza el 15 de junio de 2027. Posteriormente, el 15 de enero de 2026, la Secretaría de Estado de Función Pública adjudicó un contrato basado en dicho acuerdo marco para la vigilancia de la sede de la Dirección General de Función Pública. Según la LCSP, ¿qué duración máxima podrá tener dicho contrato, incluidas las posibles prórrogas?",
+   "opciones": [
+    "5 meses.",
+    "6 meses.",
+    "1 año.",
+    "5 años."
+   ]
+  },
+  {
+   "id": "pr-63-010",
+   "origen": "practicas",
+   "test": "Ejercicio 28.- LCSP (arts. 188 a 230)",
+   "n": 10,
+   "enunciado": "La Dirección General de Carreteras adjudicó un contrato de obras a la empresa CONSTRUCCIONES NORTEÑAS, S. A. El 7 de enero de 2026, la Administración aprobó la certificación correspondiente a las obras ejecutadas durante el mes de diciembre de 2025. Pese a haberse presentado correctamente la factura, la Administración no abonó el importe de dicha certificación ni el de las posteriores. Conforme al artículo 198 de la LCSP, ¿a partir de qué fecha tendría la empresa derecho a resolver el contrato por demora en el pago?",
+   "opciones": [
+    "7 de febrero de 2026.",
+    "7 de junio de 2026.",
+    "7 de julio de 2026.",
+    "7 de agosto de 2026."
+   ]
+  }
+ ]
+}

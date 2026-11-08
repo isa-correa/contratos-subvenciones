@@ -1,0 +1,692 @@
+{
+ "casos": {
+  "caso-67": {
+   "id": "caso-67",
+   "titulo": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "texto": "En el Ministerio de Juventud e Infancia se está tramitando un procedimiento administrativo iniciado a solicitud de don Bartolomé Flores, quien pretende obtener autorización para utilizar una sala del Departamento con el fin de celebrar unas jornadas sobre participación juvenil. La solicitud se presentó el lunes 14 de septiembre de 2026 en el registro del Ayuntamiento de Málaga y tuvo entrada en el registro electrónico de la Administración General del Estado el miércoles 16 de septiembre del mismo año. La normativa reguladora del procedimiento, que no fija plazo máximo para resolver, atribuye al Subdirector General de Gestión Económica la competencia para instruirlo y al Subsecretario de Juventud e Infancia la de resolverlo. Finalizado el trámite de audiencia y antes de redactarse la propuesta de resolución, el Subdirector General acuerda la realización de determinadas actuaciones complementarias que considera indispensables para resolver el procedimiento. Finalmente, el Subsecretario de Juventud e Infancia dicta resolución desestimando la solicitud del señor Flores. En materia de contratación pública, el Ministerio ha tramitado diversos expedientes. Uno de ellos se refiere a las obras de sustitución de diez ventanas del edificio principal, deterioradas con el transcurso del tiempo por su uso natural. El contrato, que se licitó con un presupuesto base de licitación de 84.700 euros y un valor estimado de 70.000 euros, establecía como criterios de adjudicación el precio y la ampliación del plazo de garantía, ambos cuantificables mediante la mera aplicación de fórmulas. Para su adjudicación, el órgano de contratación optó por la modalidad más ágil del procedimiento abierto aplicable en función del tipo de contrato y de su valor estimado. Finalmente, el contrato se adjudicó a Carpinterías del Sur, S.L., por un importe de 60.000 euros, IVA excluido. El plazo de ejecución se fijó en tres meses, iniciándose las obras el 4 de agosto de 2026 y previéndose su finalización para el 3 de noviembre. Durante su ejecución se constató la necesidad de sustituir otras tres ventanas deterioradas, no contempladas en el proyecto inicial, cuya sustitución se valoró en 18.000 euros, IVA excluido. El órgano de contratación estudió la posibilidad de incorporar estos trabajos mediante una modificación no prevista en el pliego de cláusulas administrativas particulares, al amparo del régimen de las modificaciones no sustanciales, si bien finalmente descartó su aprobación. Asimismo, se han adjudicado, a través del sistema estatal de contratación centralizada, dos contratos destinados al Ministerio: uno para el servicio de vigilancia y seguridad de sus dependencias administrativas situadas en el municipio de Madrid, con un valor estimado de 130.000 euros y criterios de adjudicación cuantificables mediante fórmulas, y otro de arrendamiento con opción de compra de un servidor informático. Ambos se tramitaron mediante licitaciones independientes, sin derivar de acuerdos marco ni de sistemas dinámicos de adquisición. En otro orden de cosas, el 24 de febrero de 2025, doña Amalia Cardona, funcionaria del Cuerpo General Administrativo del Estado destinada en la Subsecretaría de Cultura, sufrió una caída en el edificio de los servicios centrales del Ministerio de Juventud e Infancia, al que acudió para realizar una gestión particular, debido al mal estado de conservación de las escaleras. La caída le ocasionó una fractura de rótula por la que tuvo que ser atendida de urgencia. El alcance de las secuelas derivadas del accidente quedó definitivamente determinado por el servicio de salud el 15 de mayo de 2025. Posteriormente, el 16 de marzo de 2026, doña Amalia Cardona presentó de forma presencial su reclamación de responsabilidad patrimonial en la oficina de asistencia en materia de registros del Ministerio de Juventud e Infancia. Por último, el Instituto de la Juventud, organismo autónomo adscrito al Ministerio a través de la Secretaría de Estado de Juventud e Infancia, ha convocado, para el ejercicio 2026, ayudas destinadas a la realización de actividades financiadas por la Comisión Europea en el marco del programa «Erasmus+», capítulo de Juventud. Atendiendo a los datos obrantes en este supuesto, responda a las preguntas que se le formulan:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-66-067",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 67,
+   "enunciado": "Conforme al artículo 44 de la LCSP, podrá ser objeto de recurso especial en materia de contratación:",
+   "opciones": [
+    "Un contrato de obras con un valor estimado de 5.404.000 euros adjudicado por la tramitación de emergencia.",
+    "Un contrato de concesión de servicios cuyo valor estimado supere los dos millones de euros.",
+    "Un contrato de servicios con un valor estimado de 140.000 euros adjudicado por la tramitación de urgencia.",
+    "Un contrato de suministro que tenga un valor estimado de cien mil euros."
+   ]
+  },
+  {
+   "id": "pr-66-068",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 68,
+   "enunciado": "De acuerdo con lo previsto en el artículo 72.6 de la LCSP, cuando la sentencia penal firme no haya establecido la duración de la prohibición de contratar, esa duración no podrá exceder, desde la fecha de la condena por sentencia firme, de:",
+   "opciones": [
+    "Tres años.",
+    "Cuatro años.",
+    "Un año.",
+    "Cinco años."
+   ]
+  },
+  {
+   "id": "pr-66-069",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 69,
+   "enunciado": "Según establece el artículo 50 de la LCSP, el procedimiento de recurso especial en materia de contratación se iniciará mediante escrito que deberá presentarse en el plazo de:",
+   "opciones": [
+    "Diez días hábiles.",
+    "Quince días hábiles.",
+    "Diez días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-66-070",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 70,
+   "enunciado": "Se consideran contratos de suministros, de acuerdo con la Ley de Contratos del Sector Público:",
+   "opciones": [
+    "Los contratos relativos a propiedades incorporales.",
+    "Los que tenga por objeto programas de ordenador desarrollados a medida.",
+    "Los que tengan por objeto la adquisición de energía primaria o energía transformada.",
+    "Los que tengan por objeto la redacción del proyecto de obras."
+   ]
+  },
+  {
+   "id": "pr-67-001",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 1,
+   "enunciado": "El señor Flores ha sido requerido para subsanar los defectos de su solicitud mediante la presentación de determinados documentos cuya aportación presenta dificultades especiales. A tenor del artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante, LPACAP), ¿qué plazo deberá concedérsele a tal efecto?",
+   "opciones": [
+    "Cinco días, plazo que podrá ampliarse prudencialmente hasta cinco días más.",
+    "Diez días, plazo que podrá ampliarse prudencialmente hasta cinco días más.",
+    "Quince días, plazo que no podrá ampliarse.",
+    "Diez días, plazo que no podrá ampliarse."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-002",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 2,
+   "enunciado": "De conformidad con el artículo 68 de la LPACAP, en el requerimiento de subsanación dirigido al señor Flores deberá indicarse que, si no presenta los documentos preceptivos en el plazo concedido:",
+   "opciones": [
+    "Se le tendrá por desistido de su petición.",
+    "Se le podrá declarar decaído en su derecho al trámite.",
+    "Transcurridos tres meses, se producirá la caducidad del procedimiento.",
+    "Se archivará el procedimiento sin más trámite."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-003",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 3,
+   "enunciado": "El martes 3 de noviembre, el señor Flores recibe la notificación de apertura del trámite de audiencia, en la que se le concede el plazo mínimo previsto en el artículo 82 de la LPACAP para formular alegaciones y presentar los documentos que estime pertinentes. Considerando que no hay días festivos en lo que resta del mes de noviembre, ¿qué día finaliza el plazo para realizar dicho trámite?",
+   "opciones": [
+    "Viernes, 13 de noviembre.",
+    "Lunes, 16 de noviembre.",
+    "Martes, 17 de noviembre.",
+    "Martes, 24 de noviembre."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-004",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 4,
+   "enunciado": "Conforme al artículo 87 de la LPACAP, ¿actuó correctamente el Subdirector General de Gestión Económica al acordar la realización de actuaciones complementarias?",
+   "opciones": [
+    "Sí, puesto que lo acordó una vez finalizado el trámite de audiencia.",
+    "Sí, puesto que lo acordó antes de redactarse la propuesta de resolución.",
+    "Sí, puesto que podía acordar su práctica en cualquier momento anterior a que se dictara resolución.",
+    "No, puesto que la competencia para adoptar el acuerdo correspondía al Subsecretario de Juventud e Infancia."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-005",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 5,
+   "enunciado": "De conformidad con el artículo 87 de la LPACAP, señale la afirmación INCORRECTA respecto a las actuaciones complementarias:",
+   "opciones": [
+    "Deberán practicarse en un plazo no superior a quince días.",
+    "El plazo para resolver el procedimiento quedará suspendido hasta su terminación.",
+    "Antes de su realización, el interesado dispondrá de un plazo de siete días para formular alegaciones.",
+    "El acuerdo en el que se decida su realización deberá estar motivado, con sucinta referencia de hechos y fundamentos de derecho."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-006",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 6,
+   "enunciado": "De acuerdo con el artículo 21 de la LPACAP, ¿qué día finaliza el plazo máximo para resolver y notificar en el procedimiento iniciado a solicitud del señor Flores, suponiendo, a efectos de esta pregunta, que no concurre ninguna causa de suspensión del plazo?",
+   "opciones": [
+    "Lunes, 14 de diciembre de 2026.",
+    "Miércoles, 16 de diciembre de 2026.",
+    "Jueves, 17 de diciembre de 2026.",
+    "Martes, 16 de marzo de 2027."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-007",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 7,
+   "enunciado": "De conformidad con la LPACAP, señale la afirmación correcta respecto a la notificación de la resolución al señor Flores:",
+   "opciones": [
+    "Si fuera notificado por distintos cauces, prevalecerá la fecha de la notificación practicada por medios electrónicos.",
+    "Si hubiera optado por la notificación electrónica, esta se entenderá practicada con su puesta a disposición en la sede electrónica.",
+    "Si hubiera optado por la notificación electrónica, la falta del aviso de puesta a disposición impediría su validez.",
+    "Aunque hubiera optado por recibir la notificación en papel, esta también deberá ponerse a su disposición en la sede electrónica."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-008",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 8,
+   "enunciado": "El señor Flores desea recurrir la resolución que desestima su solicitud. ¿Qué recurso podrá interponer en vía administrativa?",
+   "opciones": [
+    "Recurso de alzada, que podrá interponer ante el Subsecretario de Juventud e Infancia o ante el titular del Departamento.",
+    "Recurso de alzada, que podrá interponer ante el Subdirector General o ante el Subsecretario de Juventud e Infancia.",
+    "Recurso de alzada, que deberá interponer ante el Ministro de Juventud e Infancia.",
+    "Recurso potestativo de reposición, que podrá interponer ante el Subsecretario de Juventud e Infancia."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-009",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 9,
+   "enunciado": "Si el señor Flores interpusiera el recurso ante un órgano de la Administración General del Estado incompetente para su resolución, ¿cómo debería actuar dicho órgano?",
+   "opciones": [
+    "Inadmitiéndolo y notificando esta circunstancia al señor Flores.",
+    "Inadmitiéndolo, salvo que el competente para resolverlo perteneciera a su mismo Departamento Ministerial.",
+    "Inadmitiéndolo, salvo que el competente para resolverlo fuese su superior jerárquico.",
+    "Remitiéndolo directamente al órgano competente para resolverlo y notificando esta circunstancia al señor Flores."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-010",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 10,
+   "enunciado": "¿De qué plazo máximo dispone el órgano competente para dictar y notificar la resolución del recurso interpuesto por el señor Flores?",
+   "opciones": [
+    "De tres meses para dictar la resolución y diez días adicionales para notificarla.",
+    "De un mes para dictar la resolución y diez días adicionales para notificarla.",
+    "De tres meses.",
+    "De un mes."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-011",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 11,
+   "enunciado": "De conformidad con el artículo 232 de la LCSP y atendiendo a su objeto y naturaleza, las obras contratadas para sustituir las ventanas del edificio principal del Ministerio se clasifican como obras de:",
+   "opciones": [
+    "Reforma.",
+    "Conservación y mantenimiento.",
+    "Reparación simple.",
+    "Gran reparación."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-012",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 12,
+   "enunciado": "En relación con el procedimiento utilizado para adjudicar el contrato de sustitución de ventanas, ¿qué plazo mínimo debió concederse a los licitadores para presentar sus proposiciones?",
+   "opciones": [
+    "Diez días hábiles.",
+    "Quince días.",
+    "Veinte días.",
+    "Veintiséis días."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-013",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 13,
+   "enunciado": "Atendiendo al procedimiento utilizado para adjudicar el contrato de sustitución de ventanas, ¿qué garantías resultaban exigibles a la empresa Carpinterías del Sur, S. L.?",
+   "opciones": [
+    "Garantía provisional de 2.100 euros y definitiva de 3.000 euros, sin poder aplicar la primera a la segunda.",
+    "Garantía provisional de 2.100 euros y definitiva de 3.000 euros, pudiendo aplicar la primera a la segunda.",
+    "Únicamente garantía definitiva de 3.500 euros, sin exigencia de garantía provisional.",
+    "Ninguna, ni provisional ni definitiva."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-014",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 14,
+   "enunciado": "En relación con el contrato de sustitución de ventanas del Ministerio, ¿cuál es el plazo máximo para su adjudicación, contado desde la apertura de las proposiciones?",
+   "opciones": [
+    "Quince días.",
+    "Un mes.",
+    "Dos meses.",
+    "Tres meses."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-015",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 15,
+   "enunciado": "Uno de los licitadores pretende impugnar la resolución de adjudicación por considerar incorrecta la puntuación asignada a su oferta. ¿Qué recurso administrativo podrá interponer y qué efectos tendrá su interposición?",
+   "opciones": [
+    "Recurso administrativo ordinario, quedando automáticamente en suspenso la tramitación del procedimiento.",
+    "Recurso administrativo ordinario, cuya interposición no suspende por sí sola la ejecución del acto impugnado.",
+    "Recurso especial en materia de contratación, quedando automáticamente en suspenso la tramitación del procedimiento.",
+    "Recurso especial en materia de contratación, cuya interposición no suspende por sí sola la ejecución del acto impugnado."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-016",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 16,
+   "enunciado": "El órgano de contratación estudió modificar el contrato para sustituir otras tres ventanas no contempladas en el proyecto inicial. Conforme al artículo 205.2.c) de la LCSP, ¿en cuánto podría incrementarse, como máximo, el precio del contrato, IVA excluido, sin que la modificación deba considerarse sustancial?",
+   "opciones": [
+    "6.000 euros.",
+    "9.000 euros.",
+    "10.500 euros.",
+    "12.000 euros."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-017",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 17,
+   "enunciado": "Carpinterías del Sur, S.L. incurre, por causas a ella imputables, en una demora de diez días respecto al cumplimiento del plazo total, optando la Administración por la imposición de penalidades. Dado que el pliego no establece penalidades distintas de las previstas en la LCSP, ¿cuál sería el importe total de las penalidades que por dicha demora pueden imponerse al contratista?",
+   "opciones": [
+    "360 euros.",
+    "420 euros.",
+    "435,60 euros.",
+    "3.600 euros."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-018",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 18,
+   "enunciado": "De conformidad con el artículo 229 de la LCSP, ¿qué órgano es competente para adjudicar los dos contratos tramitados a través del sistema estatal de contratación centralizada?",
+   "opciones": [
+    "El Director General de Racionalización y Centralización de la Contratación.",
+    "El Ministro de Hacienda.",
+    "La Junta de Contratación Centralizada.",
+    "La Ministra de Juventud e Infancia."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-019",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 19,
+   "enunciado": "Teniendo en cuenta que los pliegos del contrato de servicios de vigilancia y seguridad de las dependencias administrativas no prevén prórrogas, modificaciones, opciones eventuales ni primas o pagos a los licitadores, ¿cuál sería su presupuesto base de licitación?",
+   "opciones": [
+    "102.700 euros.",
+    "130.000 euros.",
+    "143.000 euros.",
+    "157.300 euros."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-020",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 20,
+   "enunciado": "Señale la respuesta correcta en relación con el contrato de servicios de vigilancia y seguridad de las dependencias administrativas:",
+   "opciones": [
+    "Se trata de un contrato sujeto a regulación armonizada.",
+    "El contrato puede tramitarse por el procedimiento abierto simplificado sumario del artículo 159.6 de la LCSP.",
+    "El anuncio de licitación es susceptible de recurso especial en materia de contratación.",
+    "El contrato deberá tramitarse por el procedimiento abierto simplificado del artículo 159 de la LCSP."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-021",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 21,
+   "enunciado": "En relación con el contrato de arrendamiento con opción de compra, ¿era necesario obtener autorización del Consejo de Ministros, teniendo en cuenta que fue concertado por cinco anualidades?",
+   "opciones": [
+    "No, salvo que el valor estimado del contrato sea igual o superior a doce millones de euros.",
+    "No, salvo que vaya a ejercitarse la opción de compra.",
+    "No, puesto que el número de anualidades no es superior a cinco años.",
+    "Sí, puesto que el número de anualidades es superior a cuatro años."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-022",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 22,
+   "enunciado": "De conformidad con la LPACAP, ¿presentó en plazo doña Amalia Cardona su reclamación de responsabilidad patrimonial?",
+   "opciones": [
+    "No, porque había transcurrido más de un año desde la caída.",
+    "Sí, porque no había transcurrido un año desde la determinación del alcance de las secuelas.",
+    "No, porque habían transcurrido más de seis meses desde la determinación del alcance de las secuelas.",
+    "Sí, porque disponía de dos años desde la caída para presentar la reclamación."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-023",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 23,
+   "enunciado": "Conforme al artículo 14 de la LPACAP, ¿actuó correctamente doña Amalia Cardona al presentar su reclamación en soporte papel en la oficina de asistencia en materia de registros del Ministerio?",
+   "opciones": [
+    "Sí, porque podía optar por presentarla presencialmente o por medios electrónicos.",
+    "Sí, porque las reclamaciones de responsabilidad patrimonial están excluidas de la presentación electrónica obligatoria.",
+    "No, por su condición de funcionaria al servicio de la Administración General del Estado.",
+    "No, porque se presume su capacidad para acceder a los medios electrónicos."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-024",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 24,
+   "enunciado": "En el procedimiento de responsabilidad patrimonial iniciado a solicitud de doña Amalia Cardona, indique el carácter y el plazo máximo de emisión del informe del servicio cuyo funcionamiento pudo ocasionar la presunta lesión indemnizable:",
+   "opciones": [
+    "Facultativo y no vinculante, debiendo emitirse en un plazo máximo de quince días.",
+    "Facultativo y no vinculante, debiendo emitirse en un plazo máximo de diez días.",
+    "Preceptivo y no vinculante, debiendo emitirse en un plazo máximo de diez días.",
+    "Preceptivo y vinculante, debiendo emitirse en un plazo máximo de diez días."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-025",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 25,
+   "enunciado": "¿Qué órgano es competente para resolver el procedimiento de responsabilidad patrimonial iniciado a solicitud de doña Amalia Cardona y qué día finaliza el plazo máximo para dictar y notificar la resolución?",
+   "opciones": [
+    "El titular del Ministerio de Cultura; el 16 de junio de 2026.",
+    "El titular del Ministerio de Juventud e Infancia; el 16 de junio de 2026.",
+    "El titular del Ministerio de Cultura; el 16 de septiembre de 2026.",
+    "El titular del Ministerio de Juventud e Infancia; el 16 de septiembre de 2026."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-026",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 26,
+   "enunciado": "Conforme al artículo 34.2 de la Ley 40/2015, para calcular la indemnización que, en su caso, corresponda a doña Amalia Cardona por las lesiones corporales sufridas, podrá tomarse como referencia la valoración incluida en:",
+   "opciones": [
+    "Las tablas de indemnizaciones por razón del servicio del personal de las Administraciones públicas.",
+    "Los baremos de la normativa vigente en materia de seguros obligatorios y de la Seguridad Social.",
+    "Los baremos de valoración de daños corporales previstos en la normativa de prevención de riesgos laborales.",
+    "Las tablas de indemnizaciones por daños personales aprobadas anualmente en la Ley de Presupuestos Generales del Estado."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-027",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 27,
+   "enunciado": "Conforme al artículo 34.3 de la Ley 40/2015, ¿qué fecha se tomará como referencia para calcular la cuantía de la indemnización que, en su caso, corresponda a doña Amalia Cardona?",
+   "opciones": [
+    "El 24 de febrero de 2025, día en que la lesión efectivamente se produjo.",
+    "El 15 de mayo de 2025, día de la determinación del alcance de las secuelas.",
+    "El 16 de marzo de 2026, día en que se presentó la reclamación de responsabilidad patrimonial.",
+    "La fecha de la resolución que ponga fin al procedimiento de responsabilidad patrimonial."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-028",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 28,
+   "enunciado": "Finalmente, se dicta resolución desestimando la reclamación de responsabilidad patrimonial interpuesta por doña Amalia Cardona, en la que solicitaba una indemnización de 35.000 euros. Si opta por interponer directamente recurso contencioso-administrativo, ¿qué órgano judicial será competente para conocer del mismo?",
+   "opciones": [
+    "La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.",
+    "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid.",
+    "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional.",
+    "La interposición del recurso judicial exige agotar previamente la vía administrativa mediante un recurso de reposición."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-029",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 29,
+   "enunciado": "Con motivo de la gestión de las ayudas convocadas, se plantea revisar diversos aspectos de los estatutos del Instituto de la Juventud. De conformidad con el artículo 93 de la Ley 40/2015, dichos estatutos se aprueban por:",
+   "opciones": [
+    "Real Decreto del Consejo de Ministros.",
+    "Orden del titular del Ministerio de Hacienda y Administraciones Públicas.",
+    "Orden del titular del Ministerio de Juventud e Infancia.",
+    "Resolución de la Presidencia del Instituto de la Juventud."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-67-030",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Supuesto práctico (30 preguntas)",
+   "n": 30,
+   "enunciado": "En relación con las ayudas convocadas, se detecta que una resolución dictada por la Presidenta del Instituto de la Juventud, máximo órgano rector del organismo, se adoptó prescindiendo total y absolutamente del procedimiento legalmente establecido, por lo que se propone su revisión de oficio. Conforme al artículo 111 de la LPACAP, ¿qué órgano es competente para llevarla a cabo?",
+   "opciones": [
+    "No es posible ya que la revisión de oficio se aplica sólo a los actos administrativos dictados por órganos ministeriales.",
+    "El Consejo de Ministros.",
+    "La propia Presidenta del Instituto de la Juventud.",
+    "El titular de la Secretaría de Estado de Juventud e Infancia."
+   ],
+   "caso": "caso-67"
+  },
+  {
+   "id": "pr-68-001",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 1,
+   "enunciado": "De conformidad con la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados a solicitud de interesado, ¿qué consecuencia produce el vencimiento del plazo máximo sin haberse notificado resolución expresa? (AUX-LI 2026)",
+   "opciones": [
+    "Legitima al interesado para entenderla estimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
+    "El silencio tendría efecto estimatorio si se trata de un procedimiento relativo al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución.",
+    "Legitima al interesado para entenderla desestimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley o una norma de Derecho de la Unión Europea o Derecho internacional aplicable en España establezcan lo contrario.",
+    "En los casos de estimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio."
+   ]
+  },
+  {
+   "id": "pr-68-002",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 2,
+   "enunciado": "¿Para cuál de las siguientes actuaciones requerirán las Administraciones Públicas a los interesados la acreditación de la representación, en los términos del artículo 5 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas? (AUX-LI 2026)",
+   "opciones": [
+    "Interponer acciones.",
+    "Formular denuncias.",
+    "Presentar comunicaciones.",
+    "Desistir de derechos."
+   ]
+  },
+  {
+   "id": "pr-68-003",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 3,
+   "enunciado": "Indique la respuesta correcta respecto de los efectos de los actos de las Administraciones Públicas sujetos al Derecho Administrativo a que alude el artículo 39 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (AUX-LI 2026)",
+   "opciones": [
+    "La eficacia del acto no quedará demorada cuando esté supeditada a su publicación.",
+    "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos nulos.",
+    "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando produzcan efectos desfavorables al interesado.",
+    "La eficacia quedará demorada cuando así lo exija el contenido del acto."
+   ]
+  },
+  {
+   "id": "pr-68-004",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 4,
+   "enunciado": "Conforme al artículo 2 del Código Civil, si en ellas no se dispone otra cosa, las leyes entrarán en vigor: (ADM-LI 2026)",
+   "opciones": [
+    "A los quince días de su completa publicación en el Boletín Oficial del Estado.",
+    "A los veinte días de su completa publicación en el Boletín Oficial del Estado.",
+    "A los treinta días de su completa publicación en el Boletín Oficial del Estado.",
+    "Al día siguente de su completa publicación en el Boletín Oficial del Estado."
+   ]
+  },
+  {
+   "id": "pr-68-005",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 5,
+   "enunciado": "Señale la respuesta correcta en relación con la práctica de las notificaciones electrónicas reguladas en el artículo 43 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas: (ADM-LI 2026)",
+   "opciones": [
+    "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.",
+    "Cuando la notificación por medios electrónicos sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido cinco días naturales desde su puesta a disposición sin que se acceda a su contenido.",
+    "Los interesados deberán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.",
+    "Las notificaciones por medios electrónicos se practicarán mediante notificación en la carpeta ciudadana."
+   ]
+  },
+  {
+   "id": "pr-68-006",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 6,
+   "enunciado": "Conforme al artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son anulables los actos de la Administración: (ADM-LI 2026)",
+   "opciones": [
+    "Contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+    "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+    "Que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+    "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido."
+   ]
+  },
+  {
+   "id": "pr-68-007",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 7,
+   "enunciado": "Conforme al artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ponen fin a la vía administrativa: (ADM-LI 2026)",
+   "opciones": [
+    "Las resoluciones que acuerden la aplicación de medidas provisionales.",
+    "Los actos emanados de los órganos directivos con nivel de Subdirector General, en relación con las competencias que tengan atribuidas en materia de personal.",
+    "Las resoluciones de órganos administrativos, salvo que una disposición legal o reglamentaria disponga lo contrario.",
+    "Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
+   ]
+  },
+  {
+   "id": "pr-68-008",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 8,
+   "enunciado": "Según el artículo 87 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de actuaciones complementarias indispensables para resolver el procedimiento. Dichas actuaciones complementarias deberán practicarse en un plazo: (ADM-LI 2026)",
+   "opciones": [
+    "De siete días.",
+    "No inferior a diez días ni superior a quince días.",
+    "De veinte días.",
+    "No superior a quince días."
+   ]
+  },
+  {
+   "id": "pr-68-009",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 9,
+   "enunciado": "Según el artículo 102 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público en relación con la revisión de precios en los contratos celebrados con precios provisionales: (ADM-LI 2026)",
+   "opciones": [
+    "Podrá admitirse la revisión de precios siempre que el período de recuperación de la inversión sea inferior a cinco años.",
+    "Podrá admitirse la revisión de precios siempre que el período de recuperación de la inversión sea igual o superior a cinco años.",
+    "Podrá admitirse la revisión de precios cuando el contrato se hubiese ejecutado, al menos, en el 20 por ciento de su importe y hubiese transcurrido un año desde su formalización.",
+    "No cabrá la revisión de precios."
+   ]
+  },
+  {
+   "id": "pr-68-010",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 10,
+   "enunciado": "Según el artículo 2.4 de la Ley 38/2003, General de Subvenciones, no tienen carácter de subvenciones: (ADM-LI 2026)",
+   "opciones": [
+    "Las otorgadas como consecuencia de la Política Agrícola Común.",
+    "Las que financien proyectos relacionados con la ciencia y la tecnología.",
+    "Los beneficios fiscales y beneficios en la cotización a la Seguridad Social.",
+    "Las destinadas a fomentar actividades de interés social."
+   ]
+  },
+  {
+   "id": "pr-68-011",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 11,
+   "enunciado": "Conforme al artículo 32.8 de la Ley 40/2015, de Régimen Jurídico del Sector Público, ¿a quién le corresponde fijar el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad? (ADM-LI 2026)",
+   "opciones": [
+    "Al Ministerio de Justicia.",
+    "Al Consejo de Ministros.",
+    "Al Consejo de Estado.",
+    "Al Tribunal Constitucional."
+   ]
+  },
+  {
+   "id": "pr-68-012",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 12,
+   "enunciado": "Según el artículo 5 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, los poderes públicos: (ADM-LI 2026)",
+   "opciones": [
+    "Fomentarán el reconocimiento institucional y la participación en los actos conmemorativos de la lucha por la igualdad real y efectiva de las personas LGTBI.",
+    "Podrán adoptar las medidas necesarias para limitar la diversidad en materia de orientación sexual de las personas LGTBI.",
+    "Podrán adoptar las medidas necesarias para poner en valor la identidad cultural y religiosa de las personas LGTBI.",
+    "Podrán adoptar las medidas necesarias para poner en valor la identidad racial y cultural de las personas LGTBI."
+   ]
+  },
+  {
+   "id": "pr-68-013",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 13,
+   "enunciado": "Conforme al artículo 45 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en todo caso, ¿cuándo procede la publicación de un acto administrativo (ADM-LI-EXT 2026)",
+   "opciones": [
+    "Cuando el acto tenga por destinatario a una pluralidad determinada de personas.",
+    "Cuando se trate de actos integrantes de un procedimiento selectivo.",
+    "Cuando existan varios interesados en un procedimiento y no se opongan a ello.",
+    "Cuando el interesado lo hubiere indicado expresamente en su solicitud."
+   ]
+  },
+  {
+   "id": "pr-68-014",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 14,
+   "enunciado": "Según el artículo 106 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, si en un contrato se procede a la solicitud de la garantía provisional, por razones de interés público: (ADM-LI-EXT 2026)",
+   "opciones": [
+    "No podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato.",
+    "No podrá ser superior a un 3 por 100 del valor estimado del contrato.",
+    "No podrá ser superior a un 2 por 100 del presupuesto base de licitación del contrato.",
+    "No podrá ser superior a un 2 por 100 del valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "pr-68-015",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 15,
+   "enunciado": "Según los artículos 16 y 17 de la Ley de Contratos del Sector Público, son contratos de servicios los que tienen por objeto: (ADM-LI 2026)",
+   "opciones": [
+    "La adquisición de equipos y sistemas de telecomunicaciones.",
+    "La adquisición de programas de ordenador desarrollados a medida.",
+    "La adquisición de energía primaria.",
+    "La adquisición de energía transformada."
+   ]
+  },
+  {
+   "id": "pr-68-016",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (30 preguntas)",
+   "n": 16,
+   "enunciado": "De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos Públicos o en Entidades de Derecho público vinculados o dependientes de aquellas, cuando se trate de órganos no relacionados jerárquicamente. ¿Quién deberá aprobar la delegación? (ADM-LI-EXT 2026)",
+   "opciones": [
+    "Será necesaria la aprobación previa del superior común, si ambos pertenecen al mismo Ministerio, o del órgano superior de quien dependa el órgano delegante, si el delegado y el delegante pertenecen a diferentes Ministerios.",
+    "Será necesaria la aprobación previa del superior común, si ambos pertenecen al mismo Ministerio, o del órgano superior de quien dependa el órgano delegado, si el delegante y el delegado pertenecen a diferentes Ministerios.",
+    "Será necesaria la aprobación previa del Secretario de Estado, si ambos pertenecenen al mismo Ministerio, o el órgano superior de quien dependa el órgano delegado, si el delegante y el delegado pertenecen a diferentes Ministerios.",
+    "Será necesaria la aprobación previa del Secretario de Estado, si ambos pertenecen al mismo Ministerio, o el órgano superior de quien depende el órgano delegante, si el delegado y el delegante pertenecen a diferentes Ministerios."
+   ]
+  }
+ ]
+}

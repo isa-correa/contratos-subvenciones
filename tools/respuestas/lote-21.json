@@ -1,0 +1,552 @@
+{
+ "vo-01-029": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 26.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El arrendamiento de un edificio queda excluido de la LCSP (**art. 9.2**).",
+   "Es esta. Una entidad pública empresarial no es Administración Pública, así que sus contratos son privados (**art. 26.1.b y c**).",
+   "No. Un contrato de servicios de una Comunidad Autónoma es administrativo, no mixto (**art. 25.1.a**).",
+   "No. Un Organismo Autónomo es Administración Pública, y la concesión de obras que celebra es contrato administrativo (**art. 25.1.a**)."
+  ]
+ },
+ "vo-01-030": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los efectos y la extinción de los contratos de entes que no son poder adjudicador son del orden civil (**art. 27.2.b**).",
+   "No. El orden social no es el competente (**art. 27**).",
+   "No. El orden penal no es el competente (**art. 27**).",
+   "No. El contencioso-administrativo conoce su preparación y adjudicación, pero no sus efectos y extinción (**art. 27.1.d**)."
+  ]
+ },
+ "vo-01-031": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La preparación y adjudicación de los contratos privados de las Administraciones son del orden contencioso-administrativo (**art. 27.1.b**).",
+   "No. El orden civil conoce los efectos y la extinción de los privados, no su preparación y adjudicación (**art. 27.2.a**).",
+   "No. No es la jurisdicción mercantil (**art. 27**).",
+   "No. La sección de enjuiciamiento contable no resuelve estas cuestiones (**art. 27**)."
+  ]
+ },
+ "vo-01-032": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El máximo es de cinco años (**art. 29.5**).",
+   "No. El máximo es de cinco años (**art. 29.5**).",
+   "Es esta. El arrendamiento de bienes muebles no puede exceder de cinco años, con prórrogas (**art. 29.5**).",
+   "No. El máximo es de cinco años (**art. 29.5**)."
+  ]
+ },
+ "vo-01-033": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Servicios de prestación sucesiva duran como máximo cinco años con prórrogas, y tres más tres superan eso (**art. 29.4**).",
+   "No. El preaviso es de dos meses, no de uno (**art. 29.2**).",
+   "No. Nunca cabe prórroga por consentimiento tácito (**art. 29.2**).",
+   "Es esta. No es obligatoria si la Administración se ha demorado más de seis meses en el pago (**art. 29.2**)."
+  ]
+ },
+ "vo-01-034": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El máximo es de nueve meses, no de doce (**art. 29.4**).",
+   "No. El máximo es de nueve meses y exige que el anuncio se haya publicado (**art. 29.4**).",
+   "Es esta. Hasta nueve meses, si el anuncio del nuevo contrato se publicó con una antelación mínima de tres meses respecto del fin del contrato (**art. 29.4**).",
+   "No. La antelación mínima es de tres meses, no de seis (**art. 29.4**)."
+  ]
+ },
+ "vo-01-035": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Treinta años no es el tope (**art. 29.6**).",
+   "No. Cincuenta años supera el tope (**art. 29.6**).",
+   "Es esta. Cuarenta años, prórrogas incluidas (**art. 29.6.a**).",
+   "No. Sesenta años supera el tope (**art. 29.6**)."
+  ]
+ },
+ "vo-01-036": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Diez años es el máximo para otros supuestos, no para esta concesión (**art. 29.6**).",
+   "No. Quince años es el máximo para concesiones de servicios sanitarios distintas (**art. 29.6**).",
+   "Es esta. Veinticinco años para concesiones de servicios no relacionados con la prestación sanitaria (**art. 29.6.b**).",
+   "No. Treinta y cinco años no es un límite de la ley (**art. 29.6**)."
+  ]
+ },
+ "vo-01-037": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 118.1 y 29.8",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los menores no pueden prorrogarse (**art. 29.8**).",
+   "No. No pueden prorrogarse (**art. 29.8**).",
+   "Es esta. No pueden durar más de un año ni prorrogarse (**art. 29.8**).",
+   "No. El límite es de un año sin prórroga, no seis meses más seis (**art. 29.8**)."
+  ]
+ },
+ "vo-01-038": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 32.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La compensación no se fija por precios de mercado (**art. 32.2**).",
+   "Es esta. Por referencia a tarifas aprobadas por la entidad pública de la que depende el medio propio personificado (**art. 32.2**).",
+   "No. No se usa una metodología de costes que apruebe el propio medio (**art. 32.2**).",
+   "No. Las tarifas las aprueba la entidad pública de la que depende el medio propio, no el medio mismo (**art. 32.2**)."
+  ]
+ },
+ "vo-01-039": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 32.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No tienen la consideración de contrato, pero la ley regula sus requisitos (**art. 32.6**).",
+   "No. No son contratos (**art. 32.6**).",
+   "No. No están excluidos: la ley los regula en el art. 32 (**art. 32**).",
+   "No. No son contratos (**art. 32.6**)."
+  ]
+ },
+ "vo-01-040": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 30.1.g",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La prestación de servicios normalmente la hace la propia Administración, no los suministros (**art. 30.3**).",
+   "No. En la fabricación el ahorro debe superar el 20 %, no el 5 % (**art. 30.2**).",
+   "Es esta. Las obras de mera conservación y mantenimiento pueden hacerse con medios propios no personificados (**art. 30.1.g**).",
+   "No. Sí pueden ejecutarse obras así, en los supuestos del art. 30.1 (**art. 30.1**)."
+  ]
+ },
+ "vo-02-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La adjudicación perfecciona los contratos basados y específicos, que están exceptuados (**art. 36.3**).",
+   "No. La publicación en el perfil no perfecciona el contrato (**art. 36**).",
+   "Es esta. Se perfeccionan con su formalización (**art. 36.1**).",
+   "No. La ejecución no perfecciona el contrato (**art. 36**)."
+  ]
+ },
+ "vo-02-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los contratos basados en un acuerdo marco se perfeccionan con la adjudicación (**art. 36.3**).",
+   "No. La formalización perfecciona el resto de contratos (**art. 36.1**).",
+   "No. La aprobación del expediente es un trámite previo (**art. 117**).",
+   "No. La publicación del anuncio de formalización no perfecciona el contrato (**art. 154**)."
+  ]
+ },
+ "vo-02-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 37.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Hay una excepción: la emergencia (**art. 37.1**).",
+   "Es esta. Solo se permite la contratación verbal cuando el contrato tenga carácter de emergencia (**art. 37.1**).",
+   "No. Es la excepción, no la regla (**art. 37.1**).",
+   "No. El tipo de contrato no es el criterio (**art. 37.1**)."
+  ]
+ },
+ "vo-02-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cabe otra cosa en el clausulado (**art. 36.4**).",
+   "No. No es la sede del contratista (**art. 36.4**).",
+   "Es esta. Salvo que el clausulado diga otra cosa, donde esté la sede del órgano de contratación (**art. 36.4**).",
+   "No. No es la sede del contratista (**art. 36.4**)."
+  ]
+ },
+ "vo-02-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 39.2.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es nulidad, no anulabilidad (**art. 39.2.c**).",
+   "No. No es una simple subsanación a instancia de parte (**art. 39.2.c**).",
+   "No. No se corrige por la Junta de Contratación (**art. 39.2.c**).",
+   "Es esta. La falta de publicación del anuncio de licitación es causa de nulidad de pleno derecho (**art. 39.2.c**)."
+  ]
+ },
+ "vo-02-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 40.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El art. 40 la enumera entre las causas de anulabilidad (**art. 40.a**).",
+   "Es esta. El incumplimiento de los requisitos de modificación de los arts. 204 y 205 es causa de anulabilidad (**art. 40.a**).",
+   "No. No es una causa de invalidez civil (**art. 40**).",
+   "No. Sí es causa de invalidez (**art. 40.a**)."
+  ]
+ },
+ "vo-02-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 39.2.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es causa de nulidad, no de resolución (**art. 39.2.a**).",
+   "Es esta. La falta de solvencia económica es causa de nulidad de pleno derecho (**art. 39.2.a**).",
+   "No. Es nulidad, no anulabilidad (**art. 39.2.a**).",
+   "No. No es una irregularidad no invalidante (**art. 39.2.a**)."
+  ]
+ },
+ "vo-02-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 42.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La nulidad de los actos preparatorios es la que lleva a la liquidación del contrato (**art. 42.1**).",
+   "Es esta. La nulidad de los actos que no son preparatorios solo afecta a estos y sus consecuencias (**art. 42.2**).",
+   "No. Eso es lo que ocurre cuando se anulan los actos preparatorios o la adjudicación (**art. 42.1**).",
+   "No. La restitución recíproca es consecuencia de la nulidad del contrato (**art. 42.1**)."
+  ]
+ },
+ "vo-02-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 42.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Podrá disponerse la continuación de sus efectos, con las mismas cláusulas, hasta adoptar medidas urgentes (**art. 42.3**).",
+   "No. Es una facultad (podrá), no una obligación (**art. 42.3**).",
+   "No. Sí puede disponerse la continuación (**art. 42.3**).",
+   "No. La declaración no se pospone (**art. 42.3**)."
+  ]
+ },
+ "vo-02-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 43",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Esta ley no regula esos requisitos y plazos (**art. 43**).",
+   "No. La Ley 39/2015 no los regula (**art. 43**).",
+   "No. La Ley 33/2003 no los regula (**art. 43**).",
+   "Es esta. Se sujeta a los requisitos y plazos del ordenamiento civil (**art. 43**)."
+  ]
+ },
+ "vo-02-011": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí cabe. Los contratos basados en un acuerdo marco de más de 100.000 euros son recurribles (**art. 44.1.b**).",
+   "Es esta. En obras solo cabe por encima de tres millones de euros, y este vale uno (**art. 44.1.a**).",
+   "Sí cabe. Las concesiones de servicios de más de tres millones (**art. 44.1.c**).",
+   "Sí cabe. Las concesiones de obras de más de tres millones (**art. 44.1.c**)."
+  ]
+ },
+ "vo-02-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En concesiones el umbral es de tres millones (**art. 44.1.c**).",
+   "No. En suministros el umbral es de 100.000 euros (**art. 44.1.a**).",
+   "Es esta. Servicios con valor estimado superior a 100.000 euros (**art. 44.1.a**).",
+   "No. En obras el umbral es de tres millones (**art. 44.1.a**)."
+  ]
+ },
+ "vo-02-013": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los encargos cuyo importe no se pueda fijar por sus características son recurribles (**art. 44.1**).",
+   "No. Los administrativos especiales son recurribles si su valor supera el de los servicios, no si es inferior (**art. 44.1**).",
+   "No. En concesiones el umbral es tres millones, no uno (**art. 44.1.c**).",
+   "No. Las obras solo desde tres millones (**art. 44.1.a**)."
+  ]
+ },
+ "vo-02-014": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El umbral en suministros y servicios es superior a 100.000 euros (**art. 44.1.a**).",
+   "No. No se da el recurso en la tramitación de emergencia (**art. 44.4**).",
+   "Es esta. Son recurribles los anuncios de licitación y los pliegos (**art. 44.2.a**).",
+   "No. En obras el umbral es tres millones (**art. 44.1.a**)."
+  ]
+ },
+ "vo-02-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es recurrible. Los acuerdos de rescate de concesiones (**art. 44.2.f**).",
+   "Sí es recurrible. Los acuerdos de adjudicación (**art. 44.2.c**).",
+   "Sí es recurrible. Los actos de admisión o exclusión (**art. 44.2.b**).",
+   "Es esta. El acuerdo de inicio del expediente no figura entre los actos recurribles (**art. 44.2**)."
+  ]
+ },
+ "vo-02-016": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es potestativo y cabe contra actos de trámite que impidan continuar el procedimiento (**art. 44.2.b y 44.7**).",
+   "No. Es potestativo, no obligatorio (**art. 44.7**).",
+   "No. Sí cabe contra los actos de la mesa sobre admisión o inadmisión (**art. 44.2.b**).",
+   "No. No cabe en la tramitación de emergencia (**art. 44.4**)."
+  ]
+ },
+ "vo-02-017": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 45.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Tribunal de Cuentas no lo resuelve (**art. 45**).",
+   "No. Los tribunales económico-administrativos no lo resuelven (**art. 45**).",
+   "Es esta. El Tribunal Administrativo Central de Recursos Contractuales (**art. 45.1**).",
+   "No. En el ámbito estatal no lo resuelve el órgano de contratación (**art. 45.1**)."
+  ]
+ },
+ "vo-02-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 50.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Diez días hábiles no es el plazo (**art. 50.1**).",
+   "Es esta. Quince días hábiles (**art. 50.1**).",
+   "No. Veinte días hábiles no es el plazo (**art. 50.1**).",
+   "No. Un mes no es el plazo (**art. 50.1**)."
+  ]
+ },
+ "vo-02-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.4",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta. Cualquier persona con derechos o intereses legítimos perjudicados puede recurrir (**art. 48**).",
+   "Es correcta. Cabe solicitar medidas cautelares (**art. 49**).",
+   "Es correcta. Pasados dos meses sin notificar la resolución, se entiende desestimado (**art. 57.5**).",
+   "Es la incorrecta. No se da el recurso en los procedimientos de adjudicación por emergencia (**art. 44.4**)."
+  ]
+ },
+ "vo-02-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 59.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No cabe reposición (**art. 59.1**).",
+   "No. No cabe recurso económico-administrativo (**art. 59.1**).",
+   "Es esta. Solo cabe el recurso contencioso-administrativo (**art. 59.1**).",
+   "No. No cabe alzada (**art. 59.1**)."
+  ]
+ },
+ "vo-02-021": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 62.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley dice que los órganos de contratación deberán designarlo (**art. 62.1**).",
+   "No. En obras, sus facultades las ejerce el Director Facultativo (**art. 62.2**), así que sí pueden ejercerse por este.",
+   "Es esta. Puede ser una persona física o jurídica, vinculada al ente contratante o ajena a él (**art. 62.1**).",
+   "No. No tiene que estar vinculado en todo caso (**art. 62.1**)."
+  ]
+ },
+ "vo-02-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 63.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El acceso es libre, sin identificación previa (**art. 63.1**).",
+   "No. La ley no fija ese plazo de tres años para toda la información (**art. 63**).",
+   "Es esta. Los órganos de contratación difunden su perfil exclusivamente a través de Internet (**art. 63.1**).",
+   "No. Los contratos menores se publican al menos trimestralmente (**art. 63.4**)."
+  ]
+ },
+ "vo-02-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 63.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El informe motivando la necesidad no forma parte de la publicación mínima (**art. 63.4**).",
+   "Sí forma parte. El objeto (**art. 63.4**).",
+   "Sí forma parte. La duración (**art. 63.4**).",
+   "Sí forma parte. La identidad del adjudicatario, ordenando los contratos por ella (**art. 63.4**)."
+  ]
+ },
+ "vo-02-024": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 63.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La duración de los encargos no tiene ese tope legal de dos años (**art. 32**).",
+   "Es esta. Se publican en el perfil los encargos de más de 50.000 euros, IVA excluido (**art. 63.6**).",
+   "No. La ley no prohíbe prorrogarlos de esa forma (**art. 32**).",
+   "No. El umbral es de 50.000 euros, no de 30.000 (**art. 63.6**)."
+  ]
+ },
+ "vo-02-025": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 66.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Solo pueden adjudicar contratos que estén dentro de su objeto (**art. 66.1**).",
+   "Es esta. Solo pueden ser adjudicatarias de contratos cuyas prestaciones estén dentro de sus fines u objeto (**art. 66.1**).",
+   "No. No se limitan a los contratos de obras (**art. 66.1**).",
+   "No. Pueden adjudicarse contratos de regulación armonizada (**art. 66.1**)."
+  ]
+ },
+ "vo-02-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 69.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No hace falta escritura pública hasta que se haya adjudicado el contrato a su favor (**art. 69.1**).",
+   "No. Se formaliza después de la adjudicación (**art. 69.1**).",
+   "No. Se formaliza antes de la formalización del contrato, no después (**art. 69.1**).",
+   "No. Sí hace falta la escritura pública tras la adjudicación (**art. 69.1**)."
+  ]
+ },
+ "vo-02-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 68.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Quedan obligados solidariamente, no mancomunadamente (**art. 69.3**).",
+   "Es esta. El pliego puede exigir a las empresas no comunitarias adjudicatarias de obras que abran una sucursal en España (**art. 68.2**).",
+   "No. Los de la Unión Europea están exentos de la clasificación, pero deben acreditar la solvencia (**art. 78.1**).",
+   "No. La vigilancia de la ejecución no se adjudica por regla a quien ejecuta el contrato (**art. 70**)."
+  ]
+ },
+ "vo-02-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 71.1.d",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Tener contratos adjudicados no es una prohibición (**art. 71**).",
+   "No. Una imputación no es prohibición. Hace falta sentencia firme (**art. 71.1.a**).",
+   "No. Tener contratos adjudicados no es una prohibición (**art. 71**).",
+   "Es esta. No estar al corriente de las obligaciones tributarias o de Seguridad Social es prohibición de contratar (**art. 71.1.d**)."
+  ]
+ },
+ "vo-02-029": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 71.1.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La condena debe ser por los delitos que enumera la ley (**art. 71.1.a**).",
+   "No. No hay una exigencia de volumen de negocio como prohibición (**art. 71**).",
+   "No. La obligación del plan de igualdad es para empresas de 50 o más trabajadores (**art. 71.1.d**).",
+   "Es esta. Haber solicitado la declaración de concurso voluntario es prohibición de contratar (**art. 71.1.c**)."
+  ]
+ },
+ "vo-02-030": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 71.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Estar incurso en un proceso judicial no es prohibición. Hace falta condena por sentencia firme (**art. 71.1.a**).",
+   "No. Una sanción firme por infracción grave en esa materia es prohibición (**art. 71.1.b**).",
+   "No. No estar al corriente de las obligaciones es prohibición (**art. 71.1.d**).",
+   "No. Haber sido declarado insolvente es prohibición (**art. 71.1.c**)."
+  ]
+ },
+ "vo-02-031": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 74.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se indican en el anuncio y en el pliego, no solo si se requieren (**art. 74.2**).",
+   "No. Se indican en el anuncio y en el pliego (**art. 74.2**).",
+   "No. Se conocen antes de la adjudicación, en el anuncio y el pliego (**art. 74.2**).",
+   "Es esta. Se indican en el anuncio y el pliego, vinculados al objeto y proporcionales (**art. 74.2**)."
+  ]
+ },
+ "vo-02-032": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se mide por el valor estimado, no por el presupuesto de licitación (**art. 77.1.a**).",
+   "Es esta. Valor estimado igual o superior a 500.000 euros (**art. 77.1.a**).",
+   "No. El umbral no es de un millón (**art. 77.1.a**).",
+   "No. El umbral no es de un millón (**art. 77.1.a**)."
+  ]
+ },
+ "vo-02-033": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En servicios no se exige clasificación (**art. 77.1.b**).",
+   "No. No se exige en ningún caso (**art. 77.1.b**).",
+   "Es esta. En los contratos de servicios no es exigible la clasificación (**art. 77.1.b**).",
+   "No. No se exige ni siquiera en esa condición (**art. 77.1.b**)."
+  ]
+ },
+ "vo-02-034": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 82.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Vigencia indefinida mientras se mantengan las condiciones en que se basó (**art. 82.1**).",
+   "No. No es anual (**art. 82.1**).",
+   "No. No es de tres años (**art. 82.1**).",
+   "No. Esos son los plazos para justificar la solvencia, no la vigencia (**art. 82.2**)."
+  ]
+ },
+ "vo-02-035": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77",
+  "correcta": 1,
+  "justificaciones": [
+   "No. A los empresarios no españoles de la UE no se les exige, pero a los españoles sí cuando procede (**art. 78.1**).",
+   "Es esta. La clasificación se establece en función de la solvencia de las empresas (**art. 77**).",
+   "No. No se declara por sentencia, sino por acuerdo de las Comisiones Clasificadoras (**art. 80**).",
+   "No. Tiene eficacia general frente a todos los órganos de contratación (**art. 80.1**)."
+  ]
+ },
+ "vo-02-036": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 81",
+  "correcta": 2,
+  "justificaciones": [
+   "No. También las adoptan los órganos de las Comunidades Autónomas (**art. 80.1**).",
+   "No. Lo que no cabe es tener la misma clasificación de la Junta y de una Comunidad a la vez (**art. 80.2**).",
+   "Es esta. Los acuerdos de las Comisiones Clasificadoras se inscriben de oficio en el ROLECSP (**art. 81**).",
+   "No. Se inscriben en el registro de la Comunidad Autónoma si dispone de él, pero no es el único efecto (**art. 81**)."
+  ]
+ },
+ "vo-03-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 84.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Una declaración jurada no basta (**art. 84.1**).",
+   "No. No se exige certificación de todos los socios (**art. 84.1**).",
+   "No. Un acta del Consejo no acredita la capacidad de obrar (**art. 84.1**).",
+   "Es esta. Se acredita con la escritura o documento de constitución, los estatutos o el acta fundacional, inscritos en el registro público que corresponda (**art. 84.1**)."
+  ]
+ },
+ "vo-03-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 87.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La declaración del personal técnico es un medio de solvencia técnica (**art. 88.1.b**).",
+   "No. Una declaración jurada no es un medio de solvencia económica de la ley (**art. 87**).",
+   "No. El informe de la Misión Diplomática es para acreditar la capacidad de obrar de empresas extranjeras (**art. 84.3**).",
+   "Es esta. El volumen anual de negocios, referido al mejor ejercicio de los tres últimos disponibles (**art. 87.1.a**)."
+  ]
+ }
+}

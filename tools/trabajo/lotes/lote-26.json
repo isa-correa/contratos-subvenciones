@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-09-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 15,
+   "enunciado": "Conforme establece la Ley 9 /2017, sólo podrán contratar con el sector público: (Cantabria A2 – 2021)",
+   "opciones": [
+    "Personas naturales o jurídicas españolas.",
+    "Personas naturales o jurídicas españolas o extranjeras.",
+    "Personas naturales o jurídicas comunitarias.",
+    "Personas naturales o jurídicas comunitarias y no comunitarias."
+   ]
+  },
+  {
+   "id": "vo-09-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 16,
+   "enunciado": "Según establece el artículo 68 de la Ley 9/2017, el pliego de cláusulas administrativas particulares podrá exigir a las empresas no comunitarias que resulten adjudicatarias de contratos de:",
+   "opciones": [
+    "Concesión de obras que abran una sucursal en España, con designación de apoderados o representantes para sus operaciones, y que estén inscritas en el Registro de Licitadores.",
+    "Obras que abran una sucursal en Europa, con designación de apoderados o representantes para sus operaciones, y que estén inscritas en el Registro Mercantil.",
+    "Obras que abran una sucursal en España, con designación de apoderados o representantes para sus operaciones, y que estén inscritas en el Registro Mercantil.",
+    "Concesión de obras que abran una sucursal en España, con designación de apoderados o representantes para sus operaciones, y que estén inscritas en el Registro Mercantil."
+   ]
+  },
+  {
+   "id": "vo-09-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 17,
+   "enunciado": "De acuerdo con la Ley 9/2017, con relación a las uniones temporales de empresarios es cierto que: (Junta Andalucía A1 – 2023)",
+   "opciones": [
+    "Podrán contratar con el sector público sin que sea necesaria la formalización de las mismas en escritura pública hasta que se haya efectuado la adjudicación del contrato a su favor.",
+    "Los empresarios que concurran agrupados en uniones temporales quedarán obligados mancomunadamente.",
+    "La duración de las uniones temporales de empresarios se extenderá, al menos, hasta un año después de la extinción del contrato.",
+    "Las operaciones de fusión, escisión y aportación o transmisión de rama de actividad de que sean objeto de alguna o algunas empresas integradas en una unión temporal impedirán la continuación de esta en el procedimiento de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-09-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 18,
+   "enunciado": "No está prohibido contratar:",
+   "opciones": [
+    "Con una persona que haya sido declarada insolvente en cualquier procedimiento.",
+    "Con una persona que no se encuentra al corriente en el cumplimiento de las obligaciones con la Seguridad Social impuestas por las disposiciones vigentes.",
+    "Con una persona que haya retirado justificadamente su proposición en un procedimiento de adjudicación.",
+    "Todas las personas de los apartados anteriores tienen prohibido contratar con una Administración Pública."
+   ]
+  },
+  {
+   "id": "vo-09-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 19,
+   "enunciado": "Según dispone el artículo 72 de la Ley 9/2017, en los casos en que por sentencia penal firme así se prevea, la duración de la prohibición de contratar será:",
+   "opciones": [
+    "La prevista en la misma.",
+    "No podrá exceder de cinco años.",
+    "No podrá exceder de tres años.",
+    "La prevista en la misma, no siendo superior a 5 años."
+   ]
+  },
+  {
+   "id": "vo-09-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 20,
+   "enunciado": "Para acreditar la solvencia necesaria para celebrar un contrato determinado, el empresario: (Ayuntamiento Castellón A1 – 2024)",
+   "opciones": [
+    "Podrá basarse en la solvencia y medios de otras entidades, independientemente de la naturaleza jurídica de los vínculos que tenga con ellas.",
+    "En ningún caso podrá basarse en la solvencia y medios de otras entidades.",
+    "Únicamente podrá basarse en la solvencia y medios propios.",
+    "Ninguna es correcta."
+   ]
+  },
+  {
+   "id": "vo-09-021",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 21,
+   "enunciado": "Conforme a la Ley 9/2017, para los contratos de obra será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras de los poderes adjudicadores en los:",
+   "opciones": [
+    "Contratos de obras cuyo valor estimado sea igual o superior a 500.000 €.",
+    "Contratos de obras cuyo valor estimado sea superior a 500.000 €.",
+    "Contratos de obras cuyo precio de adjudicación sea igual o superior a 500.000 €.",
+    "Contratos de obras cuyo precio de adjudicación sea superior a 500.000 €."
+   ]
+  },
+  {
+   "id": "vo-09-022",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 22,
+   "enunciado": "En relación a lo establecido en el artículo 82 de la Ley 9/2017, y sin perjuicio de lo señalado en el apartado 3 de este artículo y en el artículo 83, la conservación de la clasificación de las empresas:",
+   "opciones": [
+    "Deberá justificarse anualmente el mantenimiento de la solvencia técnica y profesional.",
+    "Deberá justificarse anualmente el mantenimiento de la solvencia económica y financiera",
+    "Deberá justificarse cada tres años el mantenimiento de la solvencia económica y financiera.",
+    "Deberá justificarse cada dos años el mantenimiento de la solvencia técnica y profesional."
+   ]
+  },
+  {
+   "id": "vo-09-023",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 23,
+   "enunciado": "¿Los acuerdos relativos a la clasificación de las empresas adoptados por las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública el Estado se inscribirán? (Ayuntamiento Antequera A2 – 2024)",
+   "opciones": [
+    "No se inscribirán.",
+    "De oficio, en el Registro de Licitadores de todas las Comunidades Autónomas.",
+    "A instancia de parte, en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "De oficio, en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público."
+   ]
+  },
+  {
+   "id": "vo-10-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 1,
+   "enunciado": "En base a la LCSP, la capacidad de obrar de los empresarios no españoles, que no sean nacionales de Estados miembros de la UE o de Estados Signatarios del Acuerdo sobre el E.E.E., se acreditará:",
+   "opciones": [
+    "Con informe de la Misión Diplomática Permanente de España en el Estado correspondiente.",
+    "Por su inscripción en el registro procedente de acuerdo con la legislación del Estado donde están establecidos.",
+    "Mediante la escritura o documento de constitución o los estatutos o el acta fundacional, en los que consten las normas por las que se regula su actividad, debidamente inscritos en el Registro público que corresponda.",
+    "Con informe de la Oficina Consular en cuyo ámbito territorial radique el domicilio del órgano contratante."
+   ]
+  },
+  {
+   "id": "vo-10-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 2,
+   "enunciado": "Según dispone el artículo 87 de la Ley 9/2017, la solvencia económica y financiera del empresario deberá acreditarse por uno o varios de los medios siguientes, a elección del órgano de contratación:",
+   "opciones": [
+    "Volumen anual de negocios referido al mejor ejercicio dentro de los cinco últimos ejercicios.",
+    "Justificante de la existencia de un seguro de responsabilidad civil por riesgos profesionales por importe inferior al exigido en la adjudicación.",
+    "Patrimonio neto al cierre del último ejercicio económico por importe igual o superior al exigido en el anuncio de licitación.",
+    "Medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato."
+   ]
+  },
+  {
+   "id": "vo-10-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 3,
+   "enunciado": "La inscripción en el Registro de Licitadores de una Comunidad Autónoma acreditará idénticas circunstancias a efectos de la contratación frente a los órganos de contratación de:",
+   "opciones": [
+    "Todos los órganos de contratación del sector público.",
+    "Los restantes organismos o entidades del sector público independientes de la Comunidad Autónoma.",
+    "Todas las entidades locales del territorio nacional.",
+    "La Comunidad Autónoma."
+   ]
+  },
+  {
+   "id": "vo-10-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 4,
+   "enunciado": "Según dispone el articulo 88.1 a) de la Ley 9/2017, por regla general, para acreditar la solvencia técnica, por el empresario en los contratos de obras, se tendrá que acreditar la buena ejecución de obras ejecutadas en los: (Ayuntamiento de Antequera A2 – 2024)",
+   "opciones": [
+    "Último año.",
+    "Últimos 5 años.",
+    "Últimos 3 años.",
+    "Últimos 10 años."
+   ]
+  },
+  {
+   "id": "vo-10-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 5,
+   "enunciado": "Según el artículo 89 de la Ley 9/2017, en los contratos de suministro la solvencia técnica de los empresarios deberá acreditarse por uno o varios de los siguientes medios, a elección del órgano de contratación:",
+   "opciones": [
+    "En los casos adecuados, indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato.",
+    "Muestras, descripciones y fotografías de los productos a suministrar, cuya autenticidad pueda certificarse a petición de la entidad contratante.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "Volumen anual de negocios referido al mejor ejercicio dentro de los tres últimos disponibles."
+   ]
+  },
+  {
+   "id": "vo-10-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 6,
+   "enunciado": "El artículo 90 de la LCSP, en los contratos de servicios, la solvencia técnica o profesional de los empresarios deberá apreciarse teniendo en cuenta sus conocimientos técnicos, eficacia, experiencia y fiabilidad, lo que deberá acreditarse, según el objeto del contrato, por uno o varios de los medios siguientes, a elección del órgano de contratación:",
+   "opciones": [
+    "Relación de los principales servicios realizados de igual o similar naturaleza a los que constituyen el objeto del contrato, en los últimos cinco años.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "Declaración sobre la plantilla media anual y número de directivos de la empresa durante el último año.",
+    "Justificante de la existencia de un seguro de responsabilidad civil por riesgos profesionales por importe igual o superior al exigido en el anuncio de licitación."
+   ]
+  },
+  {
+   "id": "vo-10-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 7,
+   "enunciado": "A tenor de la LCSP, el órgano de contratación podrá no dividir en lotes el objeto del contrato, cuando existan motivos válidos, que deberán justificarse debidamente en el expediente, salvo en:",
+   "opciones": [
+    "Contrato de obras.",
+    "Concesión de obras y servicios.",
+    "Concesión de obras.",
+    "Concesión de servicios."
+   ]
+  },
+  {
+   "id": "vo-10-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 8,
+   "enunciado": "Según el art. 99 de la LCSP, en relación con el objeto del contrato, señale la respuesta INCORRECTA: (CARM C1 – 2026)",
+   "opciones": [
+    "El objeto de los contratos del sector público deberá ser determinado.",
+    "Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes.",
+    "No se podrá limitar el número de lotes que pueden adjudicarse a cada licitador.",
+    "No podrá fraccionarse un contrato con la finalidad de disminuir su cuantía y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-10-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 9,
+   "enunciado": "Según la Ley 9/2017, ¿Qué se entiende por presupuesto base de licitación?: (SIAL – 2024)",
+   "opciones": [
+    "El límite máximo del coste, que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+    "El límite máximo del coste que en virtud del contrato puede comprometer el órgano de contratación, sin incluir el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+    "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+    "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, sin incluir el Impuesto sobre el Valor Añadido, salvo disposición en contrario."
+   ]
+  },
+  {
+   "id": "vo-10-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 10,
+   "enunciado": "Según el artículo 101.1 LCSP, el valor estimado será determinado como sigue: En el caso de los contratos de obras, suministros y servicios, el órgano de contratación tomará:",
+   "opciones": [
+    "El importe total, sin incluir el IVA, pagadero según sus estimaciones.",
+    "El importe total, incluyendo el IVA, pagadero según sus estimaciones.",
+    "El importe neto de la cifra de negocios que según sus estimaciones generará la empresa concesionaria durante su ejecución como contraprestación por las obras y los servicios objeto del contrato.",
+    "El importe neto de la cifra de negocios, sin incluir el IVA, pagaderos según sus estimaciones."
+   ]
+  },
+  {
+   "id": "vo-10-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 11,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el precio del contrato:",
+   "opciones": [
+    "Deberá expresarse en euros, sin que pueda preverse que la totalidad o parte del precio sea satisfecho en moneda distinta del euro.",
+    "Se entenderá incluido el importe a abonar en concepto de Impuesto sobre el Valor Añadido, que en todo caso se indicará como partida independiente.",
+    "Podrán ser revisados, cuando deban ser ajustados, exclusivamente al alza, para tener en cuenta las variaciones económicas de costes que acaezcan durante la ejecución del contrato.",
+    "Podrá formularse en términos de precios unitarios, como en términos de precios de tanto aplazado."
+   ]
+  },
+  {
+   "id": "vo-10-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 12,
+   "enunciado": "Según el artículo 103.5 de la Ley 9/2017, salvo en los contratos de suministros de energía, para aplicar la revisión de precios: (Murcia A1 – 2020)",
+   "opciones": [
+    "Es necesario que concurran dos requisitos formales a la vez: por un lado, que se hubiese ejecutado, al menos, en el 20 por 100 de su importe y, de otro que hubiese transcurrido dos años desde su formalización.",
+    "El primer 20 por 100 ejecutado y el importe ejecutado en el primer año transcurrido desde la formalización quedarán excluidos de la revisión.",
+    "El primer 20 por 100 ejecutado y los dos primeros años transcurridos desde la formalización quedarán incluidos en la revisión.",
+    "Es necesario que concurran dos requisitos formales a la vez: por un lado, que se hubiese ejecutado, al menos, en el 15 por 100 de su importe y, de otro que hubiese transcurrido dos años desde su formalización."
+   ]
+  },
+  {
+   "id": "vo-10-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 13,
+   "enunciado": "De conformidad con el artículo 106.2 de la Ley 9/2017, en los casos en que el órgano de contratación haya acordado la exigencia de garantía provisional, en los pliegos de cláusulas administrativas particulares se determinará el importe de la misma, que:",
+   "opciones": [
+    "No podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido.",
+    "Será del 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido.",
+    "No podrá ser superior a un 5 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido.",
+    "Será del 5 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido."
+   ]
+  },
+  {
+   "id": "vo-10-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 14,
+   "enunciado": "Con carácter general el importe de la garantía definitiva que tendrá que constituir el licitador que presente la mejor oferta será de: (Ayuntamiento de Antequera A2 – 2024)",
+   "opciones": [
+    "Un 5 por 100 del precio final ofertado por aquellos, excluido el IVA",
+    "Un 10 por 100 del precio final ofertado por aquellos, excluido el IVA.",
+    "Un 20 por 100 del precio final ofertado por aquellos, excluido el IVA.",
+    "Hasta un 5 por 100 del precio final ofertado por aquellos, excluido el IVA."
+   ]
+  },
+  {
+   "id": "vo-10-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 15,
+   "enunciado": "En casos especiales, el órgano de contratación puede establecer que, además de la garantía definitiva, se preste una garantía complementaria por importe: (Extremadura A2 – 2021)",
+   "opciones": [
+    "De hasta un 4% del precio final ofertado por el licitador que presentó la mejor oferta, incluido el IVA, pudiendo alcanzar la garantía total un 10% del citado precio.",
+    "De hasta un 5% del precio final ofertado por el licitador que presentó la mejor oferta, incluido el IVA, pudiendo alcanzar la garantía total un 10% del citado precio.",
+    "De hasta un 4% del precio final ofertado por el licitador que presentó la mejor oferta, excluido el IVA, pudiendo alcanzar la garantía total un 10% del citado precio.",
+    "De hasta un 5% del precio final ofertado por el licitador que presentó la mejor oferta, excluido el IVA, pudiendo alcanzar la garantía total un 10% del citado precio."
+   ]
+  },
+  {
+   "id": "vo-10-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 16,
+   "enunciado": "El acuerdo de devolución deberá adoptarse y notificarse al interesado en el plazo de:",
+   "opciones": [
+    "2 meses desde la finalización del contrato.",
+    "2 meses desde la finalización del plazo de garantía.",
+    "3 meses desde la finalización del contrato.",
+    "3 meses desde la finalización del plazo de garantía."
+   ]
+  },
+  {
+   "id": "vo-10-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 17,
+   "enunciado": "Señale la respuesta correcta. En relación con la devolución y cancelación de las garantías que se recoge en el art. 111 de la Ley 9/2017 y, en particular, para un contrato de obras de valor estimado inferior a 1.000.000 de euros: (Diputación Badajoz A2 – 2025)",
+   "opciones": [
+    "El plazo establecido para la devolución de la garantía se reducirá a seis meses.",
+    "El plazo establecido para la devolución de la garantía será de un año.",
+    "El plazo establecido para la devolución de la garantía se reducirá a nueve meses.",
+    "El plazo establecido para la devolución de la garantía se reducirá a tres meses."
+   ]
+  },
+  {
+   "id": "vo-10-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 18,
+   "enunciado": "En base a la LCSP, el licitador que hubiera presentado la mejor oferta deberá acreditar la constitución de la garantía definitiva en el plazo de:",
+   "opciones": [
+    "10 días, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento.",
+    "15 días, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento.",
+    "10 días hábiles, a contar desde el siguiente a aquel en que se hubiera emitido el requerimiento.",
+    "10 días hábiles, a contar desde el siguiente a aquel en que hubiera recibido el requerimiento."
+   ]
+  },
+  {
+   "id": "vo-10-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 15 - Bloque III",
+   "n": 19,
+   "enunciado": "Indique la INCORRECTA. Las garantías definitivas en los contratos celebrados con la Administraciones Públicas podrán presentarse en alguna o algunas de las siguientes formas:",
+   "opciones": [
+    "Tarjeta de crédito.",
+    "En valores, que en todo caso serán de Deuda Pública.",
+    "Aval.",
+    "Contrato de seguro de caución."
+   ]
+  },
+  {
+   "id": "vo-11-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 1,
+   "enunciado": "En relación con las consultas preliminares del mercado:",
+   "opciones": [
+    "De las consultas realizadas podrá resultar un objeto contractual tan concreto que únicamente se ajuste a las características técnicas de uno de los consultados.",
+    "En ningún caso durante el proceso de consultas al que se refiere el presente artículo el órgano de contratación podrá revelar a las participantes del mismo las soluciones propuestas por los otros participantes.",
+    "La participación en la consulta impide la posterior intervención en el procedimiento de contratación.",
+    "Con carácter general, el órgano de contratación al elaborar los pliegos no tendrá en cuenta los resultados de las consultas realizadas."
+   ]
+  },
+  {
+   "id": "vo-11-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 2,
+   "enunciado": "En base al artículo 116 LCSP, los PCAP y PPT serán sustituidos por:",
+   "opciones": [
+    "Cuando el procedimiento elegido sea el de diálogo competitivo, a que hace referencia en apartado 1 del artículo 174, por el documento de licitación.",
+    "En el caso de procedimientos para adjudicar los contratos basados en acuerdos marco, invitando a una nueva licitación a las empresas parte del mismo, por el documento de licitación.",
+    "Cuando el procedimiento elegido sea el de asociación para la innovación, por el documento de descriptivo.",
+    "En el caso de procedimientos para adjudicar los contratos basados en acuerdos marco, invitando a una nueva licitación a las empresas parte del mismo, por el documento descriptivo."
+   ]
+  },
+  {
+   "id": "vo-11-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 3,
+   "enunciado": "Según el art. 117 de la LCSP, respecto a la aprobación del expediente, completado el expediente de contratación, señale la respuesta CORRECTA: (CARM C1 – 2026)",
+   "opciones": [
+    "Se dictará resolución motivada por el órgano de contratación aprobando el mismo.",
+    "La resolución deberá publicarse en el perfil de contratante.",
+    "La resolución dispondrá la apertura del procedimiento de adjudicación.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "vo-11-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 4,
+   "enunciado": "Señale la respuesta correcta. De conformidad con el art. 118 de la Ley 9/2017 de Contratos del Sector Público, se consideran contratos menores: (Diputación Badajoz A2 – 2025)",
+   "opciones": [
+    "Los contratos de valor estimado igual o inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+    "Los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+    "Los contratos cuyo presupuesto base de licitación sea igual o inferior a 40.000 euros, cuando se trate de contratos de obras, o a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+    "Los contratos de valor estimado igual o inferior a 40.000 euros, cuando se trate de contratos de concesión de obras, o a 15.000 euros, cuando se trate de contratos mixtos."
+   ]
+  },
+  {
+   "id": "vo-11-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 5,
+   "enunciado": "Los expedientes calificados de urgentes: (Ayuntamiento Elche A2 – 2023)",
+   "opciones": [
+    "Reducen todos sus plazos a la mitad.",
+    "Responden a una necesidad aplazable.",
+    "El plazo de inicio de la ejecución no puede superar los 20 días.",
+    "El plazo de inicio de la ejecución del contrato no podrá exceder de un mes, contado desde la formalización."
+   ]
+  },
+  {
+   "id": "vo-11-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 6,
+   "enunciado": "Según la ley 9 / 2017, de 8 de noviembre, de Contratos del Sector Público, en la tramitación de emergencia el plazo de inicio de la ejecución de las prestaciones: (Cantabria A2 – 2021)",
+   "opciones": [
+    "No podrá es superior a 15 días naturales",
+    "No podrá ser superior a 15 días hábiles.",
+    "No podrá ser superior a 30 días naturales.",
+    "No podrá ser superior a un mes."
+   ]
+  },
+  {
+   "id": "vo-11-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 7,
+   "enunciado": "¿Qué órgano podrá aprobar los pliegos de cláusulas administrativas generales?:",
+   "opciones": [
+    "El Consejo de Ministros, previo dictamen del Consejo de Estado.",
+    "El órgano de contratación, previo dictamen del Consejo de Estado.",
+    "El Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "El órgano de contratación, previo dictamen del Ministro de Hacienda."
+   ]
+  },
+  {
+   "id": "vo-11-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 8,
+   "enunciado": "Los pliegos de cláusulas administrativas particulares deberán aprobarse:",
+   "opciones": [
+    "Previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "Previamente a la retención de crédito o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "Posteriormente a la autorización del gasto o conjuntamente con ella, y siempre después de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "Conjuntamente a la autorización del gasto o posteriormente a ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación."
+   ]
+  },
+  {
+   "id": "vo-11-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 9,
+   "enunciado": "Todos los pliegos de cláusulas administrativas particulares en que se proponga la inclusión de estipulaciones contrarias a los correspondientes pliegos generales:",
+   "opciones": [
+    "El órgano de contratación deberá informar con carácter previo.",
+    "La Junta Consultiva de Contratación Pública del Estado deberá informar con carácter posterior.",
+    "El Consejo de Ministros deberá informar con carácter previo.",
+    "La Junta Consultiva de Contratación Pública del Estado deberá informar con carácter previo."
+   ]
+  },
+  {
+   "id": "vo-11-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 10,
+   "enunciado": "¿Qué órgano podrá aprobar los pliegos de prescripciones técnicas generales?:",
+   "opciones": [
+    "El Consejo de Ministros, previo dictamen del Consejo de Estado, a propuesta del Ministro correspondiente.",
+    "El órgano de contratación, previo dictamen del Consejo de Estado, a propuesta del Ministro correspondiente.",
+    "El Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado, a propuesta del Ministro correspondiente.",
+    "El órgano de contratación, previo dictamen del Ministro de Hacienda, a propuesta del Ministro correspondiente."
+   ]
+  },
+  {
+   "id": "vo-11-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 11,
+   "enunciado": "¿Qué órgano aprueba los pliegos de prescripciones técnicas particulares?:",
+   "opciones": [
+    "El Consejo de Ministros, con anterioridad a la autorización del gasto o conjuntamente con ella y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "El órgano de contratación, con anterioridad a la autorización del gasto o conjuntamente con ella y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "El órgano de contratación, con anterioridad a la formalización del gasto o conjuntamente con ella y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación.",
+    "El Consejo Ministros, con anterioridad a la formalización del gasto o conjuntamente con ella y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación."
+   ]
+  },
+  {
+   "id": "vo-11-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 12,
+   "enunciado": "Cuando los órganos de contratación tengan la intención de adquirir obras, suministros o servicios con características específicas de tipo medioambiental, social u otra, podrán exigir en las prescripciones técnicas, en los criterios de adjudicación o en las condiciones de ejecución del contrato:",
+   "opciones": [
+    "Una etiqueta específica como medio de prueba.",
+    "Una declaración responsable.",
+    "Una marca específica como medio de prueba.",
+    "Un distintivo específico como medios de prueba."
+   ]
+  },
+  {
+   "id": "vo-11-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 13,
+   "enunciado": "Según el artículo 131.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no serán de aplicación las disposiciones de esta Ley relativas a la preparación y adjudicación del contrato: (SEAL – 2024)",
+   "opciones": [
+    "En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros.",
+    "En los contratos relativos a la Seguridad de la Defensa Nacional en supuestos de urgencia y con un valor estimado inferior a 100.000 euros.",
+    "En los contratos relativos a la Seguridad de la Defensa Nacional en supuestos de urgencia y con un valor estimado inferior a 30.000 euros.",
+    "En los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 100.000 euros."
+   ]
+  },
+  {
+   "id": "vo-11-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 14,
+   "enunciado": "De acuerdo con la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el anuncio de información previa de los contratos que se tenga proyectado adjudicar: (SIAL – 2024)",
+   "opciones": [
+    "Es una opción del órgano de contratación para los contratos sujetos a regulación armonizada.",
+    "Solo es aplicable a los contratos de suministros y servicios.",
+    "La publicación es exclusivamente en el Diario Oficial de la Unión Europea",
+    "Reducirá plazos a la mitad."
+   ]
+  },
+  {
+   "id": "vo-11-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 15,
+   "enunciado": "El anuncio de licitación para la adjudicación de contratos de las Administraciones Públicas:",
+   "opciones": [
+    "Se publicará en perfil de contratante.",
+    "Se publicará en el Boletín Oficial del Estado, en los contratos celebrados por la Comunidad Autónoma.",
+    "Se publicará en el Diario Oficial de la Unión Europea, cuando el contrato no esté sujeto a regulación armonizada.",
+    "A excepción de los procedimientos negociados sin publicidad, se publicará en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "vo-11-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 16,
+   "enunciado": "En relación con la declaración responsable y otra documentación del artículo 141 LCSP, cuando se aprecie defectos subsanables, se dará un plazo de:",
+   "opciones": [
+    "3 días al empresario para que los corrija.",
+    "5 días al empresario para que los corrija.",
+    "10 días al empresario para que los corrija.",
+    "15 días al empresario para que los corrija."
+   ]
+  },
+  {
+   "id": "vo-11-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 17,
+   "enunciado": "En relación con la admisibilidad de variantes:",
+   "opciones": [
+    "El órgano de contratación podrá tomar en consideración variantes que ofrezcan los licitadores cuando en la adjudicación haya de tenerse en cuenta exclusivamente el precio.",
+    "Los órganos de contratación podrán rechazar una variante por el único motivo de que, de ser elegida, daría lugar a un contrato de servicios en vez de a un contrato de suministro.",
+    "Los órganos de contratación no podrán rechazar una variante por el único motivo de que, de ser elegida, daría lugar a un contrato de servicios en vez de a un contrato de suministro.",
+    "La posibilidad de que los licitadores ofrezcan variantes se indicará en la formalización."
+   ]
+  },
+  {
+   "id": "vo-11-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 18,
+   "enunciado": "En relación el art. 143 de la LCSP, la subasta electrónica se basará en uno de los siguientes criterios:",
+   "opciones": [
+    "Únicamente en los precios, cuando el contrato se adjudique basándose en varios criterios de adjudicación.",
+    "En los precios y en nuevos valores de los elementos subjetivos de la oferta que sean cuantificables y susceptibles de ser expresados en cifras o en porcentajes, cuando el contrato se adjudique basándose en varios criterios de adjudicación",
+    "En los precios y en nuevos valores de los elementos objetivos de la oferta que sean cuantificables y susceptibles de ser expresados en cifras o en porcentajes, cuando el contrato se adjudique atendiendo exclusivamente al precio.",
+    "Únicamente en los precios, cuando el contrato se adjudique atendiendo exclusivamente al precio."
+   ]
+  },
+  {
+   "id": "vo-11-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 19,
+   "enunciado": "La adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación en base a: (Girona A2 – 2023)",
+   "opciones": [
+    "La mejor relación calidad-precio.",
+    "La mejor relación tiempo de ejecución-precio.",
+    "La mejor relación tiempo de ejecución-calidad.",
+    "La mejor relación tiempo de ejecución-calidad-precio."
+   ]
+  },
+  {
+   "id": "vo-11-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 20,
+   "enunciado": "La utilización de un solo criterio de adjudicación: (Ayuntamiento Elche A2 – 2023)",
+   "opciones": [
+    "Ha de ser evaluable mediante fórmula matemática relacionado con el gasto de personal.",
+    "Puede ser un criterio de juicio de valor relacionado con la prestación principal.",
+    "Puede ser el precio o un criterio basado en la rentabilidad.",
+    "Debe ser el valor unitario de cada elemento."
+   ]
+  },
+  {
+   "id": "vo-11-021",
+   "origen": "votaciones",
+   "test": "Clase repaso 16 - Bloque III",
+   "n": 21,
+   "enunciado": "En relación con los criterios de desempate, en defecto de la previsión en los pliegos, el empate entre varias ofertas se resolverá mediante la aplicación por orden de los siguientes criterios sociales, siendo el primero:",
+   "opciones": [
+    "Mayor porcentaje de mujeres empleadas.",
+    "Menor porcentaje de contratos temporales.",
+    "Mayor porcentaje de trabajadores con discapacidad o en situación de exclusión.",
+    "El sorteo."
+   ]
+  },
+  {
+   "id": "vo-12-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 1,
+   "enunciado": "En un contrato de obras han concurrido 5 empresas, ¿Cuándo se considera que las ofertas son desproporcionadas o temerarias según el artículo 85 del RD 1098/2001? (Ayto Elche A2 – 2023)",
+   "opciones": [
+    "Las que sean inferiores en más de 10 unidades porcentuales a la media aritmética de las ofertas presentadas.",
+    "Cuando la baja de cualquier oferta es superior a 25 unidades porcentuales.",
+    "Cuando la oferta es inferior al presupuesto base de licitación en más de 25 unidades porcentuales.",
+    "Según lo establecido en el PCAP."
+   ]
+  }
+ ]
+}

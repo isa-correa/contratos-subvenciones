@@ -1,0 +1,570 @@
+{
+ "pr-11-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 4,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "Es esta. Un anuncio de licitación es acto recurrible (**art. 44.2.a**) y un servicio de más de 100.000 euros está en el art. 44.1.a."
+  ]
+ },
+ "pr-11-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un contrato de obras solo es recurrible si supera los 3.000.000 de euros, y 2.000.000 no los supera (**art. 44.1.a**).",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "No. No cabe: falta algún requisito del art. 44."
+  ]
+ },
+ "pr-11-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 4,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "Es esta. Los pliegos son acto recurrible (**art. 44.2.a**) y un suministro de más de 100.000 euros está en el art. 44.1.a."
+  ]
+ },
+ "pr-11-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "Es esta. El informe de insuficiencia de medios es un acto preparatorio interno, no recogido en el art. 44.2, aunque el contrato (más de 100.000 euros) sí entra en el 44.1.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "No. No cabe: falta algún requisito del art. 44."
+  ]
+ },
+ "pr-11-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "Es esta. El contrato de obras de 3.000.000 no supera el umbral (debe ser superior) y un informe de necesidad no es acto recurrible (**art. 44.1.a y 44.2**).",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "No. No cabe: falta algún requisito del art. 44."
+  ]
+ },
+ "pr-11-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "Es esta. Una Entidad Pública Empresarial que no cumple el art. 3.3.d no es poder adjudicador, y el recurso especial se limita a poderes adjudicadores (**art. 44.1**).",
+   "No. No cabe: falta algún requisito del art. 44."
+  ],
+  "ojo": "Si la EPE fuera poder adjudicador, sí cabría: la exclusión de ofertas es acto recurrible y 4.000.000 supera 3.000.000."
+ },
+ "pr-11-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una concesión de servicios solo es recurrible si supera los 3.000.000 de euros (**art. 44.1.c**), aunque el rescate sea acto recurrible (**art. 44.2.f**).",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "No. No cabe: falta algún requisito del art. 44."
+  ]
+ },
+ "pr-11-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 4,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "Es esta. La adjudicación es acto recurrible y el contrato administrativo especial supera el umbral de los servicios (**art. 44.1 y 44.2**)."
+  ]
+ },
+ "pr-11-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 4,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "No. No es el motivo: el órgano sí es poder adjudicador.",
+   "Es esta. Los contratos basados en un acuerdo marco son recurribles (**art. 44.1.b**) y la admisión de candidatos es acto recurrible (**art. 44.2.b**)."
+  ]
+ },
+ "pr-11-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es el motivo: el contrato sí está comprendido en el art. 44.1.",
+   "No. No es el motivo: el acto sí está comprendido en el art. 44.2.",
+   "No. No es el motivo: al menos uno de los dos requisitos sí se cumple.",
+   "Es esta. Una sociedad mercantil estatal que actúa en el mercado no es poder adjudicador, así que queda fuera del recurso especial (**art. 44.1**).",
+   "No. No cabe: falta algún requisito del art. 44."
+  ],
+  "ojo": "Si la sociedad fuera poder adjudicador, sí cabría: el pliego es acto recurrible y 220.000 supera 100.000."
+ },
+ "pr-12-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "DA 12.ª",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los plazos por días son naturales salvo indicación y, si el último día es inhábil, se prorroga al primer hábil siguiente (**DA 12.ª**).",
+   "No. Si el último día es inhábil, se prorroga (**DA 12.ª**).",
+   "No. El art. 156 no dice hábiles, así que son naturales (**DA 12.ª**).",
+   "No. Son naturales y se prorrogan si el último día es inhábil (**DA 12.ª**)."
+  ]
+ },
+ "pr-12-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 1.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es principio. Libertad de acceso a las licitaciones (**art. 1.1**).",
+   "Sí es principio. Publicidad y transparencia (**art. 1.1**).",
+   "Sí es principio. No discriminación e igualdad de trato (**art. 1.1**).",
+   "Es la que NO. Los criterios sociales y medioambientales se incorporan siempre que guarden relación con el objeto (**art. 1.3**)."
+  ]
+ },
+ "pr-12-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las Entidades Gestoras de la Seguridad Social son Administración Pública (**art. 3.2.a**).",
+   "No. Las fundaciones públicas sí son poder adjudicador (**art. 3.3.b**).",
+   "Es esta. Las autoridades administrativas independientes son Administración Pública y, por tanto, poder adjudicador (**arts. 3.2.a y 3.3.a**).",
+   "No. Los fondos sin personalidad jurídica forman parte del sector público (**art. 3.1.i**)."
+  ]
+ },
+ "pr-12-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 2.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Lucrativo no es el término de la ley (**art. 2.1**).",
+   "Es esta. Contratos onerosos (**art. 2.1**).",
+   "No. Los contratos gratuitos no quedan sometidos (**art. 2.1**).",
+   "No. No lucrativo no es el término de la ley (**art. 2.1**)."
+  ]
+ },
+ "pr-12-005": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 9 a 11 y 25",
+  "correcta": 2,
+  "justificaciones": [
+   "Está excluido. Servicios relacionados con campañas políticas adjudicados por un partido (**art. 11.5**).",
+   "Está excluido. Servicios de arbitraje y conciliación (**art. 11.3**).",
+   "Es el que NO. La creación e interpretación artística y literaria se somete a la ley como contrato privado (**art. 25.1.a.1.º**).",
+   "Está excluida. La relación de servicio de los funcionarios públicos (**art. 9.3**)."
+  ]
+ },
+ "pr-12-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 9.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Una compraventa de bienes muebles es suministro (**art. 16**).",
+   "No. Un programa a medida es contrato de servicios (**art. 17**).",
+   "No. Construir un inmueble es obra (**art. 13**).",
+   "Es esta. La donación de valores negociables está excluida, es privada y se rige por la legislación patrimonial (**art. 9.2**)."
+  ]
+ },
+ "pr-12-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Proyecto y obra conjuntos son contrato de obras (**art. 13.1.a**), no mixto.",
+   "No. La obra tiene por objeto un bien inmueble (**art. 13.2**).",
+   "Es esta. Pueden contratarse separadamente partes de una obra completa susceptibles de utilización independiente (**art. 13.3**).",
+   "No. Los trabajos que modifican el terreno o su vuelo sí son obra (**art. 13.2**)."
+  ]
+ },
+ "pr-12-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 14",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Puede ir acompañado del derecho a percibir un precio (**art. 14**).",
+   "No. Puede ir solo, o con precio (**art. 14**).",
+   "No. El riesgo operacional es requisito siempre (**art. 14**).",
+   "Es esta. Debe implicar la transferencia al concesionario del riesgo operacional (**art. 14**)."
+  ]
+ },
+ "pr-12-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que NO. Los valores negociables no son suministro (**art. 16.2**).",
+   "Sí es suministro. Equipos de telecomunicaciones (**art. 16.3.b**).",
+   "Sí es suministro. Fabricación con características fijadas por el contratante (**art. 16.3.c**).",
+   "Sí es suministro. Adquisición de energía (**art. 16.3.d**)."
+  ]
+ },
+ "pr-12-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15 y 284",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta. La contrapartida es el derecho a explotar, con o sin precio (**art. 15.1**).",
+   "Es la incorrecta. En ningún caso pueden prestarse así los servicios que impliquen ejercicio de autoridad (**art. 284.1**).",
+   "Es correcta. Lo celebran poderes adjudicadores (**art. 15.1**).",
+   "Es correcta. Implica transferencia del riesgo operacional (**art. 15.2**)."
+  ]
+ },
+ "pr-12-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 18.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No se atiende al tipo de contrato sin más (**art. 18.1.a**).",
+   "No. No se atiende al tipo de contrato sin más (**art. 18.1.a**).",
+   "Es esta. Se atiende al carácter de la prestación principal (**art. 18.1.a**).",
+   "No. El mayor valor estimado solo decide entre servicios y suministros (**art. 18.1.a**), y aquí hay obras."
+  ],
+  "ojo": "El mayor valor estimado se usa cuando el mixto es de servicios y suministros. Con obras de por medio, vale la prestación principal."
+ },
+ "pr-12-012": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 18 y 122.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los efectos de un mixto no se rigen automáticamente por el suministro (**art. 18**).",
+   "No. Tampoco por el servicio sin más (**art. 18**).",
+   "No. El mayor valor estimado no rige los efectos (**art. 18**).",
+   "Es esta. Los efectos, cumplimiento y extinción los determinan los pliegos, conforme al art. 122.2 (**art. 18**)."
+  ]
+ },
+ "pr-12-013": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 19.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que NO. El contrato puede ser administrativo o privado (**art. 19.1**).",
+   "Sí es requisito. Ser de obras, concesión, suministro o servicios (**art. 19.1**).",
+   "Sí es requisito. Que la entidad sea poder adjudicador (**art. 19.1**).",
+   "Sí es requisito. Alcanzar el valor estimado del umbral (**art. 19.1**)."
+  ]
+ },
+ "pr-12-014": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 20 a 22",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí está sujeto. 5.404.000 alcanza el umbral de las obras (**art. 20**).",
+   "Es el que NO. Los servicios sociales del Anexo IV tienen umbral de 750.000 euros y 250.000 no lo alcanza (**art. 22.1.c**).",
+   "Sí está sujeto. 140.000 alcanza el umbral de suministros de un Organismo Autónomo (**art. 21.1.a**).",
+   "Sí está sujeto. 215.000 supera el umbral de 140.000 de servicios de un Organismo Autónomo (**art. 22.1.a**)."
+  ],
+  "revisar": "Umbrales vigentes desde el 1 de enero de 2026. Se actualizan cada dos años."
+ },
+ "pr-12-015": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 20 a 22",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Paradores, S.M.E., es sociedad mercantil que actúa en el mercado y no es poder adjudicador (**art. 3.3.d**).",
+   "No. Una fundación pública tiene umbral de 216.000 y 215.000 no lo alcanza (**art. 22.1.b**).",
+   "No. El Ministerio tiene umbral de 140.000 y 139.000 no lo alcanza (**art. 21.1.a**).",
+   "Es esta. Una Mutua tiene umbral de 216.000 en servicios y 218.000 lo supera (**art. 22.1.b**)."
+  ],
+  "ojo": "Paradores se descarta por no ser poder adjudicador. Si lo fuera, 5.600.000 superaría el umbral de obras.",
+  "revisar": "Umbrales de 2026, actualizables cada dos años."
+ },
+ "pr-12-016": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. También es Administración Pública el INAP, Organismo Autónomo (**art. 25.1.a**).",
+   "Es esta. Ministerio y Organismo Autónomo son Administración Pública. Fundación y EPE no (**art. 25.1.a**).",
+   "No. La Fundación Biodiversidad no es Administración Pública: su contrato es privado (**art. 26.1.b**).",
+   "No. El ICO, EPE, no es Administración Pública, y la Fundación tampoco (**art. 26.1.b**)."
+  ]
+ },
+ "pr-12-017": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 25 y 26",
+  "correcta": 2,
+  "justificaciones": [
+   "Será privado. La fundación no es Administración Pública (**art. 26.1.b**).",
+   "Será privado. La suscripción a revistas es siempre privada (**art. 25.1.a.2.º**).",
+   "Es el que NO. La Autoridad Independiente de Responsabilidad Fiscal es AAI, Administración Pública, y su suministro es administrativo (**art. 25.1.a**).",
+   "Será privado. El arrendamiento de inmuebles es privado, aunque excluido de la LCSP (**art. 9.2**)."
+  ]
+ },
+ "pr-12-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 25.1.a y 27.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El suministro de un Ministerio es contrato administrativo: adjudicación y efectos van al contencioso-administrativo (**arts. 25.1.a y 27.1.a**).",
+   "No. Un contrato administrativo de una Administración no va al orden civil (**art. 27.1.a**).",
+   "No. Los efectos de un contrato administrativo no son civiles (**art. 27.1.a**).",
+   "No. La adjudicación es contencioso-administrativa y los efectos también (**art. 27.1.a**)."
+  ]
+ },
+ "pr-12-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 27",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La adjudicación de un poder adjudicador que no es Administración va al contencioso (**art. 27.1.c**) y la extinción de su contrato privado al orden civil (**art. 27.2.a**).",
+   "No. Está al revés (**art. 27**).",
+   "No. La extinción de un contrato privado de un poder adjudicador es civil (**art. 27.2.a**).",
+   "No. La adjudicación es contencioso-administrativa (**art. 27.1.c**)."
+  ]
+ },
+ "pr-12-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Hace falta preaviso de al menos dos meses, y uno no basta (**art. 29.2**).",
+   "No. Con más de cuatro meses no se libera al contratista: hace falta más de seis (**art. 29.2 y 198.6**).",
+   "No. Otro contrato adjudicado no lo libera de la prórroga (**art. 29.2**).",
+   "No. La prórroga es obligatoria cumpliendo los requisitos (**art. 29.2**)."
+  ]
+ },
+ "pr-12-021": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cabría más: cinco años con prórrogas (**art. 29.4**).",
+   "Es esta. Cinco años con dos prórrogas de un año: la duración inicial es de tres (**art. 29.4**).",
+   "No. Cuatro más dos años serían seis (**art. 29.4**).",
+   "No. Cinco más dos serían siete (**art. 29.4**)."
+  ]
+ },
+ "pr-12-022": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La prórroga excepcional de nueve meses exige anuncio publicado al menos tres meses antes del vencimiento. Aquí hay dos meses y medio (**art. 29.4**).",
+   "No. La antelación es de tres meses, no de seis (**art. 29.4**).",
+   "No. No cabe, y el máximo es de nueve meses, no seis (**art. 29.4**).",
+   "No. Los nueve meses valdrían, pero falta la antelación de tres meses (**art. 29.4**)."
+  ]
+ },
+ "pr-12-023": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo de la concesión de servicios no sanitarios es de veinticinco años (**art. 29.6.b**).",
+   "No. Diez años es para servicios sanitarios sin obras (**art. 29.6.c**).",
+   "Es esta. Veinticinco años para concesiones de servicios no sanitarios (**art. 29.6.b**).",
+   "No. Cuarenta años es para obras y para servicios que incluyan obras (**art. 29.6.a**)."
+  ]
+ },
+ "pr-12-024": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cuarenta años en concesiones con obras y explotación (**art. 29.6.a**).",
+   "No. Diez años es para servicios sanitarios sin obras (**art. 29.6.c**).",
+   "No. Veinticinco años es para servicios sin obras (**art. 29.6.b**).",
+   "Es esta. Cuarenta años, porque la concesión incluye ejecución de obras y explotación del servicio (**art. 29.6.a**)."
+  ]
+ },
+ "pr-12-025": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.8",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los contratos menores no pueden prorrogarse (**art. 29.8**).",
+   "No. No cabe prórroga alguna (**art. 29.8**).",
+   "No. No cabe prórroga alguna (**art. 29.8**).",
+   "Es esta. Ninguno: no admiten prórroga y duran como máximo un año (**art. 29.8**)."
+  ]
+ },
+ "pr-12-026": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.8",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El menor no puede durar más de un año (**art. 29.8**).",
+   "No. El menor no puede durar más de un año (**art. 29.8**).",
+   "No. El menor no puede durar más de un año (**art. 29.8**).",
+   "Es esta. Doce meses: los menores no pueden superar un año (**art. 29.8**)."
+  ],
+  "ojo": "El art. 29.7 permite más duración a servicios complementarios de obras, pero el 29.8 limita los menores a un año."
+ },
+ "pr-12-027": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 30.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es circunstancia. Que no haya habido ofertas (**art. 30.1.c**).",
+   "Sí es circunstancia. Obras de mera conservación y mantenimiento (**art. 30.1.g**).",
+   "Sí es circunstancia. Imposibilidad de fijar precio cierto (**art. 30.1.e**).",
+   "Es la que NO. La ley habla de emergencia del art. 120, no de urgencia del art. 119 (**art. 30.1.d**)."
+  ]
+ },
+ "pr-12-028": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 30.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La economía exigida es superior al 20 por ciento (**art. 30.2**).",
+   "No. La economía exigida es superior al 20 por ciento (**art. 30.2**).",
+   "Es esta. Superior al 20 por ciento del presupuesto del suministro (**art. 30.2**).",
+   "No. La economía exigida es superior al 20 por ciento (**art. 30.2**)."
+  ]
+ },
+ "pr-12-029": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 30.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se exige un porcentaje de economía (**art. 30.3**).",
+   "No. No se exige un porcentaje de economía (**art. 30.3**).",
+   "No. No se exige un porcentaje de economía (**art. 30.3**).",
+   "Es esta. Los servicios se prestan normalmente con medios propios, sin exigir economía (**art. 30.3**)."
+  ]
+ },
+ "pr-12-030": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 32.2.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Basta con más del 80 por ciento (**art. 32.2.b**).",
+   "Es esta. Más del 80 por ciento de su actividad (**art. 32.2.b**).",
+   "No. Es más del 80, no del 70 (**art. 32.2.b**).",
+   "No. Es más del 80, no del 50 (**art. 32.2.b**)."
+  ]
+ },
+ "pr-13-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 34.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es límite. No ser contrarios al interés público (**art. 34.1**).",
+   "Sí es límite. No ser contrarios al ordenamiento jurídico (**art. 34.1**).",
+   "Sí es límite. No ser contrarios a los principios de buena administración (**art. 34.1**).",
+   "Es el que NO. La igualdad en la asunción de riesgos no figura en el art. 34.1."
+  ]
+ },
+ "pr-13-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 34.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Se da por hecho. El mixto reúne prestaciones de distinta clase (**art. 18.1**).",
+   "Es la que NO. La ley no habla de que la diferencia de valores no exceda del 20 por ciento (**art. 34.2**).",
+   "Sí es exigible. Complementariedad que exija tratarlas como unidad funcional (**art. 34.2**).",
+   "Sí es exigible. Estar directamente vinculadas entre sí (**art. 34.2**)."
+  ]
+ },
+ "pr-13-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 35.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí figura. La identificación de las partes (**art. 35.1.a**).",
+   "Sí figura. El precio cierto o el modo de determinarlo (**art. 35.1.f**).",
+   "Es la que NO. No hay una mención de 'derechos y obligaciones distintos de los pliegos' (**art. 35.1**).",
+   "Sí figura. Los supuestos de resolución (**art. 35.1.k**)."
+  ]
+ },
+ "pr-13-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 37.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En emergencia se puede contratar verbalmente (**art. 37.1**).",
+   "No. Los poderes adjudicadores no Administración deben formalizar si hay recurso especial (**art. 37.3**).",
+   "No. Es el lugar de la sede, salvo que el clausulado diga otra cosa (**art. 36.4**).",
+   "No. Se perfeccionan con la formalización (**art. 36.1**)."
+  ]
+ },
+ "pr-13-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 39 y 40",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que NO. Incumplir los requisitos de modificación (arts. 204 y 205) es causa de anulabilidad (**art. 40.a**).",
+   "Sí es nulidad. La falta de publicación del anuncio de licitación preceptivo (**art. 39.2.c**).",
+   "Sí es nulidad. Formalizar sin respetar la suspensión automática (**art. 39.2.d**).",
+   "Sí es nulidad. La falta de capacidad de obrar o solvencia (**art. 39.2.a**)."
+  ]
+ },
+ "pr-13-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 40.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Prescindir total y absolutamente del procedimiento es nulidad (**art. 39.1**).",
+   "Es esta. Dar ventajas a empresas que contrataron antes es anulabilidad (**art. 40.b**).",
+   "No. Estar incurso en prohibición de contratar es nulidad (**art. 39.2.a**).",
+   "No. La incompetencia manifiesta es nulidad (**art. 39.1**)."
+  ],
+  "ojo": "La ley dice 'cualquier poder adjudicador'. La opción dice 'cualquier Administración'."
+ },
+ "pr-13-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 39.2.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es nulidad, no anulabilidad (**art. 39.2.b**).",
+   "No. Solo se exceptúa la emergencia (**art. 39.2.b**).",
+   "Es esta. Nulidad de pleno derecho, salvo emergencia (**art. 39.2.b**).",
+   "No. Los de emergencia quedan exceptuados (**art. 39.2.b**)."
+  ]
+ },
+ "pr-13-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 41.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La indemnización no se entiende delegada (**art. 41.4**).",
+   "No. La facultad de indemnizar no es delegable (**art. 41.4**).",
+   "Es esta. Resuelve el órgano delegante, el Ministro, porque no es delegable (**art. 41.4**).",
+   "No. Solo el delegante (**art. 41.4**)."
+  ]
+ },
+ "pr-13-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 42.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Eso es para los actos preparatorios o la adjudicación (**art. 42.1**).",
+   "No. Esa salvedad es para la declaración de nulidad del contrato (**art. 42.3**).",
+   "No. No arrastra todos los actos posteriores (**art. 42.2**).",
+   "Es esta. La nulidad de actos que no son preparatorios afecta solo al acto y a sus consecuencias (**art. 42.2**)."
+  ]
+ },
+ "pr-13-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 43",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La invalidez civil se rige por el derecho civil, no es automáticamente nulidad (**art. 43**).",
+   "No. El procedimiento es el administrativo cuando el contrato es de una Administración (**art. 43**).",
+   "Es esta. Requisitos y plazos de las acciones, los del ordenamiento civil (**art. 43**).",
+   "No. Los contratos pueden ser inválidos también por causas civiles (**art. 43**)."
+  ]
+ }
+}

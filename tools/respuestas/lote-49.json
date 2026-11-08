@@ -1,0 +1,445 @@
+{
+ "pr-64-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: hay que sumar la modificación al alza prevista en los pliegos (art. 101.2.c).",
+   "Correcta: 10.000 + 20 % de modificación prevista = 12.000 euros. Los 24 meses sin prórroga no suman nada.",
+   "No: 12.100 euros sale de aplicar un 21 % de IVA sobre 10.000, y el IVA no entra en el valor estimado.",
+   "No: 14.520 euros mezcla modificación e IVA, y el IVA se excluye."
+  ],
+  "ojo": "La base imponible ya es sin IVA, así que solo se suma el 20 % de la modificación."
+ },
+ "pr-64-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 150.000 euros sería repetir 50.000 euros tres veces, pero ese presupuesto es del periodo inicial de dos años.",
+   "No: 61.000 euros no corresponde a ningún cálculo correcto.",
+   "No: 100.000 euros solo cubre el periodo inicial más una prórroga.",
+   "Correcta: 50.000 euros por dos años son 25.000 al año, y con tres prórrogas son cinco años: 125.000 euros."
+  ],
+  "ojo": "El presupuesto base de licitación de 50.000 euros corresponde a los dos años iniciales, no a cada año."
+ },
+ "pr-64-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 96.000 euros no sale de ningún cálculo correcto.",
+   "Correcta: 80.000 euros sin IVA más el 15 % de modificación prevista (12.000) son 92.000 euros.",
+   "No: 80.000 euros no incluye la modificación al alza prevista en los pliegos.",
+   "No: 111.320 euros aplica la modificación sobre el precio con IVA (96.800), y el IVA no entra en el valor estimado."
+  ]
+ },
+ "pr-64-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 72.600 euros incluye el IVA y no suma la prórroga.",
+   "No: 86.000 euros no sale de ningún cálculo correcto.",
+   "Correcta: 60.000 euros por 18 meses son 3.333,33 al mes, y la prórroga de 6 meses suma 20.000 euros: 80.000 euros.",
+   "No: 96.800 euros incluye el IVA."
+  ]
+ },
+ "pr-64-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No: hay que sumar la modificación al alza prevista (12 %).",
+   "No: 1.210.000 euros aplica un 21 % que correspondería al IVA, y este no entra en el valor estimado.",
+   "Correcta: 1.000.000 euros más el 12 % de modificación prevista (120.000) son 1.120.000 euros.",
+   "No: 1.355.200 euros suma modificación e IVA, y el IVA se excluye."
+  ]
+ },
+ "pr-64-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 500.000 euros más las primas de 20.000 euros previstas para los licitadores del diálogo competitivo: 520.000 euros (art. 101.2.b).",
+   "No: 625.000 euros no sale de ningún cálculo correcto, ni siquiera con IVA.",
+   "No: 605.000 euros es el presupuesto con IVA, y las primas no se han sumado.",
+   "No: 500.000 euros omite las primas, que deben sumarse al valor estimado."
+  ]
+ },
+ "pr-64-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 160.000 euros no incluye la opción de 40 ordenadores adicionales prevista en los pliegos.",
+   "No: 176.000 euros sumaría un 10 %, y la opción son 40 equipos sobre 200, que es un 20 %.",
+   "No: 177.600 euros no corresponde a ningún cálculo correcto.",
+   "Correcta: 160.000 euros por 200 equipos son 800 euros cada uno, y los 40 adicionales suman 32.000 euros: 192.000 euros (art. 101.2.a)."
+  ]
+ },
+ "pr-64-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 100.000 euros es el importe sin IVA del primer año, sin la prórroga.",
+   "No: 121.000 euros incluye el IVA y no suma la prórroga.",
+   "Correcta: 121.000 euros con IVA son 100.000 sin IVA, y con la prórroga de otro año son 200.000 euros.",
+   "No: 242.000 euros duplica el presupuesto pero con IVA incluido, y este no entra en el valor estimado."
+  ],
+  "ojo": "El enunciado da el presupuesto con IVA (121.000), hay que quitarlo antes de sumar la prórroga."
+ },
+ "pr-64-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 10.000.000 euros. El plazo de garantía no multiplica el importe, solo cuentan prórrogas, opciones, primas y modificaciones previstas.",
+   "No: 12.100.000 euros sumaría el 21 % de IVA, que se excluye.",
+   "No: 20.000.000 euros contaría los dos años de ejecución y los dos de garantía como si fueran prórrogas.",
+   "No: 24.200.000 euros mezcla duplicar el importe y sumar IVA."
+  ]
+ },
+ "pr-64-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 101.1.b y 29.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 6.000.000 euros equivale a 10 años, que es el máximo de las concesiones de servicios sanitarios.",
+   "Correcta: en una concesión de obras el máximo es de 40 años, y 600.000 euros anuales por 40 años son 24.000.000 euros (arts. 29.6.a y 101.1.b).",
+   "No: 30.000.000 euros equivale a 50 años, que supera el máximo legal.",
+   "No: 600.000 euros es solo la cifra de negocios de un año."
+  ]
+ },
+ "pr-65-001": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 20 y 101",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: es un contrato de obras y solo está sujeto a regulación armonizada si el valor estimado es igual o superior a 5.404.000 euros, y aquí son 225.000.",
+   "No: 216.000 euros es el umbral de suministros y servicios de entidades distintas de la AGE, no el de obras.",
+   "No: 140.000 euros es el umbral de suministros y servicios de la AGE, no el de obras.",
+   "No: ser una agencia estatal no sustituye al umbral del valor estimado."
+  ]
+ },
+ "pr-65-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el DOUE y los boletines no son necesarios, y el contrato de obras de 225.000 euros no es de regulación armonizada.",
+   "No: en el abierto simplificado no se publica en boletines autonómicos.",
+   "No: tampoco se publica en el BOE en este procedimiento.",
+   "Correcta: el anuncio de licitación solo se publica en el perfil de contratante del órgano de contratación (art. 159.2)."
+  ]
+ },
+ "pr-65-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 107.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 9.525 euros no corresponde al 5 % de 180.000.",
+   "No: 9.475 euros no corresponde al 5 % de 180.000.",
+   "Correcta: la garantía definitiva es el 5 % del precio final ofertado, IVA excluido: 5 % de 180.000 son 9.000 euros (art. 107.1).",
+   "No: 5.400 euros sería el 3 % de 180.000, y ese no es el porcentaje de la garantía definitiva."
+  ]
+ },
+ "pr-65-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1 y 159.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el procedimiento negociado solo cabe en los supuestos tasados y no es el más ágil para este contrato.",
+   "No: el restringido es más lento que el abierto simplificado.",
+   "Correcta: es un servicio de 70.000 euros, por debajo del umbral armonizado, y el abierto simplificado es el más ágil; el abreviado no cabe porque se exige menos de 60.000 euros (art. 159.6).",
+   "No: el abreviado del art. 159.6 exige un valor estimado de servicios inferior a 60.000 euros, y aquí son 70.000."
+  ],
+  "ojo": "Que sea un servicio de 70.000 euros es lo que descarta el abreviado."
+ },
+ "pr-65-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el valor estimado incluye las prórrogas.",
+   "No: el valor estimado no incluye el IVA.",
+   "No: ni incluye el IVA ni deja fuera las prórrogas.",
+   "Correcta: el importe total sin IVA, incluidas las prórrogas, así que los 70.000 euros cubren los dos años (art. 101)."
+  ]
+ },
+ "pr-65-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 66.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las personas jurídicas solo pueden ser adjudicatarias si la prestación está dentro de los fines, objeto o ámbito de actividad de sus estatutos (art. 66.1).",
+   "No: esa limitación es para personas jurídicas, no para personas naturales.",
+   "No: también pueden ser adjudicatarias las empresas extranjeras, no solo las españolas.",
+   "No: participar en la preparación no impide ser adjudicatario de forma absoluta, la ley prevé garantizar que no falsee la competencia (art. 70)."
+  ]
+ },
+ "pr-65-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 29.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el máximo no es de cuatro años.",
+   "Correcta: los contratos de servicios de prestación sucesiva duran como máximo cinco años, incluidas las prórrogas (art. 29.4).",
+   "No: no son cuatro años ni se excluyen las prórrogas.",
+   "No: los cinco años incluyen las prórrogas, no se suman a ellas."
+  ]
+ },
+ "pr-65-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: con el precio como único criterio, la adjudicación debe recaer en quince días desde el siguiente a la apertura de las proposiciones (art. 158.1).",
+   "No: cinco días es el plazo para adjudicar tras presentar la garantía definitiva en el abierto simplificado (art. 159.4.f), no desde la apertura.",
+   "No: diez días no es el plazo de adjudicación.",
+   "No: treinta días no es el plazo cuando el único criterio es el precio."
+  ]
+ },
+ "pr-65-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en el abierto simplificado no procede garantía provisional.",
+   "No: tampoco puede exigirla el órgano de contratación aunque lo justifique.",
+   "Correcta: en el procedimiento abierto simplificado no procede la constitución de garantía provisional (art. 159.4.b).",
+   "No: no es obligatoria la garantía provisional, y menos por el 5 % del valor estimado."
+  ]
+ },
+ "pr-65-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la penalidad es del 3 %, no del 5 %, y se hace efectiva contra la definitiva.",
+   "No: es el 3 % del presupuesto base, pero se ejecuta antes la garantía definitiva, y no la provisional.",
+   "No: se hace efectiva contra la garantía definitiva, pero el porcentaje es del 3 %, no del 5 %.",
+   "Correcta: el 3 % del presupuesto base de licitación, IVA excluido, que se hace efectivo en primer lugar contra la garantía definitiva (art. 153.4)."
+  ]
+ },
+ "pr-65-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 29.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la prórroga no puede producirse por consentimiento tácito.",
+   "Correcta: la acuerda el órgano de contratación y es obligatoria para el empresario si hay preaviso con al menos dos meses de antelación (art. 29.2).",
+   "No: es obligatoria para el empresario si hay preaviso, no potestativa.",
+   "No: no es potestativa para el empresario, es obligatoria con el preaviso."
+  ]
+ },
+ "pr-65-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 16",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no se contrata una prestación de hacer, sino la adquisición de bienes.",
+   "Correcta: la adquisición de las botoneras es un contrato de suministro, porque tiene por objeto adquirir bienes muebles.",
+   "No: no hay explotación de un servicio por el contratista.",
+   "No: lo celebra una Administración Pública, así que es un contrato administrativo."
+  ]
+ },
+ "pr-65-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1 y 118.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: puede ser menor, pero los contratos menores no pueden durar más de un año ni prorrogarse (art. 29.8).",
+   "No: el umbral de 15.000 euros es para suministros y servicios, en obras es de 40.000 euros.",
+   "No: los contratos menores no requieren anuncio de licitación.",
+   "Correcta: 17.600 euros es inferior a 40.000 y es posible el menor, añadiendo el presupuesto de las obras (art. 118.4)."
+  ]
+ },
+ "pr-65-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la declaración de ausencia de conflicto de interés y el análisis automatizado no son el trámite del contrato menor.",
+   "Correcta: el informe del órgano de contratación que motive la necesidad y que no se altera el objeto para evitar los umbrales (art. 118.2).",
+   "No: el informe de supervisión solo es obligatorio si la obra afecta a la estabilidad, seguridad o estanqueidad.",
+   "No: el replanteo es un trámite del proyecto de obras, previo a la aprobación del expediente."
+  ]
+ },
+ "pr-65-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 223.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el sistema dinámico no es cerrado, está abierto durante toda su vigencia.",
+   "Correcta: es un proceso totalmente electrónico, de duración limitada y determinada en los pliegos, y abierto durante toda su vigencia a cualquier empresa que cumpla los criterios (art. 223.2).",
+   "No: no puede cerrarse tras su constitución y la ley no fija un máximo de cinco años.",
+   "No: no es un sistema cerrado, y el plazo de resolución no es discrecional."
+  ]
+ },
+ "pr-65-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 221.4.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si el acuerdo marco con varias empresas establece todos los términos, se adjudica bien sin nueva licitación, bien con ella (art. 221.4.a).",
+   "No: la nueva licitación no es siempre obligatoria.",
+   "No: no es una adjudicación directa por mejor calidad-precio.",
+   "No: no se usa el abierto simplificado para adjudicar contratos basados."
+  ]
+ },
+ "pr-65-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 37.1 y 120.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en la tramitación de emergencia se puede contratar verbalmente, sin sujetarse a los requisitos formales de la Ley, incluso sin crédito suficiente (arts. 37.1 y 120.1.a).",
+   "No: no se exige crédito previo, que se dota después si falta.",
+   "No: la formalización escrita no es previa ni preceptiva en la emergencia.",
+   "No: en la emergencia no se exigen los requisitos formales, entre ellos la clasificación."
+  ]
+ },
+ "pr-65-018": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no es cuestión de 250.000 euros, y el informe es preceptivo por la afección a la estabilidad.",
+   "No: el límite de 500.000 se refiere al presupuesto base y hay que mirar si afecta a la estabilidad.",
+   "No: 600.000 euros no es umbral del art. 235.",
+   "Correcta: aunque el presupuesto base (80.000) sea inferior a 500.000, el informe es preceptivo cuando las obras afectan a la estabilidad, seguridad o estanqueidad (art. 235)."
+  ],
+  "ojo": "El enunciado dice que se refuerza la estabilidad de la estructura, que es el supuesto de excepción."
+ },
+ "pr-65-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 29.8, 118 y 159.6",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el contrato menor no puede durar más de un año, y este dura 18 meses (art. 29.8).",
+   "No: el abierto ordinario es más lento que el abierto simplificado.",
+   "Correcta: no cabe el menor por la duración, y el procedimiento ágil es el abierto simplificado, en su versión abreviada del art. 159.6 por el importe de 14.000 euros.",
+   "No: el negociado solo cabe en los supuestos tasados de la Ley."
+  ]
+ },
+ "pr-65-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en el abreviado el plazo no puede ser inferior a diez días hábiles desde el siguiente a la publicación en el perfil (art. 159.6.a).",
+   "No: veinte días hábiles no es el plazo del abreviado.",
+   "No: el plazo se mide en días hábiles, y no en un mes.",
+   "No: dos meses no es el plazo mínimo del abreviado."
+  ]
+ },
+ "pr-65-021": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: los treinta días se cuentan desde la aprobación de la conformidad, no desde la presentación de la factura.",
+   "No: es de treinta días, no de un mes, y se cuenta desde la aprobación de la conformidad.",
+   "No: se cuenta desde la aprobación de la conformidad, no desde la presentación de la factura.",
+   "Correcta: la Administración debe abonar el precio dentro de los treinta días siguientes a la aprobación de los documentos que acrediten la conformidad (art. 198.4)."
+  ]
+ },
+ "pr-65-022": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si el contratista presenta tarde la factura, el devengo de intereses no empieza hasta transcurridos treinta días desde la correcta presentación sin que la Administración haya aprobado la conformidad y abonado (art. 198.4).",
+   "No: la ley dice treinta días, no un mes.",
+   "No: el incumplimiento del contratista no elimina los intereses, solo retrasa su devengo.",
+   "No: tampoco se pierde el derecho a intereses, solo se retrasa su devengo."
+  ]
+ },
+ "pr-65-023": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 32.2.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el porcentaje no es el 40 %.",
+   "No: el porcentaje no es el 60 %.",
+   "No: el porcentaje no es el 70 %.",
+   "Correcta: más del 80 % de las actividades del ente destinatario del encargo debe hacerse para el poder adjudicador que hace el encargo (art. 32.2.b)."
+  ]
+ },
+ "pr-65-024": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 244.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: tres años no es el plazo.",
+   "No: cinco años no es el plazo.",
+   "No: diez años no es el plazo.",
+   "Correcta: transcurridos quince años desde la recepción sin que se manifieste ningún daño queda extinguida la responsabilidad del contratista (art. 244.3)."
+  ]
+ },
+ "pr-66-001": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-002": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-003": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-004": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-005": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-006": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-007": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-008": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-009": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-010": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-011": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-012": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-013": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-014": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-015": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-66-016": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ }
+}

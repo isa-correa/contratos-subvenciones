@@ -1,0 +1,553 @@
+{
+ "vo-05-042": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 172.3",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta. Puede articularse en fases sucesivas para reducir las soluciones a examinar (**art. 175.3**).",
+   "Es correcta. La mesa especial dirige el diálogo con los candidatos seleccionados (**art. 172.1**).",
+   "Es la incorrecta. El diálogo competitivo sí debe ir precedido de un anuncio de licitación (**art. 172.3**).",
+   "Es correcta. Si se limita el número de invitados, el mínimo es tres (**art. 174.2**)."
+  ]
+ },
+ "vo-05-043": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 177.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La asociación para la innovación desarrolla productos, servicios u obras innovadores y compra después lo desarrollado (**art. 177.1**).",
+   "No. El diálogo competitivo busca soluciones que satisfagan necesidades, no incluye esa compra ulterior (**art. 172**).",
+   "No. La licitación con negociación negocia las condiciones del contrato (**art. 166**).",
+   "No. El negociado sin publicidad se limita a los casos tasados del art. 168 (**art. 168**)."
+  ]
+ },
+ "vo-05-044": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 179",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es característica. Se estructura en fases sucesivas siguiendo el proceso de investigación (**art. 177.3**).",
+   "Es la que NO. La resolución de la asociación o la reducción de candidatos no da lugar a indemnización (**art. 179**).",
+   "Sí es característica. El pliego determina la necesidad que el mercado no cubre (**art. 177.1**).",
+   "Sí es característica. Puede limitarse el número de candidatos, con un mínimo de tres (**art. 178**)."
+  ]
+ },
+ "vo-05-045": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 179.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo máximo es de cuatro años (**art. 179.3**).",
+   "Es esta. Cuatro años desde la recepción de la resolución sobre la adquisición (**art. 179.3**).",
+   "No. El plazo máximo es de cuatro años (**art. 179.3**).",
+   "No. El plazo máximo es de cuatro años (**art. 179.3**)."
+  ]
+ },
+ "vo-06-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 190",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que NO. La inspección no puede suponer un derecho general a inspeccionar las instalaciones, oficinas y emplazamientos del contratista (**art. 190**).",
+   "Sí es prerrogativa. Interpretar los contratos y resolver dudas de cumplimiento (**art. 190**).",
+   "Sí es prerrogativa. Modificarlos por razones de interés público (**art. 190**).",
+   "Sí es prerrogativa. Declarar la responsabilidad imputable al contratista (**art. 190**)."
+  ]
+ },
+ "vo-06-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí ponen fin a la vía administrativa (**art. 191.4**).",
+   "Es esta. Ponen fin a la vía administrativa y son inmediatamente ejecutivos (**art. 191.4**).",
+   "No. Son inmediatamente ejecutivos (**art. 191.4**).",
+   "No. Ponen fin a la vía administrativa (**art. 191.4**)."
+  ]
+ },
+ "vo-06-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.3.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En la nulidad solo hace falta el dictamen cuando el contratista se opone (**art. 191.3.a**).",
+   "No. En las previstas en el pliego no hay dictamen preceptivo. El exceso del 20 por ciento cuenta en las no previstas (**art. 191.3.b**).",
+   "Es esta. Interpretación, nulidad y resolución con oposición del contratista (**art. 191.3.a**).",
+   "No. Para las no previstas hace falta el dictamen solo si superan el 20 por ciento del precio inicial y alcanzan el importe fijado (**art. 191.3.b**)."
+  ]
+ },
+ "vo-06-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cada penalidad no supera el 10 por ciento del precio, IVA excluido (**art. 192.1**).",
+   "No. Se calcula sin IVA (**art. 192.1**).",
+   "No. El 50 por ciento es el tope del total de penalidades, no de cada una (**art. 192.1**).",
+   "No. El tope por penalidad es el 10 por ciento, sin IVA (**art. 192.1**)."
+  ]
+ },
+ "vo-06-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es automática: es una opción (**art. 192.2**).",
+   "No. Tampoco es obligada la penalidad: puede optar (**art. 192.2**).",
+   "Es esta. Podrá optar entre resolver el contrato o imponer las penalidades que fije el PCAP (**art. 192.2**).",
+   "No. Los 0,60 euros por cada 1.000 son las penalidades diarias por demora total (**art. 193.3**), no por incumplimiento parcial."
+  ]
+ },
+ "vo-06-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El 10 por ciento es el tope de cada penalidad, no del total (**art. 192.1**).",
+   "No. El 10 por ciento es el tope de cada penalidad, y se calcula sin IVA (**art. 192.1**).",
+   "No. El tope total es el 50 por ciento, no el 20 (**art. 192.1**).",
+   "Es esta. El total de penalidades no supera el 50 por ciento del precio, IVA excluido (**art. 192.1**)."
+  ]
+ },
+ "vo-06-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La resolución no obliga a imponer penalidades, son opciones alternativas (**art. 193.3**).",
+   "Es esta. Podrá optar entre resolver o imponer penalidades, si la demora es imputable al contratista (**art. 193.3**).",
+   "No. No exige intimación previa: la mora no la precisa (**art. 193.2**).",
+   "No. Solo si la demora es imputable al contratista (**art. 193.3**)."
+  ]
+ },
+ "vo-06-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se calcula sobre el precio sin IVA (**art. 193.4**).",
+   "Es esta. Cada vez que alcancen un múltiplo del 5 por 100 del precio, IVA excluido (**art. 193.4**).",
+   "No. El múltiplo es del 5 por ciento, no del 3 (**art. 193.4**).",
+   "No. El múltiplo es del 5 por ciento (**art. 193.4**)."
+  ]
+ },
+ "vo-06-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las penalidades son diarias, no semanales (**art. 193.3**).",
+   "No. La suspensión no es una opción prevista en este supuesto (**art. 193.3**).",
+   "Es esta. Resolución o penalidades diarias (**art. 193.3**).",
+   "No. Ni la suspensión ni la modificación son la respuesta a la demora (**art. 193.3**)."
+  ]
+ },
+ "vo-06-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 194.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El responsable del contrato solo propone (**art. 194.2**).",
+   "No. La mesa de contratación no interviene en la ejecución (**art. 194.2**).",
+   "No. La Junta Consultiva no impone penalidades (**art. 194.2**).",
+   "Es esta. Las impone el órgano de contratación, a propuesta del responsable del contrato (**art. 194.2**)."
+  ]
+ },
+ "vo-06-011": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 195.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un plazo al menos igual al tiempo perdido, salvo que el contratista pida uno menor (**art. 195.2**).",
+   "No. La excepción es por pedir uno menor, no mayor (**art. 195.2**).",
+   "No. No es discrecional: es por lo menos igual al tiempo perdido (**art. 195.2**).",
+   "No. Eso es cuando la demora sí es imputable al contratista (**art. 193.3**)."
+  ]
+ },
+ "vo-06-012": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 196.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Indemnizar los daños a terceros por las operaciones de ejecución es obligación del contratista (**art. 196.1**).",
+   "No. La Administración responde solo en supuestos concretos (**art. 196.2**).",
+   "Es cierto como excepción, pero no responde a la pregunta general: la Administración responde por vicios del proyecto en obras (**art. 196.2**).",
+   "No. Responde cuando el daño es consecuencia inmediata y directa de una orden suya, no indirecta (**art. 196.2**)."
+  ],
+  "ojo": "La opción 0 dice 'en todo caso', pero el art. 196.2 prevé excepciones. Se elige por ser la regla general del art. 196.1."
+ },
+ "vo-06-013": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Seis meses da derecho a resolver, no a suspender (**art. 198.6**).",
+   "Es esta. Más de cuatro meses de demora y aviso con un mes de antelación (**art. 198.5**).",
+   "No. El plazo es de cuatro meses (**art. 198.5**).",
+   "No. El plazo es de cuatro meses (**art. 198.5**)."
+  ]
+ },
+ "vo-06-014": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Treinta días desde la aprobación de las certificaciones o de los documentos de conformidad (**art. 198.4**).",
+   "No. El plazo es de treinta días, no sesenta (**art. 198.4**).",
+   "No. Se cuenta desde la aprobación de los documentos de conformidad, no desde la entrega (**art. 198.4**).",
+   "No. Son treinta días desde la aprobación, no sesenta desde la entrega (**art. 198.4**)."
+  ]
+ },
+ "vo-06-015": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo de pago es de treinta días (**art. 198.4**).",
+   "No. Con cuatro meses de demora el contratista puede suspender. Resolver exige más de seis meses (**art. 198.5 y 6**).",
+   "No. La suspensión exige una demora superior a cuatro meses (**art. 198.5**).",
+   "Es esta. Los abonos a cuenta pueden embargarse para pagar salarios del personal del contrato (**art. 198.7**)."
+  ]
+ },
+ "vo-06-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se calcula sobre el precio inicial, no sobre el presupuesto base de licitación (**art. 204.1**).",
+   "No. El tope es el 20 por ciento, no el 30 (**art. 204.1**).",
+   "No. El tope es el 20 por ciento del precio inicial (**art. 204.1**).",
+   "Es esta. Hasta un máximo del veinte por ciento del precio inicial (**art. 204.1**)."
+  ]
+ },
+ "vo-06-017": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 204",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 20 por ciento se calcula sobre el precio inicial, no sobre el valor estimado (**art. 204.1**).",
+   "Es esta. No pueden preverse modificaciones que alteren la naturaleza global del contrato (**art. 204.1**).",
+   "No. Hay modificaciones no previstas, bajo los requisitos del art. 205 (**art. 205**).",
+   "No. La cláusula de modificación va en el PCAP, no en el PPT (**art. 204.2**)."
+  ]
+ },
+ "vo-06-018": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 40.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es anulabilidad, no nulidad (**art. 40.a**).",
+   "Es esta. Causa de anulabilidad de derecho administrativo (**art. 40.a**).",
+   "No. La invalidez civil se rige por el derecho civil y no es la que corresponde aquí (**art. 38**).",
+   "No. Sí constituye causa de invalidez (**art. 40.a**)."
+  ]
+ },
+ "vo-06-019": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2",
+  "correcta": 2,
+  "justificaciones": [
+   "Es cierto. La modificación se limita a lo indispensable (**art. 205.2.b**).",
+   "Es cierto. No altera la naturaleza global del contrato (**art. 205.2.b**).",
+   "Es la falsa. La necesidad debe derivar de circunstancias que una Administración diligente no hubiera podido prever (**art. 205.2.b**).",
+   "Es cierto. No puede superar el 50 por ciento del precio inicial, IVA excluido (**art. 205.2.b**)."
+  ]
+ },
+ "vo-06-020": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No hay un umbral del 5 por ciento (**art. 205.2.c**).",
+   "Es esta. Es sustancial si resulta un contrato de naturaleza materialmente diferente (**art. 205.2.c**).",
+   "No. La oposición del contratista no determina por sí misma que sea sustancial (**art. 205.2.c**).",
+   "No. Que no estuviera prevista en el PCAP no la hace sustancial (**art. 205.2**)."
+  ]
+ },
+ "vo-06-021": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 206.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se calcula sin IVA (**art. 206.1**).",
+   "No. El tope de obligatoriedad es el 20 por ciento, no el 50 (**art. 206.1**).",
+   "Es esta. Hasta el 20 por ciento del precio inicial, IVA excluido (**art. 206.1**).",
+   "No. El tope es el 20 por ciento, sin IVA (**art. 206.1**)."
+  ]
+ },
+ "vo-06-022": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El derecho a reclamar prescribe en un año (**art. 208.2.c**).",
+   "No. Prescribe en un año, no en seis meses (**art. 208.2.c**).",
+   "No. El acta se extiende de oficio o a solicitud del contratista (**art. 208.1**).",
+   "Es esta. Acta de oficio o a solicitud del contratista, con las circunstancias de la suspensión (**art. 208.1**)."
+  ]
+ },
+ "vo-06-023": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 208.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Es un año (**art. 208.2.c**).",
+   "No. Es un año (**art. 208.2.c**).",
+   "Es esta. Prescribe en un año desde que el contratista recibe la orden de reanudar (**art. 208.2.c**).",
+   "No. Es un año (**art. 208.2.c**)."
+  ]
+ },
+ "vo-06-024": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El mero paso del plazo de entrega no cumple el contrato (**art. 210.1**).",
+   "No. Ese es el plazo de garantía, que extingue la responsabilidad, no el cumplimiento (**art. 210.3**).",
+   "No. La liquidación viene después del cumplimiento (**art. 210.4**).",
+   "Es esta. El contrato se cumple cuando se realiza la totalidad de la prestación a satisfacción de la Administración (**art. 210.1**)."
+  ]
+ },
+ "vo-06-025": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo es el mes siguiente (**art. 210.2**).",
+   "No. El plazo es el mes siguiente (**art. 210.2**).",
+   "No. El plazo es el mes siguiente (**art. 210.2**).",
+   "Es esta. Dentro del mes siguiente a la entrega o realización, o el plazo que fije el PCAP (**art. 210.2**)."
+  ]
+ },
+ "vo-06-026": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La liquidación es posterior (**art. 210.4**).",
+   "Es esta. Transcurrido el plazo de garantía sin objeciones de la Administración (**art. 210.3**).",
+   "No. Los treinta días son para acordar la liquidación, no para extinguir la responsabilidad (**art. 210.4**).",
+   "No. Eso es el cumplimiento del contrato, no la extinción de la responsabilidad (**art. 210.1**)."
+  ]
+ },
+ "vo-06-027": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 213.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Además de la garantía incautada responde de los daños que la excedan (**art. 213.3**).",
+   "No. La incautación no basta: debe indemnizar el exceso (**art. 213.3**).",
+   "No. La incautación procede por incumplimiento culpable, y no se limita a dolo, culpa o negligencia (**art. 213.3**).",
+   "Es esta. Se incauta la garantía y se indemniza el exceso de daños (**art. 213.3**)."
+  ]
+ },
+ "vo-06-028": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 212.8",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Ocho meses (**art. 212.8**).",
+   "No. El plazo es de ocho meses (**art. 212.8**).",
+   "No. El plazo es de ocho meses (**art. 212.8**).",
+   "No. El plazo es de ocho meses (**art. 212.8**)."
+  ]
+ },
+ "vo-06-029": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Más de un tercio del plazo inicial, incluidas las prórrogas (**art. 211**).",
+   "No. Incluye las prórrogas (**art. 211**).",
+   "No. Es un tercio, no un cuarto (**art. 211**).",
+   "No. Es un tercio, no un cuarto, y se incluyen las prórrogas (**art. 211**)."
+  ]
+ },
+ "vo-06-030": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es requisito. La cesión se formaliza en escritura pública (**art. 214.2.d**).",
+   "Sí es requisito. Autorización previa y expresa del órgano de contratación (**art. 214.2.a**).",
+   "Es la que NO. No se exige un plazo de dos años desde la formalización. Se exige que el cedente haya ejecutado el 20 por ciento (**art. 214.2.b**).",
+   "Sí es requisito. El cesionario debe tener capacidad para contratar (**art. 214.2.c**)."
+  ]
+ },
+ "vo-06-031": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 214.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El cedente debe tener ejecutado al menos el 20 por ciento del importe (**art. 214.2.b**).",
+   "No. La quinta parte del plazo de explotación es para las concesiones (**art. 214.2.b**).",
+   "No. Sí hay límite: el 20 por ciento ejecutado (**art. 214.2.b**).",
+   "No. La insolvencia no es el requisito (**art. 214.2.b**)."
+  ]
+ },
+ "vo-06-032": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 215.2.d",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no exige escritura pública para esos subcontratos (**art. 215.2.d**).",
+   "No. No es una comunicación al Consejo de Ministros (**art. 215.2.d**).",
+   "Es esta. Requiere siempre autorización expresa del órgano de contratación (**art. 215.2.d**).",
+   "No. No está prohibida, requiere autorización (**art. 215.2.d**)."
+  ]
+ },
+ "vo-06-033": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 218",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí lo es. Los acuerdos marco (**art. 218**).",
+   "Es la que NO. La subasta electrónica es un instrumento del procedimiento de adjudicación (**art. 143**), no un sistema de racionalización (**art. 218**).",
+   "Sí lo es. Los sistemas dinámicos de adquisición (**art. 218**).",
+   "Sí lo es. La centralización de la contratación en servicios especializados (**art. 218**)."
+  ]
+ },
+ "vo-06-034": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Hay excepción justificada (**art. 219.2**).",
+   "No. El plazo es de cuatro años, no dos (**art. 219.2**).",
+   "Es esta. Cuatro años, salvo casos excepcionales debidamente justificados (**art. 219.2**).",
+   "No. El plazo es de cuatro años, no dos (**art. 219.2**)."
+  ]
+ },
+ "vo-06-035": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es independiente, no igual (**art. 219.3**).",
+   "No. Es independiente, no necesariamente inferior (**art. 219.3**).",
+   "No. Es independiente, no necesariamente superior (**art. 219.3**).",
+   "Es esta. Es independiente de la duración del acuerdo marco y se rige por el art. 29 y los pliegos (**art. 219.3**)."
+  ]
+ },
+ "vo-06-036": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 223.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Su duración es limitada y la fijan los pliegos, sin tope de cuatro años en la ley (**art. 223.2**).",
+   "Es esta. Está abierto durante toda su vigencia a cualquier empresa que cumpla los criterios de selección (**art. 223.2**).",
+   "No. También pueden ser de obras (**art. 223.1**).",
+   "No. Tienen duración limitada y determinada, no indefinida (**art. 223.2**)."
+  ]
+ },
+ "vo-06-037": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 226.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo mínimo es de diez días desde la invitación (**art. 226.3**).",
+   "No. Se invita a todas las empresas admitidas (**art. 226.2**).",
+   "Es esta. Cada contrato específico debe ser objeto de licitación (**art. 226.1**).",
+   "No. Esa posibilidad es de los acuerdos marco, no de los sistemas dinámicos (**art. 221**)."
+  ]
+ },
+ "vo-06-038": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El Ministro de Hacienda y Función Pública declara de contratación centralizada (**art. 229.1**).",
+   "No. El Consejo de Ministros no es quien lo declara (**art. 229.1**).",
+   "No. La Junta Consultiva informa, no declara. La Junta de Contratación Centralizada es órgano de contratación (**art. 229.5**).",
+   "No. No es el órgano de contratación ordinario (**art. 229.1**)."
+  ]
+ },
+ "vo-06-039": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 229.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La Ministra declara, pero no contrata (**art. 229.1 y 5**).",
+   "No. La Dirección General apoya técnicamente, no es el órgano de contratación (**art. 229.5**).",
+   "Es esta. La Junta de Contratación Centralizada (**art. 229.5**).",
+   "No. La Junta Consultiva informa, no contrata (**art. 229.5**)."
+  ]
+ },
+ "vo-06-040": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 219.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las centrales de contratación son otro instrumento (**art. 218**).",
+   "Es esta. Acuerdos marco para fijar las condiciones de los contratos futuros (**art. 219.1**).",
+   "No. Los contratos basados se adjudican dentro del acuerdo marco (**art. 221**).",
+   "No. Los contratos específicos son propios de los sistemas dinámicos (**art. 226**)."
+  ]
+ },
+ "vo-07-003": {
+  "bloque": "subv-general",
+  "precepto": "art. 3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se aplican la ley y su desarrollo primero, y el derecho privado solo en defecto (**art. 3**).",
+   "No. Si no hay fondos de la Unión Europea, no manda el derecho comunitario (**art. 3**).",
+   "No. El orden es otro: primero la ley, luego el derecho administrativo y por último el privado (**art. 3**).",
+   "Es esta. La LGS y sus normas de desarrollo, luego el derecho administrativo y por último el privado (**art. 3**)."
+  ]
+ },
+ "vo-07-004": {
+  "bloque": "subv-general",
+  "precepto": "art. 2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La entrega debe estar sujeta al cumplimiento de un objetivo, pero que se vaya a realizar, no que ya esté realizado (**art. 2.1.c**).",
+   "No. Las prestaciones de la Seguridad Social no son subvención (**art. 2.4**).",
+   "No. Se excluyen los premios sin solicitud previa. Los que se otorgan a solicitud sí entran (**art. 4.a**).",
+   "Es esta. Las prestaciones del Fondo de Garantía Salarial no son subvención (**art. 2.4**)."
+  ]
+ },
+ "vo-07-007": {
+  "bloque": "subv-general",
+  "precepto": "art. 10",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Concede el presidente o director del organismo, el Consejo de Ministros solo autoriza (**art. 10.2**).",
+   "Es esta. Concede el presidente o director del organismo, con autorización previa del Consejo de Ministros (**art. 10.1 y 2**).",
+   "No. El titular del Departamento no sustituye al presidente o director del organismo (**art. 10.1**).",
+   "No. La autorización la da el Consejo de Ministros, no el Departamento (**art. 10.2**)."
+  ]
+ },
+ "vo-07-008": {
+  "bloque": "subv-general",
+  "precepto": "art. 9.4",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es requisito. Competencia del órgano concedente (**art. 9.4.a**).",
+   "Sí es requisito. Crédito adecuado y suficiente (**art. 9.4.b**).",
+   "Sí es requisito. Tramitación del procedimiento conforme a las normas aplicables (**art. 9.4.c**).",
+   "Es la que NO. La audiencia pública no aparece entre los requisitos del art. 9.4."
+  ]
+ },
+ "vo-07-009": {
+  "bloque": "subv-general",
+  "precepto": "art. 17.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No se aprueban por Real Decreto (**art. 17.1**).",
+   "Es esta. Las aprueba el ministro correspondiente por orden ministerial (**art. 17.1**).",
+   "No. Resolución o instrucción no es la vía en la AGE (**art. 17.1**).",
+   "No. No se aprueban por ley orgánica (**art. 17.1**)."
+  ]
+ },
+ "vo-07-011": {
+  "bloque": "subv-general",
+  "precepto": "art. 16.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Cuatro años es la vigencia inicial, no el tope con prórrogas (**art. 16.2**).",
+   "No. Cinco años no es el tope (**art. 16.2**).",
+   "Es esta. Cuatro años de vigencia inicial y, con prórrogas, seis años en total (**art. 16.2**).",
+   "No. Seis años es el tope, no diez (**art. 16.2**)."
+  ]
+ }
+}

@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-01-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 14,
+   "enunciado": "Se excluyen de la Ley de Contratos:",
+   "opciones": [
+    "Las autorizaciones y concesiones sobre bienes de dominio público.",
+    "La relación de servicio de los funcionarios públicos y los contratos regulados en la legislación laboral.",
+    "Los contratos relativos a los servicios de arbitraje y conciliación.",
+    "Todos los anteriores negocios y contratos están excluidos de la Ley de Contratos."
+   ]
+  },
+  {
+   "id": "au-01-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 15,
+   "enunciado": "Según la Ley 9/2017, de Contratos del Sector Público, las Mutuas colaboradoras con la Seguridad Social:",
+   "opciones": [
+    "Tendrán la consideración de Administraciones Públicas.",
+    "Se considera que no forman parte del sector público.",
+    "No tendrán la consideración de Poderes Adjudicadores.",
+    "No tendrán la consideración de Administraciones Públicas, pero sí de Poderes Adjudicadores."
+   ]
+  },
+  {
+   "id": "au-01-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 16,
+   "enunciado": "En toda contratación pública se incorporarán de manera transversal y preceptiva:",
+   "opciones": [
+    "Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato.",
+    "Criterios éticos y de transparencia aunque no guarden relación con el objeto del contrato.",
+    "Criterios éticos y de transparencia siempre que guarden relación con el objeto del contrato.",
+    "Criterios sociales y medioambientales aunque no guarden relación con el objeto del contrato."
+   ]
+  },
+  {
+   "id": "au-01-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 17,
+   "enunciado": "Señale la respuesta incorrecta. Se considerarán Poderes Adjudicadores, a efectos de la LCSP:",
+   "opciones": [
+    "Las Administraciones Públicas.",
+    "Las fundaciones públicas.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las Entidades Públicas Empresariales."
+   ]
+  },
+  {
+   "id": "au-01-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 18,
+   "enunciado": "Según el artículo 3.3 de la LCSP, se considerarán Poderes Adjudicadores, a efectos de esta ley:",
+   "opciones": [
+    "Las corporaciones de derecho público, en todos los casos.",
+    "Las mutuas colaboradoras con la Seguridad Social.",
+    "Las entidades creadas para satisfacer necesidades de interés general con carácter industrial o mercantil.",
+    "Cualquier asociación inscrita en un registro público."
+   ]
+  },
+  {
+   "id": "au-01-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 19,
+   "enunciado": "El artículo 11 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece que los contratos de servicios de arbitraje y conciliación:",
+   "opciones": [
+    "Son contratos administrativos sujetos a la Ley.",
+    "Son contratos excluidos del ámbito de aplicación de la Ley.",
+    "Son contratos privados incluidos en el ámbito de aplicación de la Ley y sujetos al derecho público.",
+    "Son contratos administrativos incluidos por la Ley en el ámbito de aplicación de la misma."
+   ]
+  },
+  {
+   "id": "au-01-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 11)",
+   "n": 20,
+   "enunciado": "Se considerarán poderes adjudicadores, a efectos de la Ley de Contratos del Sector Público, las siguientes entidades:",
+   "opciones": [
+    "Las sociedades mercantiles.",
+    "Los fondos sin personalidad jurídica.",
+    "Las Entidades Públicas Empresariales.",
+    "Las Administraciones Públicas."
+   ]
+  },
+  {
+   "id": "au-02-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 1,
+   "enunciado": "Según el artículo 12 de la Ley 9/2017, de Contratos del Sector Público, no se califica como contrato del Sector Público:",
+   "opciones": [
+    "La prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público.",
+    "Contrato de concesión de servicios.",
+    "Contrato de concesión de obras.",
+    "Contrato de servicios."
+   ]
+  },
+  {
+   "id": "au-02-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 2,
+   "enunciado": "¿Cuál de los siguientes contratos no está incluido en los tipos contractuales del artículo 12 de la LCSP?",
+   "opciones": [
+    "Contrato de gestión de servicio público.",
+    "Contrato de obras.",
+    "Contrato de concesión de obras.",
+    "Contrato de concesión de servicios."
+   ]
+  },
+  {
+   "id": "au-02-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 3,
+   "enunciado": "De acuerdo con la LCSP, el contrato en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso la gestión de un servicio público que sea de su titularidad o competencia, cuya contrapartida consista en el derecho a explotar los servicios objeto del contrato, pudiendo acompañarse del derecho a percibir un precio, se denomina:",
+   "opciones": [
+    "Contrato de concesión de servicios.",
+    "Contrato de concesión de obra.",
+    "Contrato de gestión de servicios públicos.",
+    "Contrato de servicios."
+   ]
+  },
+  {
+   "id": "au-02-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 4,
+   "enunciado": "Según el artículo 16 de la LCSP, el contrato que tenga por objeto el arrendamiento de productos o bienes muebles:",
+   "opciones": [
+    "Está excluido del ámbito de aplicación de la Ley de Contratos del Sector Público.",
+    "Se denomina contrato de servicios.",
+    "Se denomina contrato de suministro.",
+    "Es un contrato mixto."
+   ]
+  },
+  {
+   "id": "au-02-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 5,
+   "enunciado": "Los contratos que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles, se califican como:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de servicios.",
+    "Contrato de concesión de servicios.",
+    "Contrato de suministros."
+   ]
+  },
+  {
+   "id": "au-02-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 6,
+   "enunciado": "Según la LCSP, los contratos que tienen por objeto la adquisición o arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas, a excepción de los contratos de adquisición de programas de ordenador desarrollados a medida, tienen la consideración de:",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de suministros.",
+    "Contrato de obra.",
+    "Contrato de gestión de servicios públicos."
+   ]
+  },
+  {
+   "id": "au-02-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 7,
+   "enunciado": "No son contratos típicos regulados por la Ley de contratos del Sector Público:",
+   "opciones": [
+    "Los contratos de compraventa.",
+    "Los contratos de concesión de servicios.",
+    "Los contratos de suministro.",
+    "Los contratos de servicios."
+   ]
+  },
+  {
+   "id": "au-02-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 8,
+   "enunciado": "De acuerdo con la Ley 9/2017, de Contratos del Sector Público, son contratos de obras aquellos que tienen por objeto:",
+   "opciones": [
+    "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto.",
+    "La realización de alguno de los trabajos enumerados en el Anexo I de la Ley.",
+    "La realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de obra.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-02-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 9,
+   "enunciado": "El artículo 16 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, establece que la adquisición de programas de ordenador desarrollados a medida se considera, en todo caso:",
+   "opciones": [
+    "Contrato de obra.",
+    "Contrato de servicios.",
+    "Contrato de suministro.",
+    "Contrato de consultoría y asistencia."
+   ]
+  },
+  {
+   "id": "au-02-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 10,
+   "enunciado": "Según el artículo 16 de la Ley 9/2017, el contrato por el que el empresario se obliga a entregar una pluralidad de bienes de forma sucesiva y por precio unitario sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato se denomina:",
+   "opciones": [
+    "De suministro.",
+    "De asistencia.",
+    "De servicios.",
+    "De gestión."
+   ]
+  },
+  {
+   "id": "au-02-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 11,
+   "enunciado": "La clasificación de los contratos que recoge la Ley 9/2017 de Contratos del Sector Público en su artículo 12, es la siguiente:",
+   "opciones": [
+    "Contratos de obras, contrato de concesión de obras, de suministro y de servicios.",
+    "Contratos de obras, concesión de obras, concesión de servicios, suministro y servicios.",
+    "Contratos de obras, de suministro y servicios.",
+    "Contratos de obras, de suministro, de servicios, de concesión y mixtos."
+   ]
+  },
+  {
+   "id": "au-02-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 12,
+   "enunciado": "Según la Ley 9/2017, de Contratos del Sector Público, se entenderá por contrato mixto:",
+   "opciones": [
+    "Aquel que se realice con la colaboración de distintas entidades del sector público.",
+    "Aquel que contenga prestaciones correspondientes a otro u otros de distinta clase.",
+    "Aquel que sea financiado por distintas Administraciones Públicas.",
+    "Aquel que sea financiado por una administración pública y gestionado por una entidad privada."
+   ]
+  },
+  {
+   "id": "au-02-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 13,
+   "enunciado": "Según el artículo 16 de la Ley 9/2017, del 8 de noviembre, de contratos del sector público, los contratos que tengan por objeto la adquisición de energía primaria o energía transformada son:",
+   "opciones": [
+    "Contratos de concesión de servicios.",
+    "Contratos de servicios.",
+    "Contratos de suministro.",
+    "Contratos excluidos."
+   ]
+  },
+  {
+   "id": "au-02-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 14,
+   "enunciado": "Los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos:",
+   "opciones": [
+    "Podrán ser objeto de contrato de servicios.",
+    "No podrán ser objeto de contrato de servicios, ni de contrato de concesión de servicios.",
+    "Podrán ser objeto de contrato de servicios, pero no de contrato de concesión de servicios.",
+    "Podrán ser objeto de contrato de concesión de servicios."
+   ]
+  },
+  {
+   "id": "au-02-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (2) - LCSP (arts 12 a 18)",
+   "n": 15,
+   "enunciado": "Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad dirigidas a la obtención de un resultado:",
+   "opciones": [
+    "De obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva.",
+    "De obra o suministro, salvo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva.",
+    "Distinto de obra o suministro, salvo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva.",
+    "Distinto de obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva."
+   ]
+  },
+  {
+   "id": "au-03-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 1,
+   "enunciado": "Según el artículo 25.1 de la LCSP, tendrán carácter privado, con carácter general, los siguientes contratos:",
+   "opciones": [
+    "Contratos de servicios.",
+    "Contratos de obras que tengan por objeto actividades de ingeniería civil.",
+    "Suscripción de revistas, publicaciones periódicas y bases de datos.",
+    "Todas las respuestas son correctas."
+   ]
+  },
+  {
+   "id": "au-03-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 2,
+   "enunciado": "De acuerdo con la LCSP, están sujetos a regulación armonizada los contratos de suministro adjudicados por una Universidad Pública cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "140.000 euros.",
+    "216.000 euros.",
+    "5.404.000 euros.",
+    "750.000 euros."
+   ]
+  },
+  {
+   "id": "au-03-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (3) - LCSP (arts 19 a 27)",
+   "n": 3,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, están sujetos a regulación armonizada:",
+   "opciones": [
+    "Los contratos de suministro, siempre que su valor estimado sea igual o superior a 500.000 €.",
+    "Los contratos de obras, concesión de obras y concesión de servicios cuyo valor estimado sea igual o superior a 5.404.000 €.",
+    "Los contratos de servicios adjudicados por la AGE, siempre que su valor estimado sea igual o superior a 139.000 €.",
+    "Todos los contratos cuyo valor estimado sea igual o superior a 750.000 €."
+   ]
+  }
+ ]
+}

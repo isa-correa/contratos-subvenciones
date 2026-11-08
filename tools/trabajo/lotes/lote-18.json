@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "of-05-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 10,
+   "enunciado": "Señale la respuesta correcta en relación con las bajas temerarias si en el contrato para reformar el suelo de las dependencias del Organismo Autónomo solo hubiera concurrido una empresa a la licitación:",
+   "opciones": [
+    "Su oferta no podría ser calificada de baja temeraria en ningún caso, porque de lo contrario el contrato podría quedar desierto.",
+    "Si el órgano de contratación identifica que la oferta está incursa en presunción de anormalidad, deberá requerir al licitador, dándole plazo suficiente, para que justifique y desglose razonada y detalladamente el bajo nivel de los precios.",
+    "La mesa de contratación, para el supuesto de bajas temerarias, no necesitará motivar la propuesta de aceptación o rechazo.",
+    "Se considerará, en principio, anormalmente baja, la oferta que supere el presupuesto base de licitación en más de 25 unidades porcentuales."
+   ]
+  },
+  {
+   "id": "of-05-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 11,
+   "enunciado": "Según la LCSP, cuando para la adjudicación del contrato deban tenerse en cuenta una pluralidad de criterios, salvo cuando se hubiese establecido otro en el PCAP, el plazo máximo para efectuar la adjudicación será:",
+   "opciones": [
+    "De dos meses a contar desde la apertura de las proposiciones.",
+    "De veinte días a contar desde la apertura de las proposiciones.",
+    "De quince días a contar desde que finalizó el plazo para la presentación de proposiciones.",
+    "De un mes a contar desde la apertura de las proposiciones."
+   ]
+  },
+  {
+   "id": "of-05-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 12,
+   "enunciado": "Según el artículo 167 de la LCSP, señale cuál de los siguientes NO es un supuesto previsto para la aplicación del procedimiento de licitación con negociación:",
+   "opciones": [
+    "Cuando se trata de servicios intelectuales de especial complejidad.",
+    "Cuando resulte imprescindible que la prestación sea objeto de un trabajo previo de diseño o de adaptación por los licitadores.",
+    "Cuando en los procedimientos abiertos o restringidos previos solo se hubieren presentado ofertas irregulares o inaceptables.",
+    "Cuando no pueda establecerse con la suficiente precisión las especificaciones técnicas."
+   ]
+  },
+  {
+   "id": "of-05-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 13,
+   "enunciado": "De acuerdo con la LCSP, la adjudicación de los contratos se producirá, desde la apertura de proposiciones:",
+   "opciones": [
+    "En el plazo máximo de 15 días.",
+    "En el plazo máximo de 10 días, cuando el único criterio para seleccionar al adjudicatario sea el precio.",
+    "En el plazo máximo de dos meses, cuando para la adjudicación deban tenerse en cuenta una pluralidad de criterios.",
+    "En un plazo máximo de 20 días."
+   ]
+  },
+  {
+   "id": "of-05-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 14,
+   "enunciado": "En relación al contrato de servicios de limpieza celebrado por el Ministerio, cuyo valor estimado asciende a 140.000 euros, señale la respuesta correcta:",
+   "opciones": [
+    "Se trata de un contrato menor.",
+    "El contrato puede tramitarse por el procedimiento abierto simplificado del artículo 159 de la Ley 9/2017.",
+    "Se trata de un contrato sujeto a una regulación armonizada que puede tramitarse por el procedimiento abierto.",
+    "No es un contrato sujeto a una regulación armonizada porque su valor no es superior a 140.000 euros."
+   ]
+  },
+  {
+   "id": "of-05-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 15,
+   "enunciado": "De acuerdo con el artículo 167 de la LCSP, cuando el órgano de contratación no pueda establecer con la suficiente precisión las especificaciones técnicas de un contrato, ¿qué procedimientos podrán emplearse para la adjudicación del contrato?",
+   "opciones": [
+    "El procedimiento restringido y el procedimiento abierto simplificado.",
+    "El procedimiento de asociación para la innovación y el procedimiento negociado sin publicidad.",
+    "El procedimiento de licitación con negociación, así como el procedimiento de diálogo competitivo.",
+    "El procedimiento negociado sin publicidad y el procedimiento abierto simplificado."
+   ]
+  },
+  {
+   "id": "of-05-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 16,
+   "enunciado": "Para licitar un contrato de servicios de asistencia técnica a una obra, ¿puede emplearse el procedimiento simplificado previsto en el artículo 159 de la Ley de Contratos del Sector Público, si el valor estimado del contrato es de 90.000 euros?",
+   "opciones": [
+    "No, el límite de valor estimado que no podría alcanzar es 80.000 euros.",
+    "Sí, el límite de valor estimado que no podría alcanzar es 100.000 euros.",
+    "Sí, el límite de valor estimado que no podría alcanzar es 140.000 euros.",
+    "Sí, el límite de valor estimado que no podría alcanzar es 216.000 euros."
+   ]
+  },
+  {
+   "id": "of-05-017",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 17,
+   "enunciado": "En caso de tramitarse un procedimiento abierto simplificado para adjudicar un contrato de servicio de asistencia técnica a una obra, indique cuál sería el plazo mínimo para presentación de proposiciones a contar desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación:",
+   "opciones": [
+    "No podría ser inferior a quince días.",
+    "No podría ser inferior a veinte días.",
+    "No podría ser inferior a veintiséis días.",
+    "No podría ser inferior a treinta días."
+   ]
+  },
+  {
+   "id": "of-05-018",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 18,
+   "enunciado": "En caso de que un contrato sea susceptible de recurso especial en materia de contratación, ¿cuántos días hay que esperar para la formalización del contrato desde que se remita la notificación de la adjudicación a los licitadores y candidatos?",
+   "opciones": [
+    "5 días naturales.",
+    "10 días hábiles.",
+    "15 días hábiles.",
+    "15 días naturales."
+   ]
+  },
+  {
+   "id": "of-05-019",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 19,
+   "enunciado": "De acuerdo con la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el licitador que hubiese presentado la mejor oferta deberá acreditar la constitución de la garantía definitiva en el plazo de:",
+   "opciones": [
+    "10 días hábiles.",
+    "10 días naturales.",
+    "15 días hábiles.",
+    "15 días naturales."
+   ]
+  },
+  {
+   "id": "of-05-020",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 20,
+   "enunciado": "De acuerdo con lo establecido en el artículo 158 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el procedimiento abierto la adjudicación de los contratos se producirá:",
+   "opciones": [
+    "En el plazo máximo de 20 días desde la apertura de proposiciones.",
+    "En el plazo máximo de quince días a contar desde el día siguiente a la apertura de proposiciones, cuando el único criterio para seleccionar al adjudicatario sea el precio.",
+    "En el plazo máximo de tres meses desde la apertura de proposiciones, cuando para la adjudicación del contrato deban tenerse en cuenta una pluralidad de criterios.",
+    "En un plazo máximo de un mes, a contar desde la apertura de proposiciones."
+   ]
+  },
+  {
+   "id": "of-06-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 1,
+   "enunciado": "Señale la respuesta correcta en relación con la comprobación material de un contrato de obras, cuyo valor estimado es 760.000 €, por la Intervención General del Estado:",
+   "opciones": [
+    "No es necesario solicitar la designación de representante para la comprobación material de la inversión.",
+    "Es necesario solicitar la designación de representante para su asistencia potestativa a la comprobación material de la inversión, con una antelación de 30 días hábiles a la fecha prevista para la terminación de la prestación objeto del contrato.",
+    "Es necesario solicitar la designación de representante para su asistencia potestativa a la comprobación material de la inversión, con una antelación de 60 días hábiles a la fecha prevista para la terminación de la prestación objeto del contrato.",
+    "Es necesario solicitar la designación de un arquitecto para su asistencia potestativa a la comprobación material de la inversión, con una antelación de 60 días hábiles a la fecha prevista para la terminación de la prestación objeto del contrato."
+   ]
+  },
+  {
+   "id": "of-06-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 2,
+   "enunciado": "Si un Ministerio adquiere mobiliario para sus nuevas instalaciones, ¿cuándo se entendería cumplido el contrato de acuerdo con la Ley 9/2017, de 8 de noviembre?",
+   "opciones": [
+    "Cuando haya transcurrido el plazo establecido para la entrega.",
+    "Cuando haya transcurrido el plazo de garantía señalado y se haya levantado acta de conformidad por la Administración.",
+    "Cuando tenga lugar la liquidación del contrato.",
+    "Cuando el contratista haya realizado la totalidad de la prestación, a satisfacción de la Administración."
+   ]
+  },
+  {
+   "id": "of-06-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 3,
+   "enunciado": "Según el artículo 213 de la LCSP, cuando el contrato se resuelva por incumplimiento culpable del contratista:",
+   "opciones": [
+    "Deberá abonar los daños y perjuicios ocasionados hasta el importe de la garantía.",
+    "Solo le será incautada la garantía en pago de los daños y perjuicios ocasionados.",
+    "Solo le será incautada la garantía cuando concurra dolo, culpa o negligencia del contratista.",
+    "Le será incautada la garantía, y deberá, además, indemnizar a la Administración los daños y perjuicios ocasionados en lo que excedan del importe de la garantía incautada."
+   ]
+  },
+  {
+   "id": "of-06-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 4,
+   "enunciado": "Según el artículo 211 de la LCSP, ¿cuál de las siguientes opciones NO es causa de resolución del contrato?",
+   "opciones": [
+    "La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento.",
+    "El mutuo acuerdo entre la Administración y el contratista.",
+    "La demora en el cumplimiento de los plazos por parte del contratista.",
+    "La fusión, escisión o transmisión de una rama de actividad del contratista."
+   ]
+  },
+  {
+   "id": "of-06-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 5,
+   "enunciado": "Según la LCSP, los contratos podrán modificarse durante su ejecución por circunstancias sobrevenidas que: (GACE-LI 2019)",
+   "opciones": [
+    "El órgano de contratación haya establecido en el pliego.",
+    "Una Administración diligente no hubiera podido prever.",
+    "Estén reguladas en el documento de formalización.",
+    "Tengan escasa duración."
+   ]
+  },
+  {
+   "id": "of-06-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 6,
+   "enunciado": "Según el artículo 212 de la LCSP, los expedientes de resolución contractual deben ser instruidos y resueltos en el plazo máximo de:",
+   "opciones": [
+    "Ocho meses.",
+    "Diez meses.",
+    "Cuatro meses.",
+    "Seis meses."
+   ]
+  },
+  {
+   "id": "of-06-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 7,
+   "enunciado": "Conforme a la LCSP, en el supuesto de demora en el plazo total de ejecución del contrato por causas imputables al contratista, la Administración:",
+   "opciones": [
+    "Procederá a la resolución del contrato.",
+    "Podrá optar entre la resolución del contrato o la imposición de penalidades.",
+    "Procederá, previa y necesaria intimación al contratista, a la resolución del contrato.",
+    "Podrá optar, previa y necesaria intimación al contratista, entre la resolución del contrato o la imposición de penalidades."
+   ]
+  },
+  {
+   "id": "of-06-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 8,
+   "enunciado": "De acuerdo con la LCSP, los contratos de las Administraciones Públicas podrán modificarse durante su vigencia, cuando en los PCAP se hubiese advertido expresamente esta posibilidad, hasta un máximo del:",
+   "opciones": [
+    "20 % del precio inicial.",
+    "15 % del precio inicial.",
+    "10 % del precio inicial.",
+    "5 % del precio inicial."
+   ]
+  },
+  {
+   "id": "of-06-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 9,
+   "enunciado": "Conforme al artículo 194 de la LCSP, la imposición de penalidades en los supuestos de incumplimiento parcial de un contrato administrativo por parte de un contratista se impondrá por acuerdo de:",
+   "opciones": [
+    "El responsable del contrato.",
+    "La mesa de contratación.",
+    "La Junta Consultiva de Contratación Administrativa.",
+    "El órgano de contratación."
+   ]
+  },
+  {
+   "id": "of-06-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 10,
+   "enunciado": "Según el artículo 208 de la LCSP, si la Administración acuerda la suspensión de un contrato de obras, ¿cuándo prescribe el derecho a reclamar contado desde que el contratista recibe la orden de reanudar la ejecución del contrato?",
+   "opciones": [
+    "En tres meses.",
+    "En seis meses.",
+    "En un año.",
+    "En dieciocho meses."
+   ]
+  },
+  {
+   "id": "of-06-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 11,
+   "enunciado": "De acuerdo con la LCSP, los contratos de las Administraciones públicas podrán modificarse durante su vigencia, siempre que:",
+   "opciones": [
+    "Dicha posibilidad se recoja en los pliegos, y la modificación no supere el 30 % del precio inicial del contrato.",
+    "La modificación no supere el 10 % del precio inicial del contrato, para el caso de que los pliegos no la prevean expresamente.",
+    "Dicha posibilidad se recoja en los pliegos, y la modificación no supere el 20 % del precio inicial del contrato.",
+    "La modificación no supere el 15 % del precio inicial del contrato en el caso de que los pliegos no la prevean expresamente."
+   ]
+  },
+  {
+   "id": "of-06-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 12,
+   "enunciado": "Conforme al artículo 192 de la LCSP, la cuantía de cada una de las penalidades, para el caso de cumplimiento defectuoso de la prestación objeto del contrato, no podrá ser superior a:",
+   "opciones": [
+    "El 10% del precio del contrato, IVA excluido.",
+    "El 10% del precio del contrato, IVA incluido.",
+    "El 50% del precio del contrato, IVA excluido.",
+    "El 20% del precio del contrato, IVA incluido."
+   ]
+  },
+  {
+   "id": "of-06-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 13,
+   "enunciado": "Según el artículo 193 de la LCSP, el órgano de contratación estará facultado para proceder a la resolución del contrato o acordar la continuidad de su ejecución con imposición de nuevas penalidades, cada vez que estas alcancen:",
+   "opciones": [
+    "Un múltiplo del 15% del precio del contrato, IVA excluido.",
+    "Un múltiplo del 5% del precio del contrato, IVA excluido.",
+    "Un múltiplo del 20% del precio del contrato, IVA excluido.",
+    "Un múltiplo del 10% del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "of-06-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 14,
+   "enunciado": "Para tramitar una modificación de un contrato que NO estaba prevista en el PCAP, se deben cumplir los requisitos del artículo 205 de la LCSP. Señale la respuesta FALSA en relación a dichos requisitos:",
+   "opciones": [
+    "Que la modificación se limite a introducir variaciones indispensables para responder a la causa objetiva que la haga necesaria.",
+    "Que la modificación no altere la naturaleza global del contrato.",
+    "Que la necesidad de la modificación se derive de circunstancias que una Administración diligente hubiera podido prever.",
+    "Que implique una alteración en la cuantía que no exceda, aislada o conjuntamente, del 50 % de su precio inicial, IVA excluido."
+   ]
+  },
+  {
+   "id": "of-06-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 15,
+   "enunciado": "En caso de una modificación de un contrato que no estaba prevista en el PCAP, esta será obligatoria para el contratista cuando implique una alteración en su cuantía que no exceda del:",
+   "opciones": [
+    "10 por ciento del precio inicial del contrato, IVA excluido.",
+    "20 por ciento del precio inicial del contrato, IVA excluido.",
+    "30 por ciento del precio inicial del contrato, IVA excluido.",
+    "50 por ciento del precio inicial del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "of-06-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 16,
+   "enunciado": "En caso de retraso en la ejecución de un contrato por causa imputable al contratista, el artículo 193 de la LCSP establece que la Administración podrá optar por la imposición de penalidades diarias en la proporción de:",
+   "opciones": [
+    "0,40 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+    "0,50 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+    "0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+    "0,80 euros por cada 1.000 euros del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "of-06-017",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 17,
+   "enunciado": "Si nos encontráramos ante un servicio declarado de contratación centralizada ¿cuál sería, de acuerdo con la LCSP, el órgano de contratación del sistema estatal?",
+   "opciones": [
+    "La Ministra de Hacienda.",
+    "La Dirección de Racionalización y Centralización de la Contratación, por delegación de la Ministra de Hacienda.",
+    "La Junta de Contratación Centralizada.",
+    "La Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "of-06-018",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 18,
+   "enunciado": "Conforme a la LCSP, las modificaciones del contrato NO previstas en el PCAP serán obligatorias para los contratistas cuando impliquen, aislada o conjuntamente, una alteración en su cuantía que:",
+   "opciones": [
+    "No exceda del 20 % del precio inicial del contrato, IVA excluido.",
+    "Exceda del 20 % del precio inicial del contrato, IVA excluido.",
+    "Exceda del 70 % del precio inicial del contrato, IVA excluido.",
+    "Exceda del 50 % del precio inicial del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "of-06-019",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 19,
+   "enunciado": "Con carácter general y de acuerdo con el artículo 198 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Administración tiene la obligación de abonar el precio de las prestaciones convenidas dentro de:",
+   "opciones": [
+    "Los treinta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato.",
+    "Los sesenta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato.",
+    "Los noventa días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato.",
+    "Los veinte días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos de conformidad con lo dispuesto en el contrato."
+   ]
+  },
+  {
+   "id": "of-06-020",
+   "origen": "oficiales",
+   "test": "Tema 4 (6) - LCSP (arts. 188 a 230)",
+   "n": 20,
+   "enunciado": "En función de lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para que los contratistas puedan ceder sus derechos y obligaciones a terceros, los pliegos deberán contemplar, como mínimo, la exigencia del siguiente requisito, entre otros:",
+   "opciones": [
+    "Que el cedente tenga ejecutado al menos un 10 por 100 del importe del contrato o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que haya efectuado su explotación durante al menos una décima parte del plazo de duración del contrato.",
+    "Que el cedente tenga ejecutado al menos un 20 por 100 del importe del contrato o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que haya efectuado su explotación durante al menos una quinta parte del plazo de duración del contrato.",
+    "Que el cedente tenga ejecutado al menos un 25 por 100 del importe del contrato o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que haya efectuado su explotación durante al menos una cuarta parte del plazo de duración del contrato.",
+    "Que el cedente tenga ejecutado al menos un 50 por 100 del importe del contrato o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que haya efectuado su explotación durante al menos la mitad del plazo de duración del contrato."
+   ]
+  },
+  {
+   "id": "of-07-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 1,
+   "enunciado": "Turespaña (Organismo Autónomo de la AGE) desea llevar a cabo la adaptación del Palacio de Exposiciones y Congresos. Por ello planea celebrar un contrato de obra con un valor estimado de 18.000.000 €. El órgano de contratación necesitará:",
+   "opciones": [
+    "Autorización previa del Ministerio de Hacienda y Función Pública.",
+    "Acuerdo previo de la Junta de Contratación.",
+    "Autorización previa del Consejo de Ministros.",
+    "Informe justificativo de la Secretaría de Estado de Presupuestos y Gastos."
+   ]
+  },
+  {
+   "id": "of-07-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 2,
+   "enunciado": "En relación con el cumplimiento de un contrato de suministro, los gastos de entrega y transporte de los bienes al lugar convenido serán de cuenta:",
+   "opciones": [
+    "De la Administración, salvo pacto en contrario.",
+    "Del contratista, salvo pacto en contrario.",
+    "De la Administración y el contratista a partes iguales, salvo pacto en contrario.",
+    "De la Administración, siempre que el contratista cumpla el plazo de entrega estipulado."
+   ]
+  },
+  {
+   "id": "of-07-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 3,
+   "enunciado": "La Administración observa daños materiales causados en la obra por defectos que considera vicios ocultos. Conforme a la LCSP, ¿durante qué plazo responderá el contratista de los daños y perjuicios que se produzcan?",
+   "opciones": [
+    "10 años a contar desde la adjudicación de la obra.",
+    "15 años a contar desde la recepción de la obra.",
+    "10 años a contar desde la recepción de la obra.",
+    "15 años a contar desde la adjudicación de la obra."
+   ]
+  },
+  {
+   "id": "of-07-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 4,
+   "enunciado": "Conforme al artículo 285 de la LCSP, ¿en cuál de los siguientes contratos la tramitación del expediente ha de ir precedida de la aprobación de un estudio de viabilidad de los servicios o de un estudio de viabilidad económico-financiera?",
+   "opciones": [
+    "Contrato de gestión de servicios públicos.",
+    "Contrato administrativo de servicios.",
+    "Contrato de concesión de servicios.",
+    "Contrato de servicios públicos."
+   ]
+  },
+  {
+   "id": "of-07-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 5,
+   "enunciado": "Indique la respuesta correcta acerca de la supervisión de proyectos regulada en el artículo 235 de la LCSP:",
+   "opciones": [
+    "Se deberá solicitar el informe de supervisión antes de la adjudicación del contrato.",
+    "Se solicitará el informe de supervisión cuando el valor estimado del contrato de obras sea igual o superior a 500.000 euros.",
+    "Se solicitará informe de supervisión cuando se trate de obras que afecten a la estabilidad, seguridad o estanqueidad de la obra.",
+    "El informe de supervisión consistirá en comprobar la disponibilidad de los terrenos precisos para su normal ejecución."
+   ]
+  },
+  {
+   "id": "of-07-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 6,
+   "enunciado": "En relación con el contrato para la construcción de un Centro de Investigación sobre Pandemias, ¿es correcto que el Ministerio adjudique a una misma empresa tanto la realización del proyecto como la ejecución de la obra?",
+   "opciones": [
+    "No, pues en ningún caso cabe la contratación conjunta de la elaboración de un proyecto y la ejecución de las obras.",
+    "Sí, pues la contratación conjunta de la redacción del proyecto y la ejecución de la obra constituye la norma general.",
+    "Sí, excepcionalmente, si concurre alguno de los supuestos previstos en la LCSP, debiendo justificarse en el expediente.",
+    "Sí, excepcionalmente, si concurre alguno de los supuestos previstos en la LCSP, sin que resulte necesaria justificación alguna."
+   ]
+  },
+  {
+   "id": "of-07-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 7,
+   "enunciado": "En cuanto a la modificación del contrato para la construcción del edificio para el Centro de Investigación sobre Pandemias que supone la introducción de unidades de obra no comprendidas en el proyecto sin que sea necesario realizar una nueva licitación, ¿quién fijará los precios de aplicación de éstas?",
+   "opciones": [
+    "El contratista.",
+    "La Administración, previa audiencia del contratista.",
+    "Se fijarán necesariamente de mutuo acuerdo entre la Administración y el contratista.",
+    "La Administración, sin necesidad de audiencia del contratista."
+   ]
+  },
+  {
+   "id": "of-07-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 8,
+   "enunciado": "En el supuesto en el que se produce la suspensión del inicio de suministro por causas imputables a la Administración, por plazo de seis meses, ¿puede el contratista resolver el contrato de acuerdo con la LCSP?",
+   "opciones": [
+    "Sí, pues la suspensión ha sido por un plazo superior a 4 meses a partir de la fecha de entrega señalada en el contrato.",
+    "No, la suspensión del inicio del suministro no es causa de resolución del contrato.",
+    "No, pues para que la suspensión sea constitutiva de resolución del contrato debe tener una duración superior a 8 meses.",
+    "No, pues para que la suspensión sea constitutiva de resolución del contrato debe tener una duración superior a 6 meses."
+   ]
+  },
+  {
+   "id": "of-07-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 9,
+   "enunciado": "En el contrato con \"Servicios informáticos S.A.\", si en lugar de la suspensión del inicio del suministro, la Administración hubiese desistido una vez iniciada la ejecución del suministro, ¿qué consecuencias tendría?",
+   "opciones": [
+    "El contratista tendrá derecho a percibir el 3 por ciento del precio de adjudicación del contrato de los suministros dejados de realizar en concepto de beneficio industrial, IVA excluido.",
+    "El contratista tendrá derecho a percibir el 6 por ciento del precio de adjudicación del contrato de los suministros dejados de realizar en concepto de beneficio industrial, IVA excluido.",
+    "La Administración habrá de abonar el importe íntegro del contrato.",
+    "El contratista queda facultado para el siguiente contrato de similares características que oferte la misma Administración."
+   ]
+  },
+  {
+   "id": "of-07-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 10,
+   "enunciado": "De acuerdo con el artículo 232 de la LCSP, y en función del objeto de la obra, podemos afirmar que la construcción del edificio en el que se establecerá el Centro de Investigación sobre Pandemias es una obra de:",
+   "opciones": [
+    "Gran reparación.",
+    "Primer establecimiento.",
+    "Reforma.",
+    "Rehabilitación."
+   ]
+  },
+  {
+   "id": "of-07-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 11,
+   "enunciado": "Conforme a la LCSP, una vez adjudicado un contrato de obras y antes de comenzar su ejecución, ¿qué trámite debe realizarse?",
+   "opciones": [
+    "La supervisión del proyecto.",
+    "El replanteo del proyecto.",
+    "La comprobación del replanteo.",
+    "La aprobación del presupuesto."
+   ]
+  },
+  {
+   "id": "of-07-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 12,
+   "enunciado": "Según el artículo 304 de la LCSP, en el contrato de suministro, salvo pacto en contrario, los gastos de la entrega y transporte de los bienes objeto del suministro al lugar convenido serán de cuenta:",
+   "opciones": [
+    "De la Administración y del contratista a partes iguales.",
+    "De la Administración, si el contratista cumple con el plazo de entrega.",
+    "De la Administración.",
+    "Del contratista."
+   ]
+  },
+  {
+   "id": "of-07-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 13,
+   "enunciado": "Según el artículo 235 de la LCSP, los órganos de contratación deberán solicitar un informe de las correspondientes oficinas o unidades de supervisión de los proyectos:",
+   "opciones": [
+    "Después de la aprobación del proyecto, cuando el PBL del contrato de obras sea superior a 500.000,00 euros, IVA excluido.",
+    "Antes de la aprobación del proyecto, cuando el PBL del contrato de obras sea igual o superior a 500.000 euros, IVA excluido.",
+    "Después de la aprobación del proyecto, cuando el PBL del contrato de obras sea superior a 300.000,00 euros, IVA excluido.",
+    "Antes de la aprobación del proyecto, cuando el PBL del contrato de obras sea superior a 300.000,00 euros, IVA incluido."
+   ]
+  },
+  {
+   "id": "of-07-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 14,
+   "enunciado": "Conforme a la LCSP, la ejecución del contrato de obras comenzará con el acta de comprobación del replanteo, que tendrá lugar dentro del plazo que se consigne en el contrato que, salvo casos excepcionales justificados, NO podrá ser:",
+   "opciones": [
+    "Superior a un mes desde su adjudicación.",
+    "Superior a dos meses desde su formalización.",
+    "Superior a un mes desde su formalización.",
+    "Superior a quince días desde su adjudicación."
+   ]
+  },
+  {
+   "id": "of-07-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 15,
+   "enunciado": "Según el artículo 307 de la LCSP, en caso de suspensión de la iniciación del suministro por causa imputable a la Administración por plazo superior a 4 meses, el contratista tendrá derecho a percibir una indemnización:",
+   "opciones": [
+    "Del 3 % del precio de adjudicación del contrato, IVA excluido.",
+    "Del 5 % del precio del contrato, IVA excluido.",
+    "Del 6 % del precio de las entregas dejadas de realizar en concepto de beneficio industrial.",
+    "Del 3 % del precio del contrato, IVA incluido."
+   ]
+  },
+  {
+   "id": "of-07-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 16,
+   "enunciado": "Según lo dispuesto en la LCSP, si se demorase injustificadamente la comprobación del replanteo de la obra, dando lugar a la resolución del contrato, el contratista sólo tendrá derecho a percibir por todos los conceptos:",
+   "opciones": [
+    "Una indemnización equivalente al tres por cien del precio de la adjudicación, IVA excluido.",
+    "Una indemnización equivalente al dos por cien del precio de adjudicación, IVA excluido.",
+    "Una indemnización equivalente al cinco por cien del precio de adjudicación, IVA excluido.",
+    "Una indemnización equivalente al seis por cien del precio de adjudicación, IVA excluido."
+   ]
+  },
+  {
+   "id": "of-07-017",
+   "origen": "oficiales",
+   "test": "Tema 4 (7) - LCSP (arts 231 a 347)",
+   "n": 17,
+   "enunciado": "¿Qué regulación resulta aplicable a los contratos de fabricación?",
+   "opciones": [
+    "Las normas generales y especiales del contrato de obras.",
+    "Las normas generales y especiales del contrato de suministro.",
+    "Las normas generales y especiales del contrato de obras, salvo las relativas a publicidad y procedimiento de adjudicación, que se acomodarán, en todo caso, al contrato de suministro.",
+    "Las normas generales y especiales del contrato de suministro, salvo las relativas a publicidad y procedimiento de adjudicación, que se acomodarán, en todo caso, al contrato de obras."
+   ]
+  },
+  {
+   "id": "of-08-001",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 1,
+   "enunciado": "Desde la perspectiva administrativa, las subvenciones son una técnica de:",
+   "opciones": [
+    "Limitación.",
+    "Arbitral.",
+    "De servicio público.",
+    "Fomento."
+   ]
+  },
+  {
+   "id": "of-08-002",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 2,
+   "enunciado": "Indique cuál de las siguientes respuestas se refiere a una actividad administrativa de fomento:",
+   "opciones": [
+    "La ejecución de las obras de construcción de una carretera nacional por parte del Ministerio de Fomento.",
+    "La concesión del Premio Nacional de Literatura por parte del Ministerio de Educación, Cultura y Deporte.",
+    "La vacunación a viajeros en un Centro de Vacunación Internacional de una Subdelegación del Gobierno.",
+    "La concesión de una licencia para la ocupación del dominio público por parte de un Ayuntamiento."
+   ]
+  }
+ ]
+}

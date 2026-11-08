@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "of-02-026",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 26,
+   "enunciado": "Conforme al artículo 44.7 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la interposición del recurso especial en materia de contratación:",
+   "opciones": [
+    "Tendrá carácter potestativo y será gratuito para los recurrentes.",
+    "Tendrá carácter potestativo y estará sujeto a las tasas que corresponda.",
+    "No tendrá carácter potestativo ni será gratuito para los recurrentes.",
+    "Tendrá carácter potestativo y será gratuito para los recurrentes que acrediten insuficiencia de recursos para litigar."
+   ]
+  },
+  {
+   "id": "of-02-027",
+   "origen": "oficiales",
+   "test": "Tema 4 (2) - LCSP (arts 34 a 83)",
+   "n": 27,
+   "enunciado": "El artículo 34.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, dispone que en los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios:",
+   "opciones": [
+    "Al interés público, al ordenamiento jurídico y a los principios de buena administración.",
+    "Al orden público, a la ley y a la buena fe.",
+    "A las leyes, a la moral y al orden público.",
+    "A los principios generales del derecho, a la ley y al interés público."
+   ]
+  },
+  {
+   "id": "of-03-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 1,
+   "enunciado": "Señale la respuesta correcta respecto a un contrato de obras adjudicado por la AGE, cuyo valor estimado es 760.000 €:",
+   "opciones": [
+    "Se trata de un contrato sujeto a regulación armonizada.",
+    "Habrá de establecerse preceptivamente una garantía provisional equivalente al 4% del presupuesto de licitación.",
+    "El empresario podrá acreditar su solvencia económica y financiera del modo previsto en el anuncio de licitación.",
+    "Es requisito indispensable que el empresario se encuentre clasificado como contratista de obras de los poderes adjudicadores."
+   ]
+  },
+  {
+   "id": "of-03-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 2,
+   "enunciado": "El artículo 106 de la Ley 9/2017, de 8 de noviembre, prevé respecto de la garantía provisional que:",
+   "opciones": [
+    "Podrá exigirse excepcionalmente, no pudiendo superar el 3 % del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Se exigirá en todo caso, no pudiendo ser superior al 3 % del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Se exigirá en todo caso, no pudiendo ser superior al 5 % del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Se exigirá en todo caso, no pudiendo ser superior al 3 % del presupuesto base de licitación del contrato, incluido el IVA."
+   ]
+  },
+  {
+   "id": "of-03-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 3,
+   "enunciado": "Según el artículo 99.7 de la LCSP, en los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato:",
+   "opciones": [
+    "Cada lote constituirá un contrato, salvo en caso de ofertas integradoras, en los que todas las ofertas constituirán un contrato.",
+    "Todos los lotes se entenderán siempre como un único contrato.",
+    "Cada lote constituirá un contrato, incluso en los casos en que se presenten ofertas integradoras.",
+    "Todos los lotes se entenderán siempre como un único contrato, salvo en el caso de que sobrepasen el número de diez lotes."
+   ]
+  },
+  {
+   "id": "of-03-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 4,
+   "enunciado": "Según la LCSP, ¿cuál de los siguientes medios servirá para acreditar la solvencia técnica en un contrato de suministros?",
+   "opciones": [
+    "La declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "La descripción de las instalaciones técnicas, de las medidas empleadas para garantizar la calidad y de los medios de estudio e investigación de la empresa.",
+    "Una relación de los principales suministros de igual o similar naturaleza realizados en el curso de los cinco últimos años.",
+    "La indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato."
+   ]
+  },
+  {
+   "id": "of-03-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 5,
+   "enunciado": "De acuerdo con el artículo 84 de la LCSP, ¿cómo se acredita la capacidad de obrar de una persona jurídica?",
+   "opciones": [
+    "Mediante certificación firmada de todos los socios que la componen.",
+    "Mediante acta de su Consejo de Administración en la que se declare dicha capacidad para el contrato concreto al que se opta.",
+    "Mediante la escritura o documento de constitución, estatutos o acta fundacional debidamente inscritos.",
+    "Mediante declaración jurada de su Presidente."
+   ]
+  },
+  {
+   "id": "of-03-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 6,
+   "enunciado": "En los contratos de obras, la solvencia técnica del empresario deberá ser acreditada por uno o varios de los medios siguientes, a elección del órgano de contratación; seleccione la respuesta FALSA:",
+   "opciones": [
+    "Relación de las obras ejecutadas en el curso de los tres últimos años, avalada por certificados de buena ejecución.",
+    "Títulos académicos y profesionales del empresario y de los directivos de la empresa.",
+    "Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de las obras.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años."
+   ]
+  },
+  {
+   "id": "of-03-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 7,
+   "enunciado": "Señale la respuesta correcta respecto a la garantía definitiva de un contrato de suministro adjudicado por un Ministerio:",
+   "opciones": [
+    "Deberá constituirse en el plazo de 5 días hábiles desde el siguiente a la recepción de su requerimiento.",
+    "Deberán presentarla todos los licitadores que hayan presentado ofertas.",
+    "No es exigible cuando su valor estimado sea inferior a 100.000 euros.",
+    "Con carácter general, su importe será del 5 % del precio final ofertado, excluido el IVA."
+   ]
+  },
+  {
+   "id": "of-03-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 8,
+   "enunciado": "De conformidad con el artículo 101 de la LCSP, ¿cuál de los siguientes costes NO deberá tenerse en cuenta para el cálculo del valor estimado del contrato?",
+   "opciones": [
+    "Gastos generales de estructura.",
+    "Beneficio industrial.",
+    "Impuesto sobre el Valor Añadido.",
+    "Eventuales prórrogas del contrato."
+   ]
+  },
+  {
+   "id": "of-03-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 9,
+   "enunciado": "Conforme a la LCSP, en cuanto al objeto del contrato, se ha de motivar:",
+   "opciones": [
+    "La exigencia de requisitos de solvencia técnica.",
+    "La elección del procedimiento de adjudicación.",
+    "El límite máximo del presupuesto estimado.",
+    "La no división en lotes."
+   ]
+  },
+  {
+   "id": "of-03-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 10,
+   "enunciado": "Para calcular el valor estimado de un contrato, ¿qué elemento de los siguientes deberá contemplarse, de acuerdo con lo dispuesto en el artículo 101 de la LCSP?",
+   "opciones": [
+    "El importe de adjudicación.",
+    "Todos los impuestos aplicables al mismo.",
+    "El impuesto de valor añadido.",
+    "Las eventuales prórrogas."
+   ]
+  },
+  {
+   "id": "of-03-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 11,
+   "enunciado": "De conformidad con lo establecido en la LCSP, la capacidad de obrar de los empresarios españoles que fueren personas jurídicas podrá acreditarse:",
+   "opciones": [
+    "Mediante la aportación de la escritura o documento de constitución de la empresa, los estatutos o el acta fundacional.",
+    "Mediante la oportuna Clasificación, para el caso de los contratos de obras de valor estimado inferior a 500.000 euros.",
+    "Mediante la oportuna Clasificación, para el caso de contratos de servicios de valor estimado igual o superior a 500.000 euros.",
+    "Mediante la presentación del Volumen anual de negocios de la empresa."
+   ]
+  },
+  {
+   "id": "of-03-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 12,
+   "enunciado": "Según el artículo 108 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de las siguientes NO es una forma admisible de prestar la garantías definitivas exigidas en los contratos?",
+   "opciones": [
+    "Mediante el título conformado de propiedad de bienes inmuebles incluyendo una tasación independiente de los mismos.",
+    "Mediante contrato de seguro de caución.",
+    "En efectivo o en valores de Deuda Pública.",
+    "Mediante aval prestado por una entidad bancaria."
+   ]
+  },
+  {
+   "id": "of-03-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 13,
+   "enunciado": "En los procedimientos de contratación del Sector Público, la garantía provisional:",
+   "opciones": [
+    "Se exigirá como regla general.",
+    "Excepcionalmente, podrá exigirse por motivos de interés público.",
+    "No podrá exigirse en contratos privados celebrados por las Administraciones públicas.",
+    "No podrá superar el 3 % del valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "of-03-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 14,
+   "enunciado": "Conforme establece el artículo 99 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el objeto de los contratos del sector público deberá ser:",
+   "opciones": [
+    "Oneroso.",
+    "Definido.",
+    "Determinado.",
+    "De interés público."
+   ]
+  },
+  {
+   "id": "of-03-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 15,
+   "enunciado": "La LCSP indica en su artículo 101 que, a todos los efectos previstos en la Ley, en el caso de los contratos de obras, suministros y servicios, el valor estimado de los contratos:",
+   "opciones": [
+    "Incluirá el Impuesto sobre el Valor Añadido, excepto en los de suministros y servicios inferiores a 8.000 euros.",
+    "No incluirá el Impuesto sobre el Valor Añadido, excepto en los de obras superiores a 120.000 euros.",
+    "Incluirá el Impuesto sobre el Valor Añadido en todos los casos.",
+    "No incluirá el Impuesto sobre el Valor Añadido en ningún caso."
+   ]
+  },
+  {
+   "id": "of-03-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (3) - LCSP (arts 84 a 114)",
+   "n": 16,
+   "enunciado": "Indique cuál de los siguientes costes sí es susceptible de revisión de precios en los contratos de las entidades del Sector Público, siempre que se cumplan todos los requisitos y de acuerdo con el artículo 103 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+   "opciones": [
+    "Los costes de mano de obra de los contratos distintos de los de obra.",
+    "Los costes financieros.",
+    "Los costes asociados a amortizaciones.",
+    "El beneficio industrial."
+   ]
+  },
+  {
+   "id": "of-04-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 1,
+   "enunciado": "El artículo 145.1 de la Ley 9/2017, de 8 de noviembre, establece sobre la adjudicación de los contratos que: (AGE 2019)",
+   "opciones": [
+    "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente.",
+    "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+    "Se realizará con arreglo a criterios basados en un planteamiento que atienda a la mejor relación coste-eficacia.",
+    "Se realizará atendiendo exclusivamente a criterios cualitativos."
+   ]
+  },
+  {
+   "id": "of-04-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 2,
+   "enunciado": "De acuerdo con el artículo 116 de la LCSP, el expediente de contratación se inicia: (AGE 2017)",
+   "opciones": [
+    "Motivando la necesidad de realizar el contrato.",
+    "Con la convocatoria de la licitación.",
+    "Con la aprobación del pliego.",
+    "Con la aprobación del gasto."
+   ]
+  },
+  {
+   "id": "of-04-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 3,
+   "enunciado": "De acuerdo con el artículo 118.1 de la LCSP, se consideran contratos menores: (AGE 2019)",
+   "opciones": [
+    "Aquellos cuyo presupuesto de licitación sea inferior a 50.000 euros cuando se trate de contratos de obras.",
+    "Aquellos cuyo valor estimado sea inferior a 50.000 euros cuando se trate de contratos de obras.",
+    "Aquellos cuyo valor estimado sea inferior a 40.000 euros cuando se trate de contratos de obras.",
+    "Aquellos cuyo presupuesto de licitación sea inferior a 40.000 euros cuando se trate de contratos de obras."
+   ]
+  },
+  {
+   "id": "of-04-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 4,
+   "enunciado": "De conformidad con la LCSP, los pliegos de cláusulas administrativas particulares deberán aprobarse: (AGE 2019)",
+   "opciones": [
+    "Posteriormente a la autorización del gasto.",
+    "Previamente a la autorización del gasto, pero no conjuntamente con ella.",
+    "Conjuntamente con la autorización del gasto, y no previamente a ella.",
+    "Previamente a la autorización del gasto o conjuntamente con ella."
+   ]
+  },
+  {
+   "id": "of-04-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 5,
+   "enunciado": "De conformidad con la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: (AGE 2017)",
+   "opciones": [
+    "El plazo de inicio de la ejecución de las prestaciones de un contrato objeto de tramitación de emergencia no podrá exceder de 1 mes, contado desde la formalización.",
+    "Los expedientes calificados de emergencia gozarán de preferencia para su despacho por los distintos órganos que intervengan en la tramitación, que dispondrán de un plazo de 5 días para emitir los informes o cumplimentar los trámites correspondientes.",
+    "El plazo de inicio de la ejecución de un contrato objeto de tramitación urgente no podrá exceder de 1 mes, contado desde la formalización.",
+    "El plazo de inicio de la ejecución de un contrato objeto de tramitación urgente no podrá ser superior a 2 meses, contados desde la formalización."
+   ]
+  },
+  {
+   "id": "of-04-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 6,
+   "enunciado": "Según lo dispuesto en la LCSP, podrán aprobarse pliegos de cláusulas administrativas generales por: (AGE 2017)",
+   "opciones": [
+    "El órgano de contratación, previo informe del servicio jurídico correspondiente.",
+    "El Ministro de Hacienda y Función Pública, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "El órgano de contratación, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "El Consejo de Ministros, previo dictamen del Consejo de Estado."
+   ]
+  },
+  {
+   "id": "of-04-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 7,
+   "enunciado": "Atendiendo a lo dispuesto en la LCSP, se considerarán contratos menores de obras los contratos de valor estimado inferior a: (AGE 2017)",
+   "opciones": [
+    "45.000 euros.",
+    "55.000 euros.",
+    "40.000 euros.",
+    "50.000 euros."
+   ]
+  },
+  {
+   "id": "of-04-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 8,
+   "enunciado": "Según el artículo 120 de la LCSP, si la Administración tuviese que actuar de forma inmediata a causa de un acontecimiento catastrófico, el plazo de inicio de la ejecución de las prestaciones objeto del contrato NO podrá ser superior a: (AGE 2019)",
+   "opciones": [
+    "1 mes.",
+    "10 días.",
+    "15 días.",
+    "1 semana."
+   ]
+  },
+  {
+   "id": "of-04-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 9,
+   "enunciado": "Conforme a lo dispuesto en la LCSP, cuando en supuestos excepcionales se acuerde la tramitación de emergencia, si el contrato ha sido celebrado por la Administración General del Estado: (AGE 2017)",
+   "opciones": [
+    "Se dará cuenta de dicho acuerdo al Presidente del Gobierno en el plazo máximo de 60 días.",
+    "Se dará cuenta de dicho acuerdo al Consejo de Ministros en el plazo máximo de 60 días.",
+    "Se dará cuenta de dicho acuerdo al Presidente del Gobierno en el plazo máximo de 30 días.",
+    "Se dará cuenta de dicho acuerdo al Consejo de Ministros en el plazo máximo de 30 días."
+   ]
+  },
+  {
+   "id": "of-04-010",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 10,
+   "enunciado": "De acuerdo con la LCSP, la asociación para la innovación es: (AGE 2017)",
+   "opciones": [
+    "Un requisito de ejecución.",
+    "Un procedimiento abreviado.",
+    "Una forma de acreditar solvencia.",
+    "Un procedimiento de adjudicación."
+   ]
+  },
+  {
+   "id": "of-04-011",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 11,
+   "enunciado": "En la adquisición de equipos informáticos y de telecomunicaciones por un valor estimado de 18.000 €, ¿estamos ante un contrato menor? (AGE 2021)",
+   "opciones": [
+    "No, pues el valor estimado es superior a 15.000 euros.",
+    "Sí, pues el valor estimado es inferior a 35.000 euros.",
+    "Sí, pues el valor estimado es inferior a 25.000 euros.",
+    "Sí, pues el valor estimado es inferior a 40.000 euros."
+   ]
+  },
+  {
+   "id": "of-04-012",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 12,
+   "enunciado": "De acuerdo con la LCSP, ¿qué valor estimado podría tener como máximo un contrato menor adjudicado para el arreglo de una puerta? (AGE 2021)",
+   "opciones": [
+    "15.000 euros.",
+    "5.000 euros.",
+    "40.000 euros.",
+    "60.000 euros."
+   ]
+  },
+  {
+   "id": "of-04-013",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 13,
+   "enunciado": "De conformidad con el artículo 118 de la LCSP, se consideran contratos menores, sin perjuicio de lo dispuesto en el artículo 229 en relación con las obras, servicios y suministros centralizados en el ámbito estatal: (AGE 2021)",
+   "opciones": [
+    "Los contratos de servicios de valor estimado inferior a 15.000 euros.",
+    "Los contratos de obras de valor estimado inferior a 50.000 euros.",
+    "Los contratos de servicios de valor estimado inferior a 20.000 euros.",
+    "Los contratos de suministro de valor estimado inferior a 20.000 euros."
+   ]
+  },
+  {
+   "id": "of-04-014",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 14,
+   "enunciado": "Según el artículo 116 de la LCSP, el informe de insuficiencia de medios previsto en esta Ley: (AGE 2021)",
+   "opciones": [
+    "Se justificará adecuadamente en los contratos de servicios y suministros.",
+    "Se justificará adecuadamente en los contratos de servicios.",
+    "Se justificará adecuadamente en los contratos de suministros.",
+    "Se justificará adecuadamente en los contratos de obras, servicios y suministros."
+   ]
+  },
+  {
+   "id": "of-04-015",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 15,
+   "enunciado": "Conforme a la LCSP, la aprobación de pliegos de prescripciones técnicas generales a que deba ajustarse el conjunto de Administración General de Estado se llevará a cabo por: (AGE 2021)",
+   "opciones": [
+    "El Consejo de Ministros, previo informe de la Junta Consultiva de Contratación y a propuesta del ministro competente.",
+    "La Ministra de Hacienda, previo informe de la Dirección General de Racionalización y Centralización de la Contratación.",
+    "El órgano de contratación, con anterioridad a la autorización del gasto, o conjuntamente con ella.",
+    "La Junta Consultiva de Contratación, a propuesta del ministro competente."
+   ]
+  },
+  {
+   "id": "of-04-016",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 16,
+   "enunciado": "Según la LCSP los órganos de contratación podrán establecer en los pliegos de cláusulas administrativas particulares criterios de adjudicación específicos para el desempate. A falta de tal previsión, el primer criterio de desempate será: (AGE 2021)",
+   "opciones": [
+    "El sorteo.",
+    "Mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada empresa.",
+    "Mayor porcentaje de mujeres empleadas en la plantilla de cada empresa.",
+    "Menor porcentaje de contratos temporales en la plantilla de cada empresa."
+   ]
+  },
+  {
+   "id": "of-04-017",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 17,
+   "enunciado": "De acuerdo con lo previsto en la LCSP, los contratos menores de obras se caracterizan por: (AGE 2021)",
+   "opciones": [
+    "Tener un valor estimado inferior a 15.000 euros y una duración de un año prorrogable por otro.",
+    "Tener un valor estimado inferior a 40.000 euros y una duración no superior al año sin posibilidad de prórroga.",
+    "Tener un precio de licitación inferior a 15.000 euros y una duración de más de un año con posibilidad de prórroga.",
+    "Tener un valor estimado inferior a 40.000 euros y una duración de un año prorrogable por otro."
+   ]
+  },
+  {
+   "id": "of-04-018",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 18,
+   "enunciado": "En contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia, NO serán de aplicación las disposiciones de la LCSP relativas a la preparación y adjudicación del contrato si su valor estimado es inferior a: (AGE 2021)",
+   "opciones": [
+    "15.000 euros.",
+    "100.000 euros.",
+    "30.000 euros.",
+    "40.000 euros."
+   ]
+  },
+  {
+   "id": "of-04-019",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 19,
+   "enunciado": "Conforme a la LCSP, tienen la consideración de contratos menores, sin perjuicio de lo dispuesto en el artículo 229: (AGE 2023)",
+   "opciones": [
+    "Los que tienen un valor estimado inferior a 60.000 euros, cuando se trate de contratos de obras.",
+    "Los que tienen un valor estimado inferior a 15.000 euros, cuando se trate de contratos de suministro o de servicios.",
+    "Los que tienen un valor estimado inferior a 50.000 euros.",
+    "Los que tienen un valor estimado igual o inferior a 60.000 euros."
+   ]
+  },
+  {
+   "id": "of-04-020",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 20,
+   "enunciado": "La adjudicación de los contratos del sector público se realizará ordinariamente: (AGE 2023)",
+   "opciones": [
+    "Utilizando una pluralidad de criterios de adjudicación basados en el principio de menor precio.",
+    "Utilizando no menos de dos ni más de cinco criterios de adjudicación basados en el principio de mejor relación calidad-precio.",
+    "Utilizando una pluralidad de criterios de adjudicación basados en el principio de mejor relación calidad-precio.",
+    "Utilizando no menos de dos ni más de cinco criterios de adjudicación basados en el principio de menor precio."
+   ]
+  },
+  {
+   "id": "of-04-021",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 21,
+   "enunciado": "El artículo 145 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece sobre la adjudicación de los contratos que:",
+   "opciones": [
+    "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente.",
+    "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+    "Se realizará atendiendo exclusivamente a criterios cualitativos.",
+    "Se realizará atendiendo exclusivamente a criterios cuantitativos."
+   ]
+  },
+  {
+   "id": "of-04-022",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 22,
+   "enunciado": "Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la resolución motivada por el órgano de contratación aprobando un expediente de contratación y disponiendo la apertura del procedimiento de adjudicación, implicará con carácter general:",
+   "opciones": [
+    "La apertura del plazo para el depósito de la garantía provisional.",
+    "La preferencia para el despacho del expediente por los distintos órganos que intervengan en la tramitación.",
+    "La motivación de que no se está alterando el objeto del contrato.",
+    "La aprobación del gasto."
+   ]
+  },
+  {
+   "id": "of-04-023",
+   "origen": "oficiales",
+   "test": "Tema 4 (4) - LCSP (arts 115 a 148)",
+   "n": 23,
+   "enunciado": "Según lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, con respecto a la tramitación de emergencia, cuando la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos, de situaciones que supongan grave peligro o de necesidades que afecten a la defensa nacional, se estará al siguiente régimen excepcional. Señale a este respecto la respuesta correcta:",
+   "opciones": [
+    "El órgano de contratación, sin obligación de tramitar expediente de contratación, podrá ordenar la ejecución de lo necesario para remediar el acontecimiento producido o satisfacer la necesidad sobrevenida, o contratar libremente su objeto, en todo o en parte, sin sujetarse a los requisitos formales establecidos en la presente Ley, salvo el de la existencia de crédito suficiente.",
+    "Si el contrato ha sido celebrado por la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social o demás entidades públicas estatales, se dará cuenta de dichos acuerdos al Consejo de Estado en el plazo máximo de treinta días.",
+    "Las restantes prestaciones que sean necesarias para completar la actuación acometida por la Administración y que no tengan carácter de emergencia se contratarán con arreglo a la tramitación ordinaria regulada en esta Ley.",
+    "El plazo de inicio de la ejecución de las prestaciones no podrá ser superior a dos meses."
+   ]
+  },
+  {
+   "id": "of-05-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 1,
+   "enunciado": "De acuerdo con el artículo 159 de la LCSP, señale la respuesta correcta sobre el procedimiento abierto simplificado:",
+   "opciones": [
+    "El plazo de presentación de ofertas será, como mínimo, de 30 días hábiles.",
+    "El anuncio de licitación deberá publicarse en el perfil de contratante, en el BOE y, en su caso, en el DOUE.",
+    "No procederá la constitución de garantía provisional por parte de los licitadores.",
+    "Los licitadores deberán contar con la preceptiva clasificación."
+   ]
+  },
+  {
+   "id": "of-05-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 2,
+   "enunciado": "En contratos de suministros de valor estimado inferior a 60.000 euros, de acuerdo con lo previsto en el artículo 159.6 de la LCSP, el procedimiento abierto simplificado podrá tener la siguiente especialidad:",
+   "opciones": [
+    "Se exigirá la constitución de una garantía definitiva del 1% del importe de adjudicación del contrato.",
+    "Se exigirá la constitución de una garantía definitiva del 2% del precio del contrato.",
+    "Se exigirá a los licitadores el requisito de la clasificación.",
+    "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional."
+   ]
+  },
+  {
+   "id": "of-05-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 3,
+   "enunciado": "Conforme a lo dispuesto en el artículo 159.6 de la LCSP, ¿cuál de estos contratos podría adjudicarse mediante procedimiento abierto simplificado sumario?",
+   "opciones": [
+    "Un contrato de obras con valor estimado de 100.000 €.",
+    "Un contrato de servicios con valor estimado de 30.000 € que se evaluará únicamente con criterios cuantificables mediante la mera aplicación de fórmulas.",
+    "Un contrato de suministros con valor estimado inferior a 60.000 € con criterios de adjudicación sometidos a juicio de valor con una ponderación del 25 %.",
+    "Un contrato de servicios con valor estimado de 80.000 €."
+   ]
+  },
+  {
+   "id": "of-05-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 4,
+   "enunciado": "En base al artículo 151 de la LCSP, ¿cuál es el plazo en el que debe ser publicada en el perfil del contratante la resolución de la adjudicación?",
+   "opciones": [
+    "15 días naturales.",
+    "10 días naturales.",
+    "15 días hábiles.",
+    "10 días hábiles."
+   ]
+  },
+  {
+   "id": "of-05-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 5,
+   "enunciado": "De acuerdo con la LCSP, la asociación para la innovación es:",
+   "opciones": [
+    "Un procedimiento de adjudicación.",
+    "Una forma de acreditar solvencia.",
+    "Un procedimiento abreviado.",
+    "Un requisito de ejecución."
+   ]
+  },
+  {
+   "id": "of-05-006",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 6,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, señale la respuesta correcta respecto a los plazos de presentación de proposiciones en el procedimiento abierto simplificado:",
+   "opciones": [
+    "No podrá ser inferior a 20 días a contar desde el siguiente a la publicación del anuncio de licitación en contratos de obras.",
+    "No podrá ser superior a 15 días a contar desde el siguiente a la publicación del anuncio de licitación.",
+    "Será al menos de 10 días desde la publicación del anuncio de licitación, en contratos de obras y tramitación urgente.",
+    "No podrá ser inferior a 26 días a contar desde el siguiente a la publicación del anuncio de licitación en contratos de obras."
+   ]
+  },
+  {
+   "id": "of-05-007",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 7,
+   "enunciado": "Si el Ministerio quiere contratar la elaboración de un proyecto de obras por un estudio de arquitectura, en el que los criterios evaluables mediante juicio de valor son un 40% del total:",
+   "opciones": [
+    "Podría acudir a un contrato menor si el valor estimado del contrato fuera inferior a 25.000 euros.",
+    "Podrá utilizar un procedimiento abierto simplificado si el valor estimado del contrato es inferior a 140.000 euros.",
+    "Solo en el caso de que el valor estimado del contrato fuera superior a 216.000 euros estaría sujeto a regulación armonizada.",
+    "Podrá eximir a los licitadores de la acreditación de la solvencia si el valor estimado del contrato es inferior a 60.000 euros."
+   ]
+  },
+  {
+   "id": "of-05-008",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 8,
+   "enunciado": "En un contrato de obras del Ministerio el valor estimado asciende a 79.000 euros y entre los criterios de adjudicación previstos en el pliego un 20% de ellos son evaluables mediante juicio de valor. Señale la respuesta correcta:",
+   "opciones": [
+    "Se podrá realizar la contratación mediante un contrato menor de obras.",
+    "Podrá acordar la utilización de un procedimiento abierto simplificado sumario del artículo 159.6 de la LCSP.",
+    "Podrá acordar la utilización de un procedimiento abierto simplificado.",
+    "El órgano de contratación no podrá acordar la utilización de un procedimiento abierto simplificado."
+   ]
+  },
+  {
+   "id": "of-05-009",
+   "origen": "oficiales",
+   "test": "Tema 4 (5) - LCSP (arts. 149 a 182)",
+   "n": 9,
+   "enunciado": "Según el artículo 158 de la LCSP en un procedimiento abierto, cuando el único criterio para seleccionar al adjudicatario del contrato sea el del precio, la adjudicación deberá recaer en el plazo máximo de:",
+   "opciones": [
+    "15 días a contar desde el siguiente al de la finalización del plazo de presentación de las proposiciones.",
+    "15 días a contar desde el siguiente al de apertura de las proposiciones.",
+    "20 días a contar desde el siguiente al de la publicación de la licitación en el perfil del contratante.",
+    "20 días a contar desde el siguiente al de la publicación de la licitación en el Boletín Oficial del Estado."
+   ]
+  }
+ ]
+}

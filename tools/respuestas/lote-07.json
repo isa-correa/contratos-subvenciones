@@ -1,0 +1,127 @@
+{
+"au-08-019": {"bloque":"lcsp-preparacion","precepto":"art. 103.2","correcta":3,"justificaciones":[
+"Es verdadera, así que no se marca. La fabricación de armamento y equipamiento de las Administraciones admite revisión (**art. 103.2**).",
+"Es verdadera, así que no se marca. El suministro de energía admite revisión (**art. 103.2**).",
+"Es verdadera, así que no se marca. Los contratos de obra admiten revisión (**art. 103.2**).",
+"Esta es la falsa, y por eso es la que hay que marcar. El umbral es de cinco años de recuperación de la inversión, no de tres (**art. 103.2**)."]},
+"au-08-020": {"bloque":"lcsp-preparacion","precepto":"art. 103.5","correcta":1,"justificaciones":[
+"No. Se excluye el importe del primer año desde la formalización, no el de los dos primeros.",
+"Es esta. Quedan excluidos el primer 20 por ciento ejecutado y el importe ejecutado en el primer año desde la formalización (**art. 103.5**).",
+"No. Ni el porcentaje es del 10 por ciento ni el plazo es de dos años.",
+"No. El plazo es de un año, pero el porcentaje es del 20 por ciento, no del 10."]},
+"au-09-001": {"bloque":"lcsp-preparacion","precepto":"art. 107.1","correcta":0,"justificaciones":[
+"Es esta. La exención de garantía definitiva no es posible en los contratos de obras ni en los de concesión de obras (**art. 107.1**).",
+"No. En la concesión de servicios sí cabe eximir, justificándolo en el pliego.",
+"No. En suministros sí cabe eximir, y el artículo cita expresamente los bienes consumibles.",
+"No. Sí hay limitación: obras y concesión de obras."]},
+"au-09-002": {"bloque":"lcsp-preparacion","precepto":"art. 106.2","correcta":2,"justificaciones":[
+"No. El tope no es del 5 por ciento.",
+"No. El 1 por ciento no es el límite que fija el **art. 106.2**.",
+"Es esta. La garantía provisional no puede superar el 3 por 100 del presupuesto base de licitación, excluido el IVA (**art. 106.2**).",
+"No. El 10 por ciento es el máximo de la garantía total con la complementaria, no de la provisional."]},
+"au-09-003": {"bloque":"lcsp-preparacion","precepto":"art. 106.1","correcta":1,"justificaciones":[
+"No. Es excepcional y el tope se calcula sobre el presupuesto base de licitación, no sobre el valor estimado.",
+"Es esta. La garantía provisional no procede, salvo que por motivos de interés público el órgano de contratación la considere necesaria y lo justifique motivadamente (**art. 106.1**).",
+"No. No es obligatoria. El máximo del 3 por ciento sí es correcto, pero la primera parte es falsa.",
+"No. No es obligatoria y el 3 por ciento es un máximo, no un importe fijo."]},
+"au-09-004": {"bloque":"lcsp-preparacion","precepto":"art. 106.2","correcta":1,"justificaciones":[
+"No. 100.000 euros sería el 10 por ciento.",
+"Es esta. El 3 por ciento de 1.000.000 € son 30.000 € (**art. 106.2**).",
+"No. 20.000 euros sería el 2 por ciento.",
+"No. 50.000 euros sería el 5 por ciento, que es la garantía definitiva, no la provisional."]},
+"au-09-005": {"bloque":"lcsp-preparacion","precepto":"art. 107.2","correcta":2,"justificaciones":[
+"No. El 10 por ciento es el tope de la garantía total (definitiva más complementaria), no de la complementaria.",
+"No. No existe un tope del 15 por ciento.",
+"Es esta. La garantía complementaria puede alcanzar hasta un 5 por 100 del precio final ofertado por el licitador que presentó la mejor oferta (**art. 107.2**).",
+"No. El tope es del 5 por ciento, no del 3."]},
+"au-09-006": {"bloque":"lcsp-preparacion","precepto":"art. 110","correcta":3,"justificaciones":[
+"Es verdadera, así que no se marca. La garantía definitiva responde de formalizar el contrato en plazo (**art. 110.a**).",
+"Es verdadera, así que no se marca. Responde de las penalidades impuestas al contratista (**art. 110.b**).",
+"Es verdadera, así que no se marca. Responde de la correcta ejecución de las prestaciones (**art. 110.c**).",
+"Esta es la falsa, y por eso es la que hay que marcar. La incautación que responde es la de los casos de resolución del contrato, no de suspensión (**art. 110.d**)."]},
+"au-09-007": {"bloque":"lcsp-preparacion","precepto":"art. 110.a","correcta":3,"justificaciones":[
+"No. La provisional responde del mantenimiento de las ofertas hasta la perfección del contrato (**art. 106.1**).",
+"No. La LCSP no regula una garantía llamada “inicial”.",
+"No. La LCSP no regula una garantía “intermedia”.",
+"Es esta. La garantía definitiva responde de la obligación de formalizar el contrato en plazo (**art. 110.a**)."]},
+"au-09-008": {"bloque":"lcsp-preparacion","precepto":"art. 106.1","correcta":1,"justificaciones":[
+"No. La LCSP no regula una garantía “inicial”.",
+"Es esta. La garantía provisional responde del mantenimiento de las ofertas hasta la perfección del contrato (**art. 106.1**).",
+"No. La definitiva se exige al mejor oferente y responde de la ejecución (**art. 110**).",
+"No. La LCSP no regula una garantía “de licitación”."]},
+"au-09-009": {"bloque":"lcsp-preparacion","precepto":"art. 106.4","correcta":3,"justificaciones":[
+"No. A los demás licitadores se les devuelve tras la perfección, pero al adjudicatario se le devuelve cuando constituya la definitiva.",
+"No. La formalización no es el hito que marca la ley para el adjudicatario.",
+"No. Esperar al fin del plazo de garantía sería propio de la definitiva, no de la provisional.",
+"Es esta. Al adjudicatario se le devuelve cuando haya constituido la garantía definitiva, y puede aplicarse el importe a esta o constituirse una nueva (**art. 106.4**)."]},
+"au-09-010": {"bloque":"lcsp-preparacion","precepto":"art. 107.1","correcta":0,"justificaciones":[
+"Es esta. La garantía definitiva es del 5 por 100 del precio final ofertado, excluido el IVA (**art. 107.1**).",
+"No. Se calcula sin IVA, no con IVA.",
+"No. Se calcula sobre el precio final ofertado, no sobre el valor estimado.",
+"No. Falla en la base (valor estimado) y en el IVA."]},
+"au-09-011": {"bloque":"lcsp-preparacion","precepto":"art. 107.3","correcta":2,"justificaciones":[
+"No. Con precios unitarios no hay un importe cerrado de adjudicación al que acudir, por eso la ley fija otra base.",
+"No. El valor estimado no es la base de la garantía definitiva.",
+"Es esta. Si el precio se formula en precios unitarios, la garantía se fija atendiendo al presupuesto base de licitación, IVA excluido (**art. 107.3**).",
+"No. Con precios unitarios no hay un precio cerrado, así que no puede ser la base."]},
+"au-09-012": {"bloque":"lcsp-preparacion","precepto":"art. 107.2","correcta":2,"justificaciones":[
+"No. “Alcanzará” lo presenta como obligatorio, y la ley solo dice que podrá alcanzar el 10 por ciento.",
+"No. El 5 por ciento es la definitiva sola, y además el verbo es “podrá”.",
+"Es esta. Con la complementaria, la garantía total podrá alcanzar un 10 por 100 del precio final ofertado, excluido el IVA (**art. 107.2**).",
+"No. El 5 por ciento es solo la definitiva ordinaria. Con la complementaria el total puede llegar al 10."]},
+"au-09-013": {"bloque":"lcsp-preparacion","precepto":"art. 108.1","correcta":3,"justificaciones":[
+"No. El seguro de responsabilidad civil cubre daños, no es una forma de garantía definitiva. La ley admite el seguro de caución.",
+"No. Los valores que se admiten son, en todo caso, de Deuda Pública.",
+"No. El cheque no figura entre las formas que admite el **art. 108.1**.",
+"Es esta. El contrato de seguro de caución es una de las formas admitidas (**art. 108.1.c**)."]},
+"au-09-014": {"bloque":"lcsp-preparacion","precepto":"arts. 109.1 y 150.2","correcta":3,"justificaciones":[
+"No. El plazo no es de cinco días y se cuenta en días hábiles.",
+"No. Son diez días, pero hábiles, no naturales.",
+"No. El plazo son diez días hábiles, no quince.",
+"Es esta. El licitador debe acreditar la garantía definitiva en el plazo de diez días hábiles del requerimiento (**arts. 109.1 y 150.2**)."]},
+"au-09-015": {"bloque":"lcsp-preparacion","precepto":"art. 109.2","correcta":2,"justificaciones":[
+"No. El plazo no es de cinco días, sino de quince (**art. 109.2**).",
+"No. El plazo no es de diez días, sino de quince (**art. 109.2**).",
+"Es esta. Hay que reponer o ampliar la garantía en quince días desde la ejecución, y si no, hay causa de resolución (**art. 109.2**).",
+"No. Los diez días hábiles son del plazo de constitución, no de la reposición."]},
+"au-09-016": {"bloque":"lcsp-preparacion","precepto":"art. 111.2","correcta":2,"justificaciones":[
+"No. El plazo es mayor, de dos meses.",
+"No. Es de dos meses, no de uno.",
+"Es esta. El acuerdo de devolución debe adoptarse y notificarse en dos meses desde la finalización del plazo de garantía (**art. 111.2**).",
+"No. Son dos meses, no tres."]},
+"au-09-017": {"bloque":"lcsp-preparacion","precepto":"art. 111.3","correcta":0,"justificaciones":[
+"Es esta. En la recepción parcial, la devolución de la parte proporcional solo procede cuando lo autorice expresamente el PCAP (**art. 111.3**).",
+"No. El pliego que lo autoriza es el de cláusulas administrativas particulares, no el de prescripciones técnicas.",
+"No. No es automático, necesita autorización expresa en el PCAP.",
+"No. Tampoco es automático fuera de obras. Siempre hace falta que el PCAP lo autorice."]},
+"au-09-018": {"bloque":"lcsp-preparacion","precepto":"art. 107.2","correcta":1,"justificaciones":[
+"No. Nunca se exige “siempre”: es una posibilidad que el PCAP puede prever en casos especiales.",
+"Es esta. Solo cabe exigirla en casos especiales cuando el órgano de contratación la haya previsto en el PCAP (**art. 107.2**).",
+"No. La anormalidad es un ejemplo en que se puede prever, no el único supuesto.",
+"No. Es de hasta un 5 por ciento, no de un 5 por ciento fijo."]},
+"au-09-019": {"bloque":"lcsp-preparacion","precepto":"art. 107.2","correcta":0,"justificaciones":[
+"Es esta. La complementaria se calcula sobre el precio final ofertado y puede ser de hasta un 5 por ciento, así que un 2 por ciento encaja (**art. 107.2**).",
+"No. La definitiva general es el 5 por ciento del precio final ofertado (**art. 107.1**).",
+"No. La provisional se calcula sobre el presupuesto base de licitación, no sobre el precio final ofertado (**art. 106.2**).",
+"No. La complementaria sí podría constituirse por ese importe."]},
+"au-09-020": {"bloque":"lcsp-preparacion","precepto":"art. 106.2","correcta":0,"justificaciones":[
+"Es esta. La provisional se calcula sobre el presupuesto base de licitación, excluido el IVA, con un máximo del 3 por ciento, así que un 2 por ciento encaja (**art. 106.2**).",
+"No. La definitiva se calcula sobre el precio final ofertado (**art. 107.1**), no sobre el presupuesto base.",
+"No. La complementaria se calcula sobre el precio final ofertado (**art. 107.2**).",
+"No. La garantía provisional sí podría constituirse por ese importe."]},
+"au-10-001": {"bloque":"lcsp-preparacion","precepto":"art. 115","correcta":0,"justificaciones":[
+"Es esta. Durante las consultas, el órgano de contratación no puede revelar a los participantes las soluciones propuestas por otros (**art. 115.3**).",
+"No. Con carácter general debe tener en cuenta los resultados, pero si no lo hace basta con dejar constancia de los motivos en el informe.",
+"No. La participación en la consulta no impide intervenir después en el procedimiento (**art. 115.3**).",
+"No. De las consultas no puede resultar un objeto que solo encaje con las características de uno de los consultados (**art. 115.2**)."]},
+"au-10-002": {"bloque":"lcsp-preparacion","precepto":"art. 118.1","correcta":1,"justificaciones":[
+"No. El umbral de obras es de 40.000 euros, no de 50.000.",
+"Es esta. Son contratos menores los de valor estimado inferior a 40.000 euros en obras, y a 15.000 en suministros y servicios (**art. 118.1**).",
+"No. Que sean obras de conservación no los hace menores. Lo que cuenta es el valor estimado.",
+"No. No depende de que se exija clasificación, sino del valor estimado."]},
+"au-10-003": {"bloque":"lcsp-preparacion","precepto":"art. 118.1","correcta":1,"justificaciones":[
+"No. En obras el límite es inferior a 40.000 euros y este contrato vale 60.000.",
+"Es esta. Es un contrato de obras de valor estimado inferior a 40.000 euros (**art. 118.1**).",
+"No. En suministros el límite es inferior a 15.000 euros y este vale 18.000.",
+"No. En servicios hay que ser inferior a 15.000 euros, y 15.000 no es inferior."]}
+}

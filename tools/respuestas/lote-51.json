@@ -1,0 +1,474 @@
+{
+ "pr-66-067": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no cabe recurso especial en los procedimientos de adjudicación por emergencia (art. 44.4).",
+   "No: en concesiones el umbral es de más de tres millones de euros, no de dos (art. 44.1.c).",
+   "Correcta: un servicio de más de 100.000 euros es recurrible, y la tramitación de urgencia no lo impide (art. 44.1.a).",
+   "No: en suministros el valor estimado debe ser superior a 100.000 euros, y 100.000 exactos no lo supera."
+  ]
+ },
+ "pr-66-068": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 72.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: tres años no es el límite.",
+   "No: cuatro años no es el límite.",
+   "No: un año no es el límite.",
+   "Correcta: si la sentencia penal no fija la duración, no puede exceder de cinco años desde la condena firme (art. 72.6)."
+  ]
+ },
+ "pr-66-069": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 50.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: son quince días, no diez.",
+   "Correcta: el escrito se presenta en el plazo de quince días hábiles (art. 50.1).",
+   "No: ni diez días ni naturales.",
+   "No: son quince días, pero hábiles, no naturales."
+  ]
+ },
+ "pr-66-070": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 16.3.d",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los contratos de propiedades incorporales no son de suministro (art. 16.2).",
+   "No: los programas de ordenador desarrollados a medida se consideran servicios (art. 16.3.b).",
+   "Correcta: la adquisición de energía primaria o transformada es suministro (art. 16.3.d).",
+   "No: la redacción del proyecto de obras es un contrato de servicios."
+  ]
+ },
+ "pr-68-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No: con precios provisionales no cabe revisión, ni siquiera por el periodo de recuperación.",
+   "No: con precios provisionales no cabe revisión, aunque la inversión se recupere en cinco años o más.",
+   "No: los porcentajes de ejecución son requisitos de la revisión ordinaria, que aquí no cabe.",
+   "Correcta: en los contratos con precios provisionales no cabe la revisión de precios (art. 102.7)."
+  ]
+ },
+ "pr-68-010": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.4.g LGS",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la Ley no excluye las ayudas de la PAC de ese artículo.",
+   "No: financiar ciencia y tecnología puede ser subvención.",
+   "Correcta: los beneficios fiscales y en la cotización a la Seguridad Social no tienen carácter de subvención (art. 2.4.g).",
+   "No: fomentar actividades de interés social es el fin típico de una subvención (art. 2.1.c)."
+  ]
+ },
+ "pr-68-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: no puede ser superior al 3 % del presupuesto base de licitación, excluido el IVA (art. 106.2).",
+   "No: se calcula sobre el presupuesto base de licitación, no sobre el valor estimado.",
+   "No: el límite es el 3 %, no el 2 %.",
+   "No: el límite es el 3 % y sobre el presupuesto base, no el 2 % del valor estimado."
+  ]
+ },
+ "pr-68-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 16.3.b y 17",
+  "correcta": 1,
+  "justificaciones": [
+   "No: los equipos y sistemas de telecomunicaciones son suministro (art. 16.3.b).",
+   "Correcta: los programas de ordenador desarrollados a medida se consideran contrato de servicios (art. 16.3.b).",
+   "No: la energía primaria es suministro (art. 16.3.d).",
+   "No: la energía transformada es suministro (art. 16.3.d)."
+  ]
+ },
+ "pr-67-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 68.1 y 68.2 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo es de diez días, no de cinco.",
+   "Correcta: diez días hábiles, ampliables prudencialmente hasta cinco más cuando la aportación presente dificultades especiales (art. 68.2).",
+   "No: el plazo no es de quince días.",
+   "No: sí puede ampliarse, y el enunciado habla de dificultades especiales."
+  ]
+ },
+ "pr-67-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 68.1 Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si no subsana, se le tendrá por desistido de su petición, previa resolución (art. 68.1).",
+   "No: el decaimiento en el derecho al trámite es del art. 73, no de la subsanación de solicitudes.",
+   "No: la caducidad es por paralización imputable al interesado, no por no subsanar.",
+   "No: no se archiva sin más, hay que dictar resolución."
+  ]
+ },
+ "pr-67-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 82.2 y 30 Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el 13 de noviembre sería el día 8, y el plazo mínimo es de diez días hábiles.",
+   "No: el 16 de noviembre sería el día 9, y el plazo mínimo es de diez días hábiles.",
+   "Correcta: el plazo mínimo es de diez días hábiles desde el día siguiente (4 de noviembre) y, sin contar sábados ni domingos, el décimo es el martes 17 (arts. 82.2 y 30).",
+   "No: el 24 de noviembre equivale a quince días hábiles, que es el máximo."
+  ]
+ },
+ "pr-67-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 87.1 Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No: acordarlas después del trámite de audiencia es posible, pero lo debe acordar quien resuelve.",
+   "No: antes de la propuesta es posible en el tiempo, pero no lo acordó el órgano correcto.",
+   "No: no es cuestión de poder hacerlo en cualquier momento, sino de quién tiene la competencia.",
+   "Correcta: las actuaciones complementarias las acuerda el órgano competente para resolver, y aquí resuelve el Subsecretario (art. 87.1)."
+  ],
+  "ojo": "El enunciado dice que el instructor es el Subdirector General y que resuelve el Subsecretario."
+ },
+ "pr-67-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 87 Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No es la incorrecta: las actuaciones deben practicarse en un plazo no superior a quince días.",
+   "No es la incorrecta: el plazo para resolver queda suspendido hasta que terminen.",
+   "Correcta (es la incorrecta): el plazo de siete días para alegar es posterior a las actuaciones, no anterior.",
+   "No es la incorrecta: el acuerdo debe ser motivado."
+  ]
+ },
+ "pr-67-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 21.3 y 30.4 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 14 de diciembre saldría de contar desde el 14 de septiembre, fecha de presentación en el registro del Ayuntamiento.",
+   "Correcta: sin plazo propio, el máximo es de tres meses desde la entrada en el registro electrónico de la AGE (16 de septiembre), y vence el miércoles 16 de diciembre.",
+   "No: el 17 de diciembre cuenta un día de más.",
+   "No: seis meses (16 de marzo de 2027) no es el plazo supletorio, que es de tres."
+  ],
+  "ojo": "El cómputo parte de la entrada en el registro del órgano competente, no del registro del Ayuntamiento."
+ },
+ "pr-67-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 41.6, 41.7, 42.1 y 43.2 Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No: si se notifica por varios cauces, vale la fecha de la primera notificación practicada.",
+   "No: la notificación electrónica se entiende practicada al acceder a su contenido, no con la puesta a disposición.",
+   "No: la falta del aviso de puesta a disposición no impide que la notificación sea válida.",
+   "Correcta: con independencia del medio elegido, la notificación se pone a disposición en la sede electrónica o dirección electrónica habilitada única (art. 41.1)."
+  ]
+ },
+ "pr-67-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 121 Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la resolución del Subsecretario no agota la vía, y la alzada puede presentarse ante quien dictó el acto o ante el competente para resolverla, el Ministro (art. 121).",
+   "No: el Subdirector General no dictó el acto ni es el que resuelve.",
+   "No: no es obligatorio presentarla solo ante el Ministro.",
+   "No: el acto no agota la vía administrativa, así que no cabe reposición."
+  ]
+ },
+ "pr-67-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 116.a Ley 39/2015 y art. 14.1 Ley 40/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la inadmisión por incompetencia solo procede si el competente pertenece a otra Administración (art. 116.a).",
+   "No: no depende del Departamento, lo decisivo es que el competente sea de la misma Administración.",
+   "No: la regla no distingue por jerarquía, basta que sea de la misma Administración para que remita.",
+   "Correcta: solo se inadmite si el competente es de otra Administración (art. 116.a); dentro de la misma Administración remite directamente las actuaciones al competente y notifica a los interesados (art. 14.1 Ley 40/2015)."
+  ]
+ },
+ "pr-67-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 122.2 Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el plazo de tres meses ya incluye notificar, no se suman diez días.",
+   "No: un mes más diez días no es el plazo.",
+   "Correcta: el plazo máximo para dictar y notificar la resolución de la alzada es de tres meses (art. 122.2).",
+   "No: un mes es el plazo de la reposición, no el de la alzada."
+  ]
+ },
+ "pr-67-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la reforma es ampliar, mejorar o modernizar, no enmendar el desgaste.",
+   "Correcta: el deterioro por el tiempo y el uso natural se enmienda con obras de conservación y mantenimiento (art. 232.5).",
+   "No: la reparación enmienda daños por causas fortuitas o accidentales.",
+   "No: la gran reparación afecta a la estructura resistente y nace de causas accidentales."
+  ]
+ },
+ "pr-67-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: obras de valor estimado de 70.000 euros (menos de 80.000) con criterios de fórmulas: abierto simplificado abreviado, con diez días hábiles (art. 159.6.a).",
+   "No: quince días son los del abierto simplificado ordinario.",
+   "No: veinte días son los del ordinario en obras.",
+   "No: veintiséis días son los del abierto ordinario no armonizado en obras."
+  ],
+  "ojo": "El valor estimado es 70.000 euros; los 84.700 son el presupuesto con IVA."
+ },
+ "pr-67-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 159.4.b y 159.6.f",
+  "correcta": 3,
+  "justificaciones": [
+   "No: en el abierto simplificado no procede garantía provisional.",
+   "No: tampoco hay garantía provisional que aplicar a la definitiva.",
+   "No: en el abreviado no se requiere la garantía definitiva.",
+   "Correcta: en el abierto simplificado abreviado no hay garantía provisional ni se requiere la definitiva (arts. 159.4.b y 159.6.f)."
+  ]
+ },
+ "pr-67-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: quince días son solo si el único criterio es el precio, y aquí hay dos criterios.",
+   "No: un mes no es plazo legal.",
+   "Correcta: con varios criterios (precio y plazo de garantía) el plazo es de dos meses desde la apertura de las proposiciones (art. 158.2).",
+   "No: tres meses no es el plazo legal."
+  ]
+ },
+ "pr-67-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.1.a LCSP y 117.1 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: interponer un recurso ordinario no suspende automáticamente la tramitación.",
+   "Correcta: no cabe recurso especial en obras por menos de 3 millones, así que procede un recurso ordinario, que no suspende por sí solo la ejecución (art. 44.6).",
+   "No: no cabe recurso especial en obras de 70.000 euros, y tampoco suspende automáticamente.",
+   "No: no cabe recurso especial por la cuantía."
+  ]
+ },
+ "pr-67-016": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 205.2.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 6.000 euros es el 10 %, que es el porcentaje para los demás contratos, no para obras.",
+   "Correcta: en obras la modificación no es sustancial si no excede del 15 % del precio inicial, IVA excluido: 15 % de 60.000 son 9.000 euros.",
+   "No: 10.500 euros no sale del precio de adjudicación.",
+   "No: 12.000 euros es el 20 %, límite de las modificaciones obligatorias."
+  ],
+  "ojo": "Se aplica sobre el precio de adjudicación, 60.000 euros, y no sobre el valor estimado."
+ },
+ "pr-67-017": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 0,60 euros por cada 1.000 de precio son 36 euros al día, y diez días son 360 euros (art. 193.3).",
+   "No: 420 euros no sale de aplicar el precio de 60.000.",
+   "No: 435,60 euros incluiría IVA.",
+   "No: 3.600 euros multiplica por diez el resultado."
+  ]
+ },
+ "pr-67-018": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 229.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la Dirección General presta apoyo técnico, pero no es el órgano de contratación.",
+   "No: el Ministro declara la contratación centralizada, pero no adjudica.",
+   "Correcta: el órgano de contratación del sistema estatal es la Junta de Contratación Centralizada (art. 229.5).",
+   "No: la contratación es centralizada, no la adjudica el Ministerio destinatario."
+  ]
+ },
+ "pr-67-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 100 y 101",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 102.700 euros no corresponde a ningún cálculo con 130.000.",
+   "No: 130.000 euros es el valor estimado, sin IVA.",
+   "No: 143.000 euros sumaría un 10 %, y el IVA de la vigilancia es el 21 %.",
+   "Correcta: el presupuesto base incluye el IVA, así que 130.000 por 1,21 son 157.300 euros (art. 100)."
+  ]
+ },
+ "pr-67-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a y 44.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: para servicios de la AGE el umbral es 140.000 euros y el contrato vale 130.000.",
+   "No: el abreviado exige valor estimado inferior a 60.000 euros en servicios.",
+   "Correcta: es un servicio de más de 100.000 euros, así que el anuncio de licitación es recurrible en vía especial (art. 44.1.a y 44.2.a).",
+   "No: el abierto simplificado es una posibilidad, no una obligación."
+  ]
+ },
+ "pr-67-021": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la autorización también se exige en este supuesto, sea cual sea el valor estimado.",
+   "No: no depende de que se ejercite la opción de compra.",
+   "No: el umbral es de cuatro anualidades, no de cinco.",
+   "Correcta: en el arrendamiento con opción de compra se necesita la autorización si las anualidades superan cuatro años (art. 324.1.b)."
+  ]
+ },
+ "pr-67-022": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 67.1 Ley 39/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el año se cuenta desde la determinación del alcance de las secuelas, no desde la caída.",
+   "Correcta: del 15 de mayo de 2025 al 16 de marzo de 2026 no ha pasado un año (art. 67.1).",
+   "No: el plazo es de un año, no de seis meses.",
+   "No: el plazo no es de dos años."
+  ]
+ },
+ "pr-67-023": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 14 Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: acudió por un asunto particular, no por su condición de empleada, así que puede elegir presencial o electrónico.",
+   "No: la presentación electrónica no está excluida de la responsabilidad patrimonial por materia.",
+   "No: los empleados solo están obligados en los trámites que hagan por razón de su condición de empleado.",
+   "No: la capacidad se presume para los obligados, y ella no lo está en este trámite."
+  ],
+  "ojo": "El enunciado dice que acudió para una gestión particular."
+ },
+ "pr-67-024": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 81.1 Ley 39/2015",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el informe es preceptivo, no facultativo.",
+   "No: es preceptivo, y no facultativo.",
+   "Correcta: el informe del servicio es preceptivo, no vinculante, y no puede exceder de diez días (art. 81.1).",
+   "No: el informe no es vinculante para quien resuelve."
+  ]
+ },
+ "pr-67-025": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 91.3 Ley 39/2015 y Reglamento de responsabilidad patrimonial",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la caída fue en un edificio del Ministerio de Juventud e Infancia, no en el de Cultura.",
+   "No: el plazo es de seis meses, no de tres.",
+   "No: el órgano competente es el del Ministerio responsable del servicio, no el de Cultura.",
+   "Correcta: resuelve el titular del Ministerio de Juventud e Infancia y el plazo máximo es de seis meses desde el 16 de marzo, es decir, el 16 de septiembre de 2026."
+  ],
+  "revisar": "El art. 91.3 (seis meses) está comprobado en el BOE. Que resuelva el Ministro del Departamento competente por razón de la materia viene del Reglamento de responsabilidad patrimonial (RD 429/1993), que no he podido contrastar en el BOE."
+ },
+ "pr-67-026": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 34.2 Ley 40/2015",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no se citan las tablas de indemnizaciones por razón del servicio.",
+   "Correcta: se puede tomar como referencia la valoración de los baremos de seguros obligatorios y de la Seguridad Social (art. 34.2).",
+   "No: la ley no cita los baremos de prevención de riesgos laborales.",
+   "No: la ley no cita tablas de la Ley de Presupuestos."
+  ]
+ },
+ "pr-67-027": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 34.3 Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la cuantía se calcula con referencia al día en que la lesión se produjo, sin perjuicio de actualizarla (art. 34.3).",
+   "No: la determinación de las secuelas fija el plazo para reclamar, no la fecha de cálculo.",
+   "No: la fecha de la reclamación no es la de referencia.",
+   "No: la resolución solo sirve para actualizar la cuantía."
+  ]
+ },
+ "pr-67-028": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 9.1.d y 11.1.a LJCA",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los Juzgados Centrales conocen de reclamaciones contra Ministros que no excedan de 30.050 euros (art. 9.1.d), y aquí son 35.000.",
+   "No: el Tribunal Superior de Justicia de Madrid no conoce de actos de Ministros.",
+   "Correcta: contra resoluciones de Ministros, por encima de 30.050 euros, conoce en única instancia la Sala de lo Contencioso-Administrativo de la Audiencia Nacional (arts. 9.1.d y 11.1.a LJCA).",
+   "No: la resolución del Ministro agota la vía administrativa, así que no hace falta recurso previo."
+  ]
+ },
+ "pr-67-029": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 93 Ley 40/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los estatutos del organismo autónomo se aprueban por real decreto del Consejo de Ministros.",
+   "No: no se aprueban por orden del Ministerio de Hacienda.",
+   "No: no se aprueban por orden del Ministerio de adscripción.",
+   "No: no se aprueban por resolución del propio organismo."
+  ]
+ },
+ "pr-67-030": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 111 Ley 39/2015",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la revisión de oficio sí alcanza a los actos de los organismos públicos.",
+   "No: el Consejo de Ministros revisa actos de los Ministros, no los de este organismo.",
+   "No: la Presidenta no revisa sus propios actos nulos.",
+   "Correcta: el organismo está adscrito a través de la Secretaría de Estado, y su titular revisa los actos del máximo órgano rector (art. 111)."
+  ]
+ },
+ "pr-68-001": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-002": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-003": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-005": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-006": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-007": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-008": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-011": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-013": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-016": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de Ley 39/2015 o Ley 40/2015, fuera de contratos y subvenciones. Se revisa en la plataforma de Ley 39."
+ },
+ "pr-68-004": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Código Civil o Ley 4/2023), fuera de contratos y subvenciones."
+ },
+ "pr-68-012": {
+  "bloque": "fuera",
+  "motivo": "Pregunta de otra norma (Código Civil o Ley 4/2023), fuera de contratos y subvenciones."
+ }
+}

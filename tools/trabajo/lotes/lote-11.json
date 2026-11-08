@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-16-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 19,
+   "enunciado": "Señale la respuesta incorrecta en relación con el procedimiento de asociación para la innovación:",
+   "opciones": [
+    "En los PCAP se determinará la necesidad que no puede ser satisfecha mediante soluciones ya disponibles en el mercado.",
+    "Finalizadas las fases de investigación y desarrollo, el órgano de contratación deberá adquirir los productos resultantes.",
+    "No se negociarán los requisitos mínimos ni los criterios de adjudicación.",
+    "Los órganos de contratación podrán limitar el número de candidatos aptos, siendo tres el número mínimo."
+   ]
+  },
+  {
+   "id": "au-16-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 20,
+   "enunciado": "En la asociación para la innovación, en el caso de que la adquisición de las obras, servicios o suministros conlleve la realización de prestaciones sucesivas, aquella solo se podrá llevar a cabo durante un periodo máximo de:",
+   "opciones": [
+    "Tres años.",
+    "Cuatro años.",
+    "Cinco años.",
+    "Diez años."
+   ]
+  },
+  {
+   "id": "au-17-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 1,
+   "enunciado": "De acuerdo con el artículo 192 de la LCSP, la cuantía de cada una de las penalidades para el caso de cumplimiento defectuoso de la prestación objeto del contrato, NO podrá ser superior a:",
+   "opciones": [
+    "El 10% del precio del contrato, IVA excluido.",
+    "El 10% del precio del contrato, IVA incluido.",
+    "El 50% del precio del contrato, IVA excluido.",
+    "El 20% del precio del contrato, IVA incluido."
+   ]
+  },
+  {
+   "id": "au-17-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 2,
+   "enunciado": "Según la LCSP, si la Administración se demorase cinco meses en el pago del precio de un contrato administrativo:",
+   "opciones": [
+    "Se produce automáticamente la suspensión del contrato.",
+    "La Administración podrá optar por acordar la resolución del contrato o su suspensión.",
+    "El contratista podrá suspender su cumplimiento, previa comunicación a la Administración con un mes de antelación.",
+    "El contratista tiene derecho a resolver el contrato y a una indemnización por los daños y perjuicios sufridos."
+   ]
+  },
+  {
+   "id": "au-17-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 3,
+   "enunciado": "De acuerdo con el contenido del artículo 198 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, desde la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato de los bienes entregados o servicios prestados, ¿de qué plazo dispone con carácter general la Administración para abonar el precio?",
+   "opciones": [
+    "3 meses.",
+    "30 días.",
+    "10 días.",
+    "1 mes."
+   ]
+  },
+  {
+   "id": "au-17-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 4,
+   "enunciado": "Dentro de los límites y con sujeción a los requisitos y efectos señalados en la presente LCSP, el órgano de contratación ostenta la prerrogativa de:",
+   "opciones": [
+    "Resolver los contratos privados.",
+    "Resolver las dudas que ofrezca el cumplimiento de los contratos privados y administrativos.",
+    "Modificar los plazos de abono del precio.",
+    "Modificar los contratos administrativos por razones de interés público."
+   ]
+  },
+  {
+   "id": "au-17-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 5,
+   "enunciado": "Señale la respuesta incorrecta. Dentro de los límites y con sujeción a los requisitos y efectos señalados en la LCSP, el órgano de contratación ostenta la prerrogativa de:",
+   "opciones": [
+    "Interpretar los contratos administrativos.",
+    "Resolver las dudas que ofrezca el cumplimiento de los contratos administrativos.",
+    "Declarar la responsabilidad imputable al contratista a raíz de la ejecución del contrato administrativo.",
+    "Inspeccionar toda instalación, oficina y demás emplazamientos en los que el contratista desarrolle sus actividades."
+   ]
+  },
+  {
+   "id": "au-17-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 6,
+   "enunciado": "En los procedimientos que se instruyan para la adopción de acuerdos relativos a las prerrogativas de la Administración Pública en los contratos administrativos:",
+   "opciones": [
+    "Será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
+    "Los acuerdos del órgano de contratación no pondrán fin a la vía administrativa, aunque serán inmediatamente ejecutivos.",
+    "Los acuerdos del órgano de contratación pondrán fin a la vía administrativa, aunque no serán inmediatamente ejecutivos.",
+    "Deberá darse audiencia al contratista."
+   ]
+  },
+  {
+   "id": "au-17-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 7,
+   "enunciado": "Según la LCSP, los PCAP podrán prever penalidades por cumplimiento defectuoso de la prestación objeto del mismo. Estas penalidades serán proporcionales a la gravedad del incumplimiento y la cuantía de cada una de ellas no podrá ser superior a:",
+   "opciones": [
+    "El 10% del precio del contrato, IVA excluido, ni el total de las mismas superar el 50% del precio del contrato.",
+    "El 20% del precio del contrato, IVA excluido, ni el total de las mismas superar el 50% del precio del contrato.",
+    "El 20% del precio del contrato, IVA excluido, ni el total de las mismas superar el 50% del precio del contrato.",
+    "El 10% del precio del contrato, IVA excluido, ni el total de las mismas superar el 60% del precio del contrato."
+   ]
+  },
+  {
+   "id": "au-17-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 8,
+   "enunciado": "Cuando el contratista, por causas imputables al mismo, hubiere incurrido en demora respecto al cumplimiento del plazo total, la Administración podrá optar por la resolución del contrato o por la imposición de penalidades diarias en la proporción de:",
+   "opciones": [
+    "0,60 euros por cada 500 euros del precio del contrato, IVA incluido.",
+    "0,80 euros por cada 1.000 euros del precio del contrato, IVA incluido.",
+    "0,80 euros por cada 500 euros del precio del contrato, IVA excluido.",
+    "0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-17-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 9,
+   "enunciado": "El órgano de contratación estará facultado para proceder a la resolución del contrato o acordar la continuidad de su ejecución con imposición de nuevas penalidades cada vez que las penalidades por demora alcancen:",
+   "opciones": [
+    "Un múltiplo del 5% del precio del contrato, IVA incluido.",
+    "Un múltiplo del 10% del precio del contrato, IVA incluido.",
+    "Un múltiplo del 5% del precio del contrato, IVA excluido.",
+    "Un múltiplo del 10% del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-17-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 10,
+   "enunciado": "Señale en cuál de los supuestos que se indican a continuación, en relación con los contratos administrativos, NO será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma:",
+   "opciones": [
+    "La interpretación de los contratos, cuando se formule oposición por parte del contratista.",
+    "La modificación de los contratos, cuando se formule oposición por parte del contratista.",
+    "La declaración de nulidad de los contratos, cuando se formule oposición por parte del contratista.",
+    "La resolución de los contratos, cuando se formule oposición por parte del contratista."
+   ]
+  },
+  {
+   "id": "au-17-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 11,
+   "enunciado": "En el supuesto de demora en la ejecución, si el retraso fuese producido por motivos no imputables al contratista y este ofreciera cumplir sus compromisos si se le amplía el plazo inicial de ejecución, el órgano de contratación le concederá un plazo que será:",
+   "opciones": [
+    "Por lo menos, la mitad del tiempo perdido, a no ser que el contratista pidiese otro menor.",
+    "Por lo menos, igual al tiempo perdido, a no ser que el contratista pidiese otro menor.",
+    "Por lo menos, la mitad del tiempo perdido, a no ser que el contratista pidiese otro mayor.",
+    "Por lo menos, igual al tiempo perdido, a no ser que el contratista pidiese otro mayor."
+   ]
+  },
+  {
+   "id": "au-17-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 12,
+   "enunciado": "Como regla general, indemnizar todos los daños y perjuicios que se causen a terceros como consecuencia de las operaciones que requiera la ejecución del contrato, será obligación de:",
+   "opciones": [
+    "El contratista.",
+    "El órgano de contratación.",
+    "El Consejo de Estado.",
+    "La Administración contratante."
+   ]
+  },
+  {
+   "id": "au-17-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 13,
+   "enunciado": "Cuando los daños y perjuicios que se causen a terceros hayan sido ocasionados como consecuencia inmediata y directa de una orden de la Administración o como consecuencia de los vicios del proyecto en el contrato de obras, será responsable de los daños:",
+   "opciones": [
+    "El contratista.",
+    "La Administración.",
+    "El Consejo de Estado.",
+    "El consorcio de seguros."
+   ]
+  },
+  {
+   "id": "au-17-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 14,
+   "enunciado": "Sin perjuicio de lo establecido para el contrato de obras, la ejecución del contrato se realizará a riesgo y ventura de:",
+   "opciones": [
+    "El contratista.",
+    "El contratante.",
+    "El contratista y el contratante solidariamente.",
+    "El contratista y subsidiariamente el contratante."
+   ]
+  },
+  {
+   "id": "au-17-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 15,
+   "enunciado": "El contratista podrá proceder, en su caso, a la suspensión del cumplimiento del contrato si la demora en el pago fuese superior a:",
+   "opciones": [
+    "2 meses.",
+    "3 meses.",
+    "4 meses.",
+    "6 meses."
+   ]
+  },
+  {
+   "id": "au-17-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 16,
+   "enunciado": "El contratista tendrá derecho a resolver el contrato y al resarcimiento de los daños y perjuicios que como consecuencia de ello se le originen si la demora de la Administración en el pago del precio fuese superior a:",
+   "opciones": [
+    "2 meses.",
+    "3 meses.",
+    "4 meses.",
+    "6 meses."
+   ]
+  },
+  {
+   "id": "au-17-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 17,
+   "enunciado": "Los órganos de contratación podrán establecer condiciones especiales en relación con la ejecución del contrato, siempre que:",
+   "opciones": [
+    "Estén vinculadas al objeto del contrato, en el sentido del artículo 145.",
+    "No sean directa o indirectamente discriminatorias.",
+    "Sean compatibles con el derecho comunitario y se indiquen en el anuncio de licitación y en los pliegos.",
+    "Concurran todos los requisitos señalados en las opciones de respuesta anteriores."
+   ]
+  },
+  {
+   "id": "au-17-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 18,
+   "enunciado": "Según el artículo 197 de la LCSP, la ejecución del contrato se realizará:",
+   "opciones": [
+    "A riesgo y ventura del contratista, sin perjuicio de lo establecido para el contrato de obras.",
+    "A riesgo y ventura del contratista, sin perjuicio de los establecido para los contratos de concesiones.",
+    "A riesgo y ventura del órgano de contratación, sin perjuicio de lo establecido en el contrato de concesión de obras.",
+    "A riesgo y ventura del órgano de contratación, sin perjuicio de lo establecido en el contrato de obras."
+   ]
+  },
+  {
+   "id": "au-17-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 19,
+   "enunciado": "De acuerdo con el artículo 202 de la LCSP, los órganos de contratación podrán establecer condiciones especiales en relación con la ejecución del contrato, siempre que no sean directa o indirectamente discriminatorias y, además:",
+   "opciones": [
+    "No se encuentren vinculadas al objeto contractual.",
+    "Estén vinculadas al objeto del contrato y sean compatibles con el Derecho de la Unión Europea.",
+    "Su objeto sea mejorar aspectos ambientales o sociales, aun cuando estos no guarden relación con el objeto del contrato.",
+    "Sean compatibles con el Derecho de la Unión Europea, con independencia de que estén vinculadas o no al objeto del contrato."
+   ]
+  },
+  {
+   "id": "au-17-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 20,
+   "enunciado": "En caso de resolución del contrato por ejecución defectuosa del mismo, ¿cuándo será preceptivo Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva?",
+   "opciones": [
+    "No es preceptivo.",
+    "Será preceptivo en todo caso.",
+    "Será preceptivo en atención a la cuantía de los contratos y a las características del mismo.",
+    "Será preceptivo si media oposición del contratista."
+   ]
+  },
+  {
+   "id": "au-17-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 21,
+   "enunciado": "Será preceptivo el informe del Consejo de Estado en los casos de modificaciones del contrato cuando no estuvieran previstas en el pliego de cláusulas administrativas particulares y su cuantía, aislada o conjuntamente, sea superior a :",
+   "opciones": [
+    "Un 20 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 6.000.000 euros.",
+    "Un 25 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 3.000.000 euros.",
+    "Un 15 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 5.000.000 euros.",
+    "Un 20 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 4.000.000 euros."
+   ]
+  },
+  {
+   "id": "au-17-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 22,
+   "enunciado": "Según el artículo 192 de la LCSP, cuando el contratista, por causas imputables al mismo, hubiere incumplido parcialmente la ejecución de las prestaciones definidas en el contrato:",
+   "opciones": [
+    "La Administración deberá proceder a la resolución del contrato.",
+    "La Administración deberá proceder a la imposición de las penalidades.",
+    "La Administración podrá optar por la imposición de penalidades, siempre que estas se hubiesen establecido en el PCAP.",
+    "La Administración podrá optar por la imposición de penalidades diarias a razón de 0,60 por cada 1000 euros, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-17-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 23,
+   "enunciado": "Los abonos a cuenta que procedan por la ejecución del contrato, solo podrán ser embargados en los siguientes supuestos (señale la respuesta incorrecta):",
+   "opciones": [
+    "Para el pago de las cuotas sindicales del personal del contratista adscrito a la ejecución del contrato.",
+    "Para el pago de los salarios devengados por el personal del contratista en la ejecución del contrato.",
+    "Para el pago de las obligaciones contraídas por el contratista con los subcontratistas referidas a la ejecución del contrato.",
+    "Para el pago de las obligaciones contraídas por el contratista con los suministradores referidas a la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "au-17-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 24,
+   "enunciado": "Conforme al artículo 194 de la LCSP, las penalidades impuestas por el órgano de contratación serán inmediatamente ejecutivas, y se harán efectivas, en primer lugar:",
+   "opciones": [
+    "Sobre la garantía definitiva que, en su caso, se hubiese constituido.",
+    "Sobre la garantía provisional que, en su caso, se hubiese constituido.",
+    "Sobre la garantía complementaria que, en su caso, se hubiese constituido.",
+    "Mediante deducción de las cantidades que, en concepto de pago total o parcial, deban abonarse al contratista."
+   ]
+  },
+  {
+   "id": "au-17-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (17) - LCSP (arts. 188 a 202)",
+   "n": 25,
+   "enunciado": "De acuerdo con el artículo 193 LCSP, en relación con la demora en la ejecución del contrato, es correcto afirmar que:",
+   "opciones": [
+    "La constitución en mora del contratista precisará intimación previa por parte de la Administración.",
+    "El órgano de contratación podrá acordar la inclusión en el PCAP de penalidades distintas a las previstas en la LCSP.",
+    "No cabrá en ningún caso la imposición de penalidades por el incumplimiento por parte del contratista de los plazos parciales.",
+    "La Administración podrá optar por la resolución del contrato aun cuando la causa de la demora no sea imputable al contratista."
+   ]
+  },
+  {
+   "id": "au-18-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 1,
+   "enunciado": "Salvo que el PCAP establezca plazo distinto, la constatación del cumplimiento del contrato exige por parte de la Administración un acto formal y positivo de recepción o conformidad:",
+   "opciones": [
+    "Dentro de los treinta días siguientes a la entrega o realización del objeto del contrato.",
+    "Dentro de los dos meses siguientes a la entrega o realización del objeto del contrato.",
+    "Dentro del mes siguiente a la entrega o realización del objeto del contrato.",
+    "Dentro de los sesenta días siguientes a la entrega o realización del objeto del contrato."
+   ]
+  },
+  {
+   "id": "au-18-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 2,
+   "enunciado": "De conformidad con lo dispuesto en el artículo 209 de la LCSP, los contratos se extinguirán:",
+   "opciones": [
+    "Por su cumplimiento o por resolución.",
+    "Por su cumplimiento o por rescisión.",
+    "Por resolución o por rescisión.",
+    "Por su cumplimiento, por resolución o por rescisión."
+   ]
+  },
+  {
+   "id": "au-18-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 3,
+   "enunciado": "El contrato se entenderá cumplido por el contratista cuando este haya realizado, de acuerdo con los términos del mismo y a satisfacción de la Administración:",
+   "opciones": [
+    "La mayor parte de la prestación.",
+    "La totalidad de la prestación.",
+    "La mitad de la prestación.",
+    "Una parte de la prestación."
+   ]
+  },
+  {
+   "id": "au-18-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 4,
+   "enunciado": "En los contratos se fijará un plazo de garantía, transcurrido el cual sin objeciones de la Administración, quedará extinguida la responsabilidad del contratista. Dicho plazo de garantía se contará desde:",
+   "opciones": [
+    "La fecha de la liquidación del contrato.",
+    "La fecha de recepción o conformidad.",
+    "La fecha de finalización de la prestación.",
+    "La fecha de la certificación final."
+   ]
+  },
+  {
+   "id": "au-18-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 5,
+   "enunciado": "Excepto en los contratos de obras, deberá acordarse en su caso y cuando la naturaleza del contrato lo exija, y ser notificada al contratista la liquidación correspondiente del contrato, y abonársele, en su caso, el saldo resultante, dentro del plazo de:",
+   "opciones": [
+    "10 días a contar desde la fecha del acta de recepción o conformidad.",
+    "15 días a contar desde la fecha del acta de recepción o conformidad.",
+    "20 días a contar desde la fecha del acta de recepción o conformidad.",
+    "30 días a contar desde la fecha del acta de recepción o conformidad."
+   ]
+  },
+  {
+   "id": "au-18-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 6,
+   "enunciado": "Señale la respuesta incorrecta. Es causa de resolución del contrato:",
+   "opciones": [
+    "La muerte o incapacidad sobrevenida del contratista individual.",
+    "La declaración de concurso o la declaración de insolvencia, únicamente cuando suceda en el mismo procedimiento.",
+    "El mutuo acuerdo entre la Administración y el contratista.",
+    "La demora en el cumplimiento de los plazos por parte del contratista."
+   ]
+  },
+  {
+   "id": "au-18-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 7,
+   "enunciado": "Es causa de resolución del contrato, de acuerdo con el artículo 211 de la LCSP:",
+   "opciones": [
+    "El incumplimiento de cualquier obligación del contrato.",
+    "La modificación del contrato conforme a los artículos 204 y 205.",
+    "La demora en el pago por parte de la Administración por plazo superior a 4 meses.",
+    "El impago de los salarios por el contratista a los trabajadores que estuvieran participando en la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "au-18-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 8,
+   "enunciado": "Cuando concurran diversas causas de resolución del contrato, con diferentes efectos en cuanto a las consecuencias económicas de la extinción, deberá atenderse a:",
+   "opciones": [
+    "La que haya aparecido con prioridad en el tiempo.",
+    "La que haya aparecido con posterioridad en el tiempo.",
+    "La que suponga una situación más ventajosa para la Administración.",
+    "La que suponga una situación más ventajosa para el contratista."
+   ]
+  },
+  {
+   "id": "au-18-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 9,
+   "enunciado": "La resolución del contrato se acordará por:",
+   "opciones": [
+    "El contratista, de oficio.",
+    "El órgano de contratación, de oficio.",
+    "El contratista, de oficio o a instancia del órgano de contratación.",
+    "El órgano de contratación, de oficio o a instancia del contratista."
+   ]
+  },
+  {
+   "id": "au-18-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 10,
+   "enunciado": "De acuerdo con el artículo 213 de la LCSP, cuando la causa de resolución del contrato sea la muerte o incapacidad sobrevenida del contratista individual, la Administración:",
+   "opciones": [
+    "Podrá acordar la continuación del contrato con sus herederos o sucesores.",
+    "Solo podrá acordar la continuación con sus herederos cuando la causa de resolución sea la muerte del contratista individual.",
+    "Solo podrá acordar la continuación con sus sucesores cuando la causa de resolución sea una incapacidad sobrevenida.",
+    "Deberá acordar la continuación del contrato con sus herederos o sucesores."
+   ]
+  },
+  {
+   "id": "au-18-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 11,
+   "enunciado": "La resolución por mutuo acuerdo solo podrá tener lugar:",
+   "opciones": [
+    "Cuando no concurra otra causa de resolución que sea imputable al contratista.",
+    "Cuando razones de interés público hagan necesaria o conveniente la permanencia del contrato.",
+    "Las respuestas a y b son correctas.",
+    "Las respuestas a y b son incorrectas."
+   ]
+  },
+  {
+   "id": "au-18-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 12,
+   "enunciado": "Los expedientes de resolución contractual deberán ser instruidos y resueltos en el plazo máximo de:",
+   "opciones": [
+    "1 mes.",
+    "3 meses.",
+    "6 meses.",
+    "8 meses."
+   ]
+  },
+  {
+   "id": "au-18-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 13,
+   "enunciado": "Cuando el contrato se resuelva por incumplimiento culpable del contratista:",
+   "opciones": [
+    "Le será devuelta la garantía, pero deberá indemnizar a la Administración por los daños y perjuicios ocasionados.",
+    "Le será devuelta la garantía, sin que deba indemnizar a la Administración por los daños y perjuicios ocasionados.",
+    "Le será incautada la garantía, pero no estará obligado a indemnizar a la Administración los daños y perjuicios ocasionados.",
+    "Le será incautada la garantía y deberá indemnizar por los daños y perjuicios ocasionados en lo que exceda el importe de esta."
+   ]
+  },
+  {
+   "id": "au-18-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 14,
+   "enunciado": "Señale la respuesta incorrecta. Los contratistas podrán ceder sus derechos y obligaciones a terceros cuando así esté previsto en los pliegos y concurran los siguientes requisitos:",
+   "opciones": [
+    "Que el órgano de contratación autorice la cesión, expresa o tácitamente.",
+    "Que el cedente tenga ejecutado al menos un 20% del importe del contrato.",
+    "Que el cesionario tenga capacidad para contratar con la Administración.",
+    "Que la cesión se formalice, entre el adjudicatario y el cesionario, en escritura pública."
+   ]
+  },
+  {
+   "id": "au-18-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 15,
+   "enunciado": "De conformidad con lo dispuesto en el artículo 214 de la LCSP, el cesionario:",
+   "opciones": [
+    "Quedará subrogado en todos los derechos y obligaciones que corresponderían al cedente.",
+    "Quedará subrogado únicamente en los derechos que corresponderían al cedente.",
+    "Quedará subrogado únicamente en las obligaciones que corresponderían al cedente.",
+    "No quedará subrogado en los derechos y obligaciones que corresponderían al cedente."
+   ]
+  },
+  {
+   "id": "au-18-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 16,
+   "enunciado": "Según el artículo 215 de la LCSP, en relación con la subcontratación, el contratista podrá concertar con terceros la realización parcial de la prestación:",
+   "opciones": [
+    "Siempre que así lo autorice de forma previa y expresa el órgano de contratación.",
+    "En todo caso, siempre que lo comunique con antelación al órgano de contratación.",
+    "Salvo que la prestación haya de ser ejecutada directamente por el contratista.",
+    "Sin necesidad de comunicación previa al órgano de contratación."
+   ]
+  },
+  {
+   "id": "au-18-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 17,
+   "enunciado": "Según el artículo 204 de la LCSP, los contratos administrativos podrán modificarse durante su vigencia, siempre que:",
+   "opciones": [
+    "Dicha posibilidad se recoja en los pliegos, y la modificación no supere el 50 % del precio inicial del contrato.",
+    "La modificación no supere el 10 % del precio inicial del contrato, para el caso de que los pliegos no la prevean expresamente.",
+    "Dicha posibilidad se recoja en los pliegos, y la modificación no supere el 20 % del precio inicial del contrato.",
+    "La modificación no supere el 15 % del precio inicial del contrato en el caso de que los pliegos no la prevean expresamente."
+   ]
+  },
+  {
+   "id": "au-18-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 18,
+   "enunciado": "Sin perjuicio de los supuestos previstos en la LCSP, los contratos administrativos solo podrán ser modificados:",
+   "opciones": [
+    "Por razones de interés público.",
+    "Por razones de interés privado.",
+    "Por razones de urgencia.",
+    "Por decisión del contratista."
+   ]
+  },
+  {
+   "id": "au-18-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 19,
+   "enunciado": "Cuando los pliegos de cláusulas administrativas particulares hubiesen advertido expresamente esta posibilidad, los contratos de las Administraciones Públicas podrán modificarse durante su vigencia hasta un máximo de:",
+   "opciones": [
+    "El 50% del precio inicial.",
+    "El 15% del precio inicial.",
+    "El 20% del precio inicial.",
+    "El 10% del precio inicial."
+   ]
+  },
+  {
+   "id": "au-18-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 20,
+   "enunciado": "En los supuestos de modificación del contrato recogidas en el artículo 205, estas serán obligatorias para los contratistas cuando impliquen:",
+   "opciones": [
+    "Aisladamente, una alteración en su cuantía que no exceda del 10 por ciento de su precio inicial, IVA excluido.",
+    "Aislada o conjuntamente, una alteración en su cuantía que no exceda del 20 por ciento de su precio inicial, IVA incluido.",
+    "Conjuntamente, una alteración en su cuantía que no exceda del 10 por ciento de su precio inicial, IVA excluido.",
+    "Aislada o conjuntamente, una alteración en su cuantía que no exceda del 20 por ciento de su precio inicial, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-18-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 21,
+   "enunciado": "De acuerdo con lo previsto en el artículo 205 de la LCSP, las modificaciones no previstas en el pliego de cláusulas administrativas particulares, cuando deviniera necesario añadir obras, suministros o servicios adicionales a los inicialmente contratados, podrán implicar, como máximo, una alteración en el precio del contrato que no exceda:",
+   "opciones": [
+    "El 50% del precio inicial, IVA excluido.",
+    "El 30% del precio inicial, IVA excluido.",
+    "El 20% del precio inicial, IVA excluido.",
+    "El 10% del precio inicial, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-18-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 22,
+   "enunciado": "Señale la respuesta incorrecta en relación con la modificación de los contratos administrativos:",
+   "opciones": [
+    "La modificación debe formalizarse en documento administrativo.",
+    "La modificación debe publicarse en el perfil de contratante.",
+    "La modificación únicamente puede acordarse cuando así se haya previsto en el pliego de cláusulas administrativas particulares.",
+    "En ningún caso pueden alterar la naturaleza global del contrato inicial."
+   ]
+  },
+  {
+   "id": "au-18-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (18) - LCSP (arts. 203 a 217)",
+   "n": 23,
+   "enunciado": "Excepto en los contratos de obras, que se regirán por lo dispuesto en el artículo 243, la liquidación del contrato y el abono al contratista del saldo resultante deberá acordarse, en su caso, dentro del plazo de:",
+   "opciones": [
+    "Treinta días, a contar desde la fecha del acta de recepción o conformidad.",
+    "Treinta días, a contar desde la fecha de finalización del plazo de garantía.",
+    "Un mes, a contar desde la fecha del acta de recepción o conformidad.",
+    "Un mes, a contar desde la fecha de finalización del plazo de garantía."
+   ]
+  }
+ ]
+}

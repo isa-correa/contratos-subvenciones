@@ -1,0 +1,556 @@
+{
+ "au-28-011": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo de seis meses admite excepciones, así que no vale decir que es así en ningún caso (**art. 25.4**).",
+   "No. El plazo general es de seis meses, no de tres (**art. 25.4**).",
+   "Es esta. No puede exceder de seis meses, salvo que una norma con rango de ley fije un plazo mayor o lo prevea la normativa de la Unión Europea (**art. 25.4**).",
+   "No. Tiene la excepción correcta, pero el plazo es de seis meses y no de tres (**art. 25.4**)."
+  ]
+ },
+ "au-28-012": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cinco días no es el plazo de subsanación de la Ley 38/2003 (**art. 23.5**).",
+   "No. Veinte días no es el plazo. La ley fija diez (**art. 23.5**).",
+   "No. Quince días es el plazo para aportar documentación cuando se sustituye por declaración responsable (**art. 23.4**), pero no el de subsanar (**art. 23.5**).",
+   "Es esta. El plazo es de diez días, máximo e improrrogable, y si no se subsana se le tiene por desistido (**art. 23.5**)."
+  ]
+ },
+ "au-28-013": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las bases reguladoras fijan las reglas, pero no inician el procedimiento (**art. 23.2**).",
+   "No. La resolución de concesión pone fin al procedimiento, no lo inicia (**art. 25**).",
+   "Es esta. La iniciación de oficio se realiza siempre mediante convocatoria aprobada por el órgano competente (**art. 23.2**).",
+   "No. El plan estratégico es un instrumento de planificación previo, no el acto de inicio (**art. 8**)."
+  ]
+ },
+ "au-28-014": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es al revés: solo se puede subcontratar cuando lo prevea la normativa reguladora (**art. 29.2**).",
+   "No. El 20 % no es el límite general. Es el umbral a partir del cual se exigen requisitos (**art. 29.3**). Sin previsión en las bases, el tope es el 50 % (**art. 29.2**).",
+   "No. La ley no prohíbe siempre la subcontratación total. Si las bases lo prevén, puede ser total o parcial (**art. 29.2**).",
+   "Es esta. El beneficiario solo puede subcontratar, total o parcialmente, cuando la normativa reguladora de la subvención así lo prevea (**art. 29.2**)."
+  ]
+ },
+ "au-28-015": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El tope supletorio no es del 30 %, sino del 50 % (**art. 29.2**).",
+   "No. El 60 % no aparece en la ley (**art. 29.2**).",
+   "No. El 20 % es el umbral de la subcontratación sujeta a requisitos, no el tope supletorio (**art. 29.3**).",
+   "Es esta. Si las bases no fijan porcentaje, se puede subcontratar hasta el 50 % del importe de la actividad subvencionada (**art. 29.2**)."
+  ]
+ },
+ "au-28-016": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El compromiso del gasto lo conlleva la resolución de concesión, que es posterior (**art. 34.2**).",
+   "Es esta. Antes de la convocatoria o de la concesión directa debe efectuarse la aprobación del gasto (**art. 34.1**).",
+   "No. La justificación la presenta el beneficiario después de realizar la actividad (**art. 34.3**).",
+   "No. El reconocimiento de la obligación llega al final, cuando se justifica y se va a pagar (**art. 34.3**)."
+  ]
+ },
+ "au-28-017": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.7",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los gastos financieros solo son subvencionables si están relacionados con la actividad, son indispensables y las bases reguladoras lo prevén (**art. 31.7**).",
+   "No. Los materiales relacionados con la actividad responden a su naturaleza y son subvencionables en general (**art. 31.1**).",
+   "No. Los costes de personal, si responden a la actividad, son gasto subvencionable en general (**art. 31.1**).",
+   "No. El arrendamiento de locales para la actividad es un gasto subvencionable en general (**art. 31.1**)."
+  ],
+  "ojo": "Pregunta mal planteada: el enunciado dice que no es subvencionable 'salvo que las bases digan lo contrario' y eso encaja con los gastos financieros del art. 31.7, que exigen previsión en las bases."
+ },
+ "au-28-018": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La convocatoria se publica siempre, sin atender a ese importe. Los 12 millones son el umbral de autorización del Consejo de Ministros (**art. 10.2**).",
+   "No. En el BOE solo se publica un extracto, no el contenido íntegro (**art. 23.2**).",
+   "No. Los 60.000 euros se refieren a la subcontratación (**art. 29.3**), no a la publicación.",
+   "Es esta. La convocatoria se publica en la BDNS y un extracto de la misma en el BOE (**art. 23.2**)."
+  ]
+ },
+ "au-28-019": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si el gasto supera la cuantía del contrato menor, el beneficiario debe pedir al menos tres ofertas de proveedores distintos antes de contraer el compromiso (**art. 31.3**).",
+   "No. La ley no exige comunicar el gasto al órgano concedente antes de hacerlo (**art. 31.3**).",
+   "No. No hace falta autorización previa del concedente para realizar ese gasto (**art. 31.3**).",
+   "No. El gasto sí puede realizarse. Lo que se exige son tres ofertas (**art. 31.3**)."
+  ]
+ },
+ "au-28-020": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.8",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En ningún caso son subvencionables los impuestos indirectos susceptibles de recuperación o compensación (**art. 31.8**).",
+   "No. La asesoría jurídica o financiera es subvencionable si es indispensable y las bases lo prevén (**art. 31.7**).",
+   "No. Los gastos periciales son subvencionables en las mismas condiciones (**art. 31.7**).",
+   "No. Los gastos de administración específicos son subvencionables si las bases lo prevén (**art. 31.7**)."
+  ]
+ },
+ "au-28-021": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El prorrateo es excepcional y solo cabe si lo prevén las bases reguladoras (**art. 22.1**).",
+   "No. No depende de lo que considere el órgano instructor, sino de las bases (**art. 22.1**).",
+   "No. No es la regla general. Es una excepción que debe estar prevista (**art. 22.1**).",
+   "No. El prorrateo se prevé para la concurrencia competitiva, no para las nominativas (**art. 22.1**)."
+  ]
+ },
+ "au-28-022": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 28.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Una orden ministerial aprueba las bases reguladoras (**art. 17.2**), no estas subvenciones directas.",
+   "No. No basta un acuerdo del Consejo de Ministros. La ley exige real decreto (**art. 28.2**).",
+   "Es esta. El Gobierno las aprueba por real decreto, a propuesta del ministro competente y previo informe del Ministerio de Hacienda (**art. 28.2**).",
+   "No. No existe un real decreto 'de la Presidencia'. Lo aprueba el Gobierno, a propuesta del ministro competente (**art. 28.2**)."
+  ]
+ },
+ "au-28-023": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 28.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Debe contener como mínimo el objeto, el régimen jurídico, los beneficiarios y modalidades de ayuda y el procedimiento de concesión y justificación (**art. 28.3**).",
+   "No. Son contenidos mínimos mucho más amplios que el importe y la fecha (**art. 28.3**).",
+   "No. Falta lo esencial, como el objeto y el procedimiento (**art. 28.3**).",
+   "No. El régimen sancionador está en la propia ley y no forma parte del contenido mínimo (**art. 28.3**)."
+  ]
+ },
+ "au-28-024": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la falsa. Los contratistas quedan obligados solo ante el beneficiario, que asume la total responsabilidad frente a la Administración (**art. 29.5**).",
+   "Es verdadera. No se puede subcontratar con personas incursas en las prohibiciones del art. 13 (**art. 29.7.a**).",
+   "Es verdadera. No es subcontratación lo que el beneficiario necesita para hacer por sí mismo la actividad (**art. 29.1**).",
+   "Es verdadera. No se puede fraccionar un contrato para eludir los requisitos (**art. 29.4**)."
+  ]
+ },
+ "au-28-025": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La prohibición es con quien percibió otras subvenciones para esa misma actividad, no para otra distinta (**art. 29.7.b**).",
+   "No. Solo está vetado quien pidió ayuda en la misma convocatoria y no la obtuvo. No cualquier solicitante (**art. 29.7.e**).",
+   "No. Con vinculadas sí se puede, si hay autorización expresa previa y el coste no supera el incurrido (**art. 29.7.d**).",
+   "Es esta. No se puede subcontratar con personas o entidades incursas en las prohibiciones del art. 13 (**art. 29.7.a**)."
+  ]
+ },
+ "au-28-026": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se puede subcontratar con personas jurídicas siempre que no concurra una prohibición (**art. 29.7**).",
+   "No. Contratar con empresas del sector público no está prohibido por el art. 29 (**art. 29.7**).",
+   "Es esta. Está prohibido fraccionar un contrato para reducir su cuantía y eludir los requisitos (**art. 29.4**).",
+   "No. Los servicios de asesoría contable pueden subcontratarse, salvo los casos del art. 29.7."
+  ]
+ },
+ "au-28-027": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La rendición de la cuenta justificativa es un acto obligatorio del beneficiario o de la entidad colaboradora (**art. 30.2**).",
+   "No. También obliga a la entidad colaboradora (**art. 30.2**).",
+   "No. Seis meses no es el plazo. A falta de bases, son tres meses desde el fin del plazo de la actividad (**art. 30.2**).",
+   "No. La cuenta justificativa incluye los justificantes de gasto y no basta una declaración responsable (**art. 30.2**)."
+  ]
+ },
+ "au-28-028": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Lo determinan las bases reguladoras. Solo si no lo prevén, el plazo máximo es de tres meses desde que termina el plazo de realización de la actividad (**art. 30.2**).",
+   "No. Seis meses no es el plazo legal (**art. 30.2**).",
+   "No. Un año no es el plazo legal (**art. 30.2**).",
+   "No. Los tres meses son supletorios, no 'en todo caso' (**art. 30.2**)."
+  ]
+ },
+ "au-28-029": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 24.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Antes de la resolución hay una propuesta provisional y después una definitiva (**art. 24.4**).",
+   "Es esta. El instructor formula una propuesta de resolución provisional motivada, que se notifica a los interesados con 10 días para alegaciones (**art. 24.4**).",
+   "No. Hay alegaciones, salvo que se prescinda del trámite si no hay otros hechos ni alegaciones (**art. 24.4**).",
+   "No. La propuesta provisional debe estar debidamente motivada (**art. 24.4**)."
+  ]
+ },
+ "au-28-030": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 27.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Solo cabe la reformulación si las bases la han previsto (**art. 27.1**).",
+   "No. La reformulación es propia de la concurrencia competitiva, no de la concesión directa (**art. 27.1**).",
+   "Es esta. Si lo prevén las bases, se puede instar al beneficiario a reformular para ajustar compromisos y condiciones a la subvención otorgable (**art. 27.1**).",
+   "No. La reformulación se produce ante la propuesta provisional, no después de la resolución definitiva (**art. 27.1**)."
+  ]
+ },
+ "au-29-001": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 36.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La declaración de nulidad o anulación lleva consigo la obligación de devolver las cantidades percibidas (**art. 36.4**).",
+   "No. La ley no impone volver a publicar la convocatoria (**art. 36.4**).",
+   "No. No obliga a aprobar una nueva convocatoria (**art. 36.4**).",
+   "No. La renuncia formal no es la consecuencia que prevé la ley (**art. 36.4**)."
+  ]
+ },
+ "au-29-002": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 38.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El incremento es del 25 %, no del 30 % (**art. 38.2**).",
+   "No. El incremento es del 25 %, no del 50 % (**art. 38.2**).",
+   "No. El incremento es del 25 %, no del 75 % (**art. 38.2**).",
+   "Es esta. El interés de demora es el interés legal del dinero incrementado en un 25 %, salvo que la Ley de Presupuestos fije otro (**art. 38.2**)."
+  ]
+ },
+ "au-29-003": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 39.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El derecho de la Administración a reconocer o liquidar el reintegro prescribe a los cuatro años (**art. 39.1**).",
+   "No. Seis años no es el plazo (**art. 39.1**).",
+   "No. Cinco años no es el plazo (**art. 39.1**).",
+   "No. Un año no es el plazo. Son cuatro (**art. 39.1**)."
+  ]
+ },
+ "au-29-004": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El plazo es de doce meses, no de seis (**art. 42.4**).",
+   "No. Son doce meses, no seis (**art. 42.4**).",
+   "No. El plazo es de doce meses, pero se cuenta desde la fecha del acuerdo de iniciación y no desde su notificación (**art. 42.4**).",
+   "Es esta. Son doce meses desde la fecha del acuerdo de iniciación (**art. 42.4**)."
+  ]
+ },
+ "au-29-005": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 58.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Presentar tarde las cuentas justificativas es infracción leve (**art. 56.a**).",
+   "Es esta. No aplicar, en todo o en parte, las cantidades recibidas a los fines de la subvención es infracción muy grave (**art. 58.b**).",
+   "No. La resistencia u obstrucción al control financiero es, con carácter general, infracción leve (**art. 56.g**). Solo es muy grave si impide verificar el empleo de los fondos (**art. 58.c**).",
+   "No. La falta de justificación una vez transcurrido el plazo es infracción grave (**art. 57.c**)."
+  ]
+ },
+ "au-29-006": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 37.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El interés se cuenta desde el pago hasta que se acuerde el reintegro, no hasta que se inicie el procedimiento (**art. 37.1**).",
+   "No. El inicio es desde el pago y no desde la concesión, y llega hasta el acuerdo de reintegro (**art. 37.1**).",
+   "No. Se cuenta desde el pago, no desde la concesión (**art. 37.1**).",
+   "Es esta. Desde el pago de la subvención hasta la fecha en que se acuerde la procedencia del reintegro, o hasta que el deudor ingrese si es antes (**art. 37.1**)."
+  ]
+ },
+ "au-29-007": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.f",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es infracción grave que las administraciones obligadas no suministren información a la Base de Datos Nacional de Subvenciones (**art. 57.f**).",
+   "No. Obtener la subvención falseando las condiciones es infracción muy grave (**art. 58.a**).",
+   "No. Incumplir la conservación de justificantes es infracción leve (**art. 56.e**).",
+   "No. Presentar cuentas justificativas inexactas o incompletas es infracción leve (**art. 56.b**)."
+  ]
+ },
+ "au-29-008": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El reintegro se inicia siempre de oficio, no a solicitud del interesado (**art. 42.2**).",
+   "No. Se rige por las disposiciones generales del procedimiento administrativo común (**art. 42.1**).",
+   "Es esta. El plazo máximo para resolver y notificar es de 12 meses desde la fecha del acuerdo de iniciación (**art. 42.4**).",
+   "No. La resolución pone fin a la vía administrativa (**art. 42.5**), pero cabe el recurso potestativo de reposición o el contencioso."
+  ]
+ },
+ "au-29-009": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las infracciones prescriben a los cuatro años, también las graves (**art. 65.1**).",
+   "No. El plazo es de cuatro años, también para las muy graves (**art. 65.1**).",
+   "No. El plazo de un año no distingue las leves. Todas prescriben a los cuatro años (**art. 65.1**).",
+   "Es esta. Las infracciones prescriben a los cuatro años desde el día de su comisión, sea cual sea su gravedad (**art. 65.1**)."
+  ]
+ },
+ "au-29-010": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 41.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Tribunal de Cuentas no exige el reintegro en vía administrativa (**art. 41.1**).",
+   "No. El Consejo de Ministros no es el competente (**art. 41.1**).",
+   "Es esta. El órgano concedente exige el reintegro mediante la resolución del procedimiento (**art. 41.1**).",
+   "No. La Intervención General controla, pero no exige el reintegro (**art. 41.1**)."
+  ]
+ },
+ "au-29-011": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si pasa el plazo sin resolución expresa, se produce la caducidad del procedimiento (**art. 42.4**).",
+   "No. No hay silencio desestimatorio. La ley prevé la caducidad (**art. 42.4**).",
+   "No. Lo que prescribe es el derecho a reintegrar. El procedimiento caduca (**art. 42.4**).",
+   "No. No hay silencio estimatorio. La ley prevé la caducidad (**art. 42.4**)."
+  ]
+ },
+ "au-29-012": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 36.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No justificar fondos anteriores es causa de prohibición de ser beneficiario (**art. 13**), no de nulidad.",
+   "Es esta. Es causa de nulidad de la resolución de concesión la carencia o insuficiencia de crédito (**art. 36.1.b**).",
+   "No. Ser constitutiva de infracción administrativa no la anula. La causa de nulidad es un acto constitutivo de delito (**art. 36.1.a**).",
+   "No. Un defecto de forma es, como mucho, causa de anulabilidad (**art. 36.2**)."
+  ]
+ },
+ "au-29-013": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Todas las infracciones prescriben a los cuatro años desde su comisión, también las muy graves (**art. 65.1**).",
+   "No. Tres años no es el plazo (**art. 65.1**).",
+   "No. Dos años no es el plazo (**art. 65.1**).",
+   "No. Cinco años no es el plazo. Son cuatro (**art. 65.1**)."
+  ]
+ },
+ "au-29-014": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 37.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que no es causa de reintegro. La carencia o insuficiencia de crédito es causa de nulidad de la concesión (**art. 36.1.b**).",
+   "Sí es causa de reintegro. Obtener la subvención falseando las condiciones (**art. 37.1.a**).",
+   "Sí es causa de reintegro. No justificar o justificar de forma insuficiente (**art. 37.1.c**).",
+   "Sí es causa de reintegro. No adoptar las medidas de difusión (**art. 37.1.d**)."
+  ]
+ },
+ "au-29-015": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 37.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Procede reintegrar el exceso sobre el coste de la actividad, con el interés de demora (**art. 37.3**).",
+   "No. El reintegro del exceso lleva interés de demora (**art. 37.3**).",
+   "No. Se reintegra el exceso, no la subvención entera (**art. 37.3**).",
+   "No. No hay revisión de oficio cuando concurre una causa de reintegro (**art. 36.5**)."
+  ]
+ },
+ "au-29-016": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 40.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera. El derecho a reconocer o liquidar el reintegro prescribe a los cuatro años (**art. 39.1**).",
+   "Es verdadera. Los procedimientos de reintegro tienen siempre carácter administrativo (**art. 38.4**).",
+   "Es verdadera. En los casos del art. 37 se reintegra todo o parte más los intereses de demora (**art. 40.1**).",
+   "Es la falsa. La obligación de reintegro es independiente de las sanciones que puedan exigirse (**art. 40.1**)."
+  ]
+ },
+ "au-29-017": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 41.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El reintegro no es un procedimiento sancionador. Es independiente de las sanciones (**art. 40.1**).",
+   "Es esta. El órgano concedente es el competente para exigir el reintegro (**art. 41.1**).",
+   "No. El plazo es de doce meses, no de seis (**art. 42.4**).",
+   "No. Se garantiza siempre el derecho de audiencia del interesado (**art. 42.3**)."
+  ]
+ },
+ "au-29-018": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 58.d",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Incumplir la conservación de justificantes es infracción leve (**art. 56.e**).",
+   "Es esta. Es muy grave que las entidades colaboradoras no entreguen a los beneficiarios los fondos recibidos (**art. 58.d**).",
+   "No. Alterar sustancialmente los fines de la subvención es infracción grave (**art. 57.b**).",
+   "No. El incumplimiento de la obligación de colaboración es, con carácter general, infracción leve (**art. 56.h**)."
+  ]
+ },
+ "au-29-019": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 66.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En el caso de organismos autónomos sanciona el titular del ministerio al que estén adscritos (**art. 66.1**).",
+   "No. El Consejo de Ministros no es el órgano sancionador de la ley (**art. 66.1**).",
+   "No. El Tribunal de Cuentas no impone sanciones de subvenciones (**art. 66.1**).",
+   "Es esta. Las sanciones las acuerdan e imponen los ministros o los secretarios de Estado de los departamentos concedentes (**art. 66.1**)."
+  ]
+ },
+ "au-29-020": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 66.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Consejo de Ministros no tiene esa competencia (**art. 66.1**).",
+   "No. El Presidente del Gobierno no sanciona en esta materia (**art. 66.1**).",
+   "Es esta. Si la sanción es perder la posibilidad de obtener subvenciones, ayudas o avales, o contratar, es competente el Ministro de Hacienda (**art. 66.1**).",
+   "No. La regla general (ministros y secretarios de Estado) cede ante esta excepción (**art. 66.1**)."
+  ]
+ },
+ "au-29-021": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 44.4.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Entre las actuaciones del control financiero está la comprobación material de las inversiones financiadas (**art. 44.4.d**).",
+   "No. La ley no recoge una 'supervisión externa mediante auditoría' como forma de control financiero (**art. 44.4**).",
+   "No. El control financiero no se limita a revisiones contables (**art. 44.4**).",
+   "No. No es solo un control previo de legalidad. Verifica la obtención, la aplicación y la justificación (**art. 44.2**)."
+  ]
+ },
+ "au-29-022": {
+  "bloque": "subv-general",
+  "precepto": "DA 5.ª.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La entrega gratuita de bienes se rige por la legislación patrimonial (**DA 5.ª.1**). El carácter oneroso no es el criterio.",
+   "No. Que los bienes sean usados no es el criterio (**DA 5.ª**).",
+   "No. La condición de empresa pública del beneficiario no es el criterio (**DA 5.ª**).",
+   "Es esta. Se aplica la ley cuando los bienes se adquieren con la finalidad exclusiva de entregarlos a un tercero (**DA 5.ª.2**)."
+  ]
+ },
+ "au-29-023": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se inicia de oficio por acuerdo del órgano competente (**art. 42.2**).",
+   "No. La denuncia es una de las vías, pero no la única (**art. 42.2**).",
+   "No. También puede iniciarse por informe de control financiero de la IGAE, pero no siempre así (**art. 42.2**).",
+   "No. Nunca se inicia a instancia del beneficiario, sino de oficio (**art. 42.2**)."
+  ]
+ },
+ "au-29-024": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 56.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No aplicar las cantidades recibidas a sus fines es infracción muy grave (**art. 58.b**).",
+   "No. Obtener la subvención falseando las condiciones es infracción muy grave (**art. 58.a**).",
+   "Es esta. Presentar fuera de plazo las cuentas justificativas es infracción leve (**art. 56.a**).",
+   "No. La falta de entrega de fondos por la entidad colaboradora es infracción muy grave (**art. 58.d**)."
+  ]
+ },
+ "au-29-025": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 59.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El máximo es de cinco años, no de diez (**art. 59.3.a**).",
+   "No. La prohibición de contratar tiene un máximo de cinco años, no un mínimo de diez (**art. 59.3.c**).",
+   "Es esta. Las sanciones no pecuniarias consisten en perder, hasta cinco años, la posibilidad de obtener subvenciones, de ser entidad colaboradora o de contratar con las Administraciones (**art. 59.3**).",
+   "No. La pérdida de la personalidad jurídica no es una sanción de la ley (**art. 59.3**)."
+  ],
+  "ojo": "Para infracciones graves, el art. 62.2 limita esas sanciones a tres años y exige además que el perjuicio supere el 50 % de la subvención y los 30.000 euros. La pregunta cita el art. 59 y se resuelve por él.",
+  "revisar": "Graves: el art. 62.2 limita a tres años. La opción correcta habla de cinco (art. 59.3), que es el máximo general."
+ },
+ "of-01-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Para la AGE, sus organismos autónomos y las entidades gestoras de la Seguridad Social, el umbral de servicios es 140.000 euros (**art. 22.1.a**).",
+   "No. El umbral de 240.000 euros no existe en el art. 22.1.",
+   "No. 340.000 euros no es umbral de servicios (**art. 22.1**).",
+   "No. 440.000 euros no es umbral de servicios (**art. 22.1**)."
+  ],
+  "revisar": "Umbral actualizado por la Orden HAC/1517/2025, en vigor desde 1/1/2026. Los umbrales se revisan cada dos años."
+ },
+ "of-01-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La LCSP de 2017 ya no regula el contrato de consultoría y asistencia (**art. 17**).",
+   "Es esta. La adquisición de programas de ordenador desarrollados a medida se considera contrato de servicios (**art. 16.3.b**).",
+   "No. Se consideran suministro los programas estándar, pero no los desarrollados a medida (**art. 16.3.b**).",
+   "No. No hay mezcla de prestaciones. La ley lo califica como servicios (**art. 16.3.b**)."
+  ]
+ },
+ "of-01-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Solo los poderes adjudicadores pueden celebrarlo, no todo el sector público (**art. 15.1**).",
+   "No. No se limita a las Administraciones Públicas (**art. 15.1**).",
+   "No. No se limita a la Administración General del Estado (**art. 15.1**).",
+   "Es esta. El art. 15.1 habla de uno o varios poderes adjudicadores que encomiendan la gestión del servicio (**art. 15.1**)."
+  ]
+ },
+ "of-01-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 29.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo de cinco años incluye las prórrogas (**art. 29.4**).",
+   "Es esta. Los suministros y servicios de prestación sucesiva duran como máximo cinco años, incluidas las prórrogas (**art. 29.4**).",
+   "No. Sí hay un plazo máximo de duración (**art. 29.4**).",
+   "No. No son seis años. La excepción es el período de recuperación de inversiones, que no fija ese plazo (**art. 29.4**)."
+  ]
+ },
+ "of-01-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los contratos de fabricación son de suministro, no de servicios (**art. 16.3.c**).",
+   "No. La concesión de servicios implica gestionar un servicio con riesgo operacional (**art. 15**).",
+   "Es esta. Los contratos de fabricación con características peculiares fijadas por la entidad contratante son de suministro (**art. 16.3.c**).",
+   "No. No hay una mezcla de prestaciones. La ley los califica de suministro (**art. 16.3.c**)."
+  ]
+ }
+}

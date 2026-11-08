@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-46-007",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 7,
+   "enunciado": "Tramitado el correspondiente procedimiento, el órgano de contratación acuerda resolver un contrato por incumplimiento del contratista. Conforme a la LCSP, ¿qué consecuencias económicas tendrá esta resolución?",
+   "opciones": [
+    "Se incautará la garantía definitiva únicamente por el importe de los daños y perjuicios ocasionados.",
+    "Se incautará la totalidad de la garantía definitiva, sin que pueda exigirse ninguna indemnización adicional.",
+    "Se incautará la garantía definitiva y el contratista deberá indemnizar los daños y perjuicios que excedan de su importe.",
+    "Se impondrá una penalidad del 3 % del presupuesto base de licitación, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-46-008",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 8,
+   "enunciado": "Digitalia, S. L., adjudicataria de un contrato de servicios de digitalización de expedientes de un ministerio, plantea durante su ejecución ceder el contrato a Docugest, S. L. Conforme al artículo 214 de la LCSP, ¿cuál de los siguientes NO es uno de los requisitos exigidos para la cesión del contrato?",
+   "opciones": [
+    "Que el órgano de contratación autorice la cesión de forma previa y expresa.",
+    "Que Digitalia, S. L., haya ejecutado al menos el 20 % del importe del contrato.",
+    "Que Docugest, S. L., tenga aptitud para contratar con la Administración.",
+    "Que la cesión se formalice en documento administrativo entre el cedente y el cesionario"
+   ]
+  },
+  {
+   "id": "pr-46-009",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 9,
+   "enunciado": "Limpiasur, S. L., adjudicataria del servicio de limpieza de un edificio ministerial, pretende encargar la limpieza de los cristales a Cristalimp, S. L., una empresa especializada. Conforme al artículo 215 de la LCSP, ¿qué requisito deberá cumplir, con carácter general, para subcontratar esa prestación?",
+   "opciones": [
+    "Contar con una previsión expresa en el PCAP que permita la subcontratación.",
+    "Obtener la autorización previa y expresa del órgano de contratación.",
+    "Comunicar por escrito al órgano de contratación su intención de celebrar el subcontrato.",
+    "Haber ejecutado al menos el 20 % del importe del contrato."
+   ]
+  },
+  {
+   "id": "pr-46-010",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 10,
+   "enunciado": "Al limpiar los cristales de un edificio ministerial, los operarios de Cristalimp, S. L., rompen varios de ellos. Esta empresa actúa como subcontratista de Limpiasur, S. L., adjudicataria del servicio de limpieza. Conforme a la LCSP, ¿quién responderá contractualmente ante la Administración por los daños ocasionados?",
+   "opciones": [
+    "Limpiasur, S. L., como contratista principal.",
+    "Cristalimp, S. L., como subcontratista causante de los daños.",
+    "Ambas empresas, de forma solidaria.",
+    "Ambas empresas, de forma mancomunada."
+   ]
+  },
+  {
+   "id": "pr-47-001",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 1,
+   "enunciado": "Conforme a la LCSP, ¿cuál de los siguientes NO constituye un sistema para la racionalización técnica de la contratación?",
+   "opciones": [
+    "Los acuerdos marco.",
+    "Las subastas electrónicas.",
+    "Las centrales de contratación.",
+    "Los sistemas dinámicos de adquisición."
+   ]
+  },
+  {
+   "id": "pr-47-002",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 2,
+   "enunciado": "El Ministerio de Cultura, que necesita adquirir material de oficina de forma recurrente, celebra un acuerdo marco con varias empresas. Si no concurren circunstancias excepcionales, ¿qué duración máxima puede tener el acuerdo marco?",
+   "opciones": [
+    "Tres años.",
+    "Cuatro años.",
+    "Cinco años.",
+    "Seis años."
+   ]
+  },
+  {
+   "id": "pr-47-003",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 3,
+   "enunciado": "¿Puede una empresa constituida durante la vigencia de un acuerdo marco resultar adjudicataria de contratos basados en él?",
+   "opciones": [
+    "No, pues los contratos basados solo podrán celebrarse con empresas que hayan sido originariamente partes del acuerdo marco.",
+    "Sí, si se incorpora al acuerdo marco antes de que se cursen las invitaciones para la licitación del contrato basado.",
+    "Sí, si se incorpora al acuerdo marco antes de que finalice el plazo de presentación de ofertas del contrato basado.",
+    "Sí, sin incorporarse al acuerdo marco, cuando el contrato basado se adjudique mediante nueva licitación."
+   ]
+  },
+  {
+   "id": "pr-47-004",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 4,
+   "enunciado": "Si un acuerdo marco celebrado con varias empresas no establece todos los términos, ¿cómo se adjudicarán los contratos basados?",
+   "opciones": [
+    "Bien sin nueva licitación, bien con nueva licitación.",
+    "Mediante adjudicación directa a cualquiera de las empresas que formen parte del acuerdo marco.",
+    "Invitando a una nueva licitación a las empresas parte del acuerdo marco.",
+    "Mediante una nueva licitación abierta a cualquier empresa interesada, aunque no forme parte del acuerdo marco."
+   ]
+  },
+  {
+   "id": "pr-47-005",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 5,
+   "enunciado": "En un acuerdo marco celebrado con varias empresas y con todos los términos definidos, ¿cómo podrán adjudicarse los contratos basados?",
+   "opciones": [
+    "Sin nueva licitación, salvo en contratos sujetos a regulación armonizada, en cuyo caso será preceptiva.",
+    "Bien sin nueva licitación, bien con nueva licitación.",
+    "Siempre mediante nueva licitación.",
+    "Mediante procedimiento abierto simplificado."
+   ]
+  },
+  {
+   "id": "pr-47-006",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 6,
+   "enunciado": "Un acuerdo marco para la prestación de servicios de vigilancia está vigente desde el 1 de enero de 2024 hasta el 31 de diciembre de 2026. El 1 de octubre de 2026 se adjudica un contrato basado cuya ejecución comienza ese mismo día. Conforme a la regla general de la LCSP, ¿cuál podrá ser su duración máxima?",
+   "opciones": [
+    "Tres meses, hasta la finalización del acuerdo marco.",
+    "Un año y tres meses, hasta completar cuatro años desde el inicio del acuerdo marco.",
+    "Dos años y tres meses, hasta completar cinco años desde el inicio del acuerdo marco.",
+    "Cinco años, incluidas las posibles prórrogas."
+   ]
+  },
+  {
+   "id": "pr-47-007",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 7,
+   "enunciado": "Conforme a la LCSP, ¿qué prestaciones pueden contratarse mediante un sistema dinámico de adquisición?",
+   "opciones": [
+    "Únicamente servicios y suministros de uso corriente y generalmente disponibles en el mercado.",
+    "Únicamente servicios y suministros de carácter singular y no disponibles habitualmente en el mercado.",
+    "Obras, servicios y suministros de uso corriente y generalmente disponibles en el mercado.",
+    "Obras, servicios y suministros de carácter singular y no disponibles habitualmente en el mercado."
+   ]
+  },
+  {
+   "id": "pr-47-008",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 8,
+   "enunciado": "Conforme a la LCSP, ¿qué duración deberá tener un sistema dinámico de adquisición?",
+   "opciones": [
+    "Indefinida, hasta que el órgano de contratación acuerde su finalización.",
+    "Máxima de cuatro años, salvo casos excepcionales debidamente justificados.",
+    "Máxima de cinco años, salvo casos excepcionales debidamente justificados.",
+    "Limitada y determinada en los pliegos, sin que la Ley establezca un plazo máximo."
+   ]
+  },
+  {
+   "id": "pr-47-009",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 9,
+   "enunciado": "El Instituto Nacional de Artes Escénicas O.A. tiene en funcionamiento un sistema dinámico de adquisición de equipos informáticos. Innova, S. L., empresa dedicada al suministro de estos equipos, desea participar en él. Según la LCSP, ¿podrá solicitar su incorporación?",
+   "opciones": [
+    "No, pues el sistema no admite nuevas empresas durante su vigencia.",
+    "No, salvo que se trate de una empresa de nueva creación.",
+    "Sí, pero únicamente durante el primer año de vigencia del sistema.",
+    "Sí, durante todo el período de vigencia del sistema."
+   ]
+  },
+  {
+   "id": "pr-47-010",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 10,
+   "enunciado": "El Ministerio de Juventud e Infancia dispone de un sistema dinámico de adquisición de equipos informáticos, sin división en categorías, en el que figuran diez empresas admitidas. Para adjudicar un contrato específico, ¿cómo deberá proceder el órgano de contratación?",
+   "opciones": [
+    "Deberá invitar a todas las empresas admitidas, concediéndoles un plazo mínimo de 10 días para presentar ofertas.",
+    "Podrá limitar la invitación a cinco empresas, concediéndoles un plazo mínimo de 10 días para presentar ofertas.",
+    "Podrá limitar la invitación a tres empresas, concediéndoles un plazo mínimo de 15 días para presentar ofertas.",
+    "Podrá prescindir de la licitación si alguna de las empresas admitidas ofrece condiciones especialmente ventajosas."
+   ]
+  },
+  {
+   "id": "pr-47-011",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 11,
+   "enunciado": "Conforme a la LCSP, ¿qué prestaciones pueden declararse de contratación centralizada en el ámbito estatal?",
+   "opciones": [
+    "Únicamente suministros y servicios que se contraten de forma general y con características esencialmente homogéneas.",
+    "Únicamente suministros y servicios cuya especial complejidad técnica exija su contratación por un órgano especializado.",
+    "Suministros, obras y servicios que se contraten de forma general y con características esencialmente homogéneas.",
+    "Suministros, obras y servicios cuya especial complejidad técnica exija su contratación por un órgano especializado."
+   ]
+  },
+  {
+   "id": "pr-47-012",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 12,
+   "enunciado": "Conforme a la LCSP, ¿a quién corresponde efectuar la declaración de contratación centralizada en el ámbito estatal?",
+   "opciones": [
+    "A la Junta de Contratación Centralizada.",
+    "Al Ministro de Hacienda",
+    "A la Dirección General de Racionalización y Centralización de la Contratación.",
+    "Al Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-47-013",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 13,
+   "enunciado": "Un ministerio necesita adquirir un suministro declarado de contratación centralizada. De acuerdo con la LCSP, ¿qué carácter tendrá, como regla general, su contratación a través del sistema estatal de contratación centralizada?",
+   "opciones": [
+    "Obligatorio.",
+    "Preferente.",
+    "Subsidiario.",
+    "Potestativo."
+   ]
+  },
+  {
+   "id": "pr-47-014",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 14,
+   "enunciado": "Conforme a la LCSP, ¿cuál es el órgano de contratación del sistema estatal de contratación centralizada?",
+   "opciones": [
+    "El Ministro de Hacienda.",
+    "La Dirección General de Racionalización y Centralización de la Contratación.",
+    "La Junta Consultiva de Contratación Pública del Estado.",
+    "La Junta de Contratación Centralizada."
+   ]
+  },
+  {
+   "id": "pr-47-015",
+   "origen": "practicas",
+   "test": "Examen nº 36 - LCSP (arts. 218 a 230)",
+   "n": 15,
+   "enunciado": "De acuerdo con la atribución prevista en el artículo 230.1 de la LCSP, ¿a quién corresponde adquirir los equipos y sistemas para el tratamiento de la información que no hayan sido declarados de adquisición centralizada?",
+   "opciones": [
+    "Al órgano de contratación del ministerio u organismo interesado en la compra.",
+    "Al Ministro para la Transformación Digital y de la Función Pública.",
+    "Al Ministro de Hacienda.",
+    "Al órgano de contratación del sistema estatal de contratación centralizada."
+   ]
+  },
+  {
+   "id": "pr-48-001",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 1,
+   "enunciado": "El Ministerio de Hacienda pretende construir un edificio administrativo y ha decidido contratar separadamente la redacción del proyecto y la ejecución de las obras. De acuerdo con la LCSP, ¿en qué orden deben realizarse las actuaciones relativas al proyecto de obras?",
+   "opciones": [
+    "Elaboración, aprobación, supervisión y replanteo.",
+    "Elaboración, supervisión, replanteo y aprobación.",
+    "Elaboración, supervisión, aprobación y replanteo.",
+    "Elaboración, supervisión y aprobación, efectuándose el replanteo después de la aprobación del expediente de contratación."
+   ]
+  },
+  {
+   "id": "pr-48-002",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 2,
+   "enunciado": "En la preparación de un contrato de obras, es necesario aprobar el correspondiente proyecto. Conforme a la LCSP, ¿a quién corresponde, con carácter general, la aprobación del proyecto de obras?",
+   "opciones": [
+    "A la oficina de supervisión de proyectos.",
+    "Al órgano de contratación.",
+    "Al director facultativo de las obras.",
+    "A la mesa de contratación."
+   ]
+  },
+  {
+   "id": "pr-48-003",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 3,
+   "enunciado": "De acuerdo con el artículo 235 de la LCSP, ¿en qué momento debe efectuarse, cuando proceda, la supervisión del proyecto de obras?",
+   "opciones": [
+    "Una vez elaborado el proyecto y antes de su aprobación.",
+    "Una vez aprobado el proyecto y antes de efectuar su replanteo.",
+    "Una vez efectuado el replanteo del proyecto y antes de aprobar el expediente de contratación.",
+    "Una vez formalizado el contrato y antes de iniciarse la ejecución de las obras."
+   ]
+  },
+  {
+   "id": "pr-48-004",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 4,
+   "enunciado": "Un organismo autónomo estatal proyecta contratar las obras de reforma de un edificio administrativo, con un valor estimado de 560.000 € y un presupuesto base de licitación de 592.900 € (IVA incluido). Conforme a la LCSP, ¿qué carácter tendrá el informe de supervisión?",
+   "opciones": [
+    "Preceptivo, al superar el valor estimado los 500.000 €.",
+    "Preceptivo, al superar el presupuesto base de licitación, IVA incluido, los 500.000 €.",
+    "Facultativo, salvo que las obras afecten a la estabilidad, seguridad o estanqueidad del inmueble.",
+    "Facultativo, en todo caso."
+   ]
+  },
+  {
+   "id": "pr-48-005",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 5,
+   "enunciado": "El Ministerio de Vivienda y Agenda Urbana tramita los siguientes contratos de obras, con sus correspondientes proyectos. Según la LCSP, ¿en cuál de los siguientes supuestos tendrá carácter facultativo el informe de supervisión del proyecto?",
+   "opciones": [
+    "Obras de reforma de un edificio, con un PBL de 605.000 €, sin afectar a su estabilidad, seguridad ni estanqueidad.",
+    "Contrato menor de obras, para reparar la cubierta de un edificio público, afectando a su estanqueidad.",
+    "Obras de refuerzo de la estructura resistente de un edificio público para reforzar su estabilidad, con un PBL de 120.000 €.",
+    "Obras de redistribución interior de una oficina, con un PBL de 480.000 €, sin afectar a su estabilidad, seguridad ni estanqueidad."
+   ]
+  },
+  {
+   "id": "pr-48-006",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 6,
+   "enunciado": "De acuerdo con el artículo 236 de la LCSP, ¿en qué momento debe efectuarse el replanteo del proyecto de obras?",
+   "opciones": [
+    "Una vez elaborado el proyecto y antes de proceder a su supervisión.",
+    "Una vez aprobado el proyecto y antes de aprobar el expediente de contratación de las obras.",
+    "Una vez supervisado el proyecto y antes de proceder a su aprobación.",
+    "Una vez aprobado el expediente de contratación y antes de proceder a la adjudicación de las obras."
+   ]
+  },
+  {
+   "id": "pr-48-007",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 7,
+   "enunciado": "Durante la preparación de un contrato de obras, la Administración procede a efectuar el replanteo del proyecto. De acuerdo con la LCSP, ¿en qué consiste esta actuación?",
+   "opciones": [
+    "En verificar, una vez formalizado el contrato y en presencia del contratista, las condiciones para ejecutar las obras.",
+    "En verificar que el proyecto cumple las disposiciones legales, reglamentarias y técnicas que resulten de aplicación.",
+    "En comprobar la realidad geométrica de la obra, la disponibilidad de los terrenos y los demás supuestos básicos del proyecto.",
+    "En comprobar que las obras ejecutadas se ajustan al proyecto aprobado, para proceder a su recepción."
+   ]
+  },
+  {
+   "id": "pr-48-008",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 8,
+   "enunciado": "Conforme al artículo 236 de la LCSP, ¿en cuál de los siguientes supuestos se dispensa del requisito previo de disponibilidad de los terrenos en la tramitación del expediente de contratación de obras?",
+   "opciones": [
+    "En las obras de infraestructuras hidráulicas, de transporte y de carreteras.",
+    "En los contratos de obras cuyos expedientes se tramiten por urgencia.",
+    "Cuando los terrenos en los que hayan de ejecutarse las obras hayan sido cedidos por entidades públicas.",
+    "En ningún caso, pues la disponibilidad de los terrenos debe acreditarse previamente en todo caso."
+   ]
+  },
+  {
+   "id": "pr-48-009",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 9,
+   "enunciado": "Un Ministerio estudia contratar conjuntamente la elaboración del proyecto y la ejecución de una obra. Según el artículo 234.1 de la LCSP, ¿cuál de las siguientes circunstancias permite esta contratación, previa justificación en el expediente?",
+   "opciones": [
+    "La insuficiencia de personal técnico de la Administración para redactar el proyecto con sus propios medios.",
+    "La conveniencia de reducir los costes administrativos mediante una única licitación de ambas prestaciones.",
+    "La existencia de motivos de orden técnico que impidan vincular al empresario a los estudios de las obras.",
+    "La existencia de dificultades técnicas que requieran soluciones aportadas con medios y capacidad técnica propias de las empresas."
+   ]
+  },
+  {
+   "id": "pr-48-010",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 10,
+   "enunciado": "Una empresa resulta adjudicataria de un contrato que comprende conjuntamente la redacción del proyecto y la ejecución de las obras. Una vez redactado el proyecto, ¿qué exige la LCSP para que pueda iniciarse la ejecución de las obras?",
+   "opciones": [
+    "Que el proyecto haya sido aprobado, pudiendo realizarse su supervisión y replanteo durante la ejecución de las obras.",
+    "Que el proyecto haya sido supervisado y aprobado, efectuándose su replanteo una vez iniciadas las obras.",
+    "Que el proyecto haya sido elaborado, pudiendo realizarse su aprobación, supervisión y replanteo durante la ejecución de las obras.",
+    "Que el proyecto haya sido supervisado, aprobado y replanteado."
+   ]
+  },
+  {
+   "id": "pr-48-011",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 11,
+   "enunciado": "De acuerdo con el artículo 234.2 de la LCSP, ¿en qué supuesto se exige, con carácter general, la redacción previa por la Administración de un anteproyecto o documento similar antes de la licitación?",
+   "opciones": [
+    "Cuando se contraten conjuntamente la elaboración del proyecto y la ejecución de las obras.",
+    "Cuando se contraten separadamente la elaboración del proyecto y la ejecución de las obras.",
+    "Cuando el proyecto vaya a ser elaborado por los propios servicios técnicos de la Administración.",
+    "En todos los contratos de obras, con independencia de cómo se elabore el proyecto."
+   ]
+  },
+  {
+   "id": "pr-48-012",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 12,
+   "enunciado": "De conformidad con el artículo 232 de la LCSP, ¿cuál de los siguientes NO constituye uno de los grupos en los que se clasifican las obras, según su objeto y naturaleza, a efectos de elaboración de los proyectos?",
+   "opciones": [
+    "Obras de reparación extraordinaria.",
+    "Obras de primer establecimiento, reforma, restauración, rehabilitación o gran reparación.",
+    "Obras de conservación y mantenimiento.",
+    "Obras de demolición."
+   ]
+  },
+  {
+   "id": "pr-48-013",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 13,
+   "enunciado": "Se proyectan obras de mejora y modernización de un edificio administrativo ya existente. De conformidad con el artículo 232 de la LCSP, estas actuaciones se incluyen dentro del concepto general de:",
+   "opciones": [
+    "Obras de conservación y mantenimiento.",
+    "Obras de reparación simple.",
+    "Obras de reforma.",
+    "Obras de segundo establecimiento."
+   ]
+  },
+  {
+   "id": "pr-48-014",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 14,
+   "enunciado": "La rotura accidental de una conducción de agua provoca daños severos en un edificio administrativo, sin afectar a su estructura resistente. Las obras previstas se limitan a enmendar el menoscabo producido. Según la LCSP, ¿qué calificación corresponde a estas obras?",
+   "opciones": [
+    "Obras de conservación y mantenimiento.",
+    "Obras de gran reparación.",
+    "Obras de reforma.",
+    "Obras de reparación simple."
+   ]
+  },
+  {
+   "id": "pr-48-015",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 15,
+   "enunciado": "Se proyecta reparar el edificio que alberga el Museo Arqueológico Nacional, conservándose su estética y respetándose su valor histórico. La intervención mantendrá la funcionalidad del inmueble. De acuerdo con el artículo 232 de la LCSP, ¿cómo se califican estas obras?",
+   "opciones": [
+    "Obras de restauración.",
+    "Obras de rehabilitación.",
+    "Obras de conservación y mantenimiento.",
+    "Obras de gran reparación."
+   ]
+  },
+  {
+   "id": "pr-48-016",
+   "origen": "practicas",
+   "test": "Examen nº 37 - LCSP (arts 231 a 236)",
+   "n": 16,
+   "enunciado": "Una Administración proyecta reparar un palacio residencial para destinarlo a biblioteca pública. La intervención conservará su estética y respetará su valor histórico, siendo el nuevo uso compatible con los elementos y valores originales del inmueble. Conforme a la LCSP, ¿cómo se califican estas obras?",
+   "opciones": [
+    "Obras de restauración.",
+    "Obras de rehabilitación.",
+    "Obras de conservación y mantenimiento.",
+    "Obras de primer establecimiento."
+   ]
+  },
+  {
+   "id": "pr-49-001",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 1,
+   "enunciado": "De acuerdo con el artículo 237 de la LCSP, la ejecución del contrato de obras comenzará:",
+   "opciones": [
+    "Con la formalización del contrato.",
+    "Con el acta de comprobación del replanteo.",
+    "Con la aprobación del replanteo del proyecto.",
+    "Con el inicio material de los trabajos de construcción."
+   ]
+  },
+  {
+   "id": "pr-49-002",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 2,
+   "enunciado": "Según el artículo 237 de la LCSP, la comprobación del replanteo deberá efectuarse:",
+   "opciones": [
+    "En el plazo consignado en el contrato, que no podrá superar un mes desde su formalización, salvo casos excepcionales justificados.",
+    "En el plazo consignado en el contrato, que no podrá superar un mes desde su adjudicación, salvo casos excepcionales justificados.",
+    "En el plazo consignado en el contrato, que no podrá superar dos meses desde su formalización, salvo casos excepcionales.",
+    "En el plazo de un mes desde la formalización del contrato, sin posibilidad de excepción."
+   ]
+  },
+  {
+   "id": "pr-49-003",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 3,
+   "enunciado": "De acuerdo con el artículo 238 de la LCSP, cuando las instrucciones de la dirección facultativa de las obras sean de carácter verbal:",
+   "opciones": [
+    "Serán vinculantes para las partes desde el momento en que se impartan, sin necesidad de ratificación escrita.",
+    "Deberán ser ratificadas por escrito en el plazo máximo de cinco días hábiles para que sean vinculantes para las partes.",
+    "Deberán ser ratificadas por escrito en el más breve plazo posible para que sean vinculantes para las partes.",
+    "No serán admisibles, dado que las instrucciones de la dirección facultativa deberán impartirse siempre por escrito."
+   ]
+  },
+  {
+   "id": "pr-49-004",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 4,
+   "enunciado": "Un ministerio debe tramitar la certificación correspondiente a las obras ejecutadas conforme al proyecto durante octubre de 2026. Según la LCSP y salvo previsión en contrario en el pliego de cláusulas administrativas particulares, ¿qué actuación debe realizar y en qué plazo?",
+   "opciones": [
+    "Aprobarla en los diez primeros días naturales de noviembre de 2026.",
+    "Expedirla en los diez primeros días naturales de octubre de 2026.",
+    "Expedirla en los diez primeros días hábiles de noviembre de 2026.",
+    "Expedirla en los diez primeros días naturales de noviembre de 2026."
+   ]
+  },
+  {
+   "id": "pr-49-005",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 5,
+   "enunciado": "Una empresa adjudicataria de un contrato de obras ejecuta durante noviembre de 2026 parte de las obras previstas en el proyecto. Conforme al régimen general de certificaciones mensuales, la correspondiente a dicho mes se expide el 9 de diciembre y es aprobada por la Administración el 21 de diciembre de 2026. De acuerdo con la LCSP, señale la afirmación INCORRECTA:",
+   "opciones": [
+    "La certificación se ha expedido dentro del plazo legalmente establecido.",
+    "La Administración deberá abonar su importe dentro de los treinta días siguientes al 21 de diciembre de 2026.",
+    "Su abono tendrá la consideración de pago a cuenta, sujeto a las rectificaciones y variaciones que se produzcan en la medición final.",
+    "El abono de la certificación supondrá la recepción de conformidad de las obras ejecutadas durante noviembre de 2026."
+   ]
+  },
+  {
+   "id": "pr-49-006",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 6,
+   "enunciado": "Durante la construcción de una carretera se detectan condiciones geotécnicas desfavorables, no previsibles cuando se elaboró el proyecto, que hacen necesaria la construcción de un muro de contención no contemplado inicialmente. En consecuencia, se acuerda modificar el contrato al amparo del artículo 205.2.b de la LCSP. Según la LCSP, ¿a quién corresponde fijar los precios de las nuevas unidades de obra?",
+   "opciones": [
+    "A la dirección facultativa, con la aprobación del órgano de contratación.",
+    "A la Administración, previa audiencia del contratista.",
+    "Al contratista, con la conformidad de la Administración.",
+    "A la Administración y al contratista, de mutuo acuerdo."
+   ]
+  },
+  {
+   "id": "pr-49-007",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 7,
+   "enunciado": "Durante la ejecución de un contrato de obras resulta necesario introducir nuevas unidades de obra, pero el contratista manifiesta su disconformidad con los precios fijados. Conforme a la LCSP, ¿cuál de las siguientes actuaciones podrá acordar el órgano de contratación?",
+   "opciones": [
+    "Contratar las nuevas unidades con otro empresario, pudiendo incrementar los precios fijados hasta un 10 %.",
+    "Encargar directamente su ejecución a una entidad del sector público, aunque no tenga la condición de medio propio.",
+    "Imponer al contratista su ejecución a los precios fijados, pese a su disconformidad.",
+    "Resolver el contrato conforme al artículo 211 de la LCSP."
+   ]
+  },
+  {
+   "id": "pr-49-008",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 8,
+   "enunciado": "Durante la ejecución de unas obras, un estudio geotécnico revela innecesario construir un muro de contención previsto en el proyecto, acordándose su supresión mediante una modificación contractual. De acuerdo con la LCSP, ¿qué podrá reclamar el contratista?",
+   "opciones": [
+    "El precio pactado por la unidad de obra suprimida.",
+    "Una indemnización equivalente al 3 % del importe de la unidad de obra suprimida.",
+    "Una indemnización por el beneficio industrial dejado de percibir como consecuencia de la supresión.",
+    "No tendrá derecho a reclamar indemnización alguna."
+   ]
+  },
+  {
+   "id": "pr-49-009",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 9,
+   "enunciado": "Un Ministerio aprueba una modificación de unas obras que incorpora canalizaciones subterráneas que quedarán definitivamente ocultas. De acuerdo con la LCSP, ¿deberá comunicarse su medición parcial a la Intervención General de la Administración del Estado?",
+   "opciones": [
+    "Sí, con una antelación mínima de cinco días, para que pueda asistir si lo considera oportuno.",
+    "Sí, con una antelación mínima de cinco días, siendo obligatoria su asistencia.",
+    "No, ya que únicamente debe comunicarse a la Intervención el acto de recepción final de las obras.",
+    "No, al tratarse de unidades de obra incorporadas mediante una modificación contractual."
+   ]
+  },
+  {
+   "id": "pr-49-010",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 10,
+   "enunciado": "De acuerdo con la LCSP, ¿cuándo será necesario tramitar el correspondiente expediente de modificación de un contrato de obras?",
+   "opciones": [
+    "Únicamente cuando la modificación no esté prevista en los pliegos.",
+    "Únicamente cuando la modificación esté prevista en los pliegos.",
+    "Tanto cuando la modificación esté prevista en los pliegos como cuando no lo esté.",
+    "Solo cuando la modificación suponga un incremento del precio del contrato."
+   ]
+  },
+  {
+   "id": "pr-49-011",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 11,
+   "enunciado": "De acuerdo con el artículo 242.4 de la LCSP, ¿cuál de las siguientes actuaciones NO forma parte de la tramitación de una modificación del proyecto de obras?",
+   "opciones": [
+    "La redacción de la modificación del proyecto y su aprobación técnica.",
+    "La audiencia del contratista y del redactor del proyecto por un plazo mínimo de tres días.",
+    "La aprobación del expediente por el órgano de contratación y de los gastos complementarios precisos.",
+    "La emisión de un informe favorable de la mesa de contratación sobre la modificación propuesta."
+   ]
+  },
+  {
+   "id": "pr-49-012",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 12,
+   "enunciado": "El Ministerio de Transportes y Movilidad Sostenible adjudica la construcción de una carretera por importe de 1.000.000 de euros. Durante su ejecución, la medición de las obras revela que han sido necesarios 2.100 metros lineales de tubería, frente a los 2.000 previstos, lo que supone un incremento del gasto de 40.000 euros. De acuerdo con la LCSP, ¿tendrá este exceso de mediciones la consideración de modificación contractual?",
+   "opciones": [
+    "No, al suponer un incremento de gasto no superior al 10 % del precio inicial.",
+    "Sí, al suponer un incremento de gasto superior al 3 % del precio inicial.",
+    "Sí, de modificación no sustancial, al suponer un incremento de gasto no superior al 15 % del precio inicial.",
+    "Sí, al suponer un incremento de gasto sobre el precio inicial."
+   ]
+  },
+  {
+   "id": "pr-49-013",
+   "origen": "practicas",
+   "test": "Examen nº 38 - LCSP (arts 237 a 242)",
+   "n": 13,
+   "enunciado": "Durante la construcción de una carretera, se propone sustituir las farolas previstas en el proyecto por otras de mayor capacidad lumínica, fijándose nuevos precios. Según la LCSP, ¿qué requisitos debe cumplir esta variación para no considerarse modificación contractual?",
+   "opciones": [
+    "Que no incremente el precio global del contrato ni afecte a unidades que en su conjunto excedan del 3% del presupuesto primitivo.",
+    "Que no incremente el precio global del contrato ni afecte a unidades que en su conjunto excedan el 10% del presupuesto primitivo.",
+    "Que el incremento del precio global no supere el 3 % del presupuesto primitivo.",
+    "Que el incremento del precio global no supere el 10 % del precio inicial del contrato."
+   ]
+  },
+  {
+   "id": "pr-50-001",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 1,
+   "enunciado": "Un organismo autónomo estatal ha adjudicado un contrato de obras para la ampliación de sus instalaciones. De acuerdo con la LCSP, ¿cuándo se entenderá cumplido dicho contrato?",
+   "opciones": [
+    "Cuando el contratista haya finalizado materialmente la totalidad de las obras.",
+    "Cuando las obras hayan sido recibidas formalmente y de conformidad por la Administración.",
+    "Cuando se haya aprobado la certificación final de las obras ejecutadas.",
+    "Cuando haya transcurrido el plazo de garantía sin objeciones por parte de la Administración."
+   ]
+  },
+  {
+   "id": "pr-50-002",
+   "origen": "practicas",
+   "test": "Examen nº 39 - LCSP (arts 243 a 246)",
+   "n": 2,
+   "enunciado": "En el acto de recepción de las obras, el director facultativo observa defectos que impiden recibirlas de conformidad, por lo que fija un plazo para su subsanación. Transcurrido dicho plazo sin que el contratista haya corregido los defectos, ¿cómo podrá procederse?",
+   "opciones": [
+    "Deberá resolverse el contrato, con incautación de la garantía definitiva.",
+    "Deberá concederse al contratista un nuevo plazo improrrogable.",
+    "Podrá concederse al contratista un nuevo plazo improrrogable o declararse resuelto el contrato.",
+    "Podrán recibirse las obras, descontando de la garantía el coste de las reparaciones pendientes, o declararse resuelto el contrato."
+   ]
+  }
+ ]
+}

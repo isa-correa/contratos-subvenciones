@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-05-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 4,
+   "enunciado": "De acuerdo con el artículo 50 de la Ley 9/2017, de Contratos del Sector Público, el procedimiento de recurso especial en materia de contratación se iniciará mediante escrito que deberá presentarse en el plazo de:",
+   "opciones": [
+    "Quince días hábiles.",
+    "Treinta días hábiles.",
+    "Veinte días hábiles.",
+    "Diez días hábiles."
+   ]
+  },
+  {
+   "id": "au-05-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 5,
+   "enunciado": "En aplicación del artículo 44 de la Ley 9/2017, de Contratos del Sector Público, podrán ser objeto de recurso especial en materia de contratación, entre otras, las siguientes actuaciones:",
+   "opciones": [
+    "Los anuncios de licitación de los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "Los acuerdos de adjudicación de los contratos de obras, siempre que su valor estimado sea superior a 5.404.000 euros.",
+    "Los acuerdos de rescate de concesiones de obras cuyo valor estimado supere los 3.000.000 euros.",
+    "Las modificaciones que incumplan los artículos 204 y 205 de la LCSP, cualquiera que sea el valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "au-05-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 6,
+   "enunciado": "Podrán ser susceptibles de recurso especial en materia de contratación los actos y decisiones relacionados en el apartado 2 del artículo 44 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, cuando se refieran a los siguientes contratos:",
+   "opciones": [
+    "Los contratos administrativos especiales cuando su valor estimado sea superior a noventa mil euros.",
+    "Concesiones de servicios cuyo valor estimado supere los tres millones de euros.",
+    "Contratos de obras cuyo valor estimado sea superior a un millón de euros.",
+    "Los encargos cuando, atendida su duración total más las prórrogas, su valor estimado sea superior a noventa mil euros."
+   ]
+  },
+  {
+   "id": "au-05-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 7,
+   "enunciado": "De conformidad con la LCSP, los contratos específicos en el marco de un sistema dinámico de adquisición se perfeccionan:",
+   "opciones": [
+    "Con su formalización.",
+    "Con la publicación del anuncio de formalización.",
+    "Con la aprobación del expediente de contratación.",
+    "Con su adjudicación."
+   ]
+  },
+  {
+   "id": "au-05-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 8,
+   "enunciado": "Según la LCSP los contratos que celebren los poderes adjudicadores, con carácter general, ¿cómo se perfeccionan?",
+   "opciones": [
+    "Por concurrir en ellos todos los requisitos exigidos para su validez.",
+    "Por su formalización.",
+    "Por el consentimiento.",
+    "Por su elevación a público."
+   ]
+  },
+  {
+   "id": "au-05-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 9,
+   "enunciado": "Según la Ley LCSP, serán nulos de pleno derecho los contratos celebrados por los poderes adjudicadores en los casos en los que concurran alguna de las causas siguientes:",
+   "opciones": [
+    "Cuando alguna disposición otorgue ventajas a empresas que hayan contratado previamente con cualquier Administración.",
+    "El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos.",
+    "Los encargos a medios propios, cuando no observen alguno de los requisitos relativos a la condición de medio propio.",
+    "La carencia o insuficiencia de crédito, salvo los supuestos de emergencia."
+   ]
+  },
+  {
+   "id": "au-05-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 10,
+   "enunciado": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público establece que la contratación verbal:",
+   "opciones": [
+    "Es obligatoria con carácter general.",
+    "Está prohibida en todo caso.",
+    "Solo se permite cuando el contrato tenga carácter de urgencia.",
+    "Solo se permite cuando el contrato tenga carácter de emergencia."
+   ]
+  },
+  {
+   "id": "au-05-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 11,
+   "enunciado": "Según lo dispuesto en la LCSP, podrán ser objeto de recurso especial en materia de contratación:",
+   "opciones": [
+    "Los contratos de obras cuyo valor estimado sea superior a 500.000 euros.",
+    "Los encargos cuando su importe, sea igual o inferior al establecido para los contratos de servicios.",
+    "Los contratos de suministro y servicios que tenga un valor estimado superior a 100.000 euros.",
+    "Las concesiones de obras o de servicios cuyo valor estimado supere los 2 millones de euros."
+   ]
+  },
+  {
+   "id": "au-05-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 12,
+   "enunciado": "El recurso especial en materia de contratación:",
+   "opciones": [
+    "Es obligatorio y gratuito.",
+    "Se puede interponer en los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "No se puede interponer contra actos de la mesa de contratación que decide sobre la admisión o exclusión de ofertas.",
+    "Es potestativo y cabe contra actos de la mesa de contratación por los que se acuerde la admisión o inadmisión de licitadores."
+   ]
+  },
+  {
+   "id": "au-05-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 13,
+   "enunciado": "De acuerdo con la LCSP, no podrán ser objeto del recurso especial en materia de contratación los siguientes actos:",
+   "opciones": [
+    "Los informes de insuficiencia de medios, en los contratos de servicios.",
+    "Los acuerdos de adjudicación adoptados por los poderes adjudicadores.",
+    "Los anuncios de licitación.",
+    "Los pliegos y los documentos contractuales que establezcan las condiciones que deban regir la contratación."
+   ]
+  },
+  {
+   "id": "au-05-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 14,
+   "enunciado": "Serán objeto de recurso especial en materia de contratación:",
+   "opciones": [
+    "Los actos dictados en relación con las modificaciones contractuales no previstas en el pliego, en todo caso.",
+    "Los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "Los pliegos y los documentos contractuales que establezcan las condiciones que deban regir la contratación.",
+    "Los contratos de gestión de servicios públicos cuyo valor estimado sea superior a 3.000.000 de euros."
+   ]
+  },
+  {
+   "id": "au-05-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 15,
+   "enunciado": "Según la LCSP, la carencia o insuficiencia de crédito es, salvo en supuestos de emergencia, causa de:",
+   "opciones": [
+    "Convalidación del contrato.",
+    "Nulidad del contrato.",
+    "Anulabilidad del contrato.",
+    "Invalidez del contrato."
+   ]
+  },
+  {
+   "id": "au-05-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 16,
+   "enunciado": "Todas aquellas disposiciones, resoluciones, cláusulas o actos emanados de cualquier poder adjudicador que otorguen, de forma directa o indirecta, ventajas a las empresas que hayan contratado previamente con cualquier Administración son:",
+   "opciones": [
+    "Causa de nulidad de derecho administrativo.",
+    "Causa de invalidez de derecho civil.",
+    "Causa de anulabilidad de derecho administrativo.",
+    "Medidas para fomentar y promover la contratación del sector público."
+   ]
+  },
+  {
+   "id": "au-05-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 17,
+   "enunciado": "De acuerdo con la LCSP, interpuesto un recurso especial en materia de contratación sin que se haya notificado su resolución, el interesado podrá:",
+   "opciones": [
+    "Considerarlo desestimado, transcurridos dos meses desde su interposición.",
+    "Considerarlo estimado, transcurridos tres meses desde su interposición.",
+    "Considerarlo estimado, transcurridos dos meses desde su interposición.",
+    "Considerarlo desestimado, transcurridos tres meses desde su interposición."
+   ]
+  },
+  {
+   "id": "au-05-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 18,
+   "enunciado": "Según la LCSP, en caso de que el órgano competente aprecie temeridad o mala fe en la interposición del recurso especial en materia de contratación, podrá acordar la imposición de una multa al responsable de la misma por importe de entre:",
+   "opciones": [
+    "1.000 y 30.000 euros.",
+    "3.000 y 30.000 euros.",
+    "1.000 y 5.000 euros.",
+    "5.000 y 10.000 euros."
+   ]
+  },
+  {
+   "id": "au-05-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 19,
+   "enunciado": "Salvo en el supuesto de contratos basados en un acuerdo marco o de contratos específicos en el marco de un sistema dinámico de adquisición, interpuesto el recurso especial quedará en suspenso la tramitación del procedimiento cuando el acto recurrido sea:",
+   "opciones": [
+    "El anuncio de licitación.",
+    "La admisión o inadmisión de candidatos o licitadores.",
+    "El acto de adjudicación.",
+    "El pliego de cláusulas administrativas particulares."
+   ]
+  },
+  {
+   "id": "au-05-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (5) - LCSP (arts 34 a 60)",
+   "n": 20,
+   "enunciado": "En relación con el recurso especial en materia de contratación es cierto que:",
+   "opciones": [
+    "No cabe interponerse contra los contratos administrativos especiales.",
+    "No se dará este recurso en relación con los procedimientos de adjudicación que se sigan por el trámite de urgencia.",
+    "El órgano competente para resolverlo decidirá, en el plazo de cinco días hábiles, acerca de las medidas cautelares solicitadas.",
+    "La duración del nombramiento del Presidente del Tribunal Administrativo Central de Recursos Contractuales será de 5 años."
+   ]
+  },
+  {
+   "id": "au-06-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 1,
+   "enunciado": "El artículo 82 de la LCSP establece que para la conservación de la clasificación de las empresas deberá justificarse:",
+   "opciones": [
+    "Anualmente el mantenimiento de la solvencia económica y financiera y, cada dos años, el de la técnica y profesional.",
+    "Anualmente el mantenimiento de la solvencia económica y financiera y, cada tres años, el de la técnica y profesional.",
+    "Anualmente el mantenimiento de la solvencia técnica y profesional y, cada tres años, el de la económica y financiera.",
+    "La clasificación de las empresas tendrá una vigencia indefinida, por lo que, una vez otorgada no requiere justificación alguna."
+   ]
+  },
+  {
+   "id": "au-06-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 2,
+   "enunciado": "De acuerdo con la LCSP, la clasificación de los empresarios como contratistas de obras o contratistas de servicios de los poderes adjudicadores será requisito indispensable:",
+   "opciones": [
+    "Tanto en los contratos de obras como en los de servicios cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "En los contratos de obras cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "En los contratos de servicios cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "En los contratos de obras cuyo valor estimado sea igual o superior a 50.000 euros."
+   ]
+  },
+  {
+   "id": "au-06-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 3,
+   "enunciado": "Según la LCSP, las Uniones Temporales de Empresarios que concurran a una adjudicación, deben formalizar su constitución en escritura pública, en todo caso:",
+   "opciones": [
+    "Antes de la finalización del plazo de licitación.",
+    "Cuando resulten adjudicatarias.",
+    "No es necesaria la formalización en escritura pública, en ningún caso.",
+    "Antes de licitación o en plazo de subsanación."
+   ]
+  },
+  {
+   "id": "au-06-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 4,
+   "enunciado": "Según el artículo 71 de la Ley 9/2017, de Contratos del Sector Público, se considera como una prohibición para contratar:",
+   "opciones": [
+    "Haber sido condenado mediante sentencia firme por cualquier delito.",
+    "No acreditar un volumen de negocio superior a 50.000 euros durante el ejercicio anterior.",
+    "En el caso de las empresas de más de 25 trabajadores, no cumplir con la obligación de contar con un plan de igualdad.",
+    "Haber solicitado la declaración de concurso voluntario."
+   ]
+  },
+  {
+   "id": "au-06-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 5,
+   "enunciado": "De acuerdo con la LCSP, será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de suministro de los poderes adjudicadores:",
+   "opciones": [
+    "Para los contratos de suministros cuyo valor estimado sea igual o superior a 500.000 euros.",
+    "Para los contratos de suministros cuyo valor estimado sea igual o superior a 300.000 euros.",
+    "Para los contratos de suministros no será exigible la clasificación, si bien le permitirá al empresario acreditar su solvencia.",
+    "La LCSP no contempla la clasificación de los empresarios como contratistas de suministros de los poderes adjudicadores."
+   ]
+  },
+  {
+   "id": "au-06-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 6,
+   "enunciado": "El artículo 79 de la LCSP establece que la clasificación de las empresas se hará en función:",
+   "opciones": [
+    "De su solvencia.",
+    "De su liquidez.",
+    "De su rentabilidad.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "au-06-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 7,
+   "enunciado": "La clasificación concedida para contratar:",
+   "opciones": [
+    "Tiene vigencia indefinida.",
+    "Se concede por un período de dos años.",
+    "Tiene una vigencia de cinco años prorrogable por otros cinco.",
+    "Se concede por tres años prorrogable por anualidades."
+   ]
+  },
+  {
+   "id": "au-06-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (6) - LCSP (arts 61 a 83)",
+   "n": 8,
+   "enunciado": "Indiqué cuál de los siguientes órganos podrá adoptar, con eficacia general frente a todos los órganos de contratación, acuerdos relativos a la clasificación de las empresas:",
+   "opciones": [
+    "Las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado.",
+    "Organos de CC.AA equivalentes a las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado.",
+    "Ningún órgano podrá adoptar acuerdos relativos a la clasificación de las empresas con eficacia general frente a todos.",
+    "Las respuestas a y b son correctas."
+   ]
+  }
+ ]
+}

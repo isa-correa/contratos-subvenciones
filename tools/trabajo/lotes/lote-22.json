@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-03-003",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 3,
+   "enunciado": "En los contratos de obras, la solvencia técnica del empresario deberá ser acreditada por uno o varios de los medios siguientes, a elección del órgano de contratación; seleccione la respuesta FALSA: (ADMVO-LI EXT 2023)",
+   "opciones": [
+    "Relación de las obras ejecutadas en el curso de los tres últimos años, avalada por certificados de buena ejecución.",
+    "Títulos académicos, en particular, del responsable de las obras y los técnicos encargados directamente de la misma.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de las obras."
+   ]
+  },
+  {
+   "id": "vo-03-004",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 4,
+   "enunciado": "¿Cuál de los siguientes medios permite acreditar solvencia técnica en un contrato de suministros? (ADMVO-EST 2021)",
+   "opciones": [
+    "Patrimonio neto, o bien ratio entre activos y pasivos, al cierre del último ejercicio económico.",
+    "Descripción de las instalaciones técnicas, de las medidas empleadas para garantizar la calidad y de los medios de estudio e investigación de la empresa.",
+    "Una relación de los principales suministros realizados en el curso de, como máximo, los cinco últimos años.",
+    "La declaración sobre la plantilla media anual de la empresa y del número de directivos durante los cinco últimos años."
+   ]
+  },
+  {
+   "id": "vo-03-005",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 5,
+   "enunciado": "Según la LCSP, ¿cuál de los siguientes medios servirá para acreditar solvencia técnica en un contrato de servicios?",
+   "opciones": [
+    "Una relación de los principales servicios de igual o similar naturaleza realizados en el curso de los cinco últimos años.",
+    "Muestras, descripciones y fotografías de los servicios a realizar.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "La declaración sobre la plantilla media anual de la empresa y del número de directivos durante los cinco últimos años."
+   ]
+  },
+  {
+   "id": "vo-03-006",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 6,
+   "enunciado": "Según la LCSP, ¿cuál de los siguientes medios NO servirá para acreditar solvencia técnica en un contrato de suministros?",
+   "opciones": [
+    "Muestras, descripciones y fotografías de los productos a suministrar.",
+    "Control efectuado por la entidad del sector público contratante sobre la capacidad de producción del empresario.",
+    "La declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "Una relación de los principales suministros de igual o similar naturaleza realizados en los tres últimos años."
+   ]
+  },
+  {
+   "id": "vo-03-007",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 7,
+   "enunciado": "Según la LCSP, a tenor de lo en él reflejado y salvo prueba en contrario, acreditará frente a todos los órganos de contratación del sector público:",
+   "opciones": [
+    "La inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "La inscripción en el Registro de Licitadores de una Comunidad Autónoma.",
+    "Las respuesta a y b son incorrectas.",
+    "Las respuesta a y b son correctas."
+   ]
+  },
+  {
+   "id": "vo-03-008",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 8,
+   "enunciado": "Señale la respuesta incorrecta. Según la LCSP, la inscripción en el ROLECSP acreditará, a tenor de lo en él reflejado, y salvo prueba en contrario, las condiciones de aptitud del empresario en cuanto a:",
+   "opciones": [
+    "Su personalidad y capacidad de obrar.",
+    "Su solvencia económica y financiera y técnica o profesional.",
+    "La concurrencia o no concurrencia de las prohibiciones de contratar que deban constar en el mismo.",
+    "Su clasificación, en su caso, como contratista de obras, servicios y suministros de los Poderes Adjudicadores."
+   ]
+  },
+  {
+   "id": "vo-03-009",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 9,
+   "enunciado": "Según la LCSP, en supuestos de sucesión del contratista, si no pudiese producirse la subrogación por no reunir la entidad a la que se atribuya el contrato las condiciones de solvencia necesarias:",
+   "opciones": [
+    "Se resolverá el contrato, considerándose a todos los efectos como un supuesto de resolución por culpa del adjudicatario.",
+    "Se resolverá el contrato, considerándose a todos los efectos como un supuesto de resolución por culpa del ente adjudicador.",
+    "Se podrá continuar el contrato, siempre que se presten las garantías complementarias que determine el órgano de contratación.",
+    "Se suspenderá la ejecución del contrato en tanto la entidad a la que se atribuya el contrato reúna las condiciones de solvencia."
+   ]
+  },
+  {
+   "id": "vo-03-010",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 10,
+   "enunciado": "De conformidad con lo establecido en el artículo 99 de la LCSP, el objeto de los contratos: (GACE-EST 2023)",
+   "opciones": [
+    "Podrá fraccionarse con la finalidad de disminuir la cuantía del mismo.",
+    "No podrá dividirse en lotes.",
+    "Siempre tendrá que cerrarse a una solución única.",
+    "Deberá ser determinado."
+   ]
+  },
+  {
+   "id": "vo-03-011",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 11,
+   "enunciado": "Conforme a la LCSP, en cuanto al objeto del contrato, se ha de motivar: (GACE-LI EXT 2021)",
+   "opciones": [
+    "La elección del procedimiento de adjudicación, en todo caso.",
+    "La exigencia de requisitos de solvencia técnica.",
+    "La no división en lotes.",
+    "El límite máximo del presupuesto estimado."
+   ]
+  },
+  {
+   "id": "vo-03-012",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 12,
+   "enunciado": "De conformidad con el artículo 99.7 de la LCSP, en los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato: (GACE-PI 2019)",
+   "opciones": [
+    "Cada lote constituirá un contrato, salvo en los casos en que se presenten ofertas integradoras.",
+    "Todos los lotes se entenderán siempre como un único contrato.",
+    "Cada lote constituirá un contrato, incluso en los casos en que se presenten ofertas integradoras.",
+    "Todos los lotes se entenderán siempre como un único contrato, salvo en el caso de que sobrepasen el número de diez lotes."
+   ]
+  },
+  {
+   "id": "vo-03-013",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 13,
+   "enunciado": "Según la LCSP, por presupuesto base de licitación se entenderá, salvo disposición en contrario: (C1 Castilla la Mancha 2021)",
+   "opciones": [
+    "El límite mínimo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el IVA.",
+    "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, excluido el IVA.",
+    "El límite obligado en el presupuesto a favor del contratista.",
+    "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el IVA."
+   ]
+  },
+  {
+   "id": "vo-03-014",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 14,
+   "enunciado": "De acuerdo con la LCSP, en el cálculo del valor estimado de los contratos deberán tenerse en cuenta, como mínimo, entre otros:",
+   "opciones": [
+    "Solo en el supuesto de contratos de servicios, los costes derivados de la aplicación de las normativas laborales.",
+    "Los gastos generales de estructura, excluido el beneficio industrial.",
+    "Cualquier forma de opción eventual y las eventuales prórrogas del contrato.",
+    "El Impuesto sobre el Valor Añadido."
+   ]
+  },
+  {
+   "id": "vo-03-015",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 15,
+   "enunciado": "La LCSP indica en su artículo 101 que el valor estimado de los contratos: (ADMVO-LI-EXT 2023)",
+   "opciones": [
+    "Incluirá el IVA, excepto en los de suministros y servicios inferiores a 15.000 euros.",
+    "No incluirá el IVA, excepto en los de obras superiores a 120.000 euros, en los que se deberá incluir.",
+    "Incluirá el IVA en todos los casos.",
+    "No incluirá el IVA en ningún caso."
+   ]
+  },
+  {
+   "id": "vo-03-016",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 16,
+   "enunciado": "Señala la respuesta FALSA en relación con el artículo 102 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+   "opciones": [
+    "Tendrán siempre un precio cierto, que se abonará al contratista en función de la prestación realmente ejecutada.",
+    "El precio del contrato podrá formularse en términos de precios unitarios referidos a los distintos componentes de la prestación.",
+    "No podrá preverse que el precio sea satisfecho en moneda distinta del euro.",
+    "Incluirá el importe a abonar en concepto de IVA, que en todo caso se indicará como partida independiente."
+   ]
+  },
+  {
+   "id": "vo-03-017",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 17,
+   "enunciado": "Según la LCSP, salvo en contratos de suministro de energía, la revisión periódica y predeterminada de precios tendrá lugar cuando el contrato se hubiese ejecutado, al menos en: (C1 Castilla la Mancha 2021)",
+   "opciones": [
+    "El 10 por ciento de su importe y hubiesen transcurrido dos años de su formalización.",
+    "El 10 por ciento de su importe y hubiese transcurrido un año de su formalización.",
+    "El 20 por ciento de su importe y hubiese transcurrido un año de su formalización.",
+    "El 20 por ciento de su importe y hubiesen transcurrido dos años de su formalización"
+   ]
+  },
+  {
+   "id": "vo-03-018",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 18,
+   "enunciado": "Señale la respuesta correcta en relación con la revisión de precios de los contratos del Sector Público, según la LCSP:",
+   "opciones": [
+    "El PCAP detallará la fórmula de revisión aplicable, que será invariable durante la vigencia del contrato.",
+    "La condición relativa al transcurso del plazo desde su formalización no se exigirá a contratos de concesión de servicios.",
+    "Salvo en los contratos de suministro de energía, los precios no podrán ser objeto de revisión periódica y predeterminada.",
+    "La revisión periódica y predeterminada de precios sólo se podrá llevar a cabo en los contratos de obra."
+   ]
+  },
+  {
+   "id": "vo-03-019",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 19,
+   "enunciado": "En los procedimientos de contratación del Sector Público, la garantía provisional: (ADMVO-LI 2023)",
+   "opciones": [
+    "Como regla general no se exigirá.",
+    "Se exigirá para todos los contratos cuyo valor estimado supere los 143.000 euros.",
+    "Será obligatoria en los contratos sujetos a regulación armonizada.",
+    "Será del 1,5 % del valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "vo-03-020",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 20,
+   "enunciado": "Según la LCSP, la garantía provisional se extingue automáticamente y será devuelta a los licitadores inmediatamente después de:",
+   "opciones": [
+    "La perfección del contrato.",
+    "La extinción del contrato.",
+    "El cumplimento del contrato.",
+    "La formalización del contrato."
+   ]
+  },
+  {
+   "id": "vo-03-021",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 21,
+   "enunciado": "El artículo 106 de la LCSP prevé respecto de la garantía provisional que: (ADMVO-PI-2019)",
+   "opciones": [
+    "No procederá su exigencia, salvo cuando de forma excepcional el órgano de contratación lo considere necesario.",
+    "Se exigirá en todo caso, no pudiendo ser superior al 3% del presupuesto base de licitación del contrato, excluido el IVA.",
+    "Se exigirá en todo caso, no pudiendo ser superior al 3% del presupuesto base de licitación del contrato, incluido el IVA.",
+    "Se exigirá en todo caso, no pudiendo ser superior al 5% del presupuesto base de licitación del contrato, excluido el IVA."
+   ]
+  },
+  {
+   "id": "vo-03-022",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 22,
+   "enunciado": "¿En cuál de los siguientes contratos es posible eximir al licitador que presente la mejor oferta de constituir garantía definitiva?",
+   "opciones": [
+    "En los contratos de obras.",
+    "En los contratos de concesión de obras.",
+    "En los contratos de concesión de servicios.",
+    "En ningún contrato cabrá eximir al licitador que presente la mejor oferta de constituir garantía definitiva."
+   ]
+  },
+  {
+   "id": "vo-03-023",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 23,
+   "enunciado": "Indique la respuesta correcta respecto a la garantía definitiva en un contrato de suministros:",
+   "opciones": [
+    "La deben presentar, antes de la adjudicación del contrato, todos los licitadores que hayan presentado oferta.",
+    "No es posible eximir al licitador que presente la mejor oferta de constituir garantía definitiva.",
+    "Con carácter general, su importe será del 5% del precio final ofertado, excluido el Impuesto sobre el Valor Añadido.",
+    "Responderá del mantenimiento por los licitadores de sus ofertas hasta la perfección del contrato."
+   ]
+  },
+  {
+   "id": "vo-03-024",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 24,
+   "enunciado": "Dispone la LCSP que cuando el precio del contrato se formule en función de precios unitarios, el importe de la garantía se fijará atendiendo:",
+   "opciones": [
+    "Al valor estimado del contrato, IVA incluido.",
+    "Al valor estimado del contrato, IVA excluido.",
+    "Al presupuesto base de licitación, IVA incluido.",
+    "Al presupuesto base de licitación, IVA excluido."
+   ]
+  },
+  {
+   "id": "vo-03-025",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 25,
+   "enunciado": "La LCSP establece que cuando, como consecuencia de una modificación del contrato, experimente variación el precio del mismo, deberá reajustarse la garantía, en el plazo de: (A1 Castilla la Mancha 2021)",
+   "opciones": [
+    "Quince días desde la fecha en que se notifique al empresario el acuerdo de modificación.",
+    "Diez días desde la fecha en que se notifique al empresario el acuerdo de modificación.",
+    "Siete días desde la fecha en que se notifique al empresario el acuerdo de modificación.",
+    "Diez días desde la fecha el acuerdo de modificación."
+   ]
+  },
+  {
+   "id": "vo-03-026",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 26,
+   "enunciado": "Según el artículo 111.2 de la Ley de Contratos, el acuerdo de devolución de la garantía: (A1 Castilla la Mancha 2019)",
+   "opciones": [
+    "Deberá adoptarse y notificarse al interesado en el plazo de dos meses desde la finalización del contrato.",
+    "Deberá adoptarse y notificarse al interesado en el plazo de un mes desde la finalización del plazo de garantía.",
+    "Deberá adoptarse y notificarse al interesado en el plazo de tres meses desde la finalización del plazo de garantía",
+    "Deberá adoptarse y notificarse al interesado en el plazo de dos meses desde la finalización del plazo de garantía."
+   ]
+  },
+  {
+   "id": "vo-03-027",
+   "origen": "votaciones",
+   "test": "Clase 15 - Bloque III",
+   "n": 27,
+   "enunciado": "Según el artículo 108 de la LCSP, ¿cuál de las siguientes NO es una forma admisible de prestar garantías en los contratos? (ADMVO-LI 2023)",
+   "opciones": [
+    "En efectivo o en valores de Deuda Pública.",
+    "Mediante aval prestado por una entidad bancaria.",
+    "Mediante el título conformado de propiedad de bienes inmuebles realizada dentro de los tres meses inmediatamente anteriores.",
+    "Mediante contrato de seguro de caución."
+   ]
+  },
+  {
+   "id": "vo-04-001",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 1,
+   "enunciado": "Según el artículo 116 de la LCSP, el informe de insuficiencia de medios previsto en esta Ley: (ADMVO-PI-EXT 2021)",
+   "opciones": [
+    "Se justificará adecuadamente en los contratos de servicios.",
+    "Se justificará adecuadamente en los contratos de suministros.",
+    "Se justificará adecuadamente en los contratos de servicios y suministros.",
+    "Se justificará adecuadamente en los contratos de obras, servicios y suministros."
+   ]
+  },
+  {
+   "id": "vo-04-002",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 2,
+   "enunciado": "De acuerdo con el artículo 116 de la LCSP, el expediente de contratación se inicia: (ADMVO-PI 2017)",
+   "opciones": [
+    "Con la convocatoria de la licitación.",
+    "Motivando la necesidad de realizar el contrato.",
+    "Con la aprobación del pliego.",
+    "Con la aprobación del gasto."
+   ]
+  },
+  {
+   "id": "vo-04-003",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 3,
+   "enunciado": "De conformidad con el artículo 116.3 de la LCSP, los PCAP y los PPT serán sustituidos por el documento descriptivo, en el caso de que el procedimiento elegido para adjudicar el contrato sea el de:",
+   "opciones": [
+    "Asociación para la Innovación.",
+    "Concurso de proyectos.",
+    "Diálogo competitivo.",
+    "Encargo a medios propios personificados."
+   ]
+  },
+  {
+   "id": "vo-04-004",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 4,
+   "enunciado": "De acuerdo con la LCSP, completado el expediente de contratación, se dictará resolución motivada por el órgano de contratación que, con carácter general, implicará:",
+   "opciones": [
+    "El establecimiento de la garantía definitiva.",
+    "La aprobación del gasto.",
+    "La acreditación de la solvencia económica y financiera.",
+    "La exigencia de clasificación."
+   ]
+  },
+  {
+   "id": "vo-04-005",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 5,
+   "enunciado": "Señale la opción correcta respecto a la tramitación anticipada de los expedientes de contratación, según el artículo 117.2 de la LCSP:",
+   "opciones": [
+    "La adjudicación del contrato se realizará en el ejercicio siguiente al que se ha iniciado el expediente.",
+    "Podrán ultimarse incluso con la adjudicación y formalización del contrato, siempre que su ejecución se inicie en el mismo ejercicio que se tramita.",
+    "Podrán ultimarse incluso con la adjudicación y formalización del contrato, aun cuando su ejecución deba iniciarse en el ejercicio siguiente.",
+    "La formalización del contrato se realizará, en todo caso, en el ejercicio siguiente al que se ha iniciado el expediente."
+   ]
+  },
+  {
+   "id": "vo-04-006",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 6,
+   "enunciado": "De las siguientes, ¿qué fase del expediente de contratación de obras lleva aparejada la aprobación del gasto? (ADMVO-PI 2017)",
+   "opciones": [
+    "La resolución del órgano de contratación ordenando el inicio del expediente.",
+    "La resolución del órgano de contratación ordenando la publicación del anuncio de licitación.",
+    "La resolución del órgano de contratación aprobando el expediente y disponiendo la apertura del procedimiento de adjudicación.",
+    "La resolución del órgano de contratación adjudicando el contrato."
+   ]
+  },
+  {
+   "id": "vo-04-007",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 7,
+   "enunciado": "De conformidad con el artículo 118 de la LCSP, se consideran contratos menores: (ADMVO-PI-EXT 2021)",
+   "opciones": [
+    "Los contratos de obras de valor estimado inferior a 50.000 euros.",
+    "Los contratos de servicios de valor estimado inferior a 20.000 euros.",
+    "Los contratos de suministro de valor estimado inferior a 20.000 euros.",
+    "Los contratos de servicios de valor estimado inferior a 15.000 euros."
+   ]
+  },
+  {
+   "id": "vo-04-008",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 8,
+   "enunciado": "De acuerdo con lo previsto en la LCSP, los contratos menores de obras se caracterizan por: (ADMVO-EST 2021)",
+   "opciones": [
+    "Tener un precio de licitación inferior a 15.000 euros y una duración de más de un año con posibilidad de prórroga.",
+    "Tener un valor estimado inferior a 40.000 euros y una duración de un año prorrogable por otro.",
+    "Tener un valor estimado inferior a 40.000 euros y una duración no superior al año sin posibilidad de prórroga.",
+    "Tener un valor estimado inferior a 15.000 euros y una duración de un año prorrogable por otro."
+   ]
+  },
+  {
+   "id": "vo-04-009",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 9,
+   "enunciado": "Según el artículo 118 de la Ley de Contratos del Sector Publico, en los contratos menores:",
+   "opciones": [
+    "La tramitación del expediente exigirá el informe del órgano de contratación motivando la necesidad del contrato.",
+    "Podrá añadirse el presupuesto de las obras, pero en ningún caso el proyecto.",
+    "En ningún caso será necesario solicitar informe de las unidades de supervisión a que se refiere el artículo 235 de la LCSP.",
+    "El expediente deberá incluir la declaración de la urgencia motivándose la elección del procedimiento de contratación menor."
+   ]
+  },
+  {
+   "id": "vo-04-010",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 10,
+   "enunciado": "Según dispone el artículo 119 de la LCSP, podrán ser objeto de tramitación urgente los expedientes correspondientes a los contratos cuya celebración responda a:",
+   "opciones": [
+    "Acontecimientos catastróficos.",
+    "Situaciones que supongan grave peligro.",
+    "Una necesidad inaplazable o cuya adjudicación sea preciso acelerar por razones de interés público.",
+    "Necesidades que afecten a la defensa nacional."
+   ]
+  },
+  {
+   "id": "vo-04-011",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 11,
+   "enunciado": "De acuerdo con la LCSP, no es una característica propia de la tramitación urgente de los expedientes de contratación:",
+   "opciones": [
+    "Los órganos que intervienen en su tramitación dispondrán de un plazo de 5 días para emitir informes o cumplimentar trámites.",
+    "El plazo para emitir informes o cumplimentar trámites podrá ser prorrogado hasta 10 días en atención a la complejidad del expediente.",
+    "Acordada la apertura del procedimiento de adjudicación, los plazos establecidos para la licitación, adjudicación y formalización se reducirán a la mitad.",
+    "El plazo de inicio de la ejecución no podrá ser superior a 30 días, contados desde la formalización."
+   ]
+  },
+  {
+   "id": "vo-04-013",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 13,
+   "enunciado": "Según la LCSP, si la Administración tuviese que actuar de forma inmediata a causa de un acontecimiento catastrófico, el plazo de inicio de la ejecución del contrato NO podrá ser superior a: (GACE-LI 2019)",
+   "opciones": [
+    "1 mes.",
+    "1 semana.",
+    "15 días.",
+    "30 días."
+   ]
+  },
+  {
+   "id": "vo-04-014",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 14,
+   "enunciado": "¿En qué supuestos la LCSP NO obliga al órgano de contratación a tramitar el expediente de contratación? (ADMVO-LI 2019)",
+   "opciones": [
+    "En la tramitación de urgencia.",
+    "En la tramitación de emergencia.",
+    "En la tramitación plurianual.",
+    "En la tramitación excepcional."
+   ]
+  },
+  {
+   "id": "vo-04-015",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 15,
+   "enunciado": "Según el artículo 120 de la LCSP, en relación con la tramitación de emergencia de los contratos del sector público: (GACE-LI 2021)",
+   "opciones": [
+    "En caso de que no exista crédito adecuado y suficiente, una vez adoptado el acuerdo, se procederá a su dotación de conformidad con la LGP.",
+    "Si el contrato ha sido celebrado por la AGE, se dará cuenta de dichos acuerdos al Consejo de Ministros en el plazo máximo de un mes.",
+    "Ejecutadas las actuaciones objeto de este régimen excepcional, se excluirá de lo dispuesto en esta Ley lo relativo al cumplimiento del contrato.",
+    "El plazo de inicio de la ejecución no podrá ser superior a 30 días desde la adopción del acuerdo de iniciación del órgano de contratación."
+   ]
+  },
+  {
+   "id": "vo-04-016",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 16,
+   "enunciado": "De conformidad con la LCSP, los pliegos de cláusulas administrativas particulares deberán aprobarse: (ADMVO-LI 2019)",
+   "opciones": [
+    "Previamente a la autorización del gasto, pero no conjuntamente con ella.",
+    "En ningún caso antes de la licitación del contrato.",
+    "Previamente a la autorización del gasto o conjuntamente con ella.",
+    "Posteriormente a la autorización del gasto."
+   ]
+  },
+  {
+   "id": "vo-04-017",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 17,
+   "enunciado": "Según lo dispuesto en la LCSP, podrán aprobarse pliegos de cláusulas administrativas generales por: (GACE-LI 2017)",
+   "opciones": [
+    "El órgano de contratación, previo informe del servicio jurídico correspondiente.",
+    "El Consejo de Ministros, a iniciativa de los Ministerios interesados, a propuesta del Ministro de Hacienda, y previo dictamen del Consejo de Estado.",
+    "El Ministro de Hacienda, previo informe de la Junta Consultiva de Contratación Pública del Estado.",
+    "El órgano de contratación, previo informe de la Junta Consultiva de Contratación Pública del Estado."
+   ]
+  },
+  {
+   "id": "vo-04-018",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 18,
+   "enunciado": "Conforme el artículo 122 de la LCSP, los Pliegos de Cláusulas Administrativas Particulares, una vez aprobados:",
+   "opciones": [
+    "No podrán ser objeto de modificación.",
+    "Únicamente podrán modificarse por error material, de hecho o aritmético, conllevando en este supuesto la retroacción de actuaciones.",
+    "Únicamente podrán modificarse por error material, de hecho o aritmético. En otro caso, la modificación conllevará la retroacción de actuaciones.",
+    "Podrán ser objeto de modificación solo con anterioridad a su publicación."
+   ]
+  },
+  {
+   "id": "vo-04-019",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 19,
+   "enunciado": "Según la LCSP, ¿a quién corresponde establecer los pliegos de prescripciones técnicas generales a que deba ajustarse la AGE? (GACE-LI 2021)",
+   "opciones": [
+    "Al Consejo de Ministros, previo informe de la Junta Consultiva de Contratación y a propuesta del Ministro competente.",
+    "Al órgano de contratación, con anterioridad a la autorización del gasto, o conjuntamente con ella.",
+    "A la Ministra de Hacienda, previo informe de la Dirección General de Racionalización y Centralización de la Contratación.",
+    "A la Junta Consultiva de Contratación, a propuesta del Ministro competente."
+   ]
+  },
+  {
+   "id": "vo-04-020",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 20,
+   "enunciado": "Según la LCSP, ¿podrán las prescripciones técnicas hacer referencia a una fabricación determinada?",
+   "opciones": [
+    "En ningún caso podrán realizar tal referencia.",
+    "Tal referencia se autorizará, con carácter general, por los Pliegos de Cláusulas Administrativas Generales.",
+    "Solo cuando no sea posible hacer una descripción lo bastante precisa e inteligible del objeto del contrato, e irá acompañada de la mención “o equivalente”.",
+    "Solo se admiten referencias al rendimiento o exigencias funcionales."
+   ]
+  },
+  {
+   "id": "vo-04-021",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 21,
+   "enunciado": "De conformidad con la LCSP, los pliegos de prescripciones técnicas particulares deberán aprobarse:",
+   "opciones": [
+    "Previo informe de la Junta Consultiva de Contratación Pública del Estado, por el Consejo de Ministros.",
+    "Por la Junta Consultiva de Contratación Pública del Estado con anterioridad a la autorización del gasto.",
+    "Por el órgano de contratación inmediatamente después de la licitación del contrato.",
+    "Por el órgano de contratación con anterioridad a la autorización del gasto o conjuntamente con ella."
+   ]
+  },
+  {
+   "id": "vo-04-022",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 22,
+   "enunciado": "Según el artículo 131 de la LCSP, la adjudicación de los contratos administrativos se realizará ordinariamente: (ADMVO-LI 2023)",
+   "opciones": [
+    "Utilizando una pluralidad de criterios de adjudicación basados en el principio de menor precio.",
+    "Utilizando no menos de dos ni más de cinco criterios de adjudicación basados en el principio de mejor relación calidad-precio.",
+    "Utilizando una pluralidad de criterios de adjudicación basados en el principio de mejor relación calidad-precio.",
+    "Utilizando no menos de dos ni más de cinco criterios de adjudicación basados en el principio de menor precio."
+   ]
+  },
+  {
+   "id": "vo-04-023",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 23,
+   "enunciado": "De acuerdo con la LCSP, la asociación para la innovación es: (GACE-PI 2017)",
+   "opciones": [
+    "Un procedimiento abreviado.",
+    "Un procedimiento de adjudicación.",
+    "Una forma de acreditar solvencia.",
+    "Un requisito de ejecución."
+   ]
+  },
+  {
+   "id": "vo-04-024",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 24,
+   "enunciado": "De acuerdo con la LCSP, en los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia, NO serán de aplicación las disposiciones de la LCSP relativas a la preparación y adjudicación del contrato si su valor estimado es inferior a:",
+   "opciones": [
+    "100.000 euros.",
+    "30.000 euros.",
+    "40.000 euros.",
+    "15.000 euros."
+   ]
+  },
+  {
+   "id": "vo-04-025",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 25,
+   "enunciado": "Según el artículo 135 de la LCSP, con carácter general, el anuncio de licitación para la adjudicación de contratos de las AAPP, a excepción de los procedimientos negociados sin publicidad, se publicará:",
+   "opciones": [
+    "En el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "vo-04-026",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 26,
+   "enunciado": "Señale la respuesta incorrecta. Según el artículo 138 de la LCSP, los órganos de contratación ofrecerán acceso a los pliegos por medios electrónicos, y dicho acceso será:",
+   "opciones": [
+    "Libre y directo.",
+    "Completo.",
+    "Gratuito.",
+    "Limitado."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "casos": {
+  "caso-65": {
+   "id": "caso-65",
+   "titulo": "Bloque III.- Supuesto 26",
+   "texto": "La Agencia Estatal de Meteorología (AEMET), adscrita al Ministerio para la Transición Ecológica y el Reto Demográfico, está llevando a cabo distintas actuaciones para mejorar sus instalaciones y atender las necesidades de funcionamiento del organismo. Doña Carmen Pérez acude personalmente a las oficinas de una de sus delegaciones en Sevilla para presentar unas alegaciones. Al intentar acceder al edificio con su silla de ruedas, se da cuenta de la presencia de tres escalones que le impiden el acceso, por lo que decide volverse a su casa para presentarlas a través del registro electrónico y, al mismo tiempo, formular una queja. El funcionario don Eduardo Merino, del Cuerpo General Administrativo de la Administración General del Estado y jefe de Negociado de Registro, recibe la queja presentada por la señora Pérez y la traslada a la Dirección de Administración. Este órgano decide iniciar un expediente de contratación para mejorar la accesibilidad del edificio que alberga la sede del Registro. Además, la AEMET quiere realizar un contrato de servicios cuyo objeto sería el mantenimiento de los ascensores de sus edificios, por un valor estimado de 70.000 euros y una duración de un año prorrogable por otro. Por otro lado, tras una inundación ocurrida en la Delegación de la AEMET de Sevilla, se han perdido datos informáticos de los servidores del organismo, lo que hace necesaria la adquisición de un desarrollo que permita trabajar de modo más eficiente con los datos que han podido mantenerse. Con ese objeto, se acude a la utilización de un sistema dinámico de adquisición de servicios de desarrollo de sistemas de administración electrónica. Una de las actuaciones a realizar tras la inundación será la de pintar la fachada de la Delegación, para lo cual se va a realizar un contrato de obras, por una cuantía de 17.600 euros, sin IVA. Además, es necesario llevar a cabo la compra de ordenadores mediante un acuerdo marco, para reponer los que han quedado inservibles. Una semana después de haber procedido al pintado de la sede, afloran grietas en los pilares de la fachada del edificio, lo que supone una situación de grave peligro para su seguridad y obliga a tomar medidas por la vía de emergencia. Con posterioridad a esta actuación, el órgano de contratación promueve la contratación de las obras destinadas a reforzar la estabilidad de la estructura del edificio, que ha sufrido daños como consecuencia del paso del tiempo y, especialmente, por las recientes inundaciones. El presupuesto base de licitación del contrato de obras asciende a 80.000 euros. Asimismo, la AEMET se encuentra en un proceso de cambio de sede que afecta a otra de sus delegaciones territoriales, que se desplazará a una localidad distinta. La nueva sede tendrá una mayor capacidad y desde ella se asumirán más funciones. En cuanto a la construcción del nuevo edificio, cabe reseñar que la asistencia técnica de la obra se encargó a un medio propio personificado según el artículo 32 de la Ley 9/2017, de Contratos del Sector Público. Se plantean las siguientes cuestiones:"
+  },
+  "caso-64": {
+   "id": "caso-64",
+   "titulo": "Ejercicio 29.- Cálculo del valor estimado",
+   "texto": "Calcule el valor estimado del siguiente contrato:",
+   "corto": true
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-64-001",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 1,
+   "enunciado": "Adquisición de tarjetas de combustible por una base imponible total de 10.000 euros, con una duración de 24 meses, sin posibilidad de prórroga. Los pliegos contemplan una posible modificación al alza de hasta el 20 % del precio inicial.",
+   "opciones": [
+    "10.000 euros.",
+    "12.000 euros.",
+    "12.100 euros.",
+    "14.520 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-002",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 2,
+   "enunciado": "Contrato de servicios de limpieza cuyo presupuesto base de licitación asciende a 50.000 euros (IVA excluido). La duración inicial del contrato es de dos años, con posibilidad de hasta tres prórrogas de un año de duración cada una de ellas.",
+   "opciones": [
+    "150.000 euros.",
+    "61.000 euros.",
+    "100.000 euros.",
+    "125.000 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-003",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 3,
+   "enunciado": "Contrato de suministro de material de oficina para la sede central del Instituto Nacional de Administración Pública. El presupuesto base de licitación asciende a 96.800 euros (80.000 euros, IVA excluido). Los pliegos del contrato prevén una posible modificación al alza de hasta un 15%.",
+   "opciones": [
+    "96.000 euros.",
+    "92.000 euros.",
+    "80.000 euros.",
+    "111.320 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-004",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 4,
+   "enunciado": "Contrato de servicios para la Agencia Estatal de Meteorología, con un presupuesto base de licitación de 72.600 euros (60.000 euros, IVA excluido). Su duración inicial es de 18 meses y los pliegos contemplan una posible prórroga de 6 meses adicionales.",
+   "opciones": [
+    "72.600 euros.",
+    "86.000 euros.",
+    "80.000 euros.",
+    "96.800 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-005",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 5,
+   "enunciado": "Contrato de las obras de rehabilitación de la sede del Ministerio de Justicia. El presupuesto base de licitación es de 1.000.000 euros (IVA excluido). El plazo de ejecución previsto es de 12 meses sin posibilidad de prórroga. Los pliegos prevén una posible modificación al alza de hasta un 12%.",
+   "opciones": [
+    "1.000.000 euros.",
+    "1.210.000 euros.",
+    "1.120.000 euros.",
+    "1.355.200 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-006",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 6,
+   "enunciado": "Contrato de servicios para el desarrollo e implementación de un sistema informático innovador destinado a optimizar los procesos internos del INE. Su adjudicación se realizará a través del procedimiento especial de diálogo competitivo. El presupuesto base de licitación asciende a 500.000 euros (IVA excluido). La duración del contrato previsto es de 24 meses, sin posibilidad de prórroga. El documento descriptivo prevé el pago de primas por un importe total de 20.000 euros (IVA excluido), a repartir entre los licitadores que presenten las mejores soluciones durante la fase de diálogo.",
+   "opciones": [
+    "520.000 euros.",
+    "625.000 euros.",
+    "605.000 euros.",
+    "500.000 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-007",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 7,
+   "enunciado": "Contrato de suministro para la adquisición de 200 ordenadores portátiles para el Instituto Nacional de la Seguridad Social, cuyo presupuesto base de licitación asciende a 160.000 euros (IVA excluido), determinándose el precio mediante precios unitarios. Los pliegos prevén expresamente la posibilidad de adquirir hasta 40 ordenadores portátiles adicionales.",
+   "opciones": [
+    "160.000 euros.",
+    "176.000 euros",
+    "177.600 euros.",
+    "192.000 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-008",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 8,
+   "enunciado": "Contrato de servicio de vigilancia de la Dirección Provincial de la Tesorería General de la Seguridad Social. El presupuesto base de licitación asciende a 121.000 euros. La duración inicial del contrato es de un año, con posibilidad de prórroga por otro año adicional.",
+   "opciones": [
+    "100.000 euros.",
+    "121.000 euros.",
+    "200.000 euros.",
+    "242.000 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-009",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 9,
+   "enunciado": "Contrato de obras para la construcción de un nuevo edificio destinado a albergar los servicios centrales del Ministerio de Igualdad. El presupuesto base de licitación asciende a 10.000.000 de euros (IVA excluido). El plazo previsto para la ejecución de las obras es de dos años, estableciéndose un plazo de garantía de otros dos años.",
+   "opciones": [
+    "10.000.000 euros.",
+    "12.100.000 euros.",
+    "20.000.000 euros.",
+    "24.200.000 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-64-010",
+   "origen": "practicas",
+   "test": "Ejercicio 29.- Cálculo del valor estimado",
+   "n": 10,
+   "enunciado": "Contrato de concesión de obras para la construcción y explotación de un aparcamiento público en la ciudad de Valencia, con una duración prevista equivalente al plazo máximo permitido por la LCSP. El importe neto anual de la cifra de negocios que se prevé que genere la empresa concesionaria asciende a 600.000 euros.",
+   "opciones": [
+    "6.000.000 euros.",
+    "24.000.000 euros.",
+    "30.000.000 euros.",
+    "600.000 euros."
+   ],
+   "caso": "caso-64"
+  },
+  {
+   "id": "pr-65-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 1,
+   "enunciado": "El órgano de contratación fija el valor estimado del contrato de mejora de accesibilidad en 225.000 euros. ¿Debe el organismo entender que es un contrato sujeto a regulación armonizada?",
+   "opciones": [
+    "No, porque su valor estimado es inferior a 5.404.000 euros.",
+    "Sí, porque su valor estimado es superior a 216.000 euros.",
+    "Sí, porque su valor estimado es superior a 140.000 euros.",
+    "Sí, porque, aunque no supera el umbral del valor estimado, es adjudicado por una agencia estatal de la Administración General del Estado."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 2,
+   "enunciado": "La AEMET decide adjudicar el contrato mediante un procedimiento abierto simplificado. ¿Dónde se debe publicar el anuncio de licitación, según lo dispuesto por el artículo 159 de la Ley 9/2017, de Contratos del Sector Público?",
+   "opciones": [
+    "En el Diario Oficial de la Unión Europea, en el Boletín Oficial del Estado y en el de la provincia de Sevilla.",
+    "En el Boletín Oficial del Estado y en el Boletín Oficial de la Junta de Andalucía.",
+    "En el Boletín Oficial del Estado y en el perfil de contratante de la AEMET.",
+    "Únicamente en el perfil de contratante de la AEMET."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 3,
+   "enunciado": "Finalmente, el contrato de mejora de accesibilidad se adjudica a la empresa «Soluciones ADAPTA, S.L.» por importe de 180.000 euros (IVA excluido). ¿Cuál será la cuantía de la garantía definitiva del contrato?",
+   "opciones": [
+    "9.525 euros.",
+    "9.475 euros.",
+    "9.000 euros.",
+    "5.400 euros."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 4,
+   "enunciado": "Sabiendo el tipo y el importe del contrato de mantenimiento de los ascensores, ¿cuál sería el procedimiento de licitación más adecuado y ágil para este tipo de contrato?",
+   "opciones": [
+    "Procedimiento negociado.",
+    "Procedimiento restringido.",
+    "Procedimiento abierto simplificado.",
+    "Procedimiento abierto simplificado abreviado del artículo 159.6 de la Ley de Contratos del Sector Público."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 5,
+   "enunciado": "¿Qué se ha tenido en cuenta para el cálculo del valor estimado de 70.000 euros en el contrato de mantenimiento de los ascensores considerando que la duración es de un año prorrogable por otro?",
+   "opciones": [
+    "El importe total sin el Impuesto sobre el Valor Añadido, sin prórrogas.",
+    "El importe total con el Impuesto sobre el Valor Añadido, con prórrogas.",
+    "El importe total con el Impuesto sobre el Valor Añadido, sin prórrogas.",
+    "El importe total sin el Impuesto sobre el Valor Añadido, con prórrogas."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 6,
+   "enunciado": "La empresa «ASCENSORES SEGUROS S.L.» está interesada en saber quiénes pueden ser adjudicatarios en la licitación del servicio de mantenimiento de los ascensores. Señale la respuesta correcta:",
+   "opciones": [
+    "Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que les sean propios.",
+    "Las personas naturales solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que les sean propios.",
+    "Solo pueden ser adjudicatarios públicos las personas naturales o jurídicas españolas.",
+    "No puede ser adjudicatario quien hubiera participado previamente en la elaboración de las especificaciones técnicas o de los documentos preparatorios del contrato o hubiera asesorado al órgano de contratación."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 7,
+   "enunciado": "¿Qué duración máxima podría tener un contrato de servicios como el de mantenimiento de ascensores del enunciado?",
+   "opciones": [
+    "Cuatro años, incluyendo las posibles prórrogas.",
+    "Cinco años, incluyendo las posibles prórrogas.",
+    "Cuatro años, excluyendo las posibles prórrogas.",
+    "Cinco años, excluyendo las posibles prórrogas."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 8,
+   "enunciado": "¿Cuál sería el plazo máximo de adjudicación del contrato de mantenimiento de los ascensores si el único criterio fuese el precio?",
+   "opciones": [
+    "Quince días a contar desde el siguiente al de apertura de las proposiciones.",
+    "Cinco días a contar desde el siguiente al de apertura de las proposiciones.",
+    "Diez días a contar desde el siguiente al de apertura de las proposiciones.",
+    "Treinta días a contar desde el siguiente al de apertura de las proposiciones."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 9,
+   "enunciado": "Teniendo en cuenta que la Administración utiliza el procedimiento más ágil para la contratación del servicio de mantenimiento de los ascensores, señale la afirmación correcta:",
+   "opciones": [
+    "Es obligatoria la constitución de garantía provisional por el 3 % del precio de adjudicación.",
+    "El órgano de contratación puede exigir garantía provisional si lo justifica en el expediente.",
+    "No procede la exigencia de garantía provisional.",
+    "Es obligatoria la constitución de garantía provisional por el 5 % del valor estimado."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 10,
+   "enunciado": "Por causa imputable a la empresa «ASCENSORES SEGUROS S.L.», adjudicataria del contrato, no se formaliza el contrato. ¿Qué importe se exigirá a la empresa en concepto de penalidad?",
+   "opciones": [
+    "Cinco por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía provisional, si se hubiera constituido.",
+    "Tres por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía provisional, si se hubiera constituido.",
+    "Cinco por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera constituido.",
+    "Tres por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera constituido."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 11,
+   "enunciado": "Finalmente, el contrato se formaliza con la empresa «MANTENIMIENTOS IMPECABLES S.L.», y comienza su ejecución. La AEMET quiere que se ejecute la prórroga del contrato en 2027. ¿Qué actuación tendrá que realizar?",
+   "opciones": [
+    "Ninguna, porque puede producirse la prórroga por el consentimiento tácito de las partes.",
+    "Se tendrá que acordar por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con dos meses de antelación según lo indicado en los pliegos.",
+    "Se tendrá que acordar por el órgano de contratación y será potestativa para el empresario, sin obligación de realizar ningún preaviso.",
+    "Se tendrá que acordar por el órgano de contratación y será potestativa para el empresario, siempre que su preaviso se produzca al menos con dos meses de antelación según lo indicado en los pliegos."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 12,
+   "enunciado": "Tras las revisiones de los ascensores, se detecta que las botoneras de varias cabinas se encuentran deterioradas, por lo que la AEMET decide adquirir otras nuevas para sustituirlas. Este contrato tendrá la consideración de:",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de suministro.",
+    "Contrato de concesión de servicios.",
+    "Contrato privado."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 13,
+   "enunciado": "¿Se podrá realizar un contrato menor para pintar la fachada de la Delegación de la AEMET en Sevilla?",
+   "opciones": [
+    "Sí se podrá hacer un contrato menor, además su duración podrá ser superior a un año.",
+    "No se podrá hacer un contrato menor, dado que el importe es superior a 15.000 euros.",
+    "Sí se podrá hacer un contrato menor, pero será obligatoria la publicación del anuncio de licitación en el perfil de contratante.",
+    "Sí se podrá hacer un contrato menor y deberá añadirse el presupuesto de las obras."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 14,
+   "enunciado": "En el supuesto de que se pudiera hacer un contrato menor, ¿qué documentos serían necesarios para la tramitación del expediente?",
+   "opciones": [
+    "La suscripción por el órgano de contratación de la correspondiente declaración de ausencia de conflicto de interés, junto con el informe resultante del análisis automatizado del riesgo de conflicto de interés.",
+    "El informe del órgano de contratación justificando de manera motivada la necesidad del contrato y que no se está alterando su objeto con el fin de evitar la aplicación de los umbrales de este tipo de contratos.",
+    "El informe de supervisión del proyecto, aunque las obras no afecten a la estabilidad, seguridad o estanqueidad del edificio.",
+    "El replanteo del proyecto una vez aprobado el expediente de contratación."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 15,
+   "enunciado": "En base a lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, indique la respuesta correcta sobre los sistemas dinámicos de adquisición:",
+   "opciones": [
+    "El sistema dinámico de adquisición es un procedimiento cerrado tras su constitución, completamente electrónico, con duración máxima de 4 años.",
+    "El sistema dinámico de adquisición es un sistema abierto durante toda su vigencia, completamente electrónico, con una duración limitada y determinada en los pliegos.",
+    "El sistema dinámico de adquisición es completamente electrónico, puede cerrarse tras su constitución y tiene una duración máxima de 5 años.",
+    "El sistema dinámico de adquisición es un sistema cerrado salvo reapertura expresa, que exige tramitación electrónica y el plazo para la resolución de solicitudes es discrecional por el órgano de contratación."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 16,
+   "enunciado": "Se requiere igualmente la compra de ordenadores para reponer los que se han estropeado. Considerando que el acuerdo marco correspondiente contase con varias empresas adjudicatarias, ¿cómo se realizará la adjudicación de los contratos en él basados si el acuerdo marco establece todos los términos?",
+   "opciones": [
+    "Bien sin nueva licitación, bien con nueva licitación.",
+    "Siempre mediante nueva licitación.",
+    "Mediante adjudicación directa considerando criterios de mejor calidad-precio.",
+    "Mediante procedimiento abierto simplificado."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 17,
+   "enunciado": "Indique cuál entre las siguientes respuestas es la manera correcta de proceder tras haber aflorado grietas en los pilares de la fachada del edificio:",
+   "opciones": [
+    "Podría tramitarse y celebrarse un contrato de forma verbal para atender la situación descrita, incluso sin la existencia de crédito suficiente.",
+    "Solo podrá ordenarse la ejecución de lo necesario para remediar la situación mediante tramitación de emergencia, previa existencia de crédito adecuado y suficiente en el presupuesto del órgano de contratación.",
+    "La tramitación de emergencia permitirá actuar de inmediato, debiendo procederse a la formalización escrita de carácter preceptivo y previo del contrato al inicio de la ejecución de las prestaciones.",
+    "En la tramitación de emergencia, al empresario al que se encomiende la ejecución de las prestaciones se le exigirá estar debidamente clasificado para la ejecución de las obras."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 18,
+   "enunciado": "De conformidad con el artículo 235 de la Ley 9/2017 de Contratos del Sector Público, ¿se considera preceptivo el informe de supervisión del proyecto destinado a reforzar la estructura del edificio?",
+   "opciones": [
+    "No es preceptivo el informe de supervisión porque el presupuesto base de licitación del proyecto no supera los 250.000 euros, IVA incluido.",
+    "No es preceptivo el informe de supervisión porque el valor estimado del proyecto no supera los 500.000 euros, IVA excluido.",
+    "No es preceptivo el informe de supervisión porque el valor estimado del proyecto no supera los 600.000 euros, IVA excluido.",
+    "Es preceptivo el informe de supervisión del proyecto, al afectar a la estabilidad de la obra."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 19,
+   "enunciado": "Con motivo de la puesta en funcionamiento de la nueva sede de la AEMET, resulta necesario contratar un servicio de limpieza de sus instalaciones, con una duración estimada de 18 meses. El valor estimado del contrato asciende a 14.000 euros. Indique cuál de los siguientes procedimientos de contratación resulta más adecuado y ágil para su tramitación:",
+   "opciones": [
+    "Contrato menor.",
+    "Procedimiento abierto.",
+    "Procedimiento abierto simplificado.",
+    "Procedimiento negociado."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 20,
+   "enunciado": "Indique el plazo mínimo que corresponde para la presentación de proposiciones en la contratación del servicio de limpieza, si se utiliza la tramitación prevista en el artículo 159.6 de la Ley de Contratos del Sector Público, a contar desde el día siguiente al de la publicación del anuncio de licitación en el perfil de contratante:",
+   "opciones": [
+    "No podrá ser inferior a diez días hábiles.",
+    "No podrá ser inferior a veinte días hábiles.",
+    "No podrá ser inferior a un mes.",
+    "No podrá ser inferior a dos meses."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 21,
+   "enunciado": "Atendiendo al artículo 198.4 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, a efectos de los correspondientes pagos que debe satisfacer la AEMET al adjudicatario del mencionado contrato de servicios, indique la respuesta correcta:",
+   "opciones": [
+    "Existe la obligación de abonar el precio dentro de los treinta días siguientes a la fecha de presentación de la factura ante el registro administrativo correspondiente en los términos establecidos en la normativa vigente sobre factura electrónica.",
+    "Existe la obligación de abonar el precio dentro del mes siguiente a la fecha de aprobación de los documentos que acrediten la conformidad con lo dispuesto en el contrato de servicios prestados.",
+    "Existe la obligación de abonar el precio dentro del mes siguiente a la fecha de presentación de la factura ante el registro administrativo correspondiente en los términos establecidos en la normativa vigente sobre factura electrónica.",
+    "Existe la obligación de abonar el precio dentro de los treinta días siguientes a la fecha de aprobación de los documentos que acrediten la conformidad con lo dispuesto en el contrato de los servicios prestados."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 22,
+   "enunciado": "En el mencionado contrato de servicios, el contratista incumple la obligación de presentar la factura ante el registro administrativo correspondiente en los términos establecidos en la normativa vigente sobre factura electrónica, en tiempo y forma, habiéndola presentado a los dos meses de la fecha de prestación del servicio. Posteriormente, el contratista exige el abono de intereses de demora y la indemnización por los costes de cobro a la AEMET, alegando que con posterioridad, esta también ha incumplido los plazos de pago recogidos en el artículo 198.4 de la Ley 9/2017, de Contratos del Sector Público. Indique cómo se debe proceder:",
+   "opciones": [
+    "El devengo de intereses no se iniciará hasta transcurridos treinta días desde la fecha de la correcta presentación de la factura, sin que la Administración haya aprobado la conformidad, si procede, y efectuado el correspondiente abono.",
+    "El devengo de intereses no se iniciará hasta transcurrido un mes desde la fecha de la correcta presentación de la factura, sin que la Administración haya aprobado la conformidad, si procede, y efectuado el correspondiente abono.",
+    "No procede devengo de intereses dado que el contratista ha incumplido la obligación de presentar la factura ante el registro administrativo correspondiente en tiempo y forma, superando el límite de un mes para el devengo de intereses.",
+    "No procede devengo de intereses dado que el contratista ha incumplido la obligación de presentar la factura ante el registro administrativo correspondiente en tiempo y forma, superando el límite de treinta días para el devengo de intereses."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 23,
+   "enunciado": "Según el artículo 32.2.b) de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, para tener consideración de medio propio personificado, ¿qué porcentaje mínimo de las actividades del ente destinatario del encargo se deben llevar a cabo en el ejercicio de los cometidos que le han sido confiados por el poder adjudicador que hace el encargo?",
+   "opciones": [
+    "Mayor del 40 %.",
+    "Mayor del 60 %.",
+    "Mayor del 70 %.",
+    "Mayor del 80 %."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-65-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 26",
+   "n": 24,
+   "enunciado": "Según lo dispuesto en el artículo 244 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿a partir de qué plazo transcurrido desde la recepción de la obra del edificio nuevo, sin que se haya manifestado ningún daño o perjuicio, queda totalmente extinguida cualquier responsabilidad del contratista?",
+   "opciones": [
+    "3 años.",
+    "5 años.",
+    "10 años.",
+    "15 años."
+   ],
+   "caso": "caso-65"
+  },
+  {
+   "id": "pr-66-001",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 1,
+   "enunciado": "De acuerdo con lo dispuesto en el artículo 36 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (en adelante Ley 39/2015) en caso de que un órgano administrativo ejerza sus competencias de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por:",
+   "opciones": [
+    "El titular del órgano inferior o funcionario que la reciba oralmente.",
+    "El funcionario que designe el titular del órgano superior.",
+    "El titular del órgano superior.",
+    "Los órganos administrativos no podrán, en ningún caso, ejercer sus competencias de forma verbal."
+   ]
+  },
+  {
+   "id": "pr-66-002",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 2,
+   "enunciado": "De conformidad con el artículo 107 de la Ley 39/2015, la declaración de lesividad:",
+   "opciones": [
+    "Podrá adoptarse en cualquier momento.",
+    "No podrá adoptarse una vez transcurrido un año desde que se dictó el acto administrativo.",
+    "No podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo.",
+    "Podrá adoptarse en el plazo máximo de seis meses desde que se dictó el acto administrativo."
+   ]
+  },
+  {
+   "id": "pr-66-003",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 3,
+   "enunciado": "De acuerdo con el artículo 11 de la ley 40/2015, la encomienda de gestión entre órganos administrativos:",
+   "opciones": [
+    "Es un mecanismo de cesión de la titularidad, por motivos de eficacia.",
+    "Está prevista para la realización de actividades de carácter material o técnico.",
+    "Solo podrá realizarse entre órganos de la misma administración.",
+    "Podrá tener como objeto prestaciones propias de los contratos."
+   ]
+  },
+  {
+   "id": "pr-66-004",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 4,
+   "enunciado": "De acuerdo con la ley 40/2015, señale la respuesta correcta en relación con las Sociedades Mercantiles Estatales:",
+   "opciones": [
+    "Su creación deberá ser autorizada mediante acuerdo del Consejo de Ministros.",
+    "En ningún caso la ley podrá atribuirles el ejercicio de potestades administrativas.",
+    "Se regirán íntegramente por el derecho público, no siéndoles de aplicación el ordenamiento jurídico privado.",
+    "Tendrán la consideración de organismos públicos vinculados o dependientes de la Administración General del Estado."
+   ]
+  },
+  {
+   "id": "pr-66-005",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 5,
+   "enunciado": "Conforme al artículo 49 de la Ley 40/2015, los convenios deberán tener una duración determinada, que no podrá ser:",
+   "opciones": [
+    "Inferior a 4 años, salvo que normativamente se prevea un plazo superior.",
+    "Superior a 4 años, salvo que normativamente se prevea un plazo superior.",
+    "Inferior a 5 años, salvo que normativamente se prevea un plazo superior.",
+    "Superior a 5 años, salvo que normativamente se prevea un plazo superior."
+   ]
+  },
+  {
+   "id": "pr-66-006",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 6,
+   "enunciado": "Señale cuál de las siguientes afirmaciones relativas a la ampliación de plazos en el procedimiento administrativo, NO se ajusta a lo dispuesto en el artículo 32 de la Ley 39/2015:",
+   "opciones": [
+    "El acuerdo de ampliación deberá ser notificado a los interesados.",
+    "Siempre que sea objeto de ampliación un plazo ya vencido deberá quedar constancia de los motivos que lo justifican.",
+    "En procedimientos que exijan cumplimentar trámites en el extranjero, la ampliación se aplicará por el máximo permitido.",
+    "Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso."
+   ]
+  },
+  {
+   "id": "pr-66-007",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 7,
+   "enunciado": "El artículo 50 de la ley 39/2015 establece que los actos anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de este. ¿Cómo se denomina esta previsión normativa?",
+   "opciones": [
+    "Conservación de los actos y trámites.",
+    "Convalidación.",
+    "Conversión de los actos viciados.",
+    "Transmisibilidad del acto administrativo."
+   ]
+  },
+  {
+   "id": "pr-66-008",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 8,
+   "enunciado": "Conforme al artículo 118 de la Ley 39/2015, cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que formulen las alegaciones y presenten los documentos y los justificantes que estimen procedentes en un plazo:",
+   "opciones": [
+    "No inferior a quince días.",
+    "No inferior a diez días ni superior a treinta.",
+    "No inferior a diez días ni superior a quince.",
+    "No inferior a quince días ni superior a treinta."
+   ]
+  },
+  {
+   "id": "pr-66-009",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 9,
+   "enunciado": "De acuerdo con el artículo 104 de la ley 39/2015, podrán ser ejecutados por compulsión directa sobre las personas, en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y derechos reconocidos en la Constitución, los actos administrativos que:",
+   "opciones": [
+    "Impongan una obligación personalísima de no hacer o soportar.",
+    "Impongan la obligación de satisfacer una cantidad líquida.",
+    "Impongan obligaciones cuya ejecución pueda el obligado encargar a otra persona.",
+    "Impongan una obligación personalísima de hacer o no soportar."
+   ]
+  },
+  {
+   "id": "pr-66-010",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 10,
+   "enunciado": "Indique cuál de los siguientes actos es susceptible de recurso administrativo, de acuerdo con lo dispuesto en la Ley 39/2015:",
+   "opciones": [
+    "El acuerdo que resuelva sobre la ampliación de plazos.",
+    "La declaración de lesividad.",
+    "El acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento.",
+    "La resolución que declare la caducidad del procedimiento."
+   ]
+  },
+  {
+   "id": "pr-66-011",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 11,
+   "enunciado": "De conformidad con el artículo 111 de la Ley 39/2015, ¿qué órgano será competente para la revisión de oficio de actos dictados por órganos directivos de un Departamento Ministerial que no dependan de una Secretaría de Estado?",
+   "opciones": [
+    "El titular del Departamento.",
+    "El Subsecretario del Departamento.",
+    "El Secretario General Técnico del Departamento.",
+    "El Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "pr-66-012",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 12,
+   "enunciado": "Indique cuál de los siguientes NO es uno de los derechos de las personas en sus relaciones con las Administraciones Públicas que se recogen en el artículo 13 de la Ley 39/2015:",
+   "opciones": [
+    "Comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+    "Exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.",
+    "La obtención y utilización de los medios de identificación y firma electrónica contemplados en dicha Ley.",
+    "Identificar al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos."
+   ]
+  },
+  {
+   "id": "pr-66-013",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 13,
+   "enunciado": "Señale cuál de los siguientes actos de las Administraciones Públicas son nulos de pleno derecho, de acuerdo con lo establecido en el artículo 47 de la Ley 39/2015:",
+   "opciones": [
+    "Los que incurran en cualquier infracción del ordenamiento jurídico.",
+    "Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+    "Los que incurran en desviación de poder.",
+    "Los que carezcan de los requisitos formales indispensables para alcanzar su fin."
+   ]
+  },
+  {
+   "id": "pr-66-014",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 14,
+   "enunciado": "Según el artículo 14 de la Ley 39/2015, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas:",
+   "opciones": [
+    "Los empleados de las Administraciones Públicas, para la realización de cualquier trámite de un procedimiento administrativo.",
+    "Los trabajadores autónomos.",
+    "Quienes actúen en representación de cualquier interesado.",
+    "Los notarios, para los trámites que realicen en ejercicio de dicha actividad profesional."
+   ]
+  },
+  {
+   "id": "pr-66-015",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 15,
+   "enunciado": "Según el artículo 48 de la Ley 39/2015, la realización de actuaciones administrativas fuera del tiempo establecidas para ellas:",
+   "opciones": [
+    "En ningún caso podrán ser objeto de convalidación.",
+    "Con carácter general, serán nulas de pleno derecho.",
+    "Serán siempre anulables.",
+    "Solo implicarán la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+   ]
+  },
+  {
+   "id": "pr-66-016",
+   "origen": "practicas",
+   "test": "Ley 39 + Contratos - Examen teórico (70 preguntas)",
+   "n": 16,
+   "enunciado": "Conforme al artículo 42 de la Ley 39/2015, cuando el intento de notificación se practique en el domicilio del interesado y este no fuera posible, el intento se repetirá:",
+   "opciones": [
+    "Por dos veces y en una hora distinta dentro de los tres días siguientes.",
+    "Por una sola vez y en una hora distinta dentro de los tres días siguientes.",
+    "Por una sola vez y en una hora distinta al día siguiente.",
+    "Por dos veces y en una hora distinta dentro de los dos días siguientes."
+   ]
+  }
+ ]
+}

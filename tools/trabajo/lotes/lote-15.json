@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-28-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 11,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución del procedimiento de concesión de subvenciones en régimen de concurrencia competitiva no podrá exceder de:",
+   "opciones": [
+    "Seis meses, en ningún caso.",
+    "Tres meses, en ningún caso.",
+    "Seis meses, salvo que una norma con rango de ley establezca plazo mayor o así lo prevea la normativa de la Unión Europea.",
+    "Tres meses, salvo que una norma con rango de ley establezca plazo mayor o así lo prevea la normativa de la Unión Europea."
+   ]
+  },
+  {
+   "id": "au-28-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 12,
+   "enunciado": "De acuerdo al artículo 23.5 de la Ley 38/2003, si la solicitud no reúne los requisitos establecidos en la norma de convocatoria el órgano competente requerirá al interesado que subsane:",
+   "opciones": [
+    "En el plazo máximo e improrrogable de 5 días.",
+    "En el plazo máximo de 20 días.",
+    "En el plazo de 15 días.",
+    "En el plazo máximo e improrrogable de 10 días."
+   ]
+  },
+  {
+   "id": "au-28-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 13,
+   "enunciado": "Según el artículo 23.2 de la LGS, en el procedimiento de concesión de subvenciones en régimen de concurrencia competitiva la iniciación de oficio se realizará siempre mediante:",
+   "opciones": [
+    "Bases reguladoras aprobadas por el órgano competente.",
+    "Resolución de concesión adoptada por el órgano competente.",
+    "Convocatoria aprobada por el órgano competente.",
+    "Plan estratégico aprobado por el órgano competente."
+   ]
+  },
+  {
+   "id": "au-28-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 14,
+   "enunciado": "De acuerdo con el artículo 29 de la Ley 38/2003, el beneficiario podrá subcontratar, total o parcialmente, la actividad:",
+   "opciones": [
+    "Con carácter general, salvo que la normativa reguladora de la subvención lo prohíba expresamente.",
+    "En cualquier caso se podrá subcontratar hasta un 20% de la actividad.",
+    "En ningún caso se podrá subcontratar totalmente la actividad.",
+    "Únicamente cuando la normativa reguladora de la subvención así lo prevea."
+   ]
+  },
+  {
+   "id": "au-28-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 15,
+   "enunciado": "De acuerdo a la Ley 38/2003, la actividad subvencionada que el beneficiario subcontrate con terceros no excederá del porcentaje que se fije en las bases reguladoras. Si tal previsión no figura, el beneficiario podrá subcontratar hasta un porcentaje:",
+   "opciones": [
+    "Que no exceda del 30 por ciento del importe de la actividad subvencionada.",
+    "Que no exceda del 60 por ciento del importe de la actividad subvencionada.",
+    "Que no exceda del 20 por ciento del importe de la actividad subvencionada.",
+    "Que no exceda del 50 por ciento del importe de la actividad subvencionada."
+   ]
+  },
+  {
+   "id": "au-28-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 16,
+   "enunciado": "Conforme al artículo 34 de la LGS, con carácter previo a la convocatoria de la subvención o a la concesión directa de la misma, deberá efectuarse:",
+   "opciones": [
+    "El compromiso del gasto.",
+    "La aprobación del gasto.",
+    "La justificación de la inversión.",
+    "El reconocimiento de la obligación."
+   ]
+  },
+  {
+   "id": "au-28-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 17,
+   "enunciado": "¿Cuál de los siguientes gastos no se considera subvencionables, salvo que las bases reguladoras digan lo contrario?",
+   "opciones": [
+    "Los gastos financieros.",
+    "Los gastos en materiales relacionados con la actividad.",
+    "Los costes de personal.",
+    "El arrendamiento de locales."
+   ]
+  },
+  {
+   "id": "au-28-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 18,
+   "enunciado": "Según la Ley General de Subvenciones, la convocatoria de subvenciones debe publicarse:",
+   "opciones": [
+    "Para subvenciones en concurrencia competitiva de importe superior a 12 millones de euros.",
+    "Íntegramente su contenido en el BOE.",
+    "Cuando el importe supere los 60.000 euros.",
+    "En la BDNS y un extracto de la misma, en el \"Boletín Oficial del Estado\"."
+   ]
+  },
+  {
+   "id": "au-28-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 19,
+   "enunciado": "Según el articulo 31 de la LGS cuando el importe del gasto subvencionable supere las cuantías establecidas para el contrato menor:",
+   "opciones": [
+    "El beneficiario deberá solicitar como mínimo tres ofertas de diferentes proveedores, con carácter previo a la contracción del compromiso.",
+    "Se le tiene que comunicar al órgano concedente previo a realizar el gasto.",
+    "Se requerirá autorización por parte del órgano concedente previo a realizar el gasto.",
+    "No podrá realizarse dicho gasto."
+   ]
+  },
+  {
+   "id": "au-28-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 20,
+   "enunciado": "En ningún caso serán gastos subvencionables:",
+   "opciones": [
+    "Los impuestos indirectos cuando sean susceptibles de recuperación o compensación.",
+    "Los gastos de asesoría jurídica o financiera.",
+    "Los gastos periciales para la realización del proyecto subvencionado.",
+    "Los gastos de administración específicos."
+   ]
+  },
+  {
+   "id": "au-28-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 21,
+   "enunciado": "En el procedimiento de concesión de subvenciones, ¿cuándo cabrá efectuar el prorrateo del importe global máximo destinado a las subvenciones entre los beneficiarios de la misma?",
+   "opciones": [
+    "Excepcionalmente, siempre que así se prevea en las bases reguladoras.",
+    "Excepcionalmente, cuando el órgano instructor lo considere adecuado para una mejor distribución de las subvenciones.",
+    "Con carácter general, salvo que las bases reguladoras lo prohíban expresamente.",
+    "El prorrateo solo será posible en las subvenciones de carácter nominativo."
+   ]
+  },
+  {
+   "id": "au-28-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 22,
+   "enunciado": "Según el artículo 28 de la LGS, la concesión directa de subvenciones por interés público, social, económico o humanitario deben aprobarse por:",
+   "opciones": [
+    "Orden Ministerial.",
+    "Acuerdo de Consejo de Ministros.",
+    "Real Decreto del Gobierno, a propuesta del ministro competente e informe del Ministerio de Hacienda.",
+    "Real Decreto de la Presidencia de Gobierno."
+   ]
+  },
+  {
+   "id": "au-28-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 23,
+   "enunciado": "El Real Decreto que regule una subvención directa por razones de interés público, social, económico o humanitario deberá contener como mínimo:",
+   "opciones": [
+    "Objeto, régimen jurídico, beneficiarios, procedimiento y justificación.",
+    "Solo el importe y la fecha de concesión.",
+    "Solo el beneficiario y el importe correspondiente.",
+    "El régimen sancionador aplicable."
+   ]
+  },
+  {
+   "id": "au-28-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 24,
+   "enunciado": "¿Cuál de las siguientes afirmaciones sobre la subcontratación de actividades subvencionadas por los beneficiarios NO es correcta?",
+   "opciones": [
+    "Los contratistas asumirán la total responsabilidad de la ejecución de la actividad.",
+    "No podrá concertarse dicha contratación con personas incursas en alguna de las prohibiciones del artículo 13 de la LGS.",
+    "No se considera subcontratación los gastos en que tenga que incurrir el beneficiario para la realización por sí mismo de la actividad.",
+    "No podrá fraccionarse un contrato con el objeto de disminuir la cuantía del mismo y eludir el cumplimiento de los requisitos."
+   ]
+  },
+  {
+   "id": "au-28-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 25,
+   "enunciado": "En ningún caso podrá concertarse por el beneficiario la ejecución total o parcial de las actividades subvencionadas con:",
+   "opciones": [
+    "Personas que hayan percibido otras subvenciones para la realización de otra actividad.",
+    "Personas o entidades solicitantes de ayudas o subvenciónes.",
+    "Personas o entidades vinculadas con el beneficiario con la la previa autorización expresa del órgano concedente.",
+    "Personas o entidades incursas en alguna de las prohibiciones del artículo 13 de la LGS."
+   ]
+  },
+  {
+   "id": "au-28-026",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 26,
+   "enunciado": "Según el artículo 29 de la LGS, ¿qué está prohibido en la subcontratación de actividades subvencionadas?",
+   "opciones": [
+    "Subcontratar a personas jurídicas.",
+    "Contratar a empresas del sector público.",
+    "Fraccionar un contrato para disminuir la cuantía y así eludir requisitos legales.",
+    "Contratar servicios de asesoría contable."
+   ]
+  },
+  {
+   "id": "au-28-027",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 27,
+   "enunciado": "Según se establece en el articulo 30 de la LGS, la rendición de la cuenta justificativa:",
+   "opciones": [
+    "Constituye un acto obligatorio del beneficiario o de la entidad colaboradora.",
+    "Es solo obligatorio para el beneficiario de la subvención.",
+    "Deberá presentarse en el plazo de 6 meses desde la realización de la actividad.",
+    "Se realizará mediante declaración responsable de haber realizado la actividad."
+   ]
+  },
+  {
+   "id": "au-28-028",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 28,
+   "enunciado": "El plazo para presentar la cuenta justificativa de una subvención según la LGS es:",
+   "opciones": [
+    "Vendrá establecido en las bases reguladoras de las subvenciones.",
+    "6 meses desde la finalización de la actividad.",
+    "1 año desde la finalización de la actividad.",
+    "El plazo de justificación será de 3 meses en todo caso."
+   ]
+  },
+  {
+   "id": "au-28-029",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 29,
+   "enunciado": "Una vez evaluadas las solicitudes en un procedimiento de concurrencia competitiva, el órgano instructor formulará:",
+   "opciones": [
+    "Directamente la resolución definitiva.",
+    "Una propuesta de resolución provisional, debidamente motivada, que deberá notificarse a los interesados y respecto de la cual se concederá un plazo de 10 días para alegaciones.",
+    "Una propuesta definitiva sin posibilidad de alegaciones.",
+    "Una resolución provisional que no necesita ser motivada."
+   ]
+  },
+  {
+   "id": "au-28-030",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (3) - LGS (arts 22 a 35)",
+   "n": 30,
+   "enunciado": "Cuando el importe de la propuesta de resolución provisional sea inferior al solicitado, podrá instarse la reformulación de la solicitud:",
+   "opciones": [
+    "Siempre, aunque no esté prevista en las bases reguladoras.",
+    "Únicamente en los procedimientos de concesión directa.",
+    "Cuando así se haya previsto en las bases reguladoras, para ajustar los compromisos y condiciones a la subvención otorgable.",
+    "Únicamente cuando lo solicite el órgano concedente después de la resolución definitiva."
+   ]
+  },
+  {
+   "id": "au-29-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 1,
+   "enunciado": "Según el artículo 36 de la LGS, la declaración judicial o administrativa de nulidad o anulación llevará consigo:",
+   "opciones": [
+    "La obligación de devolver las cantidades percibidas.",
+    "La obligación de publicar de nuevo la convocatoria.",
+    "La obligación de aprobar una nueva convocatoria.",
+    "La obligación de presentar renuncia formal a la subvención."
+   ]
+  },
+  {
+   "id": "au-29-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 2,
+   "enunciado": "De acuerdo al artículo 38 de la LGS, el interés de demora aplicable en materia de subvenciones será el interés legal del dinero:",
+   "opciones": [
+    "Incrementado en un 30 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente.",
+    "Incrementado en un 50 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente.",
+    "Incrementado en un 75 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente.",
+    "Incrementado en un 25 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente."
+   ]
+  },
+  {
+   "id": "au-29-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 3,
+   "enunciado": "De acuerdo al artículo 39 de la Ley 38/2003, el derecho de la Administración a reconocer o liquidar el reintegro:",
+   "opciones": [
+    "Prescribirá a los cuatro años.",
+    "Prescribirá a los seis años.",
+    "Prescribirá a los cinco años.",
+    "Prescribirá al año."
+   ]
+  },
+  {
+   "id": "au-29-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 4,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro será de:",
+   "opciones": [
+    "Seis meses, desde la notificación del acuerdo de iniciación.",
+    "Seis meses, desde la fecha del acuerdo de iniciación.",
+    "Doce meses, desde la notificación del acuerdo de iniciación.",
+    "Doce meses, desde la fecha del acuerdo de iniciación."
+   ]
+  },
+  {
+   "id": "au-29-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 5,
+   "enunciado": "Conforme a la LGS, constituye infracción muy grave la siguiente conducta:",
+   "opciones": [
+    "La presentación fuera de plazo de las cuentas justificativas de la aplicación dada a los fondos percibidos.",
+    "La no aplicación, en todo o en parte, de las cantidades recibidas a los fines para los que la subvención fue concedida.",
+    "La resistencia, obstrucción, excusa o negativa a las actuaciones de control financiero.",
+    "La falta de justificación del empleo dado a los fondos recibidos una vez transcurrido el plazo establecido para su presentación."
+   ]
+  },
+  {
+   "id": "au-29-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 6,
+   "enunciado": "Según la Ley 38/2003, cuando proceda el reintegro de una subvención, se exigirá el interés de demora correspondiente calculado:",
+   "opciones": [
+    "Desde el momento del pago de la subvención hasta la fecha en que se inicie el procedimiento de reintegro.",
+    "Desde el momento de la concesión de la subvención hasta la fecha en que se inicie el procedimiento de reintegro.",
+    "Desde el momento de la concesión de la subvención hasta la fecha en que se acuerde el reintegro.",
+    "Desde el momento del pago de la subvención hasta la fecha en que se acuerde el reintegro."
+   ]
+  },
+  {
+   "id": "au-29-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 7,
+   "enunciado": "En materia de subvenciones y según la Ley General de Subvenciones, son infracciones graves:",
+   "opciones": [
+    "La falta de suministro de información por parte de las administraciones a la Base de Datos Nacional de Subvenciones.",
+    "La obtención de la subvención falseando las condiciones requeridas para su concesión.",
+    "El incumplimiento de las obligaciones de conservación de justificantes o documentos equivalentes.",
+    "La presentación de cuentas justificativas inexactas o incompletas."
+   ]
+  },
+  {
+   "id": "au-29-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 8,
+   "enunciado": "Según el artículo 42 de la LGS, respecto al procedimiento de reintegro, ¿cuál de las siguientes afirmaciones es correcta?",
+   "opciones": [
+    "Podrá iniciarse de oficio o por solicitud de persona interesada.",
+    "No se regirá por las disposiciones generales contenidas en la Ley del Procedimiento Administrativo Común.",
+    "El plazo máximo para resolver y notificar la resolución será de 12 meses desde la fecha del acuerdo de iniciación.",
+    "Contra la resolución del procedimiento de reintegro no cabrá recurso en vía administrativa."
+   ]
+  },
+  {
+   "id": "au-29-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 9,
+   "enunciado": "Según el artículo 65 de la LGS, ¿en qué plazo prescriben las infracciones en materia de subvenciones?",
+   "opciones": [
+    "Tres años, a contar desde el día de su comisión, cuando esta tenga carácter grave.",
+    "Cinco años, a contar desde el día de su comisión, cuando esta tenga carácter muy grave.",
+    "Un año, a contar desde el día de su comisión, cuando esta tenga carácter leve.",
+    "Cuatro años, a contar desde el día en que la infracción se hubiera cometido."
+   ]
+  },
+  {
+   "id": "au-29-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 10,
+   "enunciado": "¿Qué órgano es competente exigir del beneficiario o entidad colaboradora el reintegro de subvenciones?",
+   "opciones": [
+    "El Tribunal de Cuentas.",
+    "El Consejo de Ministros.",
+    "El órgano concedente de la subvención.",
+    "La Intervención General del Estado."
+   ]
+  },
+  {
+   "id": "au-29-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 11,
+   "enunciado": "Si transcurre el plazo para resolver el procedimiento de reintegro sin que se haya notificado resolución expresa:",
+   "opciones": [
+    "Se produce la caducidad del procedimiento.",
+    "Será desestimatorio el silencio administrativo.",
+    "Se produce la prescripción del procedimiento.",
+    "Será estimatorio el silencio administrativo."
+   ]
+  },
+  {
+   "id": "au-29-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 12,
+   "enunciado": "Señale la afirmación correcta. De acuerdo con la Ley 38/2003, será nula la resolución de una concesión que:",
+   "opciones": [
+    "Se otorgue a favor de persona que no haya justificado la entrega de los fondos percibidos.",
+    "Se otorgue careciendo de crédito suficiente consignado al efecto.",
+    "Sea constitutiva de infracción administrativa.",
+    "Adolezca de un defecto de forma."
+   ]
+  },
+  {
+   "id": "au-29-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 13,
+   "enunciado": "El plazo de prescripción de una infracción muy grave en el ámbito de la Ley 38/2003, General de Subvenciones es de:",
+   "opciones": [
+    "4 años.",
+    "3 años.",
+    "2 años.",
+    "5 años."
+   ]
+  },
+  {
+   "id": "au-29-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 14,
+   "enunciado": "¿Cuál de estas no es una causa de reintegro establecida en el artículo 37 de la LGS?",
+   "opciones": [
+    "La carencia o insuficiencia de crédito.",
+    "Obtención de la subvención falseando las condiciones requeridas para ello.",
+    "Incumplimiento de la obligación de justificación o la justificación insuficiente.",
+    "Incumplimiento de la obligación de adoptar las medidas de difusión."
+   ]
+  },
+  {
+   "id": "au-29-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 15,
+   "enunciado": "Cuando el importe de las subvenciones supere el coste de la actividad subvencionada, aisladamente o en concurrencia con otras, procederá:",
+   "opciones": [
+    "El reintegro del exceso obtenido con exigencia del interés de demora.",
+    "El reintegro del exceso obtenido sin exigencia del interés de demora.",
+    "El reintegro total de la subvención.",
+    "El inicio de revisión de oficio por parte de la administración con la devolución del importe de la subvención."
+   ]
+  },
+  {
+   "id": "au-29-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 16,
+   "enunciado": "¿Cuál de estas afirmaciones sobre el procedimiento de reintegro establecido en la LGS NO es correcta?",
+   "opciones": [
+    "Prescribirá a los cuatro años el derecho de la Administración a reconocer o liquidar el reintegro.",
+    "Los procedimientos para la exigencia del reintegro de las subvenciones, tendrán siempre carácter administrativo.",
+    "Los beneficiarios en los casos del artículo 37, deberán reintegrar la totalidad o parte de las cantidades percibidas, más los intereses de demora.",
+    "Este procedimiento será incompatible con el procedimiento sancionador establecido en la Ley."
+   ]
+  },
+  {
+   "id": "au-29-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 17,
+   "enunciado": "¿Cuál de estas afirmaciones es correcta sobre el procedimiento de reintegro?",
+   "opciones": [
+    "Es un procedimiento sancionador.",
+    "El órgano concedente será el competente para exigir el reintegro.",
+    "El plazo de resolución será de 6 meses.",
+    "No es obligatorio el trámite de audiencia al interesado."
+   ]
+  },
+  {
+   "id": "au-29-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 18,
+   "enunciado": "¿Cuál de estas es una falta muy grave tipificada en la Ley 38/2003?",
+   "opciones": [
+    "El incumplimiento de las obligaciones de conservación de justificantes.",
+    "La falta de entrega, por parte de las entidades colaboradoras, a los beneficiarios de los fondos recibidos.",
+    "El incumplimiento de las condiciones establecidas alterando sustancialmente los fines para los que la subvención fue concedida.",
+    "El incumplimiento de la obligación de colaboración."
+   ]
+  },
+  {
+   "id": "au-29-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 19,
+   "enunciado": "Las sanciones en materia de subvenciones serán acordadas e impuestas por:",
+   "opciones": [
+    "En el caso de organismos autónomos el director del mismo.",
+    "El Consejo de Ministros.",
+    "El Tribunal de Cuentas.",
+    "Los Ministros o los Secretarios de Estado."
+   ]
+  },
+  {
+   "id": "au-29-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 20,
+   "enunciado": "Según la LGS, cuando la sanción consista en la pérdida de la posibilidad de obtener subvenciones, ayudas públicas y avales de Estado será competente para sancionar:",
+   "opciones": [
+    "El Consejo de Ministros.",
+    "El Presidente del Gobierno.",
+    "El Ministro de Hacienda.",
+    "Los ministros o secretarios de estado."
+   ]
+  },
+  {
+   "id": "au-29-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 21,
+   "enunciado": "De acuerdo con la Ley 38/2003, ¿qué tipo de actuaciones puede incluir el control financiero?",
+   "opciones": [
+    "La comprobación material de las inversiones financiadas.",
+    "Supervisión externa mediante auditoría.",
+    "Exclusivamente revisiones contables.",
+    "Solo control previo de legalidad."
+   ]
+  },
+  {
+   "id": "au-29-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 22,
+   "enunciado": "Según la Disposición adicional quinta de la Ley 38/2003 a las ayudas en especie, se le aplicará la LGS cuando:",
+   "opciones": [
+    "Se transfieran derechos de forma onerosa.",
+    "Los bienes sean usados.",
+    "El beneficiario sea una empresa pública.",
+    "La adquisición de los bienes se realice con la finalidad exclusiva de entregarlos a un tercero."
+   ]
+  },
+  {
+   "id": "au-29-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 23,
+   "enunciado": "El procedimiento de reintegro de subvenciones:",
+   "opciones": [
+    "Se inicia de oficio por acuerdo del órgano competente.",
+    "Se inicia exclusivamente como consecuencia de denuncia.",
+    "Se inicia siempre mediante informe de la IGAE.",
+    "Se inicia siempre a instancia del beneficiario."
+   ]
+  },
+  {
+   "id": "au-29-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 24,
+   "enunciado": "Constituye una infracción leve en materia de subvenciones:",
+   "opciones": [
+    "La no aplicación de las cantidades recibidas a los fines para los que la subvención fue concedida.",
+    "La obtención de una subvención falseando las condiciones requeridas para su concesión.",
+    "La presentación fuera de plazo de las cuentas justificativas de la aplicación dada a los fondos percibidos.",
+    "La falta de entrega, por una entidad colaboradora, de los fondos recibidos a los beneficiarios cuando así se establezca."
+   ]
+  },
+  {
+   "id": "au-29-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 25,
+   "enunciado": "Una entidad comete una infracción grave en materia de subvenciones, ¿qué sanción no pecuniaria podría imponerse conforme al artículo 59?",
+   "opciones": [
+    "La prohibición de obtener subvenciones durante un máximo de diez años.",
+    "La prohibición de contratar con las Administraciones públicas durante un plazo mínimo de diez años.",
+    "La pérdida o prohibición, durante un plazo de hasta cinco años, de obtener subvenciones, actuar como entidad colaboradora o contratar con las Administraciones públicas.",
+    "La pérdida definitiva de la personalidad jurídica."
+   ]
+  },
+  {
+   "id": "of-01-001",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 1,
+   "enunciado": "De conformidad con lo previsto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (en adelante, LCSP), están sujetos a regulación armonizada los contratos de servicios celebrados por la Administración General del Estado, sus Organismos Autónomos, y Entidades Gestoras y Servicios Comunes de la Seguridad Social, cuando su valor estimado sea igual o superior a:",
+   "opciones": [
+    "140.000 euros.",
+    "240.000 euros.",
+    "340.000 euros.",
+    "440.000 euros."
+   ]
+  },
+  {
+   "id": "of-01-002",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 2,
+   "enunciado": "Una Subdirección General se plantea la adquisición de un nuevo programa informático desarrollado a medida para gestionar un procedimiento administrativo. Según la LCSP, ¿qué consideración tendría la adquisición de ese programa?",
+   "opciones": [
+    "Contrato de consultoría y asistencia.",
+    "Contrato de servicios.",
+    "Contrato de suministro.",
+    "Contrato mixto."
+   ]
+  },
+  {
+   "id": "of-01-003",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 3,
+   "enunciado": "Según el artículo 15.1 de la LCSP, pueden realizar un contrato de concesión de servicios:",
+   "opciones": [
+    "Todos los entes del Sector Público.",
+    "Solo los entes que tengan la consideración de Administración Pública.",
+    "Solo los entes de la Administración General del Estado.",
+    "Todos los entes que tengan la consideración de Poderes Adjudicadores."
+   ]
+  },
+  {
+   "id": "of-01-004",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 4,
+   "enunciado": "Según la Ley 9/2017, de 8 de noviembre, el plazo máximo de duración de los contratos de suministros es:",
+   "opciones": [
+    "5 años, sin incluir las posibles prórrogas que acuerde el órgano de contratación.",
+    "5 años, incluyendo las posibles prórrogas que acuerde el órgano de contratación.",
+    "La ley no establece un plazo de duración máximo para este tipo de contratos.",
+    "6 años, salvo cuando así lo exija el periodo de recuperación de las inversiones directamente relacionadas con el contrato."
+   ]
+  },
+  {
+   "id": "of-01-005",
+   "origen": "oficiales",
+   "test": "Tema 4 (1) - LCSP (arts 1 a 33)",
+   "n": 5,
+   "enunciado": "Conforme al artículo 16 de la LCSP, los contratos de fabricación, por los que la cosa o cosas que hayan de ser entregadas por el empresario deban ser elaboradas con arreglo a características peculiares fijadas previamente por la entidad contratante, son:",
+   "opciones": [
+    "Contratos de servicios.",
+    "Contratos de concesión de servicios.",
+    "Contratos de suministro.",
+    "Contratos mixtos."
+   ]
+  }
+ ]
+}

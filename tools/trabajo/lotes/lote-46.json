@@ -1,0 +1,597 @@
+{
+ "casos": {
+  "caso-60": {
+   "id": "caso-60",
+   "titulo": "Bloque III.- Supuesto 24",
+   "texto": "Con fecha 13 de octubre de 2025, el Ministro de Cultura y Deporte dictó Orden Ministerial, publicada en el BOE del día siguiente, por la que se aprobaron las bases reguladoras de subvenciones para la modernización de las industrias culturales y creativas, las cuales se otorgarán en régimen de concurrencia competitiva. Con fecha 20 de noviembre de 2025, el Secretario de Estado de Cultura, órgano concedente de esta subvención, dictó la correspondiente resolución de convocatoria. El extracto de dicha convocatoria fue publicado en el BOE de 21 de noviembre, concediéndose un plazo de un mes para la presentación de solicitudes. Las bases reguladoras establecen un plazo de 6 meses para resolver. El importe máximo imputable a la convocatoria será de 12.000.000 €. Las ayudas concedidas se sufragarán con los créditos de la aplicación 24.01.334C.772 del Presupuesto de Gastos del Ministerio de Cultura y Deporte para 2025. El 1 de diciembre de 2025, el gestor administrativo de la mercantil Siglo XXI S.L., actuando en nombre y representación de esta, presentó solicitud en la oficina de asistencia en materia de registros del Ministerio de Cultura y Deporte. El Subdirector General de Promoción de Industrias Culturales, órgano competente para la tramitación de las subvenciones, requirió al gestor administrativo de la mercantil Siglo XXI S.L., para que subsanara la solicitud a través de su presentación electrónica, advirtiéndole que, de no ser atendido el requerimiento en el plazo de cinco días, se le tendría por desistido de su solicitud. Finalmente, el representante de Siglo XXI S.L., presentó la solicitud en el Registro General Electrónico de la Administración General del Estado el 20 de diciembre de 2025, dentro del plazo concedido en el requerimiento. La resolución definitiva fue dictada dentro de plazo por el órgano competente, resultando la mercantil Siglo XXI S.L. beneficiaria de una subvención por importe de 125.000 euros. En relación con el supuesto planteado, se formulan las siguientes preguntas:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-59-003",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 3,
+   "enunciado": "Requerirá autorización por acuerdo de El Consejo de Ministros la concesión de subvenciones de cuantía:",
+   "opciones": [
+    "Igual o superior a 12 millones de euros.",
+    "Superior a 10 millones de euros.",
+    "Igual o superior a 10 millones de euros.",
+    "Superior a 12 millones de euros."
+   ]
+  },
+  {
+   "id": "pr-59-004",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 4,
+   "enunciado": "Los convenios de colaboración no podrán tener un plazo de vigencia superior a:",
+   "opciones": [
+    "1 año.",
+    "3 años.",
+    "4 años.",
+    "No viene determinado."
+   ]
+  },
+  {
+   "id": "pr-59-005",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 5,
+   "enunciado": "Plazo para presentar una solicitud de participación en una subvención en régimen de concurrencia competitiva:",
+   "opciones": [
+    "10 días hábiles.",
+    "15 días hábiles.",
+    "15 días naturales.",
+    "El que venga establecido en la convocatoria."
+   ]
+  },
+  {
+   "id": "pr-59-006",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 6,
+   "enunciado": "Plazo para subsanaciones de la solicitud en una subvención en régimen de concurrencia competitiva:",
+   "opciones": [
+    "10 días prorrogables por 5 días más en determinados casos.",
+    "15 días.",
+    "10 días improrrogables.",
+    "5 días prorrogables por 5 días más en determinados casos."
+   ]
+  },
+  {
+   "id": "pr-59-007",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 7,
+   "enunciado": "La propuesta de resolución provisional de los procedimientos de concurrencia competitiva deberá notificarse a los interesados, y se les concederá un plazo para presentar alegaciones de:",
+   "opciones": [
+    "15 días.",
+    "10 días.",
+    "1 mes.",
+    "20 días."
+   ]
+  },
+  {
+   "id": "pr-59-008",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 8,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución del procedimiento de concurrencia competitiva no podrá exceder de:",
+   "opciones": [
+    "12 meses.",
+    "3 meses.",
+    "6 meses.",
+    "9 meses."
+   ]
+  },
+  {
+   "id": "pr-59-009",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 9,
+   "enunciado": "Cuando la normativa reguladora de una subvención permita la subcontratación sin indicar el porcentaje este no excederá de:",
+   "opciones": [
+    "El 20% del importe de la actividad subvencionada.",
+    "El 50% del importe de la actividad subvencionada.",
+    "Tiene que indicarlo la normativa reguladora.",
+    "El 70% del importe de la actividad subvencionada."
+   ]
+  },
+  {
+   "id": "pr-59-010",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 10,
+   "enunciado": "La subcontratación se tendrá que celebrar por escrito y ser autorizada previamente por la entidad concedente de la subvención cuando:",
+   "opciones": [
+    "Exceda del 20% del importe de la subvención y dicho importe sea superior a 40.000 euros.",
+    "Exceda del 20% del importe de la subvención y dicho importe sea superior a 60.000 euros.",
+    "Exceda del 50% del importe de la subvención y dicho importe sea superior a 20.000 euros.",
+    "Exceda del 50% del importe de la subvención y dicho importe sea superior a 60.000 euros."
+   ]
+  },
+  {
+   "id": "pr-59-011",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 11,
+   "enunciado": "A falta de previsión de las bases reguladoras del plazo de justificación este se realizará, como máximo en el plazo de:",
+   "opciones": [
+    "6 meses.",
+    "1 mes.",
+    "3 meses.",
+    "20 días."
+   ]
+  },
+  {
+   "id": "pr-59-012",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 12,
+   "enunciado": "Quedan exonerados de la constitución de garantía, salvo previsión expresa en contrario en las bases reguladoras los beneficiarios de subvenciones concedidas por importe inferior a:",
+   "opciones": [
+    "3.000 euros.",
+    "6.000 euros.",
+    "1.000 euros.",
+    "10.000 euros."
+   ]
+  },
+  {
+   "id": "pr-59-013",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 13,
+   "enunciado": "El interés de demora aplicable en materia de subvenciones será el interés legal del dinero:",
+   "opciones": [
+    "Incrementado un 20%.",
+    "Incrementado un 30%.",
+    "Incrementado un 25%.",
+    "Incrementado un 40%."
+   ]
+  },
+  {
+   "id": "pr-59-014",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 14,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro no podrá exceder de:",
+   "opciones": [
+    "12 meses.",
+    "3 meses.",
+    "6 meses.",
+    "9 meses."
+   ]
+  },
+  {
+   "id": "pr-59-015",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 15,
+   "enunciado": "El derecho de la Administración a reconocer o liquidar el reintegro prescribe en:",
+   "opciones": [
+    "1 año.",
+    "3 años.",
+    "5 años.",
+    "4 años."
+   ]
+  },
+  {
+   "id": "pr-59-016",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 16,
+   "enunciado": "Las actuaciones de control financiero sobre beneficiarios y, en su caso, entidades colaboradoras, deberán concluir en el plazo máximo de:",
+   "opciones": [
+    "18 meses.",
+    "3 meses.",
+    "6 meses.",
+    "12 meses."
+   ]
+  },
+  {
+   "id": "pr-59-017",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 17,
+   "enunciado": "La sanción no pecuniaria de prohibición de actuar como entidad colaboradora podrá ser de máximo:",
+   "opciones": [
+    "1 año.",
+    "3 años.",
+    "5 años.",
+    "6 años."
+   ]
+  },
+  {
+   "id": "pr-59-018",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 18,
+   "enunciado": "Las infracciones graves en materia de subvenciones prescribirán en el plazo de:",
+   "opciones": [
+    "4 años.",
+    "2 años.",
+    "3 años.",
+    "1 año."
+   ]
+  },
+  {
+   "id": "pr-59-019",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 19,
+   "enunciado": "Las sanciones por infracción leve en materia de subvenciones prescribirán en el plazo de:",
+   "opciones": [
+    "1 años.",
+    "6 meses.",
+    "3 años.",
+    "4 años."
+   ]
+  },
+  {
+   "id": "pr-59-020",
+   "origen": "practicas",
+   "test": "Ejercicio 27.- Subvenciones en números",
+   "n": 20,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución de un procedimiento sancionador en materia de subvenciones no podrá exceder de:",
+   "opciones": [
+    "12 meses.",
+    "6 meses.",
+    "3 meses.",
+    "9 meses."
+   ]
+  },
+  {
+   "id": "pr-60-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 1,
+   "enunciado": "De conformidad con la ley 39/2015, de 1 de octubre, ¿en qué fecha debe considerarse presentada la solicitud para la concesión de la subvención por la mercantil Siglo XXI S.L.?",
+   "opciones": [
+    "El 20 de diciembre de 2025, dentro del plazo concedido en la convocatoria.",
+    "El 20 de diciembre de 2025, por lo que debió inadmitirse por extemporánea.",
+    "El 1 de diciembre de 2025, dado que no existía obligación de relacionarse a través de medios electrónicos.",
+    "El 1 de diciembre de 2025, dado que se subsanó el defecto advertido dentro del plazo concedido."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 2,
+   "enunciado": "En el caso de que la solicitud presentada por Siglo XXI S.L. no reúna los requisitos establecidos en la convocatoria, el órgano competente requerirá al interesado para que la subsane según la Ley 38/2003 en el plazo de:",
+   "opciones": [
+    "Diez días improrrogables.",
+    "Diez días, ampliables hasta cinco días más, a petición del interesado.",
+    "Diez días, ampliables hasta cinco días más, a iniciativa del órgano.",
+    "Diez días, ampliables hasta cinco días más, a petición del interesado o a iniciativa del órgano."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 3,
+   "enunciado": "De conformidad con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones (en adelante LGS), ¿es competente el Ministro de Cultura y Deporte para establecer las bases reguladoras de las subvenciones para la modernización de las industrias culturales y creativas?",
+   "opciones": [
+    "No, la aprobación de las bases reguladoras corresponde al Consejo de Ministros, mediante Real Decreto.",
+    "Sí, mediante orden ministerial.",
+    "No, su aprobación corresponde en todo caso al órgano concedente de la subvención.",
+    "Sí, aunque también pudieron ser aprobadas por resolución del Secretario de Estado de Cultura."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 4,
+   "enunciado": "De acuerdo con la LGS, en relación con la convocatoria y con las bases reguladores de la subvención, ¿son correctas las publicaciones realizadas en el BOE?",
+   "opciones": [
+    "No, solo deben publicarse en el BOE las bases reguladoras de la subvención.",
+    "No, solo debe publicarse en el BOE la convocatoria de la subvención.",
+    "No, dado que en el BOE se debió publicar la convocatoria de la subvención y no un mero extracto de la misma.",
+    "Sí, ambas publicaciones se han realizado de conformidad con lo dispuesto en la LGS."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 5,
+   "enunciado": "Las bases reguladoras determinan que el órgano concedente es el Secretario de Estado de Cultura. Según la LGS, en el ámbito de la AGE, ¿qué órganos son competentes para conceder subvenciones?",
+   "opciones": [
+    "El Consejo de Ministros.",
+    "Los Ministros y los Secretarios de Estado.",
+    "El Consejo de Ministros, los Ministros y los Secretarios de Estado.",
+    "Los Ministros, exclusivamente."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 6,
+   "enunciado": "De acuerdo con la LGS, ¿requiere la concesión de estas subvenciones la previa autorización del Consejo de Ministros?",
+   "opciones": [
+    "No, porque su cuantía no es superior a 12.000.000 euros.",
+    "Sí, resulta necesaria e implicará la aprobación del gasto.",
+    "Sí, resulta necesaria pero la referida autorización no implicará la aprobación del gasto.",
+    "Sí, aunque la normativa reguladora de la subvención podría establecer que dicha la autorización fuera otorgada por la Comisión Delegada del Gobierno para Asuntos Económicos."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 7,
+   "enunciado": "Según la LGS, ¿en qué momento debe efectuarse la aprobación del gasto?",
+   "opciones": [
+    "Con anterioridad a la publicación de las bases reguladoras.",
+    "Con carácter previo a la convocatoria de la subvención.",
+    "Conjuntamente con la convocatoria de la subvención.",
+    "En cualquier momento anterior a la concesión de la subvención."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 8,
+   "enunciado": "Indique cuál de las siguientes circunstancias inhabilita para obtener la condición de beneficiario, de acuerdo con lo previsto en el artículo 13 de la LGS:",
+   "opciones": [
+    "Haber obtenido cualquier otra subvención o ayuda pública para la misma finalidad.",
+    "Tener la residencia fiscal en un país o territorio extranjero.",
+    "Haber solicitado la declaración de concurso voluntario.",
+    "Haber sido parte en un contrato del sector público extinguido por cualquier causa de resolución."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 9,
+   "enunciado": "De acuerdo con la LGS, el procedimiento para la concesión de esta subvención se inicia:",
+   "opciones": [
+    "De oficio, mediante convocatoria aprobada por el órgano competente.",
+    "De oficio, mediante la publicación de las bases reguladoras.",
+    "De oficio, una vez publicado el extracto de la convocatoria en la BDNS.",
+    "A petición de los interesados, mediante solicitud dirigida al órgano concedente."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 10,
+   "enunciado": "De conformidad con la LGS, ¿en cuál de los siguientes supuestos podría el Ministerio de Cultura conceder una subvención de forma directa?",
+   "opciones": [
+    "Únicamente, cuando estuviera prevista nominativamente en los Presupuestos Generales del Estado.",
+    "Con carácter excepcional, cuando se acrediten razones debidamente justificadas que dificulten su convocatoria pública.",
+    "Únicamente cuando se trate de ayudas otorgadas en ejecución de acciones de discriminación positiva.",
+    "Cuando su otorgamiento o cuantía venga impuesto por una norma de rango legal o reglamentario."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 11,
+   "enunciado": "Teniendo en cuenta que la convocatoria no pospone el inicio del cómputo de plazos, indiqué cuál será la fecha máxima para resolver y notificar la resolución de concesión de la subvención que tramita el Ministerio de Cultura y Deporte:",
+   "opciones": [
+    "1 de junio de 2026.",
+    "13 de abril de 2026.",
+    "21 de mayo de 2026.",
+    "20 de junio de 2026."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 12,
+   "enunciado": "De acuerdo con la LGS, en este procedimiento, el vencimiento del plazo máximo sin haberse notificado la resolución:",
+   "opciones": [
+    "Produce la caducidad del procedimiento.",
+    "Determina la prescripción del procedimiento.",
+    "Legitima a los interesados para entender estimada su solicitud por silencio administrativo.",
+    "Legitima a los interesados para entender desestimada su solicitud por silencio administrativo."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 13,
+   "enunciado": "Frente a la resolución definitiva de concesión de la subvención, ¿qué recurso podría interponer Siglo XXI S.L. en vía administrativa?",
+   "opciones": [
+    "Recurso de alzada, en el plazo de un mes.",
+    "Recurso potestativo de reposición, en el plazo de un mes.",
+    "Recurso de alzada, en el plazo de tres meses.",
+    "No cabría recurso en vía administrativa."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 14,
+   "enunciado": "¿Podría la Mercantil Siglo XXI S.L. subcontratar la actividad subvencionada?",
+   "opciones": [
+    "Sí, en cualquier caso.",
+    "No, en ningún caso.",
+    "Únicamente cuando la normativa reguladora de la subvención así lo prevea.",
+    "No, salvo autorización expresa del órgano concedente."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 15,
+   "enunciado": "En la ejecución de la actividad subvencionada la Mercantil Siglo XXI S.L. ha incurrido en distintos gastos. De los siguientes, ¿cuál podría considerarse subvencionable por la normativa reguladora de la subvención?",
+   "opciones": [
+    "Excepcionalmente, los intereses deudores de las cuentas bancarias.",
+    "Los impuestos personales sobre la renta.",
+    "Excepcionalmente, los gastos de procedimientos judiciales.",
+    "Excepcionalmente, los gastos de garantía bancaria."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 16,
+   "enunciado": "De acuerdo con la LGS, a falta de previsión expresa en las bases reguladoras, la presentación de la cuenta justificativa se realizará, como máximo, en el plazo de:",
+   "opciones": [
+    "Tres meses desde la finalización del plazo para la realización de la actividad.",
+    "Seis meses desde la finalización del plazo para la realización de la actividad.",
+    "Tres meses desde la notificación de la resolución de concesión.",
+    "Seis meses desde la notificación de la resolución de concesión."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 17,
+   "enunciado": "¿Con qué fase de ejecución del gasto se corresponde la resolución de la concesión de la subvención?",
+   "opciones": [
+    "La retención del crédito.",
+    "El reconocimiento de la obligación.",
+    "El compromiso del gasto.",
+    "La aprobación del gasto."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 18,
+   "enunciado": "¿Cuál de las siguientes constituiría, en su caso, causa de nulidad de la resolución de concesión?",
+   "opciones": [
+    "El incumplimiento por la beneficiaria de la obligación de justificación.",
+    "La carencia o insuficiencia de crédito.",
+    "El incumplimiento por la beneficiaria de la actividad subvencional.",
+    "El incumplimiento de la obligación de adoptar las medidas de difusión del carácter público de la financiación."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 19,
+   "enunciado": "En caso de que la resolución de concesión se viera afectada por una causa de nulidad, ¿cómo debería proceder la Administración?",
+   "opciones": [
+    "Revocando la resolución de concesión, sin necesidad de recabar dictamen previo del Consejo de Estado.",
+    "Declararando la nulidad de la resolución de concesión, previo dictamen favorable del Consejo de Estado.",
+    "Impugnando la resolución ante el orden jurisdiccional contencioso-administrativo, previa su declaración de lesividad para el interés público.",
+    "Rectificando o convalidando la resolución de concesión."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 20,
+   "enunciado": "Si la administración incurre en causa de nulidad, pero se da cuenta que el interesado había obtenido la subvención falseando las condiciones requeridas para ello, como deberá proceder:",
+   "opciones": [
+    "Realizara una anulación de oficio, pero iniciara a la vez un expediente sancionador.",
+    "Impugnará el acto, pero le exigirá al interesado el interés de demora incrementando un 25%.",
+    "Iniciará un procedimiento de reintegro, sin perjuicio de poder iniciar además un expediente sancionador.",
+    "Iniciará expediente sancionador por falta grave."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 21,
+   "enunciado": "En caso de que la Mercantil Siglo XXI S.L. incumpliera la obligación de justificar el cumplimiento de las condiciones impuestas, ¿en qué plazo prescribiría el derecho de la Administración para reconocer el reintegro?",
+   "opciones": [
+    "A los cinco años, desde el momento en que venció el plazo para presentar la justificación.",
+    "A los cuatro años, desde la publicación de la convocatoria de concesión de la subvención.",
+    "A los cinco años, desde la publicación de la convocatoria de concesión de la subvención.",
+    "A los cuatro años, desde el momento en que venció el plazo para presentar la justificación."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 22,
+   "enunciado": "¿Qué órgano sería competente, en su caso, para exigir el reintegro de la subvención otorgada a Siglo XXI S.L.?",
+   "opciones": [
+    "El Ministro de Cultura y Deporte.",
+    "El Secretario de Estado de Cultura.",
+    "El Titular del Ministerio de Hacienda.",
+    "El Subdirector General de Promoción de Industrias Culturales."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 23,
+   "enunciado": "De acuerdo con el artículo 42 de la LGS, el plazo máximo para resolver y notificar la resolución del procedimiento de reintegro será, desde la fecha del acuerdo de iniciación, de:",
+   "opciones": [
+    "6 meses, transcurridos los cuales se producirá la caducidad del procedimiento.",
+    "12 meses, transcurridos los cuales se producirá la caducidad del procedimiento.",
+    "6 meses, transcurridos los cuales prescribirá el derecho de la Administración a exigir el reintegro.",
+    "12 meses, transcurridos los cuales prescribirá el derecho de la Administración a exigir el reintegro."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 24,
+   "enunciado": "Tras el otorgamiento de la subvención y durante la ejecución de la actividad subvencionada, la mercantil Siglo XXI S.L. obtuvo otra subvención, procedente de la Administración local, para financiar la misma actividad. Sin embargo, como la suma de ambas subvenciones (la estatal y la local) no superaba el coste de la actividad subvencionada decidió no comunicarlo al Ministerio de Cultura. Según la LGS, ¿podría haberse incurrido en la comisión de alguna infracción en materia de subvenciones?",
+   "opciones": [
+    "Sí, de carácter muy grave.",
+    "Sí, de carácter grave.",
+    "Sí, de carácter leve.",
+    "No, dado que la suma de ambas subvenciones no superan el coste de la actividad subvencionada."
+   ],
+   "caso": "caso-60"
+  },
+  {
+   "id": "pr-60-025",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 24",
+   "n": 25,
+   "enunciado": "De acuerdo con la LGS, ¿en qué plazo prescribiría la infracción a que se refiere la pregunta anterior?",
+   "opciones": [
+    "Un año, a contar desde el día en que la infracción se hubiera cometido.",
+    "Tres años, a contar desde el día en que la infracción se hubiera cometido.",
+    "Cuatro años, a contar desde el día en que la infracción se hubiera cometido.",
+    "Al no existir comisión de infracción, no resultaría aplicable ningún plazo de prescripción."
+   ],
+   "caso": "caso-60",
+   "sigueA": "pr-60-024"
+  }
+ ]
+}

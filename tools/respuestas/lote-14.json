@@ -1,0 +1,561 @@
+{
+ "au-25-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 80.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Esa Junta no existe como órgano de clasificación.",
+   "No. Las Comisiones Consultivas no son las que clasifican con eficacia general (**art. 80.1**).",
+   "No. Esa Comisión del Ministerio de Hacienda no es la competente (**art. 80.1**).",
+   "Es esta. Clasifican con eficacia general las Comisiones Clasificadoras de la Junta Consultiva de Contratación Pública del Estado y los órganos equivalentes de las Comunidades Autónomas (**art. 80.1**)."
+  ]
+ },
+ "au-25-010": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 334.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La Estrategia no la aprueba un Ministerio, sino la Oficina Independiente (**art. 334.1**).",
+   "Es esta. La Estrategia Nacional la aprueba la Oficina Independiente de Regulación y Supervisión de la Contratación (**art. 334.1**).",
+   "No. El Comité de cooperación es un órgano de coordinación y no la aprueba (**art. 329**).",
+   "No. La Junta Consultiva es un órgano de consulta y no la aprueba (**art. 334.1**)."
+  ]
+ },
+ "au-25-011": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Obras, concesiones de obras, concesiones de servicios y acuerdos marco se remiten si superan 600.000 euros (**art. 335.1**).",
+   "No. Para servicios y contratos administrativos especiales el umbral es de 150.000 euros, no de 200.000 (**art. 335.1**).",
+   "No. Para suministros el umbral es de 450.000 euros, no de 150.000 (**art. 335.1**).",
+   "No. Para obras el umbral es de 600.000 euros, no de 450.000 (**art. 335.1**)."
+  ],
+  "revisar": "Umbrales de remisión al Tribunal de Cuentas del art. 335.1 (600.000, 450.000 y 150.000 euros). Comprobar que siguen vigentes."
+ },
+ "au-25-012": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Para servicios y contratos administrativos especiales el umbral es de 150.000 euros (**art. 335.1**).",
+   "No. Para obras el umbral es de 600.000 euros, no de 450.000 (**art. 335.1**).",
+   "No. Para suministros el umbral es de 450.000 euros, no de 150.000 (**art. 335.1**).",
+   "No. Para concesiones de obras el umbral es de 600.000 euros, no de 450.000 (**art. 335.1**)."
+  ],
+  "revisar": "Umbrales de remisión al Tribunal de Cuentas del art. 335.1. Comprobar que siguen vigentes."
+ },
+ "au-25-013": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 328.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está adscrita al Ministerio del Interior (**art. 328.2**).",
+   "Es esta. Está adscrita al Ministerio de Hacienda y Función Pública (**art. 328.2**).",
+   "No. No está adscrita al Ministerio de Fomento (**art. 328.2**).",
+   "No. No está adscrita al Ministerio de Justicia (**art. 328.2**)."
+  ]
+ },
+ "au-25-014": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 337.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Ese Ministerio ya no tiene esa competencia (**art. 337.2**).",
+   "No. No depende del Ministerio de Política Territorial (**art. 337.2**).",
+   "Es esta. Depende del Ministerio de Hacienda y Función Pública (**art. 337.2**).",
+   "No. No depende del Ministerio de Asuntos Económicos (**art. 337.2**)."
+  ]
+ },
+ "au-25-015": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 347.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los perfiles de contratante del sector público estatal deben alojarse obligatoriamente en la Plataforma de Contratación del Sector Público (**art. 347.2**).",
+   "No. El Registro de Contratos recoge los datos básicos de los contratos adjudicados, no aloja los perfiles (**art. 346**).",
+   "No. Ese Registro acredita la aptitud de los empresarios, no aloja los perfiles (**art. 337**).",
+   "No. La “Plataforma de Licitación del Estado” no existe en la ley."
+  ]
+ },
+ "au-26-013": {
+  "bloque": "subv-general",
+  "precepto": "art. 4.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Están excluidas, no incluidas (**art. 4.b**).",
+   "No. Si están excluidas, no se les aplica la Ley (**art. 4.b**).",
+   "No. Siguen siendo subvenciones, pero la Ley las excluye de su ámbito (**art. 4.b**).",
+   "Es esta. Las subvenciones de la Ley Orgánica del Régimen Electoral General están excluidas del ámbito de la Ley (**art. 4.b**)."
+  ]
+ },
+ "au-26-014": {
+  "bloque": "subv-general",
+  "precepto": "art. 22.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las subvenciones a los grupos parlamentarios están excluidas (**art. 4.d**).",
+   "No. Las de la Ley Orgánica de Financiación de los Partidos Políticos están excluidas (**art. 4.c**).",
+   "Es esta. La concurrencia competitiva es el procedimiento ordinario de concesión de subvenciones dentro de la Ley (**art. 22.1**).",
+   "No. Los premios sin solicitud previa están excluidos (**art. 4.a**)."
+  ]
+ },
+ "au-26-015": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Solo quedan fuera las aportaciones que financian globalmente la actividad de otra Administración, no todas las subvenciones entre Administraciones (**art. 2.2**).",
+   "No. Las subvenciones de los Presupuestos Generales sí están dentro de la Ley (**art. 3**).",
+   "No. Solo están excluidos los premios sin solicitud, no los que se otorgan a solicitud (**art. 4.a**).",
+   "Es esta. Las aportaciones entre agentes de una misma Administración sin convocatoria pública quedan fuera de la Ley (**art. 2.2**)."
+  ]
+ },
+ "au-26-016": {
+  "bloque": "subv-general",
+  "precepto": "art. 5.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se regulan por el instrumento jurídico de creación, que debe ajustarse a la Ley (**art. 5.2**).",
+   "No. No se rigen por las normas de derecho administrativo en general, sino por su instrumento de creación (**art. 5.2**).",
+   "No. El reglamento orgánico no es el instrumento que cita la ley (**art. 5.2**).",
+   "No. “Exclusivamente” es falso: rige el instrumento de creación, adaptado a la Ley (**art. 5.2**)."
+  ]
+ },
+ "au-26-017": {
+  "bloque": "subv-general",
+  "precepto": "art. 6.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. “Exclusivamente” es falso: la Ley 38/2003 es solo supletoria (**art. 6.2**).",
+   "Es esta. Se rigen por las normas comunitarias aplicables y por las normas nacionales de desarrollo o transposición (**art. 6.1**).",
+   "No. No se rigen solo por el reglamento de un fondo concreto: también por las normas nacionales de desarrollo (**art. 6.1**).",
+   "No. El derecho internacional no es el régimen que fija la ley (**art. 6.1**)."
+  ]
+ },
+ "au-26-018": {
+  "bloque": "subv-general",
+  "precepto": "doctrina (fomento y servicio público)",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es falso: el fomento no usa siempre medios económicos, y el servicio público también emplea medios jurídicos.",
+   "Es esta. En el servicio público la Administración presta ella misma la actividad, y en el fomento incentiva a los particulares para que la hagan.",
+   "No. El fomento no actúa por coacción: estimula, no impone.",
+   "No. Está invertido: en el servicio público presta la Administración, en el fomento los particulares."
+  ],
+  "ojo": "La Ley 38/2003 no define esta distinción. Es doctrina general sobre las formas de la actividad administrativa."
+ },
+ "au-26-019": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La subvención se entrega sin contraprestación directa del beneficiario (**art. 2.1.a**).",
+   "Es esta. Sin contraprestación directa y sujeta a un objetivo, proyecto, actividad, comportamiento o situación (**art. 2.1.a y b**).",
+   "No. Pueden ser personas públicas o privadas, y para actividades ya realizadas o por desarrollar (**art. 2.1**).",
+   "No. No exige prestación de servicios a la Administración, que sería contraprestación (**art. 2.1.a**)."
+  ]
+ },
+ "au-26-020": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Una subvención a una empresa privada para un proyecto de interés social está dentro de la Ley (**art. 2.1**).",
+   "Es esta. Las aportaciones entre Administraciones para financiar globalmente la actividad de la receptora quedan fuera de la Ley (**art. 2.2**).",
+   "No. La subvención de una entidad local a una asociación está dentro de la Ley (**art. 3.1.b**).",
+   "No. Una ayuda condicionada a una actividad de utilidad pública cumple el concepto de subvención (**art. 2.1**)."
+  ]
+ },
+ "au-27-001": {
+  "bloque": "subv-general",
+  "precepto": "art. 10.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los Subsecretarios y Secretarios Generales no son los órganos competentes que cita la ley (**art. 10.1**).",
+   "No. Los Subsecretarios no figuran en el art. 10.1.",
+   "Es esta. En la AGE conceden los Ministros y los Secretarios de Estado (**art. 10.1**).",
+   "No. El Presidente del Gobierno no concede subvenciones (**art. 10.1**)."
+  ]
+ },
+ "au-27-002": {
+  "bloque": "subv-general",
+  "precepto": "art. 17.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las bases se aprueban por orden ministerial, no por Real Decreto (**art. 17.1**).",
+   "No. “Ley de Bases” no es el instrumento (**art. 17.1**).",
+   "Es esta. Se aprueban por orden ministerial, con informe de los servicios jurídicos y de la Intervención Delegada (**art. 17.1**).",
+   "No. No las aprueba el propio órgano concedente por resolución (**art. 17.1**)."
+  ]
+ },
+ "au-27-003": {
+  "bloque": "subv-general",
+  "precepto": "art. 8.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es cierta, pero no es el único principio (**art. 8.3**).",
+   "No. Es cierta, pero no es el único principio (**art. 8.3**).",
+   "No. Es cierta, pero no es el único principio (**art. 8.3**).",
+   "Es esta. Los tres grupos de principios del art. 8.3 son correctos."
+  ]
+ },
+ "au-27-004": {
+  "bloque": "subv-general",
+  "precepto": "art. 19.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La normativa sí podrá exigir un importe de financiación propia (**art. 19.1**).",
+   "No. El importe puede calcularse como porcentaje del coste de la actividad.",
+   "Es esta. El importe de la subvención no puede superar el coste de la actividad subvencionada, ni aislada ni con otras ayudas (**art. 19.3**).",
+   "No. La compatibilidad la determina la normativa reguladora, no es incompatible en todo caso (**art. 19.2**)."
+  ]
+ },
+ "au-27-005": {
+  "bloque": "subv-general",
+  "precepto": "art. 13.2.e",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las sociedades mercantiles participadas por las Administraciones pueden ser entidades colaboradoras (**art. 12.2**).",
+   "No. Las Corporaciones Locales pueden ser entidades colaboradoras (**art. 12.3**).",
+   "Es esta. Quien no esté al corriente de sus obligaciones tributarias no puede obtener la condición de entidad colaboradora (**art. 13.2.e**).",
+   "No. Los organismos y entes públicos pueden ser entidades colaboradoras (**art. 12.2**)."
+  ]
+ },
+ "au-27-006": {
+  "bloque": "subv-general",
+  "precepto": "art. 8.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La transparencia es uno de los principios del art. 8.3.a.",
+   "No. La eficiencia en la asignación de recursos es principio del art. 8.3.c.",
+   "No. La publicidad es principio del art. 8.3.a.",
+   "Es esta. La solidaridad no figura entre los principios del art. 8.3."
+  ]
+ },
+ "au-27-007": {
+  "bloque": "subv-general",
+  "precepto": "arts. 9 y 10",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La aprobación del gasto por el órgano competente es requisito (**art. 9.4.e**).",
+   "Es verdadera, así que no se marca. Las bases se publican en el BOE o en el diario oficial correspondiente (**art. 9.3**).",
+   "Es verdadera, así que no se marca. La fiscalización previa de los actos de contenido económico es requisito (**art. 9.4.d**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Por encima de 12 millones se necesita la previa autorización del Consejo de Ministros, pero la concesión sigue correspondiendo al órgano competente (**art. 10.2**)."
+  ],
+  "revisar": "Importe de 12 millones de euros del art. 10.2 LGS. Comprobar que sigue vigente."
+ },
+ "au-27-008": {
+  "bloque": "subv-general",
+  "precepto": "art. 15.1.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La publicidad de la financiación pública es obligación del beneficiario (**art. 14.1.h**).",
+   "No. Llevar libros auditados es obligación del beneficiario (**art. 14.1.f**).",
+   "Es esta. La entidad colaboradora debe justificar la entrega de los fondos percibidos ante el órgano concedente (**art. 15.1.c**).",
+   "No. El reintegro lo inicia el órgano concedente, no la entidad colaboradora (**art. 15**)."
+  ]
+ },
+ "au-27-009": {
+  "bloque": "subv-general",
+  "precepto": "art. 9",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es requisito tramitar el procedimiento según las normas aplicables (**art. 9.4.c**).",
+   "Es esta. La Ley no exige que el beneficiario tenga nacionalidad española (**art. 9**).",
+   "No. Es requisito que exista crédito adecuado y suficiente (**art. 9.4.b**).",
+   "No. Es requisito la competencia del órgano concedente (**art. 9.4.a**)."
+  ]
+ },
+ "au-27-010": {
+  "bloque": "subv-general",
+  "precepto": "art. 10.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La desconcentración no se hace por real decreto de la Presidencia.",
+   "Es esta. Mediante real decreto acordado en Consejo de Ministros (**art. 10.3**).",
+   "No. Una orden ministerial no basta para desconcentrar esta facultad (**art. 10.3**).",
+   "No. No se hace por orden del Presidente del Gobierno (**art. 10.3**)."
+  ]
+ },
+ "au-27-011": {
+  "bloque": "subv-general",
+  "precepto": "art. 18.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Base de Datos Nacional de Subvenciones opera como sistema nacional de publicidad de subvenciones (**art. 18.1**).",
+   "No. El BOE publica extractos de las convocatorias, pero el sistema nacional de publicidad es la BDNS (**art. 18.1**).",
+   "No. Ese registro no es el que fija el art. 18.",
+   "No. Ese registro no es el que fija el art. 18."
+  ]
+ },
+ "au-27-012": {
+  "bloque": "subv-general",
+  "precepto": "art. 20.9",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La Ley habla solo de infracciones muy graves (**art. 20.9**).",
+   "Es esta. Puede suministrar información pública sobre las sanciones firmes por infracciones muy graves (**art. 20.9**).",
+   "No. Las leves no se publican (**art. 20.9**).",
+   "No. Sí puede, en el caso de las muy graves (**art. 20.9**)."
+  ]
+ },
+ "au-27-013": {
+  "bloque": "subv-general",
+  "precepto": "art. 8 y Reglamento",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Cinco años es más de lo que fija el Reglamento como regla general.",
+   "No. Dos años es menos de lo que fija el Reglamento como regla general.",
+   "No. Cuatro años no es el plazo general del Reglamento.",
+   "Es esta. Con carácter general los planes estratégicos tienen una vigencia de tres años."
+  ],
+  "ojo": "La Ley 38/2003 (art. 8.1) exige el plan pero no fija su vigencia. Los tres años vienen del Reglamento (RD 887/2006).",
+  "revisar": "El dato no está en la Ley 38/2003 sino en su Reglamento (RD 887/2006). Conviene comprobarlo en el texto del Reglamento."
+ },
+ "au-27-014": {
+  "bloque": "subv-general",
+  "precepto": "art. 10",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La autorización previa del Consejo de Ministros no implica la aprobación del gasto, que corresponde al órgano competente (**art. 10.2**).",
+   "No. Sí pueden desconcentrarse, mediante real decreto acordado en Consejo de Ministros (**art. 10.3**).",
+   "No. El umbral es de 12 millones, no de 10 (**art. 10.2**).",
+   "No. En el SEPE concede su presidente o director, no la Ministra (**art. 10.1**)."
+  ],
+  "revisar": "Importe de 12 millones de euros del art. 10.2 LGS. Comprobar que sigue vigente."
+ },
+ "au-27-015": {
+  "bloque": "subv-general",
+  "precepto": "art. 13",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Estar al corriente de las obligaciones tributarias es requisito (**art. 13.2.e**).",
+   "No. Estar al corriente de pago de reintegros es requisito (**art. 13.2.g**).",
+   "No. Haber sido condenado por prevaricación impide obtener la condición de beneficiario (**art. 13.2.a**).",
+   "Es esta. Puede ser beneficiario quien carezca de personalidad jurídica, como las agrupaciones del art. 11.3."
+  ]
+ },
+ "au-27-016": {
+  "bloque": "subv-general",
+  "precepto": "art. 14.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Ley no obliga a ejecutar sin subcontratar: se puede subcontratar si la normativa lo prevé (**art. 29**).",
+   "No. Someterse a las actuaciones de comprobación es obligación (**art. 14.1.c**).",
+   "No. Conservar los documentos justificativos es obligación (**art. 14.1.g**).",
+   "No. Justificar la aplicación de los fondos es obligación (**art. 14.1.b**)."
+  ]
+ },
+ "au-27-017": {
+  "bloque": "subv-general",
+  "precepto": "art. 17",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se aprueban previo informe de los servicios jurídicos y de la Intervención Delegada (**art. 17.1**).",
+   "Es verdadera, así que no se marca. Definen el objeto de la subvención (**art. 17.3.a**).",
+   "Es verdadera, así que no se marca. Se publican en el BOE (**art. 17.1**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Se aprueban por orden ministerial, no por Real Decreto del Consejo de Ministros (**art. 17.1**)."
+  ]
+ },
+ "au-27-018": {
+  "bloque": "subv-general",
+  "precepto": "art. 16.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo máximo de vigencia es de cuatro años, no de tres (**art. 16.2**).",
+   "Es esta. La duración total de las prórrogas no puede ser superior a la vigencia del período inicial (**art. 16.2**).",
+   "No. Sí pueden prorrogarse por mutuo acuerdo antes de que acabe el convenio (**art. 16.2**).",
+   "No. El convenio se formaliza entre el órgano concedente y la entidad colaboradora, no el beneficiario (**art. 16.1**)."
+  ]
+ },
+ "au-27-019": {
+  "bloque": "subv-general",
+  "precepto": "art. 14.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Entregar los fondos a los beneficiarios es obligación de la entidad colaboradora, no del beneficiario (**art. 15.1.a**).",
+   "No. Cumplir los requisitos y condiciones sí es obligación del beneficiario (**art. 14.1.b**).",
+   "No. Comunicar otras subvenciones sí es obligación del beneficiario (**art. 14.1.d**).",
+   "No. Someterse a las actuaciones de comprobación sí es obligación del beneficiario (**art. 14.1.c**)."
+  ]
+ },
+ "au-27-020": {
+  "bloque": "subv-general",
+  "precepto": "art. 11.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No lo son en todo caso: solo si lo prevén las bases reguladoras (**art. 11.2**).",
+   "No. Los empleados no son beneficiarios (**art. 11.2**).",
+   "No. No solo la persona jurídica: también los miembros asociados si lo prevén las bases (**art. 11.2**).",
+   "Es esta. Si lo prevé la normativa reguladora, los miembros asociados que realicen actividades por cuenta del beneficiario (**art. 11.2**)."
+  ]
+ },
+ "au-27-021": {
+  "bloque": "subv-general",
+  "precepto": "art. 11.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No se exige actividad comercial previa (**art. 11.3**).",
+   "No. No se exige domicilio fiscal en España (**art. 11.3**).",
+   "No. No se exige constitución notarial (**art. 11.3**).",
+   "Es esta. Deben estar previstas expresamente en las bases reguladoras (**art. 11.3**)."
+  ]
+ },
+ "au-27-022": {
+  "bloque": "subv-general",
+  "precepto": "art. 11.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Sí es obligación nombrar un representante o apoderado único (**art. 11.3**).",
+   "No. Sí es obligación no disolverse hasta que prescriba el reintegro (**art. 11.3**).",
+   "No. Sí es obligación hacer constar los compromisos de cada miembro (**art. 11.3**).",
+   "Es esta. El art. 11 no obliga a registrarlas en el Registro Nacional de Subvenciones."
+  ]
+ },
+ "au-27-023": {
+  "bloque": "subv-general",
+  "precepto": "art. 13.7",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Puede hacerse con testimonio judicial, certificados telemáticos o certificación administrativa (**art. 13.7**).",
+   "No. “Únicamente” es falso: la declaración responsable solo sirve si no puede expedirse el documento (**art. 13.7**).",
+   "No. Los medios notariales solo valen para la declaración responsable, y no son el medio general (**art. 13.7**).",
+   "No. Sí es necesaria la acreditación (**art. 13.7**)."
+  ]
+ },
+ "au-27-024": {
+  "bloque": "subv-general",
+  "precepto": "Reglamento (RD 887/2006)",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El informe anual de cada Departamento ministerial sobre el grado de avance del plan se emite antes del 31 de marzo.",
+   "No. El plazo no es el 30 de abril.",
+   "No. El plazo no es el 30 de junio.",
+   "No. El plazo no es el 31 de diciembre."
+  ],
+  "ojo": "El seguimiento del plan estratégico se regula en el Reglamento, no en la Ley 38/2003.",
+  "revisar": "El dato no está en la Ley 38/2003 sino en su Reglamento (RD 887/2006). Conviene comprobarlo en el texto del Reglamento."
+ },
+ "au-27-025": {
+  "bloque": "subv-general",
+  "precepto": "art. 11.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Si las bases lo prevén, también pueden serlo agrupaciones sin personalidad (**art. 11.3**).",
+   "Es esta. Las agrupaciones, comunidades de bienes y otras unidades económicas, aunque no tengan personalidad jurídica (**art. 11.3**).",
+   "No. No son solo las Administraciones públicas (**art. 11**).",
+   "No. Las sociedades mercantiles pueden ser beneficiarias, pero no es lo que se condiciona a las bases reguladoras (**art. 11.3**)."
+  ]
+ },
+ "au-28-001": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34",
+  "correcta": 3,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. No se paga a quien no está al corriente con la Seguridad Social (**art. 34.5**).",
+   "Es verdadera, así que no se marca. La aprobación del gasto precede a la convocatoria (**art. 34.1**).",
+   "Es verdadera, así que no se marca. La resolución de concesión conlleva el compromiso del gasto (**art. 34.2**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Pueden hacerse pagos anticipados cuando la normativa reguladora lo prevea (**art. 34.4**)."
+  ]
+ },
+ "au-28-002": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 28",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La concurrencia competitiva es el procedimiento ordinario, no el de las nominativas (**art. 22.1**).",
+   "Es esta. Las subvenciones nominativas se instrumentan mediante convenios (**art. 28**).",
+   "No. Sí existen: son una forma de concesión directa (**art. 22.2.a**).",
+   "No. La segunda opción es correcta."
+  ]
+ },
+ "au-28-003": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Puede subcontratar total o parcialmente cuando la normativa reguladora lo prevea (**art. 29.2**).",
+   "No. No se limita a lo parcial: la ley dice total o parcialmente (**art. 29.1**).",
+   "No. Sí es posible si la normativa lo prevé (**art. 29.2**).",
+   "No. No se limita a lo total: la ley dice total o parcialmente (**art. 29.1**)."
+  ]
+ },
+ "au-28-004": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La concesión directa está permitida en los casos del art. 22.2.",
+   "No. La propuesta la formula un órgano colegiado, no uno unipersonal (**art. 22.1**).",
+   "No. Excepcionalmente, si lo prevén las bases, procede el prorrateo (**art. 22.1**).",
+   "Es esta. No pueden otorgarse subvenciones por cuantía superior a la que fije la convocatoria (**art. 22.3**)."
+  ]
+ },
+ "au-28-005": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El Consejo de Ministros no puede decidirlo libremente: debe haber razones del art. 22.2.c.",
+   "No. Esa no es una excepción: la concesión directa no depende de lo que prevean las bases de una convocatoria (**art. 22.2**).",
+   "Es esta. Excepcionalmente, por razones de interés público, social, económico o humanitario que dificulten su convocatoria pública (**art. 22.2.c**).",
+   "No. Sí es posible en los casos del art. 22.2."
+  ]
+ },
+ "au-28-006": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El procedimiento ordinario es la concurrencia competitiva (**art. 22.1**).",
+   "No. El plazo de resolución del reintegro es de 12 meses, no de tres (**art. 42.4**).",
+   "Es esta. El procedimiento ordinario se tramita en régimen de concurrencia competitiva (**art. 22.1**).",
+   "No. Las prestaciones del FOGASA no tienen carácter de subvención (**art. 2.4**)."
+  ]
+ },
+ "au-28-007": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 14.1.e",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Debe acreditarlo con anterioridad a dictarse la propuesta de resolución de concesión (**art. 14.1.e**).",
+   "No. La comunicación se hace tan pronto como se conozca y siempre antes de la justificación, no en ella (**art. 14.1.d**).",
+   "No. Los gastos de procedimientos judiciales no son subvencionables (**art. 31.7**).",
+   "No. Los intereses deudores de cuentas bancarias no son subvencionables (**art. 31.7**)."
+  ]
+ },
+ "au-28-008": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El límite no es el fin del período de ejecución sino el del período de justificación (**art. 31.2**).",
+   "No. El año natural de la solicitud no es el criterio (**art. 31.2**).",
+   "No. El período de ejecución no es el referente del pago (**art. 31.2**).",
+   "Es esta. Gasto realizado es el efectivamente pagado antes de que finalice el período de justificación (**art. 31.2**)."
+  ]
+ },
+ "au-28-009": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 24.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se puede prescindir de la audiencia cuando no se tengan en cuenta otros hechos o alegaciones que los del interesado (**art. 24.4**).",
+   "No. Se inicia siempre de oficio, no a solicitud del interesado (**art. 23.1**).",
+   "No. Se inicia siempre de oficio (**art. 23.1**).",
+   "Es esta. Las propuestas de resolución provisional y definitiva no crean derecho alguno hasta que se notifique la concesión (**art. 24.6**)."
+  ]
+ },
+ "au-28-010": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es un procedimiento simplificado: es el ordinario (**art. 22.1**).",
+   "Es esta. La concurrencia competitiva es el procedimiento ordinario de concesión (**art. 22.1**).",
+   "No. Lo excepcional es la concesión directa (**art. 22.2.c**).",
+   "No. Acreditar razones de interés público es requisito de la concesión directa excepcional, no de la concurrencia (**art. 22.2.c**)."
+  ]
+ }
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-07-013",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 13,
+   "enunciado": "De acuerdo con la Ley General de Subvenciones, ¿cómo se tramitará el procedimiento ordinario de concesión de subvenciones?",
+   "opciones": [
+    "Mediante la concesión directa a través de Real Decreto.",
+    "Mediante la concesión nominativa a través de Real Decreto.",
+    "En régimen de concurrencia competitiva.",
+    "Mediante la concesión nominativa en los Presupuestos Generales del Estado."
+   ]
+  },
+  {
+   "id": "vo-07-014",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 14,
+   "enunciado": "Conforme a la LGS, ¿cuál es el instrumento habitual para canalizar las subvenciones previstas en los Presupuestos Generales del Estado?",
+   "opciones": [
+    "La encomienda de gestión.",
+    "El encargo a un medio propio.",
+    "El convenio.",
+    "El contrato."
+   ]
+  },
+  {
+   "id": "vo-07-015",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 15,
+   "enunciado": "Conforme al Reglamento de la Ley General de Subvenciones, si las bases reguladoras permitieran subcontratar las actividades subvencionadas sin establecer límites cuantitativos, las subcontrataciones realizadas no podrán superar:",
+   "opciones": [
+    "El 20 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos.",
+    "El 30 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos.",
+    "El 40 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos.",
+    "El 50 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos."
+   ]
+  },
+  {
+   "id": "vo-07-017",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 17,
+   "enunciado": "Conforme a la LGS, podrán ser subvencionados con carácter excepcional:",
+   "opciones": [
+    "Los intereses deudores de las cuentas bancarias, cuando así lo prevea la normativa reguladora de la subvención.",
+    "Los intereses, recargos y sanciones administrativas y penales, cuando así lo prevea la normativa reguladora de la subvención.",
+    "Los gastos de procedimientos judiciales, cuando así lo prevea la normativa reguladora de la subvención.",
+    "Los gastos de garantía bancaria, cuando así lo prevea la normativa reguladora de la subvención."
+   ]
+  },
+  {
+   "id": "vo-07-018",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 18,
+   "enunciado": "Según el artículo 34 de la Ley 38/2003, General de Subvenciones, la resolución de concesión de la subvención conllevara:",
+   "opciones": [
+    "El compromiso del gasto.",
+    "La aprobación del gasto.",
+    "El reconocimiento de la obligación.",
+    "La autorización del gasto."
+   ]
+  },
+  {
+   "id": "vo-07-019",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 19,
+   "enunciado": "Con carácter previo a la convocatoria de la subvención o a la concesión directa de la misma, deberá efectuarse:",
+   "opciones": [
+    "La aprobación del gasto.",
+    "El compromiso del gasto.",
+    "La aprobación y compromiso del gasto.",
+    "La autorización del gasto"
+   ]
+  },
+  {
+   "id": "vo-07-020",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 20,
+   "enunciado": "En un procedimiento de concesión de subvenciones en régimen de concurrencia competitiva, debe tramitarse el oportuno expediente de gasto:",
+   "opciones": [
+    "Única y excepcionalmente si se contempla una cuantía adicional a la cuantía total máxima establecida en la convocatoria.",
+    "Cuando se haya previsto expresamente en la normativa reguladora.",
+    "Con carácter previo a la convocatoria de las subvenciones.",
+    "Solo antes de la resolución de concesión de las subvenciones."
+   ]
+  },
+  {
+   "id": "vo-07-022",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 22,
+   "enunciado": "La Ley General de Subvenciones establece que el plazo máximo para resolver y notificar la resolución del procedimiento de reintegro de una subvención será, desde la fecha del acuerdo de iniciación, de:",
+   "opciones": [
+    "3 meses.",
+    "6 meses.",
+    "9 meses.",
+    "12 meses."
+   ]
+  },
+  {
+   "id": "vo-07-023",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 23,
+   "enunciado": "Según la LGS, cuando proceda el reintegro, se exigirá el interés de demora correspondiente, calculado:",
+   "opciones": [
+    "Desde el momento de concesión de la subvención hasta la fecha en que el interesado pague la obligación de reintegro.",
+    "Desde el momento de pago de la subvención hasta la fecha en que se acuerde el reintegro.",
+    "Desde el momento de concesión de la subvención hasta la fecha en que se inicie el procedimiento de reintegro.",
+    "Desde el momento de pago de la subvención hasta la fecha en que se inicie el procedimiento de reintegro."
+   ]
+  },
+  {
+   "id": "vo-07-024",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 24,
+   "enunciado": "El plazo de prescripción de las infracciones y sanciones en el ámbito de la LGS es de:",
+   "opciones": [
+    "4 años tanto para las infracciones como para las sanciones.",
+    "3 años para las infracciones y 5 años para las sanciones.",
+    "5 años para las infracciones y 3 años para las sanciones.",
+    "3 años tanto para las infracciones como para las sanciones."
+   ]
+  },
+  {
+   "id": "vo-07-025",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 25,
+   "enunciado": "En el ámbito estatal, la competencia para imponer sanciones pecuniarias en materia de subvenciones corresponde a:",
+   "opciones": [
+    "El Consejo de Ministros.",
+    "El ministro de Hacienda.",
+    "El órgano concedente, en todo caso.",
+    "Los Ministros y los Secretarios de Estado."
+   ]
+  },
+  {
+   "id": "vo-07-026",
+   "origen": "votaciones",
+   "test": "Clase 20 - Bloque III",
+   "n": 26,
+   "enunciado": "Siguiendo lo dispuesto en la Ley 38/2003, ¿cuál de las siguientes infracciones se tipificaría como grave?",
+   "opciones": [
+    "La resistencia, obstrucción, excusa o negativa a las actuaciones de control financiero.",
+    "La presentación de cuentas justificativas inexactas o incompletas.",
+    "La falta de justificación del empleo dado a los fondos recibidos una vez transcurrido el plazo establecido para su presentación.",
+    "El incumplimiento de la obligación de llevar o conservar la contabilidad, los registros legalmente establecidos, los programas y archivos informáticos que les sirvan de soporte y los sistemas de codificación utilizados."
+   ]
+  },
+  {
+   "id": "vo-08-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 1,
+   "enunciado": "La Ley 9/2017, de contratos del sector público, tiene por objeto regular la contratación del sector público a fin de garantizar que la misma se ajusta a los principios de: (Ayuntamiento Castellón A1 – 2024)",
+   "opciones": [
+    "Publicidad, transparencia, eficacia y eficiencia en la contratación pública.",
+    "Eficacia y eficiencia en la contratación.",
+    "No discriminación e igualdad de trato entre los licitadores y coordinación entre las Administraciones Públicas.",
+    "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores."
+   ]
+  },
+  {
+   "id": "vo-08-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 2,
+   "enunciado": "De conformidad con el artículo 1.2 de la Ley 9/2017, es igualmente objeto de esta Ley la regulación del régimen jurídico aplicable a los efectos, cumplimiento y extinción de: (Diputación Cáceres A1 – 2025)",
+   "opciones": [
+    "Los contratos administrativos y privados, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.",
+    "Los contratos administrativos, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.",
+    "Los contratos mixtos, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.",
+    "Los contratos privados, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar."
+   ]
+  },
+  {
+   "id": "vo-08-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 3,
+   "enunciado": "Según el artículo 1.3 de la Ley 9/2017, en toda contratación pública se incorporarán de manera transversal y preceptiva: (Murcia A1 - 2020)",
+   "opciones": [
+    "Criterios éticos y de transparencia, aunque no guarden relación con el objeto del contrato.",
+    "Criterios éticos y de transparencia siempre que guarden relación con el objeto del contrato.",
+    "Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato.",
+    "Criterios sociales y medioambientales, aunque no guarden relación con el objeto del contrato."
+   ]
+  },
+  {
+   "id": "vo-08-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 4,
+   "enunciado": "De acuerdo con el artículo 2.1 de la Ley 9/2017, se entenderá que un contrato tiene carácter oneroso en los casos en que el contratista obtenga: (Diputación Cáceres A1 – 2025)",
+   "opciones": [
+    "Algún tipo de beneficio económico, ya sea de forma directa o indirecta.",
+    "Algún tipo de beneficio financiero, ya sea de forma directa o indirecta.",
+    "El cobro de un precio, exclusivamente.",
+    "Algún tipo de beneficio fiscal, ya sea de forma directa o indirecta."
+   ]
+  },
+  {
+   "id": "vo-08-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 5,
+   "enunciado": "De acuerdo con lo dispuesto en la Ley 9/2017, dentro del sector público y a efectos de esta Ley, son poderes adjudicadores, pero NO tienen consideración de Administraciones Públicas: (Aragón C1 – 2026)",
+   "opciones": [
+    "Las Ciudades Autónomas de Ceuta y Melilla.",
+    "Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las Universidades públicas."
+   ]
+  },
+  {
+   "id": "vo-08-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 6,
+   "enunciado": "Indique la respuesta CORRECTA. De conformidad con lo dispuesto en la Ley 9/2017, los contratos de compraventa, donación, permuta, arrendamiento y demás negocios jurídicos análogos sobre bienes inmuebles, valores negociables y propiedades incorporales, a no ser que recaigan sobre programas de ordenador y deban ser calificados como contratos de suministro o servicio, tendrán siempre el carácter de contratos: (GVA A1 – 2025)",
+   "opciones": [
+    "Administrativos especiales.",
+    "Administrativos y se rigen por la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.",
+    "Privados y se regirán por la legislación patrimonial.",
+    "Administrativos y se regirán por la legislación patrimonial."
+   ]
+  },
+  {
+   "id": "vo-08-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 7,
+   "enunciado": "Señale la opción CORRECTA. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: (GVA A1 – 2026)",
+   "opciones": [
+    "No puede haber contratos que contengan prestaciones correspondientes a otro u otros de distinta clase.",
+    "Son contratos de suministro los que tienen por objeto la adquisición o el arrendamiento de todo tipo de productos o bienes.",
+    "Los contratos de servicio tienen por objeto prestaciones de hacer, excluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.",
+    "No existe el contrato de concesión de suministro."
+   ]
+  },
+  {
+   "id": "vo-08-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 8,
+   "enunciado": "De conformidad con el artículo 15 de la Ley 9/2017, en los contratos de concesión de servicios: (CyL A2 – 2020)",
+   "opciones": [
+    "El derecho de explotación de los servicios implicará la transferencia al concesionario del riesgo operacional.",
+    "El derecho de explotación de los servicios nunca implicará la transferencia al concesionario o a la administración del riesgo operacional.",
+    "El derecho de explotación de los servicios implicará la transferencia a la administración del riesgo operacional.",
+    "El derecho de explotación de los servicios nunca implicará la transferencia al concesionario del riesgo operacional."
+   ]
+  },
+  {
+   "id": "vo-08-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 9,
+   "enunciado": "Los contratos de adquisición de programas de ordenador desarrollados a medida son: (Salamanca A2 – 2023)",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de suministros.",
+    "Contratos privados.",
+    "Contratos excluidos de la LCSP al tratarse de compraventa."
+   ]
+  },
+  {
+   "id": "vo-08-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 10,
+   "enunciado": "De acuerdo con la Ley 9/2017, cuando un contrato mixto comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios se atenderá, para la determinación de las normas que regirán la adjudicación: (CLM A1 – 2025)",
+   "opciones": [
+    "Al mayor de los valores estimados de ambas prestaciones.",
+    "Al carácter de la prestación secundaria, si las distintas prestaciones no son separables.",
+    "No pueden concurrir las prestaciones de obras, suministros y servicios en el mismo expediente de contratación.",
+    "Al carácter de la prestación principal."
+   ]
+  },
+  {
+   "id": "vo-08-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 11,
+   "enunciado": "Según la Ley 9/2017, ¿Qué contratos están sujetos a regulación armonizada?: (SIAL – 2024)",
+   "opciones": [
+    "Los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.000.000 euros.",
+    "Los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.404.000 euros.",
+    "Los contratos de obras, de concesión de obras y de concesión de suministros cuyo valor estimado sea igual o superior a 5.538.000 euros.",
+    "Los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 2.500.000 euros."
+   ]
+  },
+  {
+   "id": "vo-08-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 12,
+   "enunciado": "Están sujetos a regulación armonizada los contratos de suministro cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "140.000 euros, cuando se trate de contratos adjudicados por un Ayuntamiento.",
+    "140.000 euros, cuando se trate de contratos adjudicados por una Fundación Pública.",
+    "140.000 euros, cuando se trate de contratos adjudicados por una Mutua Colaboradora con la Seguridad Social.",
+    "140.000 euros, cuando se trate de contratos adjudicados por una Entidad Gestora de la Seguridad Social."
+   ]
+  },
+  {
+   "id": "vo-08-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 13,
+   "enunciado": "De conformidad con Ley 9/2017, están sujetos a regulación armonizada los contratos de servicios:",
+   "opciones": [
+    "Cuyo valor estimado sea igual o superior a 140.000 €, cuando sea celebrado por las Mutuas colaboradoras con la Seguridad Social.",
+    "Cuyo valor estimado sea igual o superior a 216.000 €, cuando sea celebrado por las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "Cuyo valor estimado sea igual o superior a 140.000 €, cuando sea celebrado por las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "Cuyo valor estimado sea igual o superior a 750.000 €, cuando tengan por objeto los servicios sociales enumerados en el Anexo VI."
+   ]
+  },
+  {
+   "id": "vo-08-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 14,
+   "enunciado": "Son contratos subvencionados sujetos a una regulación armonizada los contratos de obras y los contratos de servicios definidos conforme a lo previsto en los artículos 13 y 17, respectivamente, que sean subvencionados:",
+   "opciones": [
+    "De forma indirecta y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores.",
+    "De forma directa y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores.",
+    "De forma directa y en más de un 60 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores.",
+    "De forma directa y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de sector público."
+   ]
+  },
+  {
+   "id": "vo-08-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 15,
+   "enunciado": "Los contratos celebrados por un Ayuntamiento cuyo objeto sea la suscripción de revistas, publicaciones periódicas y bases de datos: (Ayuntamiento Castellón A1 – 2024)",
+   "opciones": [
+    "Tendrán carácter administrativo.",
+    "Tendrán carácter privado.",
+    "Tendrán carácter administrativo o privado según su cuantía.",
+    "Ninguna es correcta."
+   ]
+  },
+  {
+   "id": "vo-08-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 16,
+   "enunciado": "De acuerdo con la Ley 9/2017, los contratos privados que celebren las Administraciones Públicas se regirán por el derecho privado en cuanto a: (Asturias A1 – 2022)",
+   "opciones": [
+    "Su preparación y adjudicación.",
+    "Su preparación y extinción.",
+    "Su preparación, adjudicación y extinción.",
+    "Sus efectos, modificación y extinción."
+   ]
+  },
+  {
+   "id": "vo-08-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 17,
+   "enunciado": "Según el art. 27 de la LCSP, el orden jurisdiccional civil será el competente para resolver las cuestiones: (CARM C1 – 2026)",
+   "opciones": [
+    "Relativas a la preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos.",
+    "Relativas a la preparación y adjudicación de los contratos de entidades del sector público que no tengan el carácter de poderes adjudicadores.",
+    "Relativas a la efectos y extinción de los contratos que celebren las entidades del sector público que no tengan el carácter de poderes adjudicadores.",
+    "Relativas a la preparación y adjudicación de los contratos privados de las Administraciones Públicas."
+   ]
+  },
+  {
+   "id": "vo-08-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 18,
+   "enunciado": "Indique la correcta respecto a la necesidad e idoneidad del contrato y eficiencia en la contratación:",
+   "opciones": [
+    "Las entidades del sector público podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales.",
+    "Las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales.",
+    "Las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines privados.",
+    "Las entidades del sector público podrán celebrar otros contratos que aquellos que sean innecesarios para el cumplimiento y realización de sus fines institucionales."
+   ]
+  },
+  {
+   "id": "vo-08-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 19,
+   "enunciado": "De conformidad con el artículo 29.2 de la Ley 9/2017, en ningún caso podrá producirse la prórroga: (Cáceres A1 – 2025):",
+   "opciones": [
+    "Por el consentimiento tácito de las partes.",
+    "Por el consentimiento expreso de las partes públicas.",
+    "Expresa.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "vo-08-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 20,
+   "enunciado": "Según la Ley 9/2017, de Contratos del Sector Público, los contratos de suministros y servicios de prestación sucesiva tendrán un plazo máximo de duración de: (Aragón C1 – 2026)",
+   "opciones": [
+    "5 años incluyendo las posibles prórrogas.",
+    "5 años sin incluir las posibles prórrogas.",
+    "4 años incluyendo las posibles prórrogas.",
+    "4 años sin incluir las posibles prórrogas."
+   ]
+  },
+  {
+   "id": "vo-08-021",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 21,
+   "enunciado": "De acuerdo con la LCSP, la duración de los contratos de concesión de obras no podrá exceder, incluyendo las posibles prórrogas de: (Murcia A1 – 2017)",
+   "opciones": [
+    "20 años.",
+    "30 años.",
+    "35 años.",
+    "40 años."
+   ]
+  },
+  {
+   "id": "vo-08-022",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 22,
+   "enunciado": "La ejecución de obras podrá realizarse por los servicios de la Administración Pública cuando concurra alguna de estas circunstancias: (Ayuntamiento Antequera A2 – 2024)",
+   "opciones": [
+    "Sean municipios de gran población.",
+    "Que no haya habido ofertas de empresarios en la licitación previamente efectuada",
+    "Cuando se trate de un contrato menor.",
+    "Cuando se trate de un supuesto de urgencia, de acuerdo con lo previsto en el artículo 120."
+   ]
+  },
+  {
+   "id": "vo-08-023",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 23,
+   "enunciado": "Según la Ley de contratos del Sector Publico, la ejecución de obras podrá realizarse por los servicios de la Administración Pública, empleando medios propios no personificados, cuando concurra alguna de estas circunstancias:",
+   "opciones": [
+    "Que la Administración posea elementos auxiliares utilizables, cuyo empleo suponga una economía superior al 20% del importe.",
+    "Que la Administración posea elementos auxiliares utilizables, cuyo empleo suponga una economía superior al 15% del importe.",
+    "Que la Administración posea elementos auxiliares utilizables, cuyo empleo suponga una economía superior al 5% del importe.",
+    "Que la Administración posea elementos auxiliares utilizables, cuyo empleo suponga una economía superior al 10% del importe."
+   ]
+  },
+  {
+   "id": "vo-08-024",
+   "origen": "votaciones",
+   "test": "Clase repaso 13 - Bloque III",
+   "n": 24,
+   "enunciado": "Según el artículo 32 de la Ley 9/2017, tendrán la consideración de medios propio personificado respecto de una única entidad concreta del sector público aquellas personas jurídicas, de derecho público o de derecho privado, que cumplan todos y cada uno de los requisitos que se establecen a continuación: (indique la CORRECTA)",
+   "opciones": [
+    "Que los poderes adjudicadores puedan conferirle encargos de ejecución obligatoria.",
+    "Que la totalidad de las actividades del ente destinatario del encargo se lleven a cabo en el ejercicio de los cometidos que le han sido confiados por los poderes adjudicadores.",
+    "Cuando el ente destinatario del encargo sea un ente de personificación jurídico-privada, además, el 80% de su capital o patrimonio deberá ser de titularidad o aportación pública.",
+    "La condición de medio propio personificado respecto del concreto poder adjudicador que hace el encargo deberá reconocerse tácitamente en sus estatutos o actos de creación."
+   ]
+  },
+  {
+   "id": "vo-09-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 1,
+   "enunciado": "Los contratos que celebren los poderes adjudicadores, a excepción de los contratos menores y de los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición a los que se refiere el artículo 36.3 de la Ley 9/2017, se perfeccionan: (ITAL - 2023)",
+   "opciones": [
+    "Con su adjudicación.",
+    "Con su formalización.",
+    "Con arreglo a la legislación por la que se rijan.",
+    "Con arreglo a lo que dispongan los propios contratos."
+   ]
+  },
+  {
+   "id": "vo-09-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 2,
+   "enunciado": "Con arreglo a la Ley 9/2017, entre las causas que pueden concurrir para determinar la nulidad de pleno derecho de los contratos celebrados por poderes adjudicadores, se encuentra: (ITAL - 2023)",
+   "opciones": [
+    "El otorgamiento de ventajas a las empresas que hayan contratado previamente con cualquier administración.",
+    "La carencia o insuficiencia de crédito, de conformidad con la normativa presupuestaria aplicable a las administraciones públicas sujetas a esta Ley, incluidos los de emergencia.",
+    "La carencia o insuficiencia de crédito, de conformidad con la normativa presupuestaria aplicable a las administraciones públicas sujetas a esta Ley, salvo los de emergencia.",
+    "Los encargos que acuerden los poderes adjudicadores para la ejecución directa de prestaciones a través de medios propios, cuando no observen alguno de los requisitos relativos a la condición de medio propio, establecidos en esta Ley."
+   ]
+  },
+  {
+   "id": "vo-09-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 3,
+   "enunciado": "La Ley 9/2017, determina como causa de anulabilidad de derecho administrativo en materia de contratos:",
+   "opciones": [
+    "Las indicadas en el artículo 47 de la Ley 39/2015.",
+    "El incumplimiento de las circunstancias y requisitos exigidos para la modificación de los contratos en los artículos 104 y 105.",
+    "Los encargos que acuerden los poderes adjudicadores para la ejecución indirecta de prestaciones a través de medios propios, cuando no observa alguno de los requisitos relativos a la condición de medio propio.",
+    "Todas aquellas disposiciones, resoluciones, cláusulas o actos emanados de cualquier poder adjudicador que otorguen ventajas de forma directa o indirecta, a las empresas que hayas contratado previamente con cualquier Administración."
+   ]
+  },
+  {
+   "id": "vo-09-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 4,
+   "enunciado": "Según el artículo 44 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, será susceptible de interposición de recurso especial en materia de contratación los siguientes actos: (Seguridad Social A2 – 2023)",
+   "opciones": [
+    "Contratos de obras cuyo valor estimado sea superior a tres millones de euros, y de suministro y servicios, que tengan un valor estimado superior a ciento cuarenta mil euros.",
+    "Acuerdos marco y sistemas dinámicos de adquisición que tengan por objeto la celebración de un contrato de suministros y servicios, que tengan un valor estimado superior a ciento cuarenta mil euros.",
+    "Concesiones de obras o de servicios cuyo valor estimado supere los tres millones de euros.",
+    "Los encargos cuando su importe sea inferior a cien mil euros."
+   ]
+  },
+  {
+   "id": "vo-09-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 5,
+   "enunciado": "Según el artículo 44.2 de la Ley 9/2017, podrán ser objeto de recurso especial en materia de contratación: (Asturias A1 – 2022)",
+   "opciones": [
+    "Cualquiera de las decisiones sobre modificaciones de contratos.",
+    "Actos de trámite no cualificados.",
+    "La formalización del contrato.",
+    "La formalización de encargos a medios propios en los casos en que estos no cumplan los requisitos legales."
+   ]
+  },
+  {
+   "id": "vo-09-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 6,
+   "enunciado": "El recurso especial en materia de contratación no se dará en relación con: (Cantabria A2 – 2021)",
+   "opciones": [
+    "Los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "Los acuerdos de rescate de concesiones.",
+    "Los actos de la mesa o del órgano de contratación por los que se acuerde la admisión o inadmisión de candidatos o licitadores.",
+    "Los anuncios de licitación."
+   ]
+  },
+  {
+   "id": "vo-09-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 7,
+   "enunciado": "Indique la correcta en virtud del artículo 45 de la Ley 9/2017, órgano competente para la resolución del recurso en la AGE:",
+   "opciones": [
+    "El Tribunal estará dividido en dos Secciones.",
+    "Los vocales del Tribunal deberán ser funcionario de carrera A1 y haber desempeñado su actividad profesional por tiempo superior a quince años.",
+    "La duración del nombramiento efectuado de conformidad con este apartado será de seis años y podrá prorrogarse.",
+    "Formará parte del Tribunal, con voz pero sin voto, el Secretario General del mismo."
+   ]
+  },
+  {
+   "id": "vo-09-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 8,
+   "enunciado": "Según lo dispuesto en la Ley 9/2017, si en un escrito de interposición de un recurso especial en materia de contratación, la Administración detecta defectos subsanables, el plazo de subsanación que se ofrecerá al interesado es de: (Albacete A2 – 2025)",
+   "opciones": [
+    "3 días hábiles desde el siguiente a la notificación del requerimiento.",
+    "10 días hábiles desde el siguiente a la notificación del requerimiento.",
+    "15 días hábiles desde la interposición del recurso.",
+    "El recurso especial no contempla esa posibilidad en ningún caso."
+   ]
+  },
+  {
+   "id": "vo-09-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 9,
+   "enunciado": "Según la Ley 9/2017, el recurso especial en materia de contratación, ¿Cómo se iniciará y en qué plazo?:",
+   "opciones": [
+    "Mediante escrito que deberá presentarse en el plazo de 15 días.",
+    "Mediante demanda que deberá presentarse en el plazo de 15 días hábiles.",
+    "Mediante escrito que deberá presentarse en el plazo de 10 días.",
+    "Mediante escrito que deberá presentarse en el plazo de 15 días hábiles."
+   ]
+  },
+  {
+   "id": "vo-09-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 10,
+   "enunciado": "Según Ley 9/2017, contra la resolución del recurso especial en materia de contratación cabe interponer:",
+   "opciones": [
+    "Recurso de alzada.",
+    "Recurso de reposición o contencioso-administrativo.",
+    "Recurso contencioso-administrativo.",
+    "No cabe recurso."
+   ]
+  },
+  {
+   "id": "vo-09-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 11,
+   "enunciado": "Según dispone el artículo 61 de la Ley 9/2017, los órganos de contratación podrán:",
+   "opciones": [
+    "Delegar o descentralizar sus competencias.",
+    "No se podrá delegar las competencias.",
+    "Delegar o desconcentrar sus competencias.",
+    "No se podrá desconcentrar las competencias."
+   ]
+  },
+  {
+   "id": "vo-09-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 12,
+   "enunciado": "Según dispone el artículo 62 de la Ley 9/2017, el responsable del contrato podrá ser:",
+   "opciones": [
+    "En los contratos de obras, las facultades del responsable del contrato serán ejercidas por el Director Ejecutivo.",
+    "Una persona física o jurídica vinculada a la entidad contratante o ajena a ella.",
+    "En los contratos de servicios, las facultades del responsable del contrato serán ejercidas por el Director Facultativo.",
+    "Una persona física o jurídica vinculada a la entidad contratante, pero no ajena a ella."
+   ]
+  },
+  {
+   "id": "vo-09-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 13,
+   "enunciado": "Según dispone el artículo 63 de la Ley 9/2017, toda información contenida en los perfiles del contratante, permanecerá accesible durante un periodo de tiempo:",
+   "opciones": [
+    "No inferior a 10 años.",
+    "No superior a 5 años.",
+    "Indefinida.",
+    "No inferior a 5 años."
+   ]
+  },
+  {
+   "id": "vo-09-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 14 - Bloque III",
+   "n": 14,
+   "enunciado": "La Ley 9/2017 dispone en relación con la publicación en el perfil del contratante de la información relativa a los contratos menores:",
+   "opciones": [
+    "Deberá realizarse al menos trimestralmente.",
+    "Quedan exceptuados de la publicación, aquellos contratos cuyo importe fuera superior a 50.000 euros.",
+    "La información a publicar para este tipo de contratos será, al menos, su objeto, duración, el importe de adjudicación, excluido el IVA, y la identidad del adjudicatario, ordenándose los contratos por la identidad del adjudicatario.",
+    "Quedan exceptuados de la publicación, aquellos contratos cuyo importe fuera igual o inferior a cinco mil euros, siempre que el sistema de pago utilizado fuera el de anticipo de caja fija."
+   ]
+  }
+ ]
+}

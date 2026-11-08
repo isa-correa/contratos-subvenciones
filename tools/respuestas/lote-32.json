@@ -1,0 +1,581 @@
+{
+ "pr-13-011": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.1 y 3.3",
+  "correcta": 1,
+  "justificaciones": [
+   "Incompleta: la mutua colaboradora con la Seguridad Social también es poder adjudicador (art. 3.3.c), así que su contrato puede recurrirse.",
+   "Correcta: la entidad gestora es Administración Pública y la mutua es poder adjudicador, ambas dentro del art. 44.1. La sociedad mercantil estatal no lo es salvo que cumpla el art. 3.3.d.",
+   "Falla en los dos extremos: excluye a la mutua, que sí es poder adjudicador, e incluye a la sociedad mercantil, que por defecto no lo es.",
+   "Demasiado amplia: el recurso especial solo cabe en contratos de poderes adjudicadores (art. 44.1), y la sociedad mercantil estatal no lo es por defecto."
+  ],
+  "ojo": "Se trata la sociedad mercantil estatal como no poder adjudicador (art. 3.3.d), salvo que cumpla ese apartado. Si tu fuente la trata como poder adjudicador, hay que revisar."
+ },
+ "pr-13-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a y c",
+  "correcta": 3,
+  "justificaciones": [
+   "Las obras solo son recurribles por encima de 3.000.000 €, y aquí el valor es 2.500.000 €.",
+   "En suministros el valor estimado debe ser superior a 100.000 €. Con 100.000 € exactos no se supera el umbral.",
+   "Las concesiones requieren un valor estimado que supere 3.000.000 €. Con 3.000.000 € exactos no basta.",
+   "Correcta: un contrato de servicios de 120.000 € supera los 100.000 € del art. 44.1.a."
+  ]
+ },
+ "pr-13-013": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.2 y 44.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la propuesta de adjudicación es un acto de trámite que no decide por sí mismo. Sus defectos se alegan al recurrir la adjudicación (art. 44.3).",
+   "Sí es recurrible: la formalización de encargos a medios propios que incumplan los requisitos está en el art. 44.2.e.",
+   "Sí es recurrible: los acuerdos de adjudicación figuran en el art. 44.2.c.",
+   "Sí es recurrible: el art. 44.2.b considera siempre cualificados los actos de la mesa que admiten o inadmiten candidatos, licitadores u ofertas."
+  ]
+ },
+ "pr-13-014": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.1 y 44.2, 3.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "El informe de insuficiencia de medios no figura entre los actos del art. 44.2, así que no es recurrible aunque el contrato supere 100.000 €.",
+   "Correcta: la fundación pública es poder adjudicador (art. 3.3.b), el suministro supera 100.000 € y los pliegos son recurribles (art. 44.2.a).",
+   "La sociedad mercantil estatal no es poder adjudicador por defecto, así que su adjudicación no entra en el art. 44.1, pese a superar 3.000.000 €.",
+   "El contrato de servicios de 100.000 € no supera el umbral, que exige un valor estimado superior a 100.000 €."
+  ],
+  "ojo": "Se trata la sociedad mercantil estatal como no poder adjudicador (art. 3.3.d), salvo que cumpla ese apartado. Si tu fuente la trata como poder adjudicador, hay que revisar."
+ },
+ "pr-13-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.4 y 44.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: no cabe recurso especial en emergencia (art. 44.4), así que se aplica la Ley 39/2015 (art. 44.6). La resolución de un ministro agota la vía y admite reposición potestativa.",
+   "La alzada ante el Consejo de Ministros no procede: el acto del ministro pone fin a la vía administrativa.",
+   "El recurso especial no se da en procedimientos tramitados por emergencia (art. 44.4), aunque el valor supere 100.000 €.",
+   "Sí cabe recurso administrativo: el art. 44.6 remite a la Ley 39/2015, que prevé la reposición."
+  ]
+ },
+ "pr-13-016": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.4, 44.5, 44.7 y 59.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: el art. 44.7 le da carácter potestativo y gratuito.",
+   "Es correcta: el art. 44.5 excluye los recursos administrativos ordinarios contra los actos recurribles.",
+   "Es la incorrecta: el art. 44.4 excluye el recurso en la emergencia, no en la urgencia.",
+   "Es correcta: el art. 59.1 solo admite contra la resolución el recurso contencioso-administrativo."
+  ]
+ },
+ "pr-13-017": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 45.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: el art. 45.1 le atribuye plena independencia funcional.",
+   "Es la incorrecta: el Tribunal está adscrito al Ministerio de Hacienda y Función Pública, no al de Justicia (art. 45.1).",
+   "Es correcta: lo componen un presidente y un mínimo de cinco vocales.",
+   "Es correcta: se divide en un mínimo de dos secciones."
+  ]
+ },
+ "pr-13-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 45.2 a 45.5",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: los designa el Gobierno a propuesta conjunta de los ministros de Hacienda y de Justicia (art. 45.4).",
+   "Es correcta: seis años sin prórroga (art. 45.5).",
+   "Es correcta: el presidente debe tener título de licenciado o grado en Derecho (art. 45.3).",
+   "Es la incorrecta: a los vocales se les pide título de licenciado o grado, sin exigir que sea en Derecho (art. 45.2). Solo el presidente necesita Derecho."
+  ]
+ },
+ "pr-13-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 49.2 y 56",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la decisión motivada sobre la medida cautelar debe adoptarse en cinco días hábiles.",
+   "El plazo es de días hábiles, no naturales.",
+   "Tres días no es el plazo: la ley fija cinco días hábiles.",
+   "Tres días naturales no está previsto: el plazo legal es de cinco días hábiles."
+  ]
+ },
+ "pr-13-020": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 53",
+  "correcta": 3,
+  "justificaciones": [
+   "Falso: la adjudicación recurrida suspende por sí sola la tramitación, sin necesidad de acuerdo expreso.",
+   "Falso: la suspensión automática solo juega cuando se recurre la adjudicación.",
+   "Incompleta: hay excepciones para los contratos basados en acuerdo marco y los específicos de un sistema dinámico de adquisición.",
+   "Correcta: suspensión automática si el acto recurrido es la adjudicación, salvo contratos basados en acuerdo marco y específicos de SDA (art. 53)."
+  ]
+ },
+ "pr-13-021": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 50.1 y 57.5",
+  "correcta": 1,
+  "justificaciones": [
+   "El plazo es de quince días hábiles, no naturales.",
+   "Correcta: quince días hábiles para interponerlo, y transcurridos dos meses sin resolución se entiende desestimado (art. 57.5).",
+   "Ni son días naturales, ni el plazo es de un mes, ni el silencio es estimatorio.",
+   "El plazo y los dos meses son correctos, pero el silencio es desestimatorio, no estimatorio."
+  ]
+ },
+ "pr-13-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 61",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: el art. 61.1 atribuye a los órganos de contratación la representación del sector público.",
+   "Es correcta: pueden ser unipersonales o colegiados (art. 61.1).",
+   "Es la incorrecta: el art. 61 no exige que el titular sea funcionario de carrera del subgrupo A1.",
+   "Es correcta: pueden delegar o desconcentrar sus competencias (art. 61.2)."
+  ]
+ },
+ "pr-13-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 62",
+  "correcta": 3,
+  "justificaciones": [
+   "Falso: los órganos de contratación deberán designar un responsable del contrato (art. 62.1).",
+   "Falso: puede ser persona física o jurídica, vinculada a la entidad o ajena a ella.",
+   "Falso: supervisa la ejecución y dicta instrucciones, pero no celebra contratos en nombre de la entidad.",
+   "Correcta: en obras, el director facultativo ejerce las facultades del responsable (art. 62.2)."
+  ]
+ },
+ "pr-13-024": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 63.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: el perfil se difunde exclusivamente a través de Internet, no preferentemente (art. 63.1).",
+   "Es correcta: el acceso es libre y no requiere identificación previa.",
+   "Es correcta: la información se mantiene accesible un mínimo de cinco años.",
+   "Es correcta: la forma de acceso consta en pliegos y anuncios de licitación."
+  ]
+ },
+ "pr-13-025": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 63.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No en todos los casos: solo se publica la formalización de encargos de importe superior a 50.000 €.",
+   "Correcta: la formalización se publica cuando el importe supera 50.000 €, IVA excluido (art. 63.6).",
+   "Los 5.000 € son el umbral de la publicación trimestral de información, no el de la formalización.",
+   "Falso: el art. 63.6 prevé su publicación aunque los encargos no sean contratos."
+  ]
+ },
+ "pr-13-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 65.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Es requisito: plena capacidad de obrar.",
+   "Es requisito: no estar incursa en prohibición de contratar.",
+   "Es requisito: solvencia o, cuando proceda, clasificación.",
+   "No es requisito: el art. 65.1 no exige experiencia previa en prestaciones similares."
+  ]
+ },
+ "pr-13-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 66.1",
+  "correcta": 3,
+  "justificaciones": [
+   "La solvencia no suple el requisito: la prestación debe encajar en el objeto estatutario.",
+   "El art. 66.1 no prevé excepción para obras de conservación y mantenimiento.",
+   "El art. 66.1 no excepciona la emergencia.",
+   "Correcta: las personas jurídicas solo pueden adjudicarse contratos comprendidos en sus fines o ámbito de actividad estatutarios."
+  ]
+ },
+ "pr-13-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 68.1 y 68.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las empresas de Estados no UE ni EEE deben justificar mediante informe la reciprocidad (art. 68.1).",
+   "No se exige autorización de la Comisión Europea.",
+   "Sucursal y Registro Mercantil se pueden exigir solo a los adjudicatarios de contratos de obras (art. 68.2), y aquí es un contrato de servicios.",
+   "No se exige concurrir con una empresa española o comunitaria."
+  ]
+ },
+ "pr-13-029": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 69, 77 y 78",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: quedan obligadas solidariamente y nombran representante único (art. 69.3).",
+   "Es la incorrecta: no hace falta escritura pública hasta la adjudicación (art. 69.1).",
+   "Es correcta: la empresa italiana, de la UE, está exenta de clasificación (art. 78.1).",
+   "Es correcta: la unión dura al menos lo que el contrato (art. 69.4)."
+  ],
+  "revisar": "Opción 2: depende de que se lea la exención del art. 78.1 para la empresa de la UE."
+ },
+ "pr-13-030": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 70",
+  "correcta": 2,
+  "justificaciones": [
+   "No queda excluida automáticamente: el art. 70.1 prevé medidas para no falsear la competencia, no una prohibición automática.",
+   "Tampoco queda excluida automáticamente: se aplican las medidas del art. 70.1.",
+   "Correcta: los contratos de vigilancia, supervisión y dirección no pueden adjudicarse a la adjudicataria del contrato supervisado (art. 70.2).",
+   "Falso: la adjudicataria del contrato de instalación sí está inhabilitada."
+  ]
+ },
+ "pr-13-031": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 71.1.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la cuota del 2 % y el plan de igualdad se exigen a empresas de 50 o más trabajadores (art. 71.1.d).",
+   "250 trabajadores no es el umbral de ninguna de las dos obligaciones.",
+   "El plan de igualdad no se exige a partir de 250 trabajadores.",
+   "La cuota de reserva no se exige a partir de 250 ni el plan de igualdad se limita a 50 y la cuota a 250."
+  ]
+ },
+ "pr-13-032": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 72.6",
+  "correcta": 2,
+  "justificaciones": [
+   "Cinco años rige solo para la sentencia penal firme que no fije duración; en el resto el máximo es de tres.",
+   "Tres años rige para el resto de supuestos, no para la sentencia penal firme.",
+   "Correcta: máximo de cinco años desde la condena si la sentencia no fija plazo y de tres años en el resto (art. 72.6).",
+   "Están al revés: los cinco años son para la sentencia penal y los tres para el resto."
+  ]
+ },
+ "pr-13-033": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 74 y 75",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: el órgano de contratación fija las condiciones mínimas (art. 74.1).",
+   "Es la incorrecta: la clasificación sustituye a la solvencia solo cuando es exigible por ley, no cuando el órgano lo considere adecuado (art. 74.1).",
+   "Es correcta: la solvencia debe vincularse al objeto y ser proporcional (art. 74.2).",
+   "Es correcta: puede acreditarse con medios externos si se cumplen los requisitos del art. 75."
+  ]
+ },
+ "pr-13-034": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: en obras de 500.000 € o más la clasificación es indispensable.",
+   "Es correcta: por debajo de 500.000 € puede acreditar la solvencia con la clasificación o con requisitos específicos.",
+   "Es correcta: en servicios la clasificación es una vía posible para acreditar solvencia (art. 77.1.b).",
+   "Es la incorrecta: en servicios la clasificación no es exigible, cualquiera que sea el valor (art. 77.1.b)."
+  ]
+ },
+ "pr-13-035": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 80 a 82",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los acuerdos de clasificación de los órganos autonómicos equivalentes tienen eficacia general frente a todos los órganos de contratación (art. 80.1).",
+   "Falso: la inscripción en el Registro es de oficio (art. 81).",
+   "Falso: la vigencia es indefinida mientras se mantengan las condiciones (art. 82.1).",
+   "Falso: la solvencia económica se justifica anualmente y la técnica cada tres años (art. 82.2)."
+  ]
+ },
+ "pr-14-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "Es Administración Pública, y por tanto poder adjudicador: el ministerio está en el art. 3.2.a, no en la categoría de poderes no AAPP.",
+   "El ministerio sí es poder adjudicador, al ser Administración Pública (art. 3.3.a).",
+   "Correcta: la AGE, de la que forma parte el ministerio, es Administración Pública (art. 3.2.a).",
+   "Está incluido en el ámbito de la LCSP (art. 3.1.a)."
+  ]
+ },
+ "pr-14-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 9.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el arrendamiento de bienes inmuebles queda excluido de la LCSP (art. 9.2).",
+   "El arrendamiento de mobiliario es un contrato de suministro (art. 16.1), incluido en la LCSP.",
+   "La explotación de la cafetería con riesgo operacional es una concesión de servicios, incluida en la LCSP.",
+   "Falso: el arrendamiento del inmueble sí está excluido."
+  ]
+ },
+ "pr-14-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No es de servicios: tiene por objeto el arrendamiento de bienes muebles, que la ley incluye en el suministro.",
+   "Correcta: el arrendamiento de bienes muebles es contrato de suministro (art. 16.1).",
+   "No es administrativo especial: encaja en un tipo nominado.",
+   "Lo celebra una Administración Pública, luego es administrativo, no privado (art. 25.1.a)."
+  ]
+ },
+ "pr-14-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.4 y 29.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No excede: 2 años más 3 de prórroga suman 5, que es el máximo del arrendamiento de bienes muebles (art. 29.5).",
+   "La LCSP no exige que la prórroga sea igual o menor que el plazo inicial.",
+   "La opción de compra no es requisito para la duración.",
+   "Correcta: 2 + 3 = 5 años, dentro del límite del art. 29.5."
+  ]
+ },
+ "pr-14-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No es obligatoria para la Administración: ella decide si prorroga.",
+   "No es solo para la Administración: obliga al contratista.",
+   "Correcta: la prórroga se acuerda por el órgano de contratación y es obligatoria para el empresario (art. 29.2).",
+   "Falso: no hace falta el consentimiento del contratista si preavisa a tiempo, y está prohibida la prórroga tácita."
+  ]
+ },
+ "pr-14-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: preaviso de al menos dos meses, salvo que el pliego fije uno mayor (art. 29.2).",
+   "Son dos meses, no tres, salvo que el pliego diga otra cosa.",
+   "Está prohibida la prórroga por consentimiento tácito (art. 29.2).",
+   "Sí hay preaviso, y la prórroga es obligatoria para el contratista sin necesidad de consentimiento expreso."
+  ]
+ },
+ "pr-14-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: es contrato administrativo de una Administración Pública y todas las cuestiones de preparación, adjudicación, efectos y extinción van al orden contencioso (art. 27.1.a).",
+   "No es privado: lo celebra una Administración Pública.",
+   "No hay jurisdicciones separadas: el contencioso conoce de adjudicación y efectos.",
+   "Tampoco: el civil no conoce ni de la adjudicación ni de los efectos."
+  ]
+ },
+ "pr-14-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.1 y 36.3",
+  "correcta": 2,
+  "justificaciones": [
+   "Se perfecciona con la adjudicación, no con la formalización, por ser contrato basado en un acuerdo marco.",
+   "La aprobación del expediente no perfecciona el contrato.",
+   "Correcta: los contratos basados en un acuerdo marco se perfeccionan con su adjudicación (art. 36.3).",
+   "La escritura pública no es necesaria para perfeccionar el contrato."
+  ],
+  "ojo": "Regla general del art. 36.1: se perfeccionan con la formalización. Aquí es excepción porque el contrato está basado en un acuerdo marco."
+ },
+ "pr-14-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 1,
+  "justificaciones": [
+   "La encomienda de gestión no es un contrato, y aquí se contrata a una empresa externa.",
+   "Correcta: la limpieza es un servicio, es decir, una prestación de hacer distinta de la obra y del suministro (art. 17).",
+   "La limpieza no es obra: no construye ni transforma un bien inmueble.",
+   "No es administrativo especial: encaja en el tipo nominado de servicios."
+  ]
+ },
+ "pr-14-010": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 22 y 44.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No está sujeto a regulación armonizada: 120.000 € es inferior al umbral de 140.000 € de la AGE (art. 22.1.a).",
+   "Sí es recurrible: supera 100.000 € (art. 44.1.a).",
+   "Sí es recurrible, aunque no sea armonizado.",
+   "Correcta: no llega a 140.000 € (no armonizado), pero supera los 100.000 € del art. 44.1.a (recurrible)."
+  ],
+  "revisar": "Umbral de 140.000 € vigente en los textos de la plataforma."
+ },
+ "pr-14-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "La clasificación no es exigible, pero la razón no es el valor: en servicios no es exigible nunca.",
+   "Correcta: en servicios no cabe exigir la clasificación, aunque el licitador puede acreditar así su solvencia (art. 77.1.b).",
+   "Sí cabe clasificación como vía de solvencia en servicios; lo que no cabe es exigirla.",
+   "Falso: la clasificación nunca es exigible en servicios, sea cual sea el valor."
+  ]
+ },
+ "pr-14-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 40.b",
+  "correcta": 2,
+  "justificaciones": [
+   "Es causa de nulidad (art. 39.2.a), no de anulabilidad.",
+   "Es causa de nulidad: falta de publicación del anuncio (art. 39.2.c).",
+   "Correcta: dar ventajas a quienes contrataron antes con una Administración es anulabilidad (art. 40.b).",
+   "Es causa de nulidad: carencia de crédito, salvo emergencia (art. 39.2.b)."
+  ]
+ },
+ "pr-14-013": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 30.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No hace falta que no hayan concurrido ofertas: ese es un supuesto del art. 30.1 para obras.",
+   "El 5 % es un criterio del art. 30.1 para obras, no para servicios.",
+   "El 20 % es un criterio de fabricación de bienes muebles (art. 30.2).",
+   "Correcta: los servicios se prestan normalmente por la propia Administración con sus medios (art. 30.3)."
+  ]
+ },
+ "pr-14-014": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15",
+  "correcta": 1,
+  "justificaciones": [
+   "La gestión de servicio público es la figura antigua, hoy sustituida por la concesión de servicios.",
+   "Correcta: gestión de un servicio, contrapartida por el derecho a explotarlo y riesgo operacional asumido (art. 15).",
+   "No es un servicio: el contratista se retribuye de los usuarios y asume el riesgo.",
+   "No hay prestaciones de varios tipos: es una única concesión."
+  ]
+ },
+ "pr-14-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No excede de cinco años: hasta cinco años no necesita justificación, y por encima se admite si se justifica.",
+   "No es correcto el tope de cincuenta años: no existe.",
+   "Cuarenta años es el máximo de concesiones de obras, no se aplica así a esta concesión.",
+   "Correcta: en concesiones de más de cinco años, la duración no puede exceder lo razonable para recuperar la inversión y el rendimiento (art. 29.6)."
+  ],
+  "ojo": "La opción 2 (40 años) es el máximo para concesiones de obras. Se elige la 3 por ajustarse al art. 29.6."
+ },
+ "pr-14-016": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 14.4 y 15",
+  "correcta": 1,
+  "justificaciones": [
+   "Falso: en la concesión la contrapartida es el derecho a explotar el servicio.",
+   "Correcta: el concesionario asume riesgo operacional, de demanda, de suministro o ambos.",
+   "Si se garantiza la recuperación de la inversión no hay transferencia de riesgo operacional.",
+   "Falso: el derecho de explotación basta, con o sin precio añadido."
+  ]
+ },
+ "pr-14-017": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: es la ejecución de una obra de ingeniería civil, es decir, un contrato de obras (art. 13).",
+   "No es de servicios: la ejecución de accesos es obra.",
+   "No es concesión: no hay explotación ni transferencia de riesgo operacional.",
+   "No es administrativo especial: encaja en un tipo nominado."
+  ]
+ },
+ "pr-14-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 78.1",
+  "correcta": 1,
+  "justificaciones": [
+   "El empresario español necesita clasificación, porque el contrato supera 500.000 € (art. 77.1.a).",
+   "Correcta: a los empresarios de la UE o EEE no se les exige clasificación, solo acreditar solvencia (art. 78.1).",
+   "El argentino, de un Estado fuera de la UE y el EEE, sí necesita clasificación.",
+   "Es falso: el empresario alemán está exento de clasificación."
+  ]
+ },
+ "pr-14-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1 y 44.6",
+  "correcta": 3,
+  "justificaciones": [
+   "Aunque sea un acto de trámite, es cualificado, por lo que se puede recurrir.",
+   "El contrato de 800.000 € no llega a 3.000.000 € de obras, así que no cabe el recurso especial.",
+   "Tampoco: el recurso especial no cabe por el valor del contrato.",
+   "Correcta: no cabe recurso especial por el valor del contrato y se aplican los recursos ordinarios de la Ley 39/2015 (art. 44.6)."
+  ],
+  "ojo": "El acto de la mesa sobre admisión se considera cualificado a efectos de recurso (art. 44.2.b), pero aquí no se alcanza el umbral."
+ },
+ "pr-14-020": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 20 y 22",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la concesión de servicios no tiene umbral de 140.000 €.",
+   "No: la concesión de servicios tampoco tiene umbral de 216.000 €.",
+   "Correcta: obras, concesión de obras y concesión de servicios están sujetas a regulación armonizada desde 5.404.000 € (art. 20.1).",
+   "3.000.000 € es el umbral del recurso especial, no de la regulación armonizada."
+  ],
+  "revisar": "Umbrales de regulación armonizada: se actualizan cada dos años."
+ },
+ "pr-15-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 88.1 LCSP",
+  "correctas": [
+   0,
+   1
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. La relación de obras de los cinco últimos años con certificados de buena ejecución es el primer medio del art. 88.1.a.",
+   "Correcta. En los casos adecuados se admite la indicación de las medidas de gestión medioambiental (art. 88.1.d).",
+   "No es correcta. Las muestras, descripciones y fotografías son un medio del suministro (art. 89.1.e), no de las obras.",
+   "No es correcta. Indicar la parte que se subcontrataría no figura en el art. 88.1. Solo aparece entre los medios de los servicios (art. 90.1.i)."
+  ]
+ },
+ "pr-15-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 89.1 LCSP",
+  "correctas": [
+   0,
+   1,
+   2
+  ],
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta. Es el medio del art. 89.1.a: relación de suministros similares de como máximo los tres últimos años.",
+   "Correcta. La indicación del personal técnico o unidades técnicas, integradas o no en la empresa, es el medio del art. 89.1.b.",
+   "Correcta. Las muestras, descripciones y fotografías de los productos son un medio del art. 89.1.e.",
+   "No es correcta. La declaración de plantilla media no figura entre los medios de solvencia técnica del suministro (art. 89.1). Es un medio de las obras y de los servicios."
+  ]
+ },
+ "pr-15-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 90.1 LCSP",
+  "correctas": [
+   1,
+   2
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. El art. 90.1.a limita la relación de servicios a como máximo los tres últimos años, no a cinco.",
+   "Correcta. La indicación de las medidas de gestión medioambiental está en el art. 90.1.f.",
+   "Correcta. La descripción de instalaciones técnicas, medidas de calidad y medios de estudio e investigación es el medio del art. 90.1.c.",
+   "No es correcta. El volumen anual de negocios es un medio de solvencia económica y financiera (art. 87.1.a), no de solvencia técnica."
+  ]
+ },
+ "pr-15-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 90.1 LCSP",
+  "correctas": [
+   1,
+   3
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. El seguro de responsabilidad civil por riesgos profesionales es un medio de solvencia económica y financiera (art. 87.1.b).",
+   "Correcta. Los títulos académicos y profesionales del empresario, de los directivos y del responsable de la ejecución son el medio del art. 90.1.e.",
+   "No es correcta. La declaración de plantilla media del art. 90.1.g se refiere a los tres últimos años, no a cinco.",
+   "Correcta. Indicar la parte del contrato que se tiene el propósito de subcontratar es un medio del art. 90.1.i."
+  ]
+ },
+ "pr-15-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "Art. 87.1 LCSP",
+  "correctas": [
+   1,
+   3
+  ],
+  "correcta": 1,
+  "justificaciones": [
+   "No es correcta. El volumen anual de negocios se refiere al mejor ejercicio de los tres últimos disponibles (art. 87.1.a), no de cinco.",
+   "Correcta. El patrimonio neto al cierre del último ejercicio con cuentas vencidas es el medio del art. 87.1.c.",
+   "No es correcta. La plantilla media anual es un medio de solvencia técnica (art. 88.1.e), no económica.",
+   "Correcta. El seguro de responsabilidad civil por riesgos profesionales por el importe exigido es el medio del art. 87.1.b."
+  ]
+ }
+}

@@ -1,0 +1,288 @@
+{
+ "au-03-004": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 22.1.a de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los contratos de servicios adjudicados por la AGE, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social están sujetos a regulación armonizada a partir de **140.000 euros** de valor estimado (**art. 22.1.a**).",
+   "No. Los 216.000 euros son el umbral de los demás poderes adjudicadores (**art. 22.1.b**), no de la AGE.",
+   "No. Los 5.404.000 euros son el umbral de obras y concesiones (**art. 20**).",
+   "No. 215.000 no es el umbral de ningún artículo vigente. Es un número cercano a 216.000 puesto para confundir."
+  ],
+  "revisar": "Los umbrales se revisan cada dos años. Estas cifras son las vigentes desde el 1 de enero de 2026 (Orden HAC/1517/2025)."
+ },
+ "au-03-005": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 25.1.a, 2.º de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Es un contrato de servicios, pero no administrativo: la ley le da carácter privado.",
+   "Es esta. El **art. 25.1.a, 2.º** dice que los contratos cuyo objeto es la suscripción a revistas, publicaciones periódicas y bases de datos tienen carácter privado, aunque los celebre una Administración Pública.",
+   "No. Un contrato administrativo especial es otra cosa: el de objeto distinto de los típicos pero vinculado al giro o tráfico específico de la Administración (**art. 25.1.b**).",
+   "No. No es de suministros administrativo: la ley le da carácter privado."
+  ]
+ },
+ "au-03-006": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 26.2 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La preparación y adjudicación se rige, en defecto de normas específicas, por las Secciones 1.ª y 2.ª del Capítulo I del Título I del Libro Segundo de la LCSP, es decir, por la ley y no por el derecho privado.",
+   "Es esta. El **art. 26.2** dice que los efectos, la modificación y la extinción de los contratos privados de las Administraciones Públicas se rigen por el derecho privado.",
+   "No. Acierta con la extinción, pero la preparación y la adjudicación no van por el derecho privado: se rigen por la LCSP.",
+   "No. Es falsa. Lo que se rige por la LCSP es la preparación y adjudicación, no los efectos y extinción."
+  ],
+  "ojo": "Truco: antes de firmar, ley pública (preparación y adjudicación). Después de firmar, derecho privado (efectos, modificación y extinción)."
+ },
+ "au-03-007": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 19.1 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El presupuesto base de licitación incluye IVA y sirve para fijar el gasto, no para saber si un contrato es SARA.",
+   "Es esta. El **art. 19.1** dice que están sujetos a regulación armonizada los contratos cuyo valor estimado, calculado conforme al art. 101, sea igual o superior a los umbrales.",
+   "No. El precio es lo que paga la Administración, no el criterio para ser SARA.",
+   "No. El importe de adjudicación se conoce al final. Para saber si un contrato es SARA hay que mirar desde el principio el valor estimado."
+  ]
+ },
+ "au-03-008": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 21.1.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Los 140.000 euros solo valen para la AGE, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social (**art. 21.1.a**).",
+   "Es esta. Las Comunidades Autónomas no son AGE, así que aplican el umbral general de suministros: **216.000 euros** (**art. 21.1.b**).",
+   "No. Los 750.000 euros son el umbral de servicios sociales y otros servicios específicos (**art. 22.1.c**), no de suministros.",
+   "No. Los contratos de suministro de las Comunidades Autónomas pueden ser SARA cuando alcanzan el umbral."
+  ],
+  "revisar": "Los umbrales se revisan cada dos años. Estas cifras son las vigentes desde el 1 de enero de 2026 (Orden HAC/1517/2025)."
+ },
+ "au-03-009": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 25.1.a, 2.º de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es justo la excepción: aunque los celebre una Administración Pública, son privados (**art. 25.1.a, 2.º**).",
+   "No. No son contratos de suministros administrativos: la ley los califica como privados.",
+   "No. El procedimiento negociado sin publicidad es un procedimiento de adjudicación, no un tipo de contrato. La pregunta pide el carácter del contrato.",
+   "Es esta. El **art. 25.1.a, 2.º** les da carácter privado."
+  ]
+ },
+ "au-03-010": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 25.1.a, 1.º de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 25.1.a, 1.º** da carácter privado a los contratos de servicios de creación e interpretación artística y literaria y a los de espectáculos (con unos códigos CPV concretos), aunque los celebre una Administración Pública.",
+   "No. Aunque son contratos de servicios, la ley les da carácter privado, no administrativo.",
+   "No. “Contratos tipo” no es una categoría que atienda a su naturaleza jurídica.",
+   "No. Hay una respuesta correcta, la primera: son contratos privados."
+  ]
+ },
+ "au-03-011": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 27.2.b de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 27.2.b** da al orden civil los efectos y la extinción de los contratos de entidades del sector público que no son poder adjudicador.",
+   "No. La adjudicación de los contratos privados de las Administraciones Públicas va al orden contencioso-administrativo (**art. 27.1.b**).",
+   "No. La preparación y adjudicación de los contratos de entidades que no son poder adjudicador van al contencioso-administrativo (**art. 27.1.d**). Solo los efectos y la extinción van al orden civil.",
+   "No. La preparación de los contratos administrativos es contencioso-administrativa (**art. 27.1.a**)."
+  ],
+  "ojo": "Regla fácil: preparación y adjudicación siempre al contencioso, en los dos tipos de contrato. Efectos y extinción dependen de la clase de contrato."
+ },
+ "au-03-012": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 20.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. 2.548.000 no es ningún umbral vigente.",
+   "No. 3.350.000 tampoco. Es un número intermedio puesto para confundir.",
+   "No. 4.548.000 tampoco. Los umbrales son 5.404.000 en obras y concesiones.",
+   "Es esta. El **art. 20.1** sujeta a regulación armonizada las obras, las concesiones de obras y las concesiones de servicios de valor estimado igual o superior a **5.404.000 euros**."
+  ],
+  "revisar": "Los umbrales se revisan cada dos años. Estas cifras son las vigentes desde el 1 de enero de 2026 (Orden HAC/1517/2025)."
+ },
+ "au-03-013": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 18.1.a de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 18.1.a** dice que cuando un contrato mixto comprende prestaciones de dos o más contratos de obras, suministros o servicios se atiende al carácter de la prestación principal.",
+   "No. La secundaria no decide nada.",
+   "No. El adjudicatario no elige nada: la norma se determina por la prestación principal.",
+   "No. El mayor valor estimado solo decide en dos casos concretos: servicios especiales del anexo IV frente a otros servicios, y servicios frente a suministros (también **art. 18.1.a**). Para el resto, es la prestación principal."
+  ]
+ },
+ "au-03-014": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 21.1 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las Entidades Gestoras y Servicios Comunes de la Seguridad Social tienen el umbral reducido de **140.000 euros** (**art. 21.1.a**), igual que la AGE y sus organismos autónomos.",
+   "No. Las universidades públicas aplican el umbral de **216.000 euros** (**art. 21.1.b**).",
+   "No. Las autoridades administrativas independientes también aplican 216.000 euros (**art. 21.1.b**).",
+   "No. Solo la primera es correcta: las universidades públicas y las autoridades administrativas independientes aplican el umbral de 216.000 euros."
+  ],
+  "ojo": "El umbral de 140.000 es solo para el núcleo de la AGE: la AGE, sus organismos autónomos y las entidades gestoras y servicios comunes de la Seguridad Social.",
+  "revisar": "Los umbrales se revisan cada dos años. Estas cifras son las vigentes desde el 1 de enero de 2026 (Orden HAC/1517/2025)."
+ },
+ "au-03-015": {
+  "bloque": "lcsp-general",
+  "precepto": "Art. 27 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es competencia del contencioso-administrativo (**art. 27.1.a**), así que no es la respuesta.",
+   "Sí es competencia del contencioso-administrativo (**art. 27.1.a**: preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos), así que no es la respuesta.",
+   "Es esta. Los efectos y la extinción de los contratos privados de las Administraciones Públicas no van al contencioso: son competencia del orden **civil** (**art. 27.2.a**).",
+   "Sí es competencia del contencioso-administrativo (**art. 27.1.d**), así que no es la respuesta."
+  ]
+ },
+ "au-04-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.4 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Diez años es el máximo de la concesión de servicios sanitarios (**art. 29.6.c**), no de los suministros.",
+   "No. Cuatro años no es el plazo del art. 29.4.",
+   "Es esta. Los contratos de suministro y de servicios de prestación sucesiva tienen un plazo máximo de **cinco años**, incluidas las prórrogas (**art. 29.4**).",
+   "No. Tres años no es el plazo del art. 29.4."
+  ],
+  "ojo": "Cinco años es el máximo general, pero el propio artículo permite superarlo en casos justificados, por ejemplo para recuperar inversiones."
+ },
+ "au-04-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.5 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los cinco años del **art. 29.5** incluyen las prórrogas, no las excluyen.",
+   "No. El plazo es de cinco años, no seis, y además incluye las prórrogas.",
+   "No. Los cuatro años no son el plazo. Es cinco años, incluyendo prórrogas.",
+   "Es esta. El **art. 29.5** fija cinco años **incluyendo** las prórrogas. La primera opción acierta con los cinco años pero dice “excluyendo”, y las otras dos fallan en años. Así que ninguna es correcta."
+  ],
+  "ojo": "Una palabra: incluyendo. En la primera opción la han cambiado por “excluyendo”."
+ },
+ "au-04-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.8 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Son un año, no seis meses, y no se pueden prorrogar.",
+   "No. Acierta con el año, pero los menores no admiten prórroga.",
+   "No. Se prohíbe la prórroga, pero el límite es un año, no seis meses.",
+   "Es esta. El **art. 29.8** dice que los contratos menores no podrán tener una duración superior a un año ni ser objeto de prórroga."
+  ]
+ },
+ "au-04-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.6.c de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 29.6.c** fija un máximo de diez años, incluidas las prórrogas, para las concesiones de servicios que consistan en prestar servicios sanitarios.",
+   "No. Treinta años no es ninguno de los plazos del art. 29.6.",
+   "No. Cinco años es el plazo de suministros y servicios (**art. 29.4**).",
+   "No. Veinte años no es ninguno de los plazos. El de servicios no sanitarios es veinticinco."
+  ],
+  "ojo": "Tres plazos máximos en concesiones: 40 años (obras o servicios con obras), 25 años (servicios no sanitarios) y 10 años (servicios sanitarios)."
+ },
+ "au-04-005": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.2 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El pliego no puede permitirlo: el **art. 29.2** lo prohíbe de forma absoluta.",
+   "No. No hay ninguna excepción por informe del responsable del contrato.",
+   "Es esta. El **art. 29.2** dice: “en ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes”.",
+   "No. El art. 45 de la LCSP no dice eso. La prohibición de prórroga tácita está en el art. 29.2."
+  ]
+ },
+ "au-04-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.8 de la LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El **art. 29.8** dice que los contratos menores no pueden durar más de un año ni prorrogarse.",
+   "No. Los menores no admiten prórroga, sea cual sea su duración inicial.",
+   "No. El límite es de un año.",
+   "No. Acierta con el año, pero no admiten ninguna prórroga, ni siquiera una."
+  ]
+ },
+ "au-04-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.4 de la LCSP",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Tres años no es el plazo del art. 29.4.",
+   "No. Cuatro años tampoco es el plazo del art. 29.4: el máximo general son cinco.",
+   "Es esta. Los contratos de suministros y servicios de prestación sucesiva tienen un máximo de cinco años, incluidas las prórrogas (**art. 29.4**).",
+   "No. Seis años tampoco: el máximo general son cinco."
+  ],
+  "ojo": "En el art. 29.4 hay excepciones justificadas (recuperación de inversiones, servicios a las personas, mantenimiento por exclusividad). Pero la regla general es cinco años."
+ },
+ "au-04-008": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.6 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El arrendamiento de bienes muebles tiene un límite de cinco años, incluidas las prórrogas (**art. 29.5**).",
+   "No. Los menores duran como máximo un año (**art. 29.8**).",
+   "No. Con carácter general, suministros y servicios de prestación sucesiva duran como máximo cinco años (**art. 29.4**). Pueden superarlos solo en casos excepcionales y justificados, no como regla general.",
+   "Es esta. Las concesiones de servicios y de obras pueden durar mucho más de cinco años, hasta 40, 25 o 10 años según el caso (**art. 29.6**)."
+  ]
+ },
+ "au-04-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.6.a de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Diez años es el máximo de las concesiones de servicios sanitarios.",
+   "Es esta. El **art. 29.6.a** fija **cuarenta años** como máximo, incluidas las prórrogas, para las concesiones de obras y las concesiones de servicios que comprendan la ejecución de obras y la explotación del servicio.",
+   "No. Veinticinco años es el máximo de las concesiones de servicios no sanitarios.",
+   "No. Cincuenta años supera el máximo. Cuarenta es el límite."
+  ]
+ },
+ "au-04-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 29.6.b de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Cuarenta años es para las concesiones de obras (y de servicios que incluyan obras).",
+   "Es esta. El **art. 29.6.b** fija **veinticinco años**, incluidas las prórrogas, para las concesiones de servicios que explotan un servicio no relacionado con la sanidad.",
+   "No. Diez años es para las concesiones de servicios sanitarios.",
+   "No. Cinco años es el límite de suministros y servicios (**art. 29.4**), no de las concesiones."
+  ]
+ },
+ "au-05-001": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 36.4 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El perfil del contratante es donde se publica la información del contrato, no el lugar donde se celebra.",
+   "Es esta. El **art. 36.4** dice que, salvo que el clausulado indique otra cosa, los contratos del sector público se entienden celebrados en el lugar donde esté la sede del órgano de contratación.",
+   "No. “En todo caso” es falso: el clausulado puede fijar otro lugar.",
+   "No. La sede del contratista no decide el lugar de celebración."
+  ]
+ },
+ "au-05-002": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 37.1 de la LCSP",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es al revés: la contratación verbal está prohibida como regla general.",
+   "No. “En todos los supuestos” es falso: hay una excepción.",
+   "No. No tiene que ver con el tipo de contrato.",
+   "Es esta. El **art. 37.1** prohíbe contratar verbalmente salvo que el contrato tenga carácter de emergencia, conforme al art. 120.1."
+  ]
+ },
+ "au-05-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "Art. 44.7 de la LCSP",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ni siquiera en los contratos SARA es preceptivo. Que un contrato sea SARA no es lo que decide el recurso especial: lo decide el art. 44.1, por cuantías y tipos de contrato.",
+   "Es esta. El **art. 44.7** dice que la interposición del recurso especial tiene carácter **potestativo** y es gratuita. Nunca es obligatorio como paso previo al contencioso.",
+   "No. Es potestativo también contra la adjudicación. Además, el art. 44.2 permite recurrir otros actos, como pliegos y actos de trámite cualificados.",
+   "No. La cuantía del art. 44.1 decide qué contratos admiten el recurso, no si es obligatorio."
+  ]
+ }
+}

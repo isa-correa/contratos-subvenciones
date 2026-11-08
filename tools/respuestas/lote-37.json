@@ -1,0 +1,559 @@
+{
+ "pr-27-006": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 20.1, 21.1.a y 22.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: las obras de una comunidad autónoma son armonizadas desde 5.404.000 euros (art. 20.1), no desde 140.000.",
+   "No: un ayuntamiento no es la AGE, así que sus servicios son armonizados desde 216.000 euros (art. 22.1.b).",
+   "Correcta: las entidades gestoras de la Seguridad Social tienen el umbral reducido de 140.000 euros en suministros (art. 21.1.a).",
+   "No: una universidad pública no es la AGE ni uno de sus organismos autónomos, y le corresponde el umbral de 216.000 euros."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-27-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los suministros y servicios con valor estimado superior a 100.000 euros admiten recurso especial (art. 44.1.a).",
+   "143.000 euros no es el umbral del recurso especial.",
+   "140.000 euros es el umbral de regulación armonizada de la AGE, no el del recurso especial.",
+   "216.000 euros es el umbral de regulación armonizada para el resto de entidades, no el del recurso especial."
+  ]
+ },
+ "pr-27-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a.1.º",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los servicios de creación e interpretación artística y literaria son privados aunque los celebre una Administración Pública (art. 25.1.a.1.º).",
+   "No: la concesión de servicios es un contrato administrativo cuando la celebra una Administración Pública (art. 25.1.a).",
+   "No: la entrega de bienes o derechos no es un tipo de contrato que la LCSP califique así, y el suministro de una Administración es administrativo.",
+   "No: la compraventa de programas de ordenador queda fuera de la LCSP como negocio patrimonial (art. 9), y el contrato a medida es un suministro administrativo."
+  ]
+ },
+ "pr-27-009": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 35.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el documento de formalización no puede incluir estipulaciones que establezcan derechos y obligaciones distintos de los de los pliegos (art. 35.1).",
+   "Sí debe incluirla: la acreditación de la capacidad de los firmantes es contenido obligatorio (art. 35.1.a).",
+   "Sí debe incluirla: la identificación de las partes es contenido obligatorio (art. 35.1.a).",
+   "Sí puede y debe incluir las condiciones de pago cuando constan en los pliegos."
+  ]
+ },
+ "pr-27-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 14.4",
+  "correcta": 2,
+  "justificaciones": [
+   "Es incompleta: el riesgo operacional abarca la demanda o el suministro, o ambos (art. 14.4).",
+   "Es incompleta: el riesgo operacional no se limita al riesgo de suministro.",
+   "Correcta: el riesgo operacional es el de demanda o el de suministro, o ambos (art. 14.4).",
+   "No: sin transferencia de riesgo operacional no hay concesión."
+  ]
+ },
+ "pr-27-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: adquirir o arrendar equipos de telecomunicaciones o de tratamiento de la información no es una obra.",
+   "Correcta: la adquisición y el arrendamiento de estos equipos, dispositivos y programas son contratos de suministro (art. 16.1).",
+   "No: el contrato de servicios tiene por objeto prestaciones de hacer, no adquirir equipos.",
+   "No: el contrato mixto combina prestaciones de distintos tipos, y aquí solo hay suministro."
+  ]
+ },
+ "pr-27-012": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 71.1.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la prohibición exige condena firme por los delitos que enumera el art. 71.1.a, no por cualquier delito.",
+   "No: el requisito del 2 % de trabajadores con discapacidad se exige a empresas de 50 o más trabajadores (art. 71.1.d), no de 25.",
+   "Correcta: haber solicitado la declaración de concurso voluntario es una prohibición de contratar (art. 71.1.c).",
+   "No: la prohibición se refiere al adjudicatario que no formaliza por causa que le sea imputable, no al órgano de contratación."
+  ],
+  "revisar": "La prohibición de la letra c) tiene excepciones, por ejemplo si el concurso ha adquirido eficacia un convenio."
+ },
+ "pr-27-013": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el recurso especial no es obligatorio aunque el contrato sea de regulación armonizada.",
+   "No: ser susceptible de recurso especial no lo convierte en requisito previo.",
+   "No: la adjudicación se puede impugnar directamente ante la jurisdicción sin pasar antes por el recurso especial.",
+   "Correcta: la interposición del recurso especial es potestativa y gratuita, nunca preceptiva (art. 44.7)."
+  ]
+ },
+ "pr-27-014": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6",
+  "correcta": 2,
+  "justificaciones": [
+   "Veinticinco años es el máximo de la concesión de servicios que no comprenda obra ni sea sanitaria.",
+   "Cuarenta años es el máximo de las concesiones de obras y de las de servicios que incluyan obra y explotación.",
+   "Correcta: las concesiones de servicios cuyo objeto son servicios sanitarios no pueden pasar de diez años, prórrogas incluidas (art. 29.6).",
+   "No hay ninguna concesión de la LCSP con sesenta años de plazo máximo."
+  ],
+  "revisar": "Los plazos de 40, 25 y 10 años salen de los apuntes de la academia y no figuran en el texto de la ley que he consultado. Compruébalos."
+ },
+ "pr-27-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 40.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la nulidad de derecho administrativo (art. 39) es un listado cerrado y no incluye este supuesto.",
+   "Correcta: los encargos que incumplen los requisitos del medio propio son anulables por derecho administrativo (art. 40.c).",
+   "No: la LCSP no regula la invalidez civil de los encargos, que no son contratos privados.",
+   "No: la nulidad civil no se aplica a los encargos de los poderes adjudicadores."
+  ]
+ },
+ "pr-27-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 86.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la Mesa de contratación valora, pero no fija los documentos de acreditación.",
+   "Correcta: el órgano de contratación determina los documentos, de entre los de los arts. 87 a 91 (art. 86.1).",
+   "No: las comisiones clasificadoras se ocupan de la clasificación, no de cada contrato.",
+   "No: la mesa especial de clasificación no existe en la LCSP en este sentido."
+  ]
+ },
+ "pr-27-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 113.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí la tiene: la Administración tiene preferencia sobre cualquier otro acreedor.",
+   "Es incompleta: la preferencia no se limita a las provisionales.",
+   "Es incompleta: la preferencia no se limita a las definitivas.",
+   "Correcta: para hacer efectivas las garantías, provisionales y definitivas, la Administración tiene preferencia sobre cualquier otro acreedor (art. 113.1)."
+  ]
+ },
+ "pr-27-018": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los contratos basados en un acuerdo marco y los específicos de un sistema dinámico se perfeccionan con la adjudicación (art. 36.3).",
+   "No: los contratos ordinarios se perfeccionan con la formalización, pero los basados en acuerdo marco no.",
+   "La publicación no perfecciona el contrato.",
+   "La firma del documento es la formalización, que no es el momento de perfección de estos contratos."
+  ]
+ },
+ "pr-27-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100.1",
+  "correcta": 2,
+  "justificaciones": [
+   "El precio de licitación no es el término que define el art. 100.1.",
+   "No: el valor estimado se calcula sin IVA y no es el límite de gasto.",
+   "Correcta: el presupuesto base de licitación es el límite máximo de gasto, IVA incluido (art. 100.1).",
+   "No: el importe de adjudicación es el que resulta tras la licitación, no el límite."
+  ]
+ },
+ "pr-27-020": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: con precios unitarios se atiende al presupuesto base de licitación, no al valor estimado.",
+   "No: con precios unitarios no se atiende al valor estimado.",
+   "No: el IVA no se incluye en la base de la garantía.",
+   "Correcta: con precios unitarios, la garantía se fija sobre el presupuesto base de licitación, IVA excluido (art. 107.3)."
+  ]
+ },
+ "pr-27-021": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 84.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el seguro de responsabilidad civil acredita la solvencia económica, no la capacidad de obrar.",
+   "Correcta: la capacidad de obrar de las personas jurídicas españolas se acredita con la escritura o documento de constitución inscrito en el registro que corresponda (art. 84.1).",
+   "No: la clasificación acredita solvencia, no capacidad de obrar.",
+   "No: los títulos académicos y profesionales acreditan solvencia técnica."
+  ]
+ },
+ "pr-27-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la complementaria no es de un 5 % fijo, sino de hasta un 5 %.",
+   "No: la complementaria no puede llegar al 10 %.",
+   "No: el tope de la complementaria es del 5 %, no del 10 %.",
+   "Correcta: en casos especiales se puede exigir una complementaria de hasta un 5 % del precio final ofertado, IVA excluido (art. 107.2)."
+  ]
+ },
+ "pr-27-023": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el valor estimado del contrato de obras no determina la exención del preaviso.",
+   "Correcta: los contratos de duración inferior a dos meses quedan exentos del preaviso de dos meses (art. 29.2).",
+   "No: una prórroga previa no elimina el preaviso.",
+   "No: la prórroga prevista en el pliego sigue exigiendo preaviso de al menos dos meses."
+  ]
+ },
+ "pr-27-024": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en obras el umbral del recurso especial es superior a tres millones de euros.",
+   "No: en suministros y servicios el umbral es superior a 100.000 euros, no 150.000.",
+   "Correcta: las concesiones de obras o servicios con valor estimado superior a tres millones de euros admiten recurso especial (art. 44.1.c).",
+   "No: los encargos se equiparan a los contratos de servicios (100.000 euros), no a los de obras."
+  ]
+ },
+ "pr-27-025": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: en la asociación para la innovación sí hay pliegos.",
+   "Correcta: en los contratos basados en un acuerdo marco con nueva licitación, los pliegos se sustituyen por el documento de licitación (arts. 116.3 y 221.5).",
+   "No: en el diálogo competitivo los pliegos se sustituyen por el documento descriptivo (art. 174.1), no por el de licitación.",
+   "No: el encargo a medios propios se rige por el art. 32 y no tiene ese documento."
+  ]
+ },
+ "pr-27-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.4.f",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la insuficiencia de medios no se justifica en las obras.",
+   "Correcta: en los contratos de servicios debe incluirse el informe de insuficiencia de medios (art. 116.4.f).",
+   "No: no se exige en el suministro.",
+   "No: solo es necesario en los contratos de servicios, no en todos los típicos."
+  ]
+ },
+ "pr-27-027": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si suscribe individualmente una proposición y otra en UTE, no se admite ninguna (art. 139.3).",
+   "No: la ley no prevé subsanación para elegir.",
+   "No: no se admite la individual si también firma otra en UTE.",
+   "No: el orden de presentación no lo salva."
+  ]
+ },
+ "pr-27-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: en obras el contrato menor es el de valor estimado inferior a 40.000 euros, no igual o inferior.",
+   "No: en servicios es inferior a 15.000 euros, no igual o inferior.",
+   "No: la dirección facultativa es un servicio y su límite es de 15.000 euros, no de 40.000.",
+   "Correcta: son menores los suministros de valor estimado inferior a 15.000 euros (art. 118.1)."
+  ]
+ },
+ "pr-27-029": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.1.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo se cuenta desde el acuerdo de emergencia, no desde la formalización.",
+   "Correcta: la ejecución debe empezar como máximo un mes después del acuerdo que declara la emergencia (art. 120.1.c).",
+   "No: el plazo es de un mes, no de treinta días, y la ley no lo cuenta así.",
+   "No: ni son treinta días ni se cuentan desde la formalización."
+  ]
+ },
+ "pr-27-030": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los pliegos de cláusulas administrativas particulares se aprueban antes de la autorización del gasto o junto con ella, y siempre antes de la licitación (art. 122.1).",
+   "No: aprobarlos después de autorizar el gasto contradice el art. 122.1.",
+   "No: se aprueban antes de la licitación, no junto con ella.",
+   "No: pueden aprobarse conjuntamente con la autorización del gasto, no solo antes."
+  ]
+ },
+ "pr-28-001": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 13 y 25.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: construir una estación es una obra, no un servicio.",
+   "No: no se traslada al contratista el riesgo operacional de explotación, así que no es concesión.",
+   "Correcta: la construcción de la estación es un contrato de obras que celebra una Administración Pública, y es administrativo (arts. 13 y 25.1.a).",
+   "No: ni es concesión ni es privado, porque lo celebra un Ministerio."
+  ]
+ },
+ "pr-28-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 20.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el umbral de las obras es 5.404.000 euros, no 140.000, y se mide por el valor estimado.",
+   "No: 3.000.000 de euros es el umbral del recurso especial, no el de regulación armonizada.",
+   "No: el umbral se mide por el valor estimado y no por el presupuesto base de licitación.",
+   "Correcta: no es armonizado porque su valor estimado (3.300.000 euros) es inferior a 5.404.000 (art. 20.1)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-28-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 100.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 2.700.000 euros es el precio de adjudicación sin IVA.",
+   "No: 3.000.000 euros es el presupuesto sin IVA.",
+   "No: 3.300.000 euros es el valor estimado, no el presupuesto base de licitación.",
+   "Correcta: el presupuesto base de licitación incluye el IVA: 3.000.000 euros más el 21 % son 3.630.000 euros (art. 100.1)."
+  ]
+ },
+ "pr-28-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el valor estimado se calcula sin IVA.",
+   "Correcta: el valor estimado suma al presupuesto las modificaciones previstas, aquí 300.000 euros sin IVA (art. 101).",
+   "No: la garantía no forma parte del valor estimado.",
+   "No: el valor estimado puede ser mayor que el presupuesto base de licitación sin IVA, y no hay error."
+  ]
+ },
+ "pr-28-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la tramitación urgente responde a una necesidad inaplazable o a la necesidad de acelerar la adjudicación por interés público (art. 119.1).",
+   "No: el acontecimiento catastrófico es presupuesto de la emergencia (art. 120).",
+   "No: el grave peligro es presupuesto de la emergencia.",
+   "No: la defensa nacional es presupuesto de la emergencia."
+  ]
+ },
+ "pr-28-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el plazo de cinco días puede prorrogarse hasta diez si hay causa justificada.",
+   "No: en la tramitación urgente el plazo base es de cinco días, no de diez.",
+   "Correcta: los órganos disponen de cinco días, prorrogables hasta diez por causa justificada (art. 119.2.a).",
+   "No: diez días prorrogables a quince es el plazo ordinario, no el de la urgencia."
+  ]
+ },
+ "pr-28-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el máximo es el 3 % del presupuesto base de licitación sin IVA: 90.000 euros (art. 106.2).",
+   "No: 99.000 euros sería el 3 % de 3.300.000, que es el valor estimado.",
+   "No: 108.900 euros sería el 3 % del presupuesto con IVA.",
+   "No: 150.000 euros no corresponde al límite legal."
+  ]
+ },
+ "pr-28-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: puede prestarse también mediante aval o seguro de caución, no solo en efectivo o valores (art. 106.2).",
+   "No: se devuelve después de la perfección del contrato, no inmediatamente después de adjudicar (art. 106.4).",
+   "Correcta: el adjudicatario puede aplicar la garantía provisional a la definitiva o constituir una nueva (art. 106.4).",
+   "No es la afirmación que mejor recoge la ley: la provisional responde del mantenimiento de las ofertas (art. 106.1)."
+  ],
+  "ojo": "La opción 3 es discutible: la penalidad del 3 % por no formalizar se hace efectiva primero contra la garantía provisional (art. 153.4). Por eso la opción 2, literal del art. 106.4, es la mejor."
+ },
+ "pr-28-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 121 y 122",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: se aprueban antes o junto a la autorización del gasto, y siempre antes de licitar (art. 122.1).",
+   "Es correcta: las cláusulas se consideran parte integrante del contrato (art. 122.4).",
+   "Es correcta: los aprueba el órgano de contratación.",
+   "Se marca como incorrecta porque ningún precepto de la LCSP lo dice con esas palabras. El art. 121 solo regula quién aprueba los pliegos generales."
+  ],
+  "revisar": "No he encontrado en la LCSP la frase de la opción 3. Las otras tres sí tienen apoyo, y aquí se elige por descarte. Confirma con la academia."
+ },
+ "pr-28-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 135.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la AGE publica además en el BOE y, al no ser armonizado, no hace falta el DOUE (art. 135.1).",
+   "No: el DOUE solo es obligatorio en los contratos de regulación armonizada.",
+   "No: no se exige el DOUE porque el contrato no es armonizado.",
+   "No: los contratos de la AGE exigen además la publicación en el BOE."
+  ],
+  "ojo": "Esta respuesta aplica a la AGE y sus entidades que son Administración Pública. Una comunidad autónoma o un ayuntamiento no armonizados publican solo en el perfil."
+ },
+ "pr-28-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 139.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: la presentación supone aceptar sin reservas las cláusulas (art. 139.1).",
+   "Es la incorrecta: las proposiciones son secretas solo hasta su apertura, no durante todo el proceso de valoración (art. 139.2).",
+   "Es correcta: si presenta más de una, se inadmiten todas (art. 139.3).",
+   "Es correcta: el IVA se indica como partida independiente (art. 102.4)."
+  ]
+ },
+ "pr-28-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 140.1.d",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en el procedimiento abierto se presenta una declaración responsable, y los documentos se piden después al propuesto (art. 140.1).",
+   "No: los criterios de desempate se acreditan cuando se produce el empate (art. 147.1).",
+   "Correcta: si el pliego exige garantía provisional, se aporta el documento que acredita haberla constituido (art. 140.1.d).",
+   "No: la garantía definitiva la presenta solo quien resulte propuesto adjudicatario (art. 150.2)."
+  ]
+ },
+ "pr-28-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 77 y 79",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: no se exige clasificación a las empresas no españolas de la UE o del EEE, y Noruega es del EEE, solo hay que acreditar la solvencia.",
+   "No: el valor estimado supera 500.000 euros y la clasificación sí sería exigible a una empresa española.",
+   "No: la exención incluye a los Estados signatarios del Acuerdo sobre el Espacio Económico Europeo, no solo a los de la UE.",
+   "No: la exención se aplica precisamente a los empresarios no españoles."
+  ]
+ },
+ "pr-28-014": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1 y 44.2.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la inadmisión es un acto de trámite cualificado y es recurrible (art. 44.2.b).",
+   "No: el recurso no exige que el contrato sea armonizado.",
+   "No: el umbral del recurso en obras es un valor estimado superior a tres millones, y aquí es de 3.300.000.",
+   "Correcta: es una obra de más de tres millones y la admisión o exclusión de licitadores es recurrible (art. 44)."
+  ]
+ },
+ "pr-28-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 49 y 53",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la suspensión automática solo opera contra la adjudicación (art. 53).",
+   "No: no basta con pedirla en el escrito, hay que pedir la medida cautelar.",
+   "Correcta: el recurso contra la inadmisión no suspende, pero se puede pedir la suspensión como medida cautelar (art. 49).",
+   "No: sí puede solicitar medidas cautelares, y la adjudicación sí se suspende cuando es lo recurrido."
+  ]
+ },
+ "pr-28-016": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 57.5",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo es de dos meses, no de tres.",
+   "Correcta: pasados dos meses desde la interposición sin resolución, el recurso se puede entender desestimado (art. 57.5).",
+   "No: no es de un mes, aunque el órgano debe resolver en cinco días hábiles tras las alegaciones (art. 57.1).",
+   "No: el silencio es desestimatorio, no estimatorio."
+  ]
+ },
+ "pr-28-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 80.1 y 82.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: las clasificaciones autonómicas tienen eficacia general (art. 80.1).",
+   "No: no hace falta una clasificación de la Junta Consultiva.",
+   "No: la clasificación no caduca a los cinco años (art. 82.1).",
+   "Correcta: la clasificación tiene vigencia indefinida mientras se mantengan las condiciones y eficacia general ante todos los órganos de contratación (arts. 80.1 y 82.1)."
+  ]
+ },
+ "pr-28-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 87 y 88",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí podía: la relación de obras de los cinco últimos años es un medio de solvencia técnica en obras (art. 88.1.a).",
+   "Correcta: el seguro de responsabilidad civil es un medio de solvencia económica y financiera (art. 87.1.b), no técnica.",
+   "Sí podía: la declaración de plantilla media es un medio técnico en obras (art. 88.1.e).",
+   "Sí podía: los títulos académicos y profesionales son un medio técnico (art. 88.1.c)."
+  ]
+ },
+ "pr-28-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 145.5 y 146.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si no es posible ponderar los criterios, se enumeran por orden decreciente de importancia (art. 145.5).",
+   "No: el comité de expertos solo interviene si los criterios de juicio de valor pesan más que los de fórmulas (art. 146.2.a).",
+   "No: los criterios de fórmulas se valoran después de los de juicio de valor (art. 146.2).",
+   "No: la ley da preponderancia a los criterios evaluables mediante fórmulas (art. 146.2)."
+  ]
+ },
+ "pr-28-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los criterios evaluables mediante fórmulas pueden ser económicos o cualitativos (art. 145.2).",
+   "No: no tienen por qué ser cualitativos.",
+   "No: no tienen por qué ser económicos.",
+   "No: pueden tener ambos caracteres."
+  ]
+ },
+ "pr-28-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: si solo hay un criterio, debe estar relacionado con los costes (art. 146.1).",
+   "No: no basta con que sea cualitativo y evaluable con fórmulas.",
+   "Correcta: el criterio único debe estar relacionado con los costes, ya sea el precio o el coste del ciclo de vida (art. 146.1).",
+   "No: no es necesariamente el precio, también puede ser el coste del ciclo de vida."
+  ]
+ },
+ "pr-28-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 90.000 euros es el 3 % del presupuesto con garantía provisional, no el 5 % de la adjudicación.",
+   "Correcta: la garantía definitiva es el 5 % del precio final ofertado sin IVA: 2.700.000 por 5 % son 135.000 euros (art. 107.1).",
+   "No: 150.000 euros sería el 5 % del presupuesto base de licitación sin IVA, que solo se usa con precios unitarios.",
+   "No: 165.000 euros no sale de aplicar el 5 % a ninguna base."
+  ]
+ },
+ "pr-28-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 107.1 y 109.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la garantía no se extingue con la recepción, sino al terminar el plazo de garantía y devolverse (art. 111).",
+   "Correcta: si se ejecutan penalidades, el contratista debe reponerla o ampliarla en quince días desde la ejecución (art. 109.2).",
+   "No: la exención se prevé en el suministro de bienes consumibles, no en obras (art. 107.1).",
+   "No: la responsabilidad del contratista no se limita al importe de la garantía."
+  ]
+ },
+ "pr-28-024": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 103.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la revisión de precios sí es admisible en los contratos de obras.",
+   "No: el periodo de recuperación de cinco años es la condición para revisar los costes de mano de obra en contratos que no son de obras.",
+   "No: la fórmula de revisión se fija en el pliego y no se modifica durante la ejecución.",
+   "Correcta: el primer 20 % ejecutado y lo ejecutado en el primer año desde la formalización no son revisables (art. 103.5)."
+  ]
+ },
+ "pr-28-025": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.2.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el contrato es de tramitación urgente y la ejecución no puede empezar más tarde de un mes desde la formalización, esto es el 21 de octubre de 2026 (art. 119.2.c).",
+   "No: el 21 de noviembre sería dos meses después, y el plazo es de un mes.",
+   "No: el 21 de diciembre sería tres meses después de la formalización.",
+   "No: el 21 de marzo de 2027 no corresponde a ningún plazo legal aquí."
+  ]
+ }
+}

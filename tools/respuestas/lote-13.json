@@ -1,0 +1,558 @@
+{
+ "au-22-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 267.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Las tarifas son máximas, no mínimas, y el concesionario no puede cobrar más (**art. 267.2**).",
+   "No. Las tarifas son máximas, no mínimas (**art. 267.2**).",
+   "Es esta. Las tarifas tienen carácter de máximas y el concesionario puede aplicar otras inferiores si quiere (**art. 267.2**).",
+   "No. Son máximas, pero no se pueden superar, solo rebajar (**art. 267.2**)."
+  ]
+ },
+ "au-22-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 279",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Sí es causa de resolución la ejecución hipotecaria declarada desierta (**art. 279.a**).",
+   "Es esta. La demora del órgano de contratación en la entrega de la contraprestación resuelve el contrato solo si supera los seis meses, no tres (**art. 279.b**).",
+   "No. Sí es causa de resolución el rescate de la explotación por el órgano de contratación (**art. 279.c**).",
+   "No. Sí es causa de resolución la supresión de la explotación por razones de interés público (**art. 279.d**)."
+  ]
+ },
+ "au-22-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 283.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El destino no se negocia: la ley impone la entrega (**art. 283.1**).",
+   "No. La demolición solo procede si los pliegos la prevén (**art. 283.2**).",
+   "No. Los bienes que vayan a revertir a la Administración no pueden ser embargados (**art. 283.3**).",
+   "Es esta. El concesionario está obligado a entregar las obras a la Administración concedente, en buen estado de conservación y uso (**art. 283.1**)."
+  ]
+ },
+ "au-22-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 284.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Pueden gestionarse indirectamente los servicios de su titularidad o competencia que sean susceptibles de explotación económica por particulares (**art. 284.1**).",
+   "No. La Administración solo puede concesionar servicios de su titularidad o competencia (**art. 284.1**).",
+   "No. Los servicios que implican ejercicio de autoridad no pueden concesionarse (**art. 284.1**).",
+   "No. Para concesionar un servicio es necesario que sea susceptible de explotación económica, no lo contrario (**art. 284.1**)."
+  ]
+ },
+ "au-22-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 284.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En ningún caso pueden prestarse mediante concesión de servicios (**art. 284.1**).",
+   "No. No hay excepciones (**art. 284.1**).",
+   "No. Ni siquiera con carácter general: la prohibición es absoluta (**art. 284.1**).",
+   "No. Es lo contrario: no pueden gestionarse indirectamente (**art. 284.1**)."
+  ]
+ },
+ "au-22-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 285.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Si concluye que el proyecto es viable no vincula (**art. 285.2**).",
+   "Es esta. El estudio de viabilidad es vinculante cuando concluye que el proyecto es inviable (**art. 285.2**).",
+   "No. Solo vincula en un supuesto, la inviabilidad (**art. 285.2**).",
+   "No. Sí tiene carácter vinculante, en el caso de la inviabilidad (**art. 285.2**)."
+  ]
+ },
+ "au-22-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 289.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No se percibe solo de la Administración (**art. 289.1**).",
+   "No. Tampoco solo de los usuarios (**art. 289.1**).",
+   "Es esta. La retribución se percibe directamente de los usuarios o de la propia Administración (**art. 289.1**).",
+   "No. El canon lo paga el concesionario a la Administración, no al revés (**art. 289.3**)."
+  ]
+ },
+ "au-22-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 294",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El rescate es causa de resolución cuando la Administración asume el servicio por gestión directa, no indirecta (**art. 294.c**).",
+   "No. Sí es causa de resolución la ejecución hipotecaria declarada desierta (**art. 294.a**).",
+   "No. Sí es causa de resolución la imposibilidad de explotar por acuerdos posteriores de la Administración (**art. 294.e**).",
+   "No. Sí es causa de resolución la demora superior a seis meses en la entrega de la contraprestación (**art. 294.b**)."
+  ],
+  "ojo": "El rescate del art. 294.c es “para su gestión directa”. La opción cambia a “indirecta” y por eso falla. Las otras tres son causas de resolución tal como están escritas."
+ },
+ "au-22-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 294.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un mes es poco: la ley exige más de seis (**art. 294.b**).",
+   "No. Dos meses tampoco (**art. 294.b**).",
+   "No. Tres meses no basta (**art. 294.b**).",
+   "Es esta. La demora de la Administración debe superar los seis meses (**art. 294.b**)."
+  ]
+ },
+ "au-23-001": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 298",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En el arrendamiento el arrendador o empresario asume el mantenimiento durante la vigencia del contrato (**art. 298**).",
+   "No. El arrendatario es la Administración y no asume el mantenimiento (**art. 298**).",
+   "No. La Administración solo paga, en su caso, un canon de mantenimiento por separado (**art. 298**).",
+   "No. El órgano de contratación no asume el mantenimiento (**art. 298**)."
+  ]
+ },
+ "au-23-002": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 300.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El lugar y el tiempo los fija el contrato, no el acto de adjudicación (**art. 300.1**).",
+   "No. Las prescripciones técnicas son correctas, pero el lugar y el tiempo se fijan en el contrato (**art. 300.1**).",
+   "No. Los principios de contratación no son los parámetros de la entrega (**art. 300.1**).",
+   "Es esta. Entrega en el tiempo y lugar fijados en el contrato, conforme a las prescripciones técnicas y cláusulas administrativas (**art. 300.1**)."
+  ]
+ },
+ "au-23-003": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 300.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La regla vale para cualquier tipo de suministro, también el de bienes perecederos (**art. 300.2**).",
+   "No. Si la Administración incurrió en mora al recibirlos, sí hay indemnización (**art. 300.2**).",
+   "No. La regla no depende de que los bienes sean arrendados (**art. 300.2**).",
+   "Es esta. Cualquier suministro, salvo que la Administración hubiera incurrido en mora al recibirlos (**art. 300.2**)."
+  ]
+ },
+ "au-23-004": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 300.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Si la recepción formal es posterior a la entrega, la Administración responde de la custodia entre una y otra (**art. 300.3**).",
+   "No. El suministrador ya ha entregado y no es el responsable de la custodia en ese tramo (**art. 300.3**).",
+   "No. El contratista es el mismo que el suministrador y no custodia en ese tramo (**art. 300.3**).",
+   "No. El arrendador es figura del contrato de arrendamiento y no del tramo entre entrega y recepción (**art. 300.3**)."
+  ]
+ },
+ "au-23-005": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 300.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Tras la recepción de conformidad pasa a ser de la Administración (**art. 300.4**).",
+   "No. Cabe exigir responsabilidad al suministrador por vicios o defectos ocultos (**art. 300.4**).",
+   "Es esta. La Administración responde de su gestión, uso o caducidad, sin perjuicio de la responsabilidad del suministrador por vicios ocultos (**art. 300.4**).",
+   "No. Es al revés: la responsable de la gestión es la Administración (**art. 300.4**)."
+  ]
+ },
+ "au-23-006": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 304.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Son por cuenta del contratista, salvo pacto en contrario (**art. 304.1**).",
+   "No. “En todo caso” es falso: se admite pacto en contrario (**art. 304.1**).",
+   "Es esta. Salvo pacto en contrario, los gastos de entrega y transporte son de cuenta del contratista (**art. 304.1**).",
+   "No. No son de la Administración, y menos “en todo caso” (**art. 304.1**)."
+  ]
+ },
+ "au-23-007": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 306.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo es de cuatro meses, no de dos (**art. 306.a**).",
+   "Es esta. Más de cuatro meses desde la fecha señalada para la entrega, salvo que el pliego señale otro menor (**art. 306.a**).",
+   "No. Ni son dos meses ni el pliego puede fijar uno mayor (**art. 306.a**).",
+   "No. Los cuatro meses son correctos, pero el pliego solo puede señalar un plazo menor, no mayor (**art. 306.a**)."
+  ]
+ },
+ "au-23-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 306.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Dos meses no es el plazo del art. 306.b.",
+   "No. Cuatro meses es el plazo antes de iniciar el suministro (**art. 306.a**).",
+   "No. Seis meses no es el plazo legal (**art. 306.b**).",
+   "Es esta. Más de ocho meses acordada por la Administración, salvo que el pliego señale otro menor (**art. 306.b**)."
+  ]
+ },
+ "au-23-009": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El 3 % es correcto, pero se calcula sin IVA (**art. 307.2**).",
+   "Es esta. Indemnización del 3 % del precio de adjudicación, IVA excluido (**art. 307.2**).",
+   "No. El porcentaje es del 3 %, no del 6 %, y sin IVA (**art. 307.2**).",
+   "No. El 6 % es el beneficio industrial de la letra b, no esta indemnización (**art. 307.3**)."
+  ]
+ },
+ "au-23-010": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El 3 % es correcto, pero no incluye el IVA (**art. 307.2**).",
+   "No. Ni el 6 % ni el IVA incluido (**art. 307.2**).",
+   "Es esta. 3 % del precio de adjudicación, IVA excluido (**art. 307.2**).",
+   "No. El 6 % corresponde al desistimiento con el suministro ya iniciado (**art. 307.3**)."
+  ]
+ },
+ "au-23-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Ni el 3 % ni el IVA incluido (**art. 307.3**).",
+   "No. El 6 % es correcto, pero se calcula sin IVA (**art. 307.3**).",
+   "No. El 3 % es el del desistimiento antes de empezar (**art. 307.2**).",
+   "Es esta. 6 % del precio de los suministros dejados de realizar, IVA excluido, como beneficio industrial (**art. 307.3**)."
+  ]
+ },
+ "au-23-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No hay excepción por fuerza mayor (**art. 308.2**).",
+   "No. No hay excepción por emergencia (**art. 308.2**).",
+   "No. La ley dice lo contrario: tampoco los contratos menores (**art. 308.2**).",
+   "Es esta. La prohibición alcanza también a los contratos de servicios menores por razón de la cuantía (**art. 308.2**)."
+  ]
+ },
+ "au-23-013": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.2",
+  "correcta": 2,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. No pueden contratarse servicios que impliquen ejercicio de autoridad (**art. 17**).",
+   "Es verdadera, así que no se marca. Motivadamente cabe contratar juntas la redacción del proyecto y la dirección de obra (**art. 308.4**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. En ningún caso se puede contratar personal a través del contrato de servicios (**art. 308.2**).",
+   "Es verdadera, así que no se marca. Los contratos complementarios se resuelven siempre al resolverse el principal (**art. 313.1.c**)."
+  ]
+ },
+ "au-23-014": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 310.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Las disposiciones de la Ley no se aplican ni a la preparación ni a la adjudicación (**art. 310.1**).",
+   "No. Tampoco se aplican a la preparación (**art. 310.1**).",
+   "No. Tampoco se aplican a la adjudicación (**art. 310.1**).",
+   "Es esta. La Ley no es de aplicación a la preparación y adjudicación cuando las actividades las realizan personas físicas (**art. 310.1**)."
+  ]
+ },
+ "au-23-015": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Dos meses no es el plazo (**art. 313.1.a**).",
+   "Es esta. Más de cuatro meses, salvo que el pliego señale otro menor (**art. 313.1.a**).",
+   "No. Seis meses no es el plazo (**art. 313.1.a**).",
+   "No. Ocho meses es el plazo para el desistimiento con servicio iniciado (**art. 313.1.b**)."
+  ]
+ },
+ "au-23-016": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Dos meses no es el plazo (**art. 313.1.b**).",
+   "No. Cuatro meses es el plazo antes de iniciar el servicio (**art. 313.1.a**).",
+   "No. Seis meses no es el plazo legal (**art. 313.1.b**).",
+   "Es esta. Más de ocho meses acordada por el órgano de contratación, salvo que el pliego señale otro menor (**art. 313.1.b**)."
+  ]
+ },
+ "au-23-017": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El 6 % corresponde al beneficio industrial con servicio iniciado (**art. 313.3**).",
+   "No. El 5 % no aparece en el art. 313.3, y el IVA se excluye.",
+   "No. El 7 % no existe en el art. 313.3.",
+   "Es esta. Indemnización del 3 % del precio de adjudicación, IVA excluido (**art. 313.3**)."
+  ]
+ },
+ "au-23-018": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La suspensión de la iniciación debe superar cuatro meses, no tres (**art. 313.1.a**).",
+   "No. Sí es causa de resolución el desistimiento con la prestación ya iniciada (**art. 313.1.b**).",
+   "No. Sí es causa la suspensión por más de ocho meses acordada por el órgano (**art. 313.1.b**).",
+   "No. Sí es causa el desistimiento antes de iniciar el servicio (**art. 313.1.a**)."
+  ]
+ },
+ "au-24-001": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los Ministros y los Secretarios de Estado son los órganos de contratación de la AGE (**art. 323.1**).",
+   "No. También lo son los Secretarios de Estado (**art. 323.1**).",
+   "No. También lo son los Ministros (**art. 323.1**).",
+   "No. Los Subsecretarios no figuran en el art. 323.1."
+  ]
+ },
+ "au-24-002": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Hay una excepción: la Junta de Contratación (**art. 323.1**).",
+   "No. La competencia corresponde al Ministro, no al Secretario de Estado (**art. 323.1**).",
+   "Es esta. Corresponde al Ministro, salvo en los casos en que se atribuya a la Junta de Contratación (**art. 323.1**).",
+   "No. No es el Secretario de Estado el competente (**art. 323.1**)."
+  ]
+ },
+ "au-24-003": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El umbral no es de diez millones (**art. 324.1.a**).",
+   "No. Diez millones no es el umbral, y es “igual o superior” (**art. 324.1.a**).",
+   "No. Los doce millones son correctos, pero la ley dice igual o superior, no superior (**art. 324.1.a**).",
+   "Es esta. Hace falta autorización si el valor estimado es igual o superior a doce millones de euros (**art. 324.1.a**)."
+  ],
+  "revisar": "Importe de 12 millones de euros del art. 324 LCSP. Comprobar que sigue vigente."
+ },
+ "au-24-004": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Dos años no es el límite del art. 324.1.b.",
+   "No. Tres años no es el límite del art. 324.1.b.",
+   "Es esta. Se necesita autorización si las anualidades superan cuatro años (**art. 324.1.b**).",
+   "No. El límite es cuatro años, no cinco (**art. 324.1.b**)."
+  ]
+ },
+ "au-24-005": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los vocales no son solo dos y se fijan reglamentariamente (**art. 326.3**).",
+   "No. No hay un Vicepresidente en la composición legal (**art. 326.3**).",
+   "No. El Subsecretario no figura en la composición legal (**art. 326.3**).",
+   "Es esta. Presidente, vocales según el reglamento y un Secretario (**art. 326.3**)."
+  ]
+ },
+ "au-24-006": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. La composición se publica en el perfil de contratante (**art. 326.3**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. En los negociados sin publicidad la mesa es potestativa, salvo si se funda en imperiosa urgencia (**art. 326.1**).",
+   "Es verdadera, así que no se marca. Los miembros los nombra el órgano de contratación (**art. 326.4**).",
+   "Es verdadera, así que no se marca. No pueden formar parte los cargos públicos representativos ni el personal eventual (**art. 326.5**)."
+  ]
+ },
+ "au-24-007": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 327",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Participan con voz y voto, no solo con voz (**art. 327**).",
+   "No. Es un tercio, no la mitad, y con voto (**art. 327**).",
+   "No. Es un tercio, no la mitad (**art. 327**).",
+   "Es esta. Al menos un tercio de los componentes, con voz y voto (**art. 327**)."
+  ]
+ },
+ "au-24-008": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los órganos de contratación son los del art. 323, no las mesas (**art. 326.2**).",
+   "No. No son órganos consultivos (**art. 326.2**).",
+   "Es esta. La ley las define como órganos de asistencia técnica especializada (**art. 326.2**).",
+   "No. Proponen, pero no deciden: adjudica el órgano de contratación (**art. 326.2.d**)."
+  ]
+ },
+ "au-24-009": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El personal eventual no puede formar parte (**art. 326.5**).",
+   "No. Quien participó en la redacción de la documentación técnica no puede formar parte (**art. 326.5**).",
+   "Es esta. Entre los vocales debe figurar un funcionario con el asesoramiento jurídico del órgano de contratación y un interventor (**art. 326.5**).",
+   "No. Los cargos públicos representativos no pueden emitir informes de valoración (**art. 326.5**)."
+  ],
+  "ojo": "El enunciado dice “Juntas” pero pregunta por las mesas del art. 326. Las reglas de composición son las del apartado 5."
+ },
+ "au-24-010": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El umbral se refiere al valor estimado, no al presupuesto de licitación (**art. 324.1.a**).",
+   "No. En los acuerdos marco el umbral es de doce millones, no de diez (**art. 324.1.c**).",
+   "Es esta. Con arrendamiento financiero o con opción de compra, se necesita autorización si las anualidades superan cuatro años (**art. 324.1.b**).",
+   "No. Hay opciones que fallan, así que no todas son correctas."
+  ],
+  "revisar": "Importe de 12 millones de euros del art. 324 LCSP. Comprobar que sigue vigente."
+ },
+ "au-24-011": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Los Secretarios de Estado no ejercen esa función en el sistema centralizado (**art. 323.3**).",
+   "No. Es el Ministerio, pero a través de la Junta de Contratación Centralizada (**art. 323.3**).",
+   "Es esta. Corresponde al Ministerio de Hacienda, a través de la Junta de Contratación Centralizada (**art. 323.3**).",
+   "No. No es función del Presidente del Gobierno (**art. 323.3**)."
+  ]
+ },
+ "au-24-012": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los Secretarios de Estado sí son órganos de contratación (**art. 323.1**).",
+   "No. Los Presidentes o Directores de los organismos autónomos sí lo son (**art. 323.2**).",
+   "No. Los Directores generales de las Entidades Gestoras y Servicios Comunes de la Seguridad Social sí lo son (**art. 323.2**).",
+   "Es esta. El Consejo de Ministros no es órgano de contratación según el art. 323: autoriza, pero no contrata."
+  ]
+ },
+ "au-24-013": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Es verdadera, así que no se marca. Se exige a partir de doce millones de valor estimado (**art. 324.1.a**).",
+   "Esta es la falsa, y por eso es la que hay que marcar. Es al revés: la aprobación del expediente y del gasto corresponde al órgano con carácter posterior a la autorización (**art. 324.2**).",
+   "Es verdadera, así que no se marca. En los acuerdos marco, también desde doce millones (**art. 324.1.c**).",
+   "Es verdadera, así que no se marca. La autorización se obtiene antes de aprobar el expediente (**art. 324.2**)."
+  ],
+  "revisar": "Importe de 12 millones de euros del art. 324 LCSP. Comprobar que sigue vigente."
+ },
+ "au-24-014": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Debe obtenerse antes de la aprobación del expediente, no simultáneamente (**art. 324.2**).",
+   "Es esta. El Consejo de Ministros puede reclamar discrecionalmente el conocimiento de cualquier otro contrato (**art. 324.3**).",
+   "No. La autorización no implica aprobar el gasto: lo aprueba después el órgano de contratación (**art. 324.2**).",
+   "No. Tampoco implica aprobar el expediente: lo aprueba después el órgano de contratación (**art. 324.2**)."
+  ]
+ },
+ "au-24-015": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 324.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El umbral no es de tres millones (**art. 324.6**).",
+   "No. El umbral no es de seis millones (**art. 324.6**).",
+   "No. El umbral no es de diez millones (**art. 324.6**).",
+   "Es esta. Informe preceptivo y vinculante del Ministerio de Hacienda desde doce millones de valor estimado (**art. 324.6**)."
+  ],
+  "revisar": "Importe de 12 millones de euros del art. 324 LCSP. Comprobar que sigue vigente."
+ },
+ "au-25-001": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 328.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Junta Consultiva de Contratación Pública del Estado es el órgano específico de regulación y consulta (**art. 328.1**).",
+   "No. El Comité de cooperación es un órgano de coordinación con las Comunidades Autónomas (**art. 329**).",
+   "No. La Oficina vela por la correcta aplicación de la ley, no consulta (**art. 332.1**).",
+   "No. La Intervención General controla la gestión económica, no regula la contratación."
+  ]
+ },
+ "au-25-002": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 332.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se crea la Oficina Independiente de Regulación y Supervisión de la Contratación para velar por la correcta aplicación de la legislación (**art. 332.1**).",
+   "No. El Comité de cooperación tiene otra función (**art. 329**).",
+   "No. La Junta Consultiva es un órgano de regulación y consulta (**art. 328**).",
+   "No. No es la CNMC (**art. 332.1**)."
+  ]
+ },
+ "au-25-003": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 332.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se adscribe al Ministerio de Hacienda y Función Pública, a través de la Subsecretaría (**art. 332.1**).",
+   "No. No se adscribe al Ministerio del Interior (**art. 332.1**).",
+   "No. No se adscribe al Ministerio de la Presidencia (**art. 332.1**).",
+   "No. No se adscribe al Ministerio de Industria (**art. 332.1**)."
+  ]
+ },
+ "au-25-004": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 334.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un año es poco: tiene un horizonte de cuatro (**art. 334.1**).",
+   "No. Dos años no es el horizonte (**art. 334.1**).",
+   "No. Tres años no es el horizonte (**art. 334.1**).",
+   "Es esta. La Estrategia Nacional tiene un horizonte temporal de cuatro años (**art. 334.1**)."
+  ]
+ },
+ "au-25-005": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un mes no es el plazo (**art. 335.1**).",
+   "No. Dos meses tampoco (**art. 335.1**).",
+   "Es esta. Dentro de los tres meses siguientes a la formalización (**art. 335.1**).",
+   "No. Seis meses supera el plazo legal (**art. 335.1**)."
+  ]
+ },
+ "au-25-006": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 337.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La Oficina supervisa la contratación, pero no gestiona el registro de aptitud (**art. 337.1**).",
+   "No. La Oficina Nacional de Evaluación analiza la sostenibilidad de las concesiones, no inscribe aptitud (**art. 333**).",
+   "Es esta. El Registro Oficial de Licitadores y Empresas Clasificadas inscribe los datos que acreditan la aptitud para contratar (**art. 337.1**).",
+   "No. El Comité de cooperación coordina, no inscribe (**art. 329**)."
+  ]
+ },
+ "au-25-007": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 346.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se inscriben los datos básicos de los contratos adjudicados por todas las Administraciones y entidades del sector público sujetas a la Ley (**art. 346.1**).",
+   "No. Son los datos básicos, no todos los datos (**art. 346.1**).",
+   "No. No se limita a la AGE, sino a todas las Administraciones (**art. 346.1**).",
+   "No. Ni todos los datos ni solo la AGE (**art. 346.1**)."
+  ]
+ },
+ "au-25-008": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 346.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Ese registro acredita la aptitud de empresarios, no es el sistema central de información (**art. 337**).",
+   "Es esta. El Registro de Contratos del Sector Público es el sistema oficial central de información sobre la contratación pública (**art. 346.2**).",
+   "No. La estrategia es un instrumento de planificación, no un sistema de información (**art. 334**).",
+   "No. La Plataforma difunde perfiles de contratante, no es el sistema oficial central de información (**art. 347**)."
+  ]
+ }
+}

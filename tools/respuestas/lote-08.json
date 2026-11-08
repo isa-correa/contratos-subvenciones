@@ -1,0 +1,127 @@
+{
+"au-10-004": {"bloque":"lcsp-preparacion","precepto":"art. 118","correcta":0,"justificaciones":[
+"Es esta. En los contratos menores la tramitación exige un informe del órgano de contratación que justifique motivadamente la necesidad y que no se altera el objeto para evitar umbrales (**art. 118.2**).",
+"No. Hay una tramitación reducida, no ninguna: informe, aprobación del gasto y factura (**art. 118**).",
+"No. La tramitación del **art. 118** vale para todos los contratos menores, no solo para obras.",
+"No. Sí se requiere la aprobación del gasto, además de la factura (**art. 118.3**)."]},
+"au-10-005": {"bloque":"lcsp-preparacion","precepto":"art. 116.1","correcta":2,"justificaciones":[
+"No. La publicación en el perfil de contratante no es opcional, es obligatoria.",
+"No. Sí hay que motivar la necesidad, y se publica en el perfil de contratante.",
+"Es esta. El expediente se inicia motivando la necesidad del contrato y debe publicarse en el perfil de contratante (**art. 116.1**).",
+"No. Sí hay que motivar la necesidad del contrato."]},
+"au-10-006": {"bloque":"lcsp-preparacion","precepto":"art. 29.8","correcta":0,"justificaciones":[
+"Es esta. Los contratos menores no pueden durar más de un año ni prorrogarse (**art. 29.8**).",
+"No. El límite es un año, no cinco.",
+"No. El límite es un año, no dos.",
+"No. Un año sí, pero sin posibilidad de prórroga."]},
+"au-10-007": {"bloque":"lcsp-preparacion","precepto":"art. 118.1","correcta":3,"justificaciones":[
+"No. 15.000 euros es el umbral de suministros y servicios, y el **art. 118.1** no incluye la concesión de obras.",
+"No. 40.000 euros es el umbral de los contratos de obras, no de los de concesión de obras.",
+"No. No existe ese umbral.",
+"Es esta. El **art. 118.1** solo define como menores los contratos de obras, suministro y servicios, no los de concesión de obras."]},
+"au-10-008": {"bloque":"lcsp-preparacion","precepto":"art. 120.1.a","correcta":0,"justificaciones":[
+"Es esta. En emergencia no hay obligación de tramitar expediente ni de cumplir los requisitos formales de la Ley, incluso el de la existencia de crédito suficiente (**art. 120.1.a**).",
+"No. Es justo lo contrario, porque en emergencia no se tramita expediente.",
+"No. El crédito tampoco es obligatorio de antemano. Si no hay, se dota después del acuerdo.",
+"No. En emergencia no se tramita expediente previo."]},
+"au-10-009": {"bloque":"lcsp-preparacion","precepto":"art. 117.2","correcta":2,"justificaciones":[
+"No. Lo que permite el **art. 117.2** es justo que la ejecución se inicie en el ejercicio siguiente.",
+"No. No es obligatorio adjudicar en el ejercicio siguiente.",
+"Es esta. Los expedientes pueden ultimarse incluso con la adjudicación y formalización, aunque la ejecución deba iniciarse en el ejercicio siguiente (**art. 117.2**).",
+"No. No existe esa obligación de formalizar en el ejercicio siguiente."]},
+"au-10-010": {"bloque":"lcsp-preparacion","precepto":"art. 116.1","correcta":3,"justificaciones":[
+"No. La convocatoria llega después, cuando el expediente ya está aprobado.",
+"No. La aprobación de los pliegos se incorpora al expediente, no lo inicia.",
+"No. La aprobación del gasto va unida a la resolución que aprueba el expediente (**art. 117.1**), no a su inicio.",
+"Es esta. El expediente se inicia por el órgano de contratación motivando la necesidad del contrato (**art. 116.1**)."]},
+"au-10-011": {"bloque":"lcsp-preparacion","precepto":"art. 120.1.a","correcta":1,"justificaciones":[
+"No. La urgencia sigue el mismo procedimiento que el ordinario, con especialidades de plazos (**art. 119**).",
+"Es esta. En emergencia, el órgano de contratación actúa sin obligación de tramitar expediente de contratación (**art. 120.1.a**).",
+"No. La tramitación “excepcional” no es una categoría de la LCSP.",
+"No. La tramitación plurianual no exime de expediente."]},
+"au-10-012": {"bloque":"lcsp-preparacion","precepto":"arts. 119.1 y 120.1","correcta":2,"justificaciones":[
+"Es verdadera, así que no se marca. Acontecimientos catastróficos justifican la emergencia (**art. 120.1**).",
+"Es verdadera, así que no se marca. Las situaciones de grave peligro justifican la emergencia (**art. 120.1**).",
+"Esta es la falsa, y por eso es la que hay que marcar. La necesidad inaplazable es causa de tramitación urgente, no de emergencia (**art. 119.1**).",
+"Es verdadera, así que no se marca. Las necesidades que afecten a la defensa nacional justifican la emergencia (**art. 120.1**)."]},
+"au-10-013": {"bloque":"lcsp-preparacion","precepto":"art. 119.2.a","correcta":0,"justificaciones":[
+"Es esta. Cinco días para informes, prorrogables hasta diez si se comunica al órgano de contratación (**art. 119.2.a**).",
+"No. El plazo sí admite prórroga hasta diez días.",
+"No. El plazo ordinario en urgencia es de cinco días, no de diez.",
+"No. Ni son diez días, ni queda sin prórroga."]},
+"au-10-014": {"bloque":"lcsp-preparacion","precepto":"art. 116.4","correcta":2,"justificaciones":[
+"Es verdadera, así que no se marca. Hay que justificar la elección del procedimiento (**art. 116.4.a**).",
+"Es verdadera, así que no se marca. Hay que justificar la clasificación que se exija (**art. 116.4.b**).",
+"Esta es la falsa, y por eso es la que hay que marcar. La existencia de mesa de contratación no figura entre lo que el **art. 116.4** exige justificar.",
+"Es verdadera, así que no se marca. Se justifican los criterios de solvencia (**art. 116.4.c**)."]},
+"au-10-015": {"bloque":"lcsp-preparacion","precepto":"art. 119.2","correcta":3,"justificaciones":[
+"Es verdadera, así que no se marca. Son cinco días para informes y trámites (**art. 119.2.a**).",
+"Es verdadera, así que no se marca. Se prorroga hasta diez días si hay complejidad o causa justificada (**art. 119.2.a**).",
+"Es verdadera, así que no se marca. Los plazos de licitación, adjudicación y formalización se reducen a la mitad, con excepciones (**art. 119.2.b**).",
+"Esta es la falsa, y por eso es la que hay que marcar. El mes se cuenta desde la formalización del contrato, no desde el acuerdo de urgencia (**art. 119.2.c**)."]},
+"au-10-016": {"bloque":"lcsp-preparacion","precepto":"art. 116.4","correcta":3,"justificaciones":[
+"No es solo esta. La necesidad se justifica (**art. 116.4.e**), pero hay otras dos también ciertas.",
+"No es solo esta. Es cierto en los contratos de servicios (**art. 116.4.f**), pero hay otras dos también ciertas.",
+"No es solo esta. Es cierto (**art. 116.4.g**), pero hay otras dos también ciertas.",
+"Es esta. La necesidad, el informe de insuficiencia de medios en servicios y la decisión de no dividir en lotes se justifican en el expediente (**art. 116.4**)."]},
+"au-10-017": {"bloque":"lcsp-preparacion","precepto":"art. 117.1","correcta":0,"justificaciones":[
+"Es esta. La resolución aprueba el expediente y dispone la apertura del procedimiento de adjudicación (**art. 117.1**).",
+"No. El **art. 117.1** no prevé información pública en este momento.",
+"No. El plazo de formalización llega después de la adjudicación.",
+"No. El plazo del recurso especial depende de actos posteriores y no se abre con esta resolución."]},
+"au-10-018": {"bloque":"lcsp-preparacion","precepto":"art. 117.1","correcta":1,"justificaciones":[
+"No. La garantía definitiva se exige más tarde, al licitador con la mejor oferta.",
+"Es esta. La resolución implica también la aprobación del gasto, salvo excepciones (**art. 117.1**).",
+"No. La solvencia la acreditan los licitadores en el procedimiento, no esta resolución.",
+"No. Implica la aprobación del gasto, no su compromiso, que viene con la adjudicación."]},
+"au-10-019": {"bloque":"lcsp-preparacion","precepto":"art. 119.1","correcta":0,"justificaciones":[
+"Es esta. La tramitación urgente procede ante una necesidad inaplazable o cuando sea preciso acelerar la adjudicación por razones de interés público (**art. 119.1**).",
+"No. Los acontecimientos catastróficos son causa de emergencia (**art. 120.1**).",
+"No. El grave peligro es causa de emergencia (**art. 120.1**).",
+"No. La defensa nacional es causa de emergencia (**art. 120.1**)."]},
+"au-10-020": {"bloque":"lcsp-preparacion","precepto":"art. 119.2.b","correcta":2,"justificaciones":[
+"No. No se fija un plazo concreto de diez días.",
+"No. No se fija un plazo concreto de quince días. De hecho el de quince días hábiles de espera antes de formalizar no se reduce.",
+"Es esta. Los plazos de licitación, adjudicación y formalización se reducen a la mitad, con las excepciones que enumera el artículo (**art. 119.2.b**).",
+"No. La reducción es a la mitad, no a la tercera parte."]},
+"au-10-021": {"bloque":"lcsp-preparacion","precepto":"art. 119.2.c","correcta":2,"justificaciones":[
+"No. El plazo es de un mes, no de diez días.",
+"No. El plazo es de un mes, no de quince días.",
+"Es esta. El inicio de la ejecución no puede exceder de un mes desde la formalización (**art. 119.2.c**).",
+"No. La ley dice un mes, no treinta días."]},
+"au-10-022": {"bloque":"lcsp-preparacion","precepto":"art. 120.1.b","correcta":1,"justificaciones":[
+"No. Se da cuenta al Consejo de Ministros, no al Congreso, y el plazo es de treinta días.",
+"Es esta. En la Administración General del Estado y su sector público estatal se da cuenta al Consejo de Ministros en treinta días (**art. 120.1.b**).",
+"No. La ley fija un plazo de treinta días, no de un mes.",
+"No. Se da cuenta al Consejo de Ministros, no al Congreso."]},
+"au-10-023": {"bloque":"lcsp-preparacion","precepto":"art. 120.1.c","correcta":2,"justificaciones":[
+"No. El plazo es de un mes, no de diez días.",
+"No. El plazo es de un mes, no de quince días.",
+"Es esta. El inicio de la ejecución no puede ser superior a un mes desde el acuerdo (**art. 120.1.c**).",
+"No. La ley dice un mes, no treinta días."]},
+"au-10-024": {"bloque":"lcsp-preparacion","precepto":"art. 117.1","correcta":0,"justificaciones":[
+"Es esta. La resolución se publica en el perfil de contratante (**art. 117.1**).",
+"No. El **art. 117.1** no exige el BOE, solo el perfil de contratante.",
+"No. No se publica solo en el BOE, sino en el perfil de contratante.",
+"No. Sí es objeto de publicación."]},
+"au-10-025": {"bloque":"lcsp-preparacion","precepto":"art. 120.1.c","correcta":2,"justificaciones":[
+"No. El **art. 120.1.c** no prevé prórroga alguna del plazo.",
+"No. La ley no prevé ese plazo de justificación de la demora.",
+"Es esta. Si se excede el mes, la contratación de esas prestaciones requiere un procedimiento ordinario (**art. 120.1.c**).",
+"No. La consecuencia es tramitar un procedimiento ordinario, no suspender el contrato."]},
+"au-11-001": {"bloque":"lcsp-preparacion","precepto":"art. 122.6","correcta":3,"justificaciones":[
+"No. Puede darse si se cumple el trámite previsto.",
+"No. La ley no exige que lo apruebe el órgano que aprobó el PCAG.",
+"No. El informe no es del Servicio Jurídico, sino de la Junta Consultiva.",
+"Es esta. La Junta Consultiva de Contratación Pública del Estado debe informar con carácter previo los PCAP con estipulaciones contrarias a los pliegos generales (**art. 122.6**)."]},
+"au-11-002": {"bloque":"lcsp-preparacion","precepto":"arts. 116.3 y 118","correcta":1,"justificaciones":[
+"No. En el procedimiento negociado sí hay PCAP, porque el expediente lo incorpora (**art. 116.3**).",
+"Es esta. En los contratos menores solo se exige informe, aprobación del gasto y factura (**art. 118**), sin pliegos.",
+"No. Es exigible con carácter general (**art. 116.3**).",
+"No. Tiene excepciones, como los contratos menores."]},
+"au-11-003": {"bloque":"lcsp-preparacion","precepto":"art. 126.6","correcta":2,"justificaciones":[
+"No. Cabe con carácter excepcional.",
+"No. No la autorizan los pliegos generales, sino que es excepcional y se limita a cuando no se pueda describir el objeto con precisión.",
+"Es esta. Con carácter excepcional cuando no sea posible describir el objeto con precisión, y acompañada de la mención “o equivalente” (**art. 126.6**).",
+"No. Las referencias al rendimiento o exigencias funcionales son una forma admitida, pero no la única."]}
+}

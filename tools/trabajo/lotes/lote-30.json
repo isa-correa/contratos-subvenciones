@@ -1,0 +1,723 @@
+{
+ "casos": {
+  "caso-10": {
+   "id": "caso-10",
+   "titulo": "Ejercicio 10.- Omnibus (4)",
+   "texto": "Seleccione TODAS las respuestas correctas en relación con cada uno de los siguientes contratos:",
+   "corto": true
+  },
+  "caso-05": {
+   "id": "caso-05",
+   "titulo": "Ejercicio 5.- Jurisdicción competente",
+   "texto": "Indique qué orden jurisdiccional será competente para conocer de las siguientes cuestiones litigiosas:",
+   "corto": true
+  },
+  "caso-06": {
+   "id": "caso-06",
+   "titulo": "Ejercicio 6.- Omnibus (1)",
+   "texto": "Indique la calificación que corresponde al siguiente contrato, atendiendo a su tipo, naturaleza y sujeción o no a regulación armonizada:",
+   "corto": true
+  },
+  "caso-08": {
+   "id": "caso-08",
+   "titulo": "Ejercicio 8.- Del recurso especial (1)",
+   "texto": "Indique si el siguiente contrato es susceptible o no de recurso especial en materia de contratación:",
+   "corto": true
+  },
+  "caso-07": {
+   "id": "caso-07",
+   "titulo": "Ejercicio 7.- Omnibus (2)",
+   "texto": "Indique la calificación que corresponde al siguiente contrato, atendiendo a su tipo, naturaleza y sujeción o no a regulación armonizada:",
+   "corto": true
+  },
+  "caso-09": {
+   "id": "caso-09",
+   "titulo": "Ejercicio 9.- Omnibus (3)",
+   "texto": "Seleccione TODAS las respuestas correctas en relación con cada uno de los siguientes contratos:",
+   "corto": true
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-05-001",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 1,
+   "enunciado": "Las que pudieran suscitarse en relación con los actos de preparación de un contrato celebrado por una fundación pública:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-002",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 2,
+   "enunciado": "Las que pudieran suscitarse en relación con la adjudicación de un contrato de suministro celebrado por una Entidad Gestora de la Seguridad Social:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-003",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 3,
+   "enunciado": "Las que pudieran suscitarse en relación con la interpretación de un contrato de servicios celebrado por una sociedad mercantil estatal:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-004",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 4,
+   "enunciado": "Las que pudieran suscitarse en relación con la resolución anticipada de un contrato de obras celebrado por una universidad pública:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-005",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 5,
+   "enunciado": "Las que pudieran suscitarse en relación con los efectos de un contrato de suscripción a una publicación periódica celebrado por un organismo autónomo de la Administración General del Estado:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-006",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 6,
+   "enunciado": "Las que pudieran suscitarse en relación con la nulidad del acto de adjudicación de un contrato celebrado por una mutua colaboradora con la Seguridad Social:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-007",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 7,
+   "enunciado": "Las que pudieran suscitarse en relación con la ejecución defectuosa de un contrato adjudicado por una Autoridad Administrativa Independiente:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-008",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 8,
+   "enunciado": "Las que pudieran suscitarse en relación con la liquidación de un contrato celebrado por una sociedad mercantil estatal:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-009",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 9,
+   "enunciado": "Las que pudieran suscitarse en relación con el incumplimiento del contrato por parte del Ministerio contratante:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-05-010",
+   "origen": "practicas",
+   "test": "Ejercicio 5.- Jurisdicción competente",
+   "n": 10,
+   "enunciado": "Las que pudieran suscitarse en relación con una modificación contractual de un contrato de servicios celebrado por una Diputación Provincial:",
+   "opciones": [
+    "Jurisdicción contencioso-administrativa.",
+    "Jurisdicción civil."
+   ],
+   "caso": "caso-05"
+  },
+  {
+   "id": "pr-06-001",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 1,
+   "enunciado": "Contrato de arrendamiento de bienes muebles adjudicado por una Fundación del Sector Público, con un valor estimado de 250.000 euros:",
+   "opciones": [
+    "Contrato privado de suministro sujeto a regulación armonizada.",
+    "Contrato privado de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato privado de suministro no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-002",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 2,
+   "enunciado": "Contrato cuyo objeto consiste en la redacción del proyecto para la construcción de una nueva sede administrativa, adjudicado por el Ayuntamiento de Málaga, con un valor estimado de 230.000 euros:",
+   "opciones": [
+    "Contrato administrativo de obras sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios no sujeto a regulación armonizada.",
+    "Contrato privado de servicios sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-003",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 3,
+   "enunciado": "Contrato cuyo objeto consiste en la fabricación de 2.000 uniformes conforme a las características y especificaciones técnicas fijadas previamente por el Ministerio del Interior, aportando el propio Ministerio parte de los materiales necesarios para su elaboración, con un valor estimado de 145.000 euros:",
+   "opciones": [
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato privado de suministro sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-004",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 4,
+   "enunciado": "Contrato adjudicado por una Mutua Colaboradora con la Seguridad Social para la explotación durante ocho años de la cafetería de uno de sus centros hospitalarios, retribuyéndose el adjudicatario mediante los importes abonados por los usuarios y asumiendo el riesgo de que los ingresos obtenidos no permitan recuperar la inversión. El valor estimado del contrato asciende a 5.600.000 euros:",
+   "opciones": [
+    "Contrato privado de servicios sujeto a regulación armonizada.",
+    "Contrato privado de concesión de servicios no sujeto a regulación armonizada.",
+    "Contrato administrativo de concesión de servicios sujeto a regulación armonizada.",
+    "Contrato privado de concesión de servicios sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-005",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 5,
+   "enunciado": "Contrato adjudicado por Renfe Viajeros, S.M.E., S.A., cuyo objeto consiste en la adquisición de 50 vehículos para el desplazamiento de su personal, con un valor estimado de 900.000 euros:",
+   "opciones": [
+    "Contrato privado de suministro sujeto a regulación armonizada.",
+    "Contrato privado de suministro no sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada.",
+    "Contrato privado de servicios no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-006",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 6,
+   "enunciado": "Contrato adjudicado por la Universidad de Granada cuyo objeto consiste en la reforma integral de los aseos de una de sus facultades, incluyendo renovación de fontanería, revestimientos y sanitarios. El valor estimado del contrato asciende a 280.000 euros:",
+   "opciones": [
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de obras sujeto a regulación armonizada.",
+    "Contrato administrativo de obras no sujeto a regulación armonizada.",
+    "Contrato privado de obras no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-007",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 7,
+   "enunciado": "Contrato adjudicado por el Instituto Nacional de Estadística, O.A., cuyo objeto consiste en el desarrollo de un programa informático específicamente adaptado a sus necesidades para el tratamiento de datos estadísticos. El valor estimado asciende a 135.000 euros:",
+   "opciones": [
+    "Contrato administrativo de servicios no sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato privado de servicios no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-008",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 8,
+   "enunciado": "Contrato cuyo objeto consiste en el arrendamiento, durante cuatro años, de 300 ordenadores para las dependencias de la Agencia Estatal de Seguridad Aérea (AESA), con un valor estimado de 180.000 euros:",
+   "opciones": [
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada.",
+    "Contrato privado de suministro no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-009",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 9,
+   "enunciado": "Contrato adjudicado por el Ayuntamiento de Sevilla cuyo objeto consiste en la adquisición de energía eléctrica para sus edificios administrativos. El valor estimado del contrato asciende a 205.000 euros:",
+   "opciones": [
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios no sujeto a regulación armonizada.",
+    "Contrato privado de suministro no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-06-010",
+   "origen": "practicas",
+   "test": "Ejercicio 6.- Omnibus (1)",
+   "n": 10,
+   "enunciado": "Contrato adjudicado por la Agencia Estatal de Meteorología (AEMET), cuyo objeto consiste en la construcción de un nuevo edificio destinado a albergar sus servicios administrativos. El valor estimado del contrato asciende a 5.500.000 euros:",
+   "opciones": [
+    "Contrato administrativo de obras no sujeto a regulación armonizada.",
+    "Contrato privado de obras sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de obras sujeto a regulación armonizada."
+   ],
+   "caso": "caso-06"
+  },
+  {
+   "id": "pr-07-001",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 1,
+   "enunciado": "Contrato adjudicado por la Diputación Provincial de Málaga cuyo objeto consiste en la adquisición de licencias de uso de un programa informático estándar disponible en el mercado, con un valor estimado de 215.000 euros:",
+   "opciones": [
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato privado de suministro sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-002",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 2,
+   "enunciado": "Contrato adjudicado por una fundación pública cuyo objeto consiste en la rehabilitación integral de un edificio destinado a centro cultural, incluyendo la renovación de cubiertas, instalaciones y fachadas, con un valor estimado de 5.800.000 euros:",
+   "opciones": [
+    "Contrato administrativo de obras sujeto a regulación armonizada.",
+    "Contrato privado de servicios sujeto a regulación armonizada.",
+    "Contrato privado de obras no sujeto a regulación armonizada.",
+    "Contrato privado de obras sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-003",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 3,
+   "enunciado": "Contrato adjudicado por una sociedad mercantil estatal cuyo objeto consiste en el mantenimiento preventivo y correctivo de sus equipos de climatización, con un valor estimado de 480.000 euros:",
+   "opciones": [
+    "Contrato privado de servicios no sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios no sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato privado de servicios sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-004",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 4,
+   "enunciado": "Contrato adjudicado por una entidad gestora de la Seguridad Social cuyo objeto consiste en el desarrollo de una aplicación informática específicamente diseñada para la gestión de prestaciones, con un valor estimado de 165.000 euros:",
+   "opciones": [
+    "Contrato privado de suministro sujeto a regulación armonizada.",
+    "Contrato privado de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-005",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 5,
+   "enunciado": "Contrato adjudicado por una mutua colaboradora con la Seguridad Social cuyo objeto consiste en la adquisición de un sistema centralizado de control de accesos para varios centros asistenciales, con un valor estimado de 230.000 euros:",
+   "opciones": [
+    "Contrato administrativo de suministro sujeto a regulación armonizada.",
+    "Contrato privado de obras sujeto a regulación armonizada.",
+    "Contrato privado de suministro sujeto a regulación armonizada.",
+    "Contrato privado de servicios no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-006",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 6,
+   "enunciado": "Contrato adjudicado por un ayuntamiento para la construcción de un aparcamiento subterráneo, siendo la contraprestación del adjudicatario el derecho a su explotación mediante el cobro de tarifas a los usuarios y asumiendo el riesgo operacional, con un valor estimado de 5.000.000 de euros:",
+   "opciones": [
+    "Contrato administrativo de concesión de servicios no sujeto a regulación armonizada.",
+    "Contrato administrativo de obras sujeto a regulación armonizada.",
+    "Contrato administrativo de concesión de obras sujeto a regulación armonizada.",
+    "Contrato administrativo de concesión de obras no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-007",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 7,
+   "enunciado": "Contrato adjudicado por un ayuntamiento para la gestión de un complejo deportivo municipal, siendo la retribución del adjudicatario los ingresos obtenidos de los usuarios y asumiendo este el riesgo operacional, con un valor estimado de 5.600.000 euros:",
+   "opciones": [
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de concesión de servicios sujeto a regulación armonizada.",
+    "Contrato privado de concesión de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de concesión de servicios no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-008",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 8,
+   "enunciado": "Contrato adjudicado por un organismo autónomo de la Administración General del Estado para el arrendamiento con opción de compra de 400 impresoras multifunción, con un valor estimado de 138.000 euros:",
+   "opciones": [
+    "Contrato privado de servicios no sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro no sujeto a regulación armonizada.",
+    "Contrato privado de suministro sujeto a regulación armonizada.",
+    "Contrato administrativo de suministro sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-009",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 9,
+   "enunciado": "Contrato adjudicado por la Junta de Andalucía que tiene por objeto la traducción de documentos y la interpretación oral en reuniones y actos oficiales durante dos años, con un valor estimado de 180.000 euros:",
+   "opciones": [
+    "Contrato privado de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de servicios no sujeto a regulación armonizada.",
+    "Contrato privado de servicios no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-07-010",
+   "origen": "practicas",
+   "test": "Ejercicio 7.- Omnibus (2)",
+   "n": 10,
+   "enunciado": "Contrato adjudicado por ICEX España Exportación e Inversiones, E.P.E., que tiene por objeto la redacción del proyecto y la ejecución de las obras de construcción de un nuevo centro de formación empresarial, con un valor estimado de 6.200.000 euros:",
+   "opciones": [
+    "Contrato privado de obras no sujeto a regulación armonizada.",
+    "Contrato administrativo de obras sujeto a regulación armonizada.",
+    "Contrato privado de servicios sujeto a regulación armonizada.",
+    "Contrato administrativo de obras no sujeto a regulación armonizada."
+   ],
+   "caso": "caso-07"
+  },
+  {
+   "id": "pr-08-001",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 1,
+   "enunciado": "Contrato de obras con valor estimado de 4.000.000 de euros adjudicado por un Organismo Autónomo:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-002",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 2,
+   "enunciado": "Contrato de suministro con valor estimado de 110.000 euros adjudicado por una Fundación Pública:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-003",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 3,
+   "enunciado": "Contrato de concesión de obras con valor estimado de 7.000.000 de euros adjudicado por una Entidad Pública Empresarial:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-004",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 4,
+   "enunciado": "Contrato de servicios con valor estimado de 175.000 euros adjudicado por una Mutua colaboradora con la Seguridad Social:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-005",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 5,
+   "enunciado": "Contrato de suministros con valor estimado de 200.000 euros adjudicado por un Ayuntamiento:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-006",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 6,
+   "enunciado": "Contrato de servicios con valor estimado de 100.000 euros adjudicado por un Ministerio:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-007",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 7,
+   "enunciado": "Contrato administrativo especial con valor estimado de 135.000 euros adjudicado por un Organismo Autónomo:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-008",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 8,
+   "enunciado": "Contrato de concesión de servicios con valor estimado de 3.100.000 euros adjudicado por una Fundación Pública:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-009",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 9,
+   "enunciado": "Contrato de servicios con valor estimado de 210.000 euros adjudicado por una Sociedad Mercantil Estatal:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-08-010",
+   "origen": "practicas",
+   "test": "Ejercicio 8.- Del recurso especial (1)",
+   "n": 10,
+   "enunciado": "Contrato de suministro basado en un acuerdo marco, con valor estimado de 90.000 euros, adjudicado por el Ministerio de Defensa:",
+   "opciones": [
+    "Sí.",
+    "No."
+   ],
+   "caso": "caso-08"
+  },
+  {
+   "id": "pr-09-001",
+   "origen": "practicas",
+   "test": "Ejercicio 9.- Omnibus (3)",
+   "n": 1,
+   "enunciado": "Contrato de suministro con valor estimado de 200.000 euros adjudicado por el Ayuntamiento de Málaga:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-09"
+  },
+  {
+   "id": "pr-09-002",
+   "origen": "practicas",
+   "test": "Ejercicio 9.- Omnibus (3)",
+   "n": 2,
+   "enunciado": "Contrato de obras con valor estimado de 6.000.000 euros adjudicado por una Fundación Pública:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-09"
+  },
+  {
+   "id": "pr-09-003",
+   "origen": "practicas",
+   "test": "Ejercicio 9.- Omnibus (3)",
+   "n": 3,
+   "enunciado": "Contrato de suministro con valor estimado de 95.000 euros adjudicado por el Ayuntamiento de Barcelona:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-09"
+  },
+  {
+   "id": "pr-09-004",
+   "origen": "practicas",
+   "test": "Ejercicio 9.- Omnibus (3)",
+   "n": 4,
+   "enunciado": "Contrato de concesión de obras con valor estimado de 4.000.000 de euros adjudicado por una Universidad Pública:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-09"
+  },
+  {
+   "id": "pr-09-005",
+   "origen": "practicas",
+   "test": "Ejercicio 9.- Omnibus (3)",
+   "n": 5,
+   "enunciado": "Contrato de servicios con valor estimado de 1.000.000 euros adjudicado por una Sociedad Mercantil Estatal:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-09"
+  },
+  {
+   "id": "pr-10-001",
+   "origen": "practicas",
+   "test": "Ejercicio 10.- Omnibus (4)",
+   "n": 1,
+   "enunciado": "Contrato de suministro con valor estimado de 110.000 euros adjudicado por una Entidad Pública Empresarial:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-10"
+  },
+  {
+   "id": "pr-10-002",
+   "origen": "practicas",
+   "test": "Ejercicio 10.- Omnibus (4)",
+   "n": 2,
+   "enunciado": "Contrato de concesión de obras con valor estimado de 4.000.000 euros adjudicado por el Instituto Nacional de la Seguridad Social:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-10"
+  },
+  {
+   "id": "pr-10-003",
+   "origen": "practicas",
+   "test": "Ejercicio 10.- Omnibus (4)",
+   "n": 3,
+   "enunciado": "Contrato de servicio con valor estimado de 195.000 euros adjudicado por el Ayuntamiento de Madrid:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-10"
+  },
+  {
+   "id": "pr-10-004",
+   "origen": "practicas",
+   "test": "Ejercicio 10.- Omnibus (4)",
+   "n": 4,
+   "enunciado": "Contrato de servicios basado en un acuerdo marco, con valor estimado de 170.000 euros, adjudicado por una Autoridad Administrativa Independiente:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-10"
+  },
+  {
+   "id": "pr-10-005",
+   "origen": "practicas",
+   "test": "Ejercicio 10.- Omnibus (4)",
+   "n": 5,
+   "enunciado": "Contrato de servicios con valor estimado de 170.000 euros adjudicado por un organismo autónomo de la Junta de Andalucía:",
+   "opciones": [
+    "Contrato administrativo.",
+    "Contrato privado.",
+    "Contrato sujeto a regulación armonizada.",
+    "Contrato NO sujeto a regulación armonizada.",
+    "Contrato susceptible de recurso especial en materia de contratación.",
+    "Contrato NO susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-10"
+  }
+ ]
+}

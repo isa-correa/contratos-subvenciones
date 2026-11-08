@@ -1,0 +1,690 @@
+{
+ "casos": {
+  "caso-18": {
+   "id": "caso-18",
+   "titulo": "Ejercicio 15.- Importes contractuales (2)",
+   "texto": "El Ayuntamiento de Málaga prepara, mediante diálogo competitivo, la licitación de un contrato de obras de rehabilitación de una biblioteca municipal, para cuya ejecución se requieren soluciones técnicas innovadoras. El plazo de ejecución previsto es de un año. El límite máximo de gasto que, en virtud del contrato, puede comprometer el órgano de contratación para las obras inicialmente previstas asciende a 605.000 euros (500.000 euros, IVA excluido). El pliego prevé la posibilidad de modificar el contrato para extender la rehabilitación a determinadas dependencias anexas, si estas quedaran disponibles durante la ejecución de las obras. El importe máximo de dicha modificación se estima en 50.000 euros, IVA excluido. Asimismo, el documento descriptivo contempla el abono de una prima de 10.000 euros, IVA excluido, a cada uno de los dos participantes cuyas ofertas obtengan las mejores puntuaciones, como compensación por los trabajos técnicos desarrollados durante el diálogo. Estas primas se abonarán separadamente del precio correspondiente a la ejecución de las obras. Finalizado el procedimiento, la oferta mejor valorada es la presentada por Alvar, S.L., por importe de 484.000 euros (400.000 euros, IVA excluido). En relación con la situación descrita, responda las siguientes cuestiones:",
+   "corto": true
+  },
+  "caso-17": {
+   "id": "caso-17",
+   "titulo": "Ejercicio 14.- Importes contractuales (1)",
+   "texto": "El Ministerio de Justicia prepara la licitación de un contrato de servicios de vigilancia de sus servicios centrales, con una duración inicial de un año y posibilidad de prórroga por otro año en las mismas condiciones económicas. El límite máximo de gasto que, en virtud del contrato, puede comprometer el órgano de contratación asciende a 121.000 euros (100.000 euros, IVA excluido). El pliego prevé la posibilidad de ampliar el servicio de vigilancia a nuevas dependencias mediante una modificación cuyo importe máximo se estima en 24.200 euros (20.000 euros, IVA excluido). Dicha ampliación, de acordarse durante el período inicial, se mantendría durante la eventual prórroga del contrato. Asimismo, se contempla la opción de que la Administración adquiera, al finalizar el contrato, determinados equipos y cámaras de seguridad instalados por el contratista, por un importe de 12.100 euros (10.000 euros, IVA excluido). Tras la licitación, la oferta mejor valorada es la presentada por Segurplus, S.L., por importe de 96.800 euros (80.000 euros, IVA excluido). En relación con la situación descrita, responda las siguientes cuestiones:",
+   "corto": true
+  },
+  "caso-16": {
+   "id": "caso-16",
+   "titulo": "Ejercicio 13.- Acreditación de solvencia (2)",
+   "texto": "Indique cuáles de los siguientes medios pueden utilizarse, conforme a la LCSP, para acreditar la solvencia en los supuestos que se indican:",
+   "corto": true
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-16-001",
+   "origen": "practicas",
+   "test": "Ejercicio 13.- Acreditación de solvencia (2)",
+   "n": 1,
+   "enunciado": "Acreditación de solvencia técnica para ejecutar un contrato que tiene por objeto la construcción de un edificio administrativo:",
+   "opciones": [
+    "Relación de obras ejecutadas en los cinco últimos años, avalada por certificados de buena ejecución.",
+    "Declaración sobre la plantilla media anual y el número de directivos durante los tres últimos años.",
+    "Indicación de las medidas de gestión medioambiental aplicables durante la ejecución del contrato.",
+    "Indicación de la parte del contrato que el empresario tenga eventualmente el propósito de subcontratar."
+   ],
+   "caso": "caso-16"
+  },
+  {
+   "id": "pr-16-002",
+   "origen": "practicas",
+   "test": "Ejercicio 13.- Acreditación de solvencia (2)",
+   "n": 2,
+   "enunciado": "Acreditación de solvencia técnica en un contrato que tiene por objeto la adquisición de 300 ordenadores portátiles:",
+   "opciones": [
+    "Descripción de las instalaciones técnicas, las medidas empleadas para garantizar la calidad y los medios de estudio e investigación.",
+    "Muestras, descripciones y fotografías de los productos a suministrar.",
+    "Declaración sobre la plantilla media anual de la empresa y el número de directivos durante los tres últimos años.",
+    "Relación de los principales suministros de igual o similar naturaleza realizados en los tres últimos años."
+   ],
+   "caso": "caso-16"
+  },
+  {
+   "id": "pr-16-003",
+   "origen": "practicas",
+   "test": "Ejercicio 13.- Acreditación de solvencia (2)",
+   "n": 3,
+   "enunciado": "Acreditación de solvencia técnica en un contrato de servicios de mantenimiento de los ascensores de varios edificios administrativos:",
+   "opciones": [
+    "Indicación del personal técnico o de las unidades técnicas que participarán en la ejecución del contrato.",
+    "Muestras, descripciones y fotografías de los trabajos a realizar.",
+    "Seguro de responsabilidad civil por riesgos profesionales por importe igual o superior al exigido.",
+    "Relación de los principales servicios de igual o similar naturaleza realizados en los tres últimos años."
+   ],
+   "caso": "caso-16"
+  },
+  {
+   "id": "pr-16-004",
+   "origen": "practicas",
+   "test": "Ejercicio 13.- Acreditación de solvencia (2)",
+   "n": 4,
+   "enunciado": "Acreditación de solvencia económica en un contrato cuyo objeto es la construcción de un centro de atención sanitaria:",
+   "opciones": [
+    "Volumen anual de negocios referido al mejor ejercicio dentro de los tres últimos disponibles.",
+    "Patrimonio neto al cierre del último ejercicio económico para el que esté vencida la obligación de aprobación de cuentas.",
+    "Relación de las obras ejecutadas en los cinco últimos años, avalada por certificados de buena ejecución.",
+    "Declaración sobre la plantilla media anual de la empresa durante los tres últimos años."
+   ],
+   "caso": "caso-16"
+  },
+  {
+   "id": "pr-16-005",
+   "origen": "practicas",
+   "test": "Ejercicio 13.- Acreditación de solvencia (2)",
+   "n": 5,
+   "enunciado": "Acreditación de la solvencia técnica en un contrato de servicios de limpieza y mantenimiento de un edificio administrativo:",
+   "opciones": [
+    "Relación de los principales servicios de igual o similar naturaleza realizados en los cinco últimos años.",
+    "Indicación del personal técnico, integrado o no en la empresa, que participará en la ejecución del contrato.",
+    "Declaración sobre la plantilla media anual de la empresa y el número de directivos durante los cinco últimos años.",
+    "Indicación de la parte del contrato que el empresario tenga eventualmente el propósito de subcontratar."
+   ],
+   "caso": "caso-16"
+  },
+  {
+   "id": "pr-17-001",
+   "origen": "practicas",
+   "test": "Ejercicio 14.- Importes contractuales (1)",
+   "n": 1,
+   "enunciado": "Conforme al artículo 100 de la LCSP, ¿a cuánto asciende el presupuesto base de licitación del contrato de servicios de vigilancia?",
+   "opciones": [
+    "100.000 euros.",
+    "121.000 euros.",
+    "200.000 euros.",
+    "242.000 euros."
+   ],
+   "caso": "caso-17"
+  },
+  {
+   "id": "pr-17-002",
+   "origen": "practicas",
+   "test": "Ejercicio 14.- Importes contractuales (1)",
+   "n": 2,
+   "enunciado": "Conforme al artículo 101 de la LCSP, ¿a cuánto asciende el valor estimado del contrato de servicios de vigilancia?",
+   "opciones": [
+    "200.000 euros.",
+    "210.000 euros.",
+    "250.000 euros.",
+    "302.500 euros."
+   ],
+   "caso": "caso-17"
+  },
+  {
+   "id": "pr-17-003",
+   "origen": "practicas",
+   "test": "Ejercicio 14.- Importes contractuales (1)",
+   "n": 3,
+   "enunciado": "Si el órgano de contratación acordara exigir garantía provisional a los licitadores, ¿a qué importe podría ascender como máximo?",
+   "opciones": [
+    "2.400 euros.",
+    "3.000 euros.",
+    "3.630 euros.",
+    "7.500 euros."
+   ],
+   "caso": "caso-17"
+  },
+  {
+   "id": "pr-17-004",
+   "origen": "practicas",
+   "test": "Ejercicio 14.- Importes contractuales (1)",
+   "n": 4,
+   "enunciado": "A la vista de la oferta presentada por Segurplus, S.L., ¿a cuánto ascenderá el precio del contrato en caso de resultar adjudicataria?",
+   "opciones": [
+    "80.000 euros.",
+    "96.800 euros.",
+    "100.000 euros.",
+    "121.000 euros."
+   ],
+   "caso": "caso-17"
+  },
+  {
+   "id": "pr-17-005",
+   "origen": "practicas",
+   "test": "Ejercicio 14.- Importes contractuales (1)",
+   "n": 5,
+   "enunciado": "En caso de resultar adjudicataria Segurplus, S.L., ¿qué importe deberá constituir como garantía definitiva, conforme a la LCSP?",
+   "opciones": [
+    "4.000 euros.",
+    "4.840 euros.",
+    "5.000 euros.",
+    "6.050 euros."
+   ],
+   "caso": "caso-17"
+  },
+  {
+   "id": "pr-18-001",
+   "origen": "practicas",
+   "test": "Ejercicio 15.- Importes contractuales (2)",
+   "n": 1,
+   "enunciado": "Si el órgano de contratación acordara, de forma excepcional, exigir garantía provisional, ¿qué importe máximo que podría alcanzar?",
+   "opciones": [
+    "30.150 euros.",
+    "25.000 euros.",
+    "18.150 euros.",
+    "15.000 euros"
+   ],
+   "caso": "caso-18"
+  },
+  {
+   "id": "pr-18-002",
+   "origen": "practicas",
+   "test": "Ejercicio 15.- Importes contractuales (2)",
+   "n": 2,
+   "enunciado": "Conforme al artículo 101 de la LCSP, ¿a cuánto asciende el valor estimado del contrato de obras?",
+   "opciones": [
+    "689.700 euros.",
+    "570.000 euros.",
+    "560.000 euros.",
+    "500.000 euros."
+   ],
+   "caso": "caso-18"
+  },
+  {
+   "id": "pr-18-003",
+   "origen": "practicas",
+   "test": "Ejercicio 15.- Importes contractuales (2)",
+   "n": 3,
+   "enunciado": "Conforme al artículo 100 de la LCSP, ¿a cuánto asciende el presupuesto base de licitación del contrato de obras?",
+   "opciones": [
+    "605.000 euros.",
+    "570.000 euros.",
+    "500.000 euros.",
+    "400.000 euros."
+   ],
+   "caso": "caso-18"
+  },
+  {
+   "id": "pr-18-004",
+   "origen": "practicas",
+   "test": "Ejercicio 15.- Importes contractuales (2)",
+   "n": 4,
+   "enunciado": "En caso de resultar adjudicataria, ¿qué importe deberá constituir Alvar S.L. en concepto de garantía definitiva?",
+   "opciones": [
+    "12.000 euros.",
+    "14.520 euros.",
+    "20.000 euros.",
+    "24.200 euros."
+   ],
+   "caso": "caso-18"
+  },
+  {
+   "id": "pr-18-005",
+   "origen": "practicas",
+   "test": "Ejercicio 15.- Importes contractuales (2)",
+   "n": 5,
+   "enunciado": "En caso de que el contrato resulte finalmente adjudicado a Alvar, S.L., ¿a cuánto ascenderá el precio del contrato?",
+   "opciones": [
+    "400.000 euros.",
+    "484.000 euros.",
+    "500.000 euros.",
+    "605.000 euros."
+   ],
+   "caso": "caso-18"
+  },
+  {
+   "id": "pr-19-001",
+   "origen": "practicas",
+   "test": "Ejercicio 16.- Cálculo de garantías (1)",
+   "n": 1,
+   "enunciado": "Indique qué importe tendrá la garantía definitiva del siguiente contrato: Contrato para la reforma parcial de un polideportivo. El presupuesto base de licitación asciende a 300.000 euros, IVA excluido. REFORMAS, S.A. resulta adjudicataria por un precio de 298.000 euros, IVA excluido.",
+   "opciones": [
+    "14.900 euros.",
+    "15.000 euros.",
+    "9.000 euros.",
+    "8.940 euros."
+   ]
+  },
+  {
+   "id": "pr-19-002",
+   "origen": "practicas",
+   "test": "Ejercicio 16.- Cálculo de garantías (1)",
+   "n": 2,
+   "enunciado": "Indique qué importe podría alcanzar como máximo la garantía provisional del siguiente contrato: El Ayuntamiento de Villanueva de la Concepción prepara la licitación de un contrato de servicios para la gestión integral de su archivo documental. El contrato tiene un valor estimado de 210.000 euros y un presupuesto base de licitación de 190.000 euros, IVA excluido. ARCHIVA, S.L. presenta una oferta por importe de 182.000 euros, IVA excluido.",
+   "opciones": [
+    "9.100 euros.",
+    "9.500 euros.",
+    "5.700 euros.",
+    "6.300 euros."
+   ]
+  },
+  {
+   "id": "pr-19-003",
+   "origen": "practicas",
+   "test": "Ejercicio 16.- Cálculo de garantías (1)",
+   "n": 3,
+   "enunciado": "Indique qué importe tendrá la garantía definitiva del siguiente contrato: Contrato de adquisición de licencias de SQL Server o equivalente. El valor estimado del contrato asciende a 60.000 euros y el presupuesto base de licitación se fija en 60.000 euros, IVA excluido. TELEFÓNICA, S.L. resulta adjudicataria por un precio de 50.000 euros, IVA excluido.",
+   "opciones": [
+    "3.000 euros.",
+    "1.800 euros.",
+    "1.500 euros.",
+    "2.500 euros."
+   ]
+  },
+  {
+   "id": "pr-19-004",
+   "origen": "practicas",
+   "test": "Ejercicio 16.- Cálculo de garantías (1)",
+   "n": 4,
+   "enunciado": "Indique qué importe podría alcanzar, en su caso, la garantía complementaria del siguiente contrato: Contrato de servicios de limpieza de las dependencias del Instituto Nacional de Administración Pública. El presupuesto base de licitación se fijó en 300.000 euros, IVA excluido. El pliego prevé, para el supuesto planteado, la exigencia de una garantía complementaria por el máximo legalmente previsto. LIMPIA, S.L. resulta adjudicataria por un precio de 200.000 euros, IVA excluido.",
+   "opciones": [
+    "15.000 euros.",
+    "10.000 euros.",
+    "20.000 euros.",
+    "9.000 euros."
+   ]
+  },
+  {
+   "id": "pr-19-005",
+   "origen": "practicas",
+   "test": "Ejercicio 16.- Cálculo de garantías (1)",
+   "n": 5,
+   "enunciado": "Indique qué importe tendrá la garantía definitiva del siguiente contrato: Contrato para el suministro e instalación de equipos informáticos para las oficinas centrales de la Agencia Estatal de la Administración Tributaria. El valor estimado del contrato asciende a 300.000 euros y el presupuesto base de licitación a 250.000 euros, IVA excluido. INFOEQUIP, S.L. resulta adjudicataria por un precio de 225.000 euros, IVA excluido.",
+   "opciones": [
+    "7.500 euros.",
+    "11.250 euros.",
+    "12.500 euros.",
+    "15.000 euros."
+   ]
+  },
+  {
+   "id": "pr-20-001",
+   "origen": "practicas",
+   "test": "Ejercicio 17.- Cálculo de garantías (2)",
+   "n": 1,
+   "enunciado": "Indique qué importe podría alcanzar, como máximo, la garantía provisional del siguiente contrato: Contrato de obras para la rehabilitación integral de la sede provincial del Servicio Público de Empleo Estatal (SEPE). El valor estimado del contrato es de 460.000 euros. El presupuesto base de licitación se fijó en 400.000 euros (IVA excluido). La empresa CONSTRUCCIONES DEL SUR S.L. resultó adjudicataria del contrato por un importe de 380.000 euros (IVA excluido).",
+   "opciones": [
+    "23.000 euros.",
+    "13.800 euros.",
+    "12.000 euros.",
+    "11.400 euros."
+   ]
+  },
+  {
+   "id": "pr-20-002",
+   "origen": "practicas",
+   "test": "Ejercicio 17.- Cálculo de garantías (2)",
+   "n": 2,
+   "enunciado": "Indique qué importe tendrá la garantía definitiva del siguiente contrato: Contrato de suministro de ordenadores portátiles para los centros educativos públicos de la provincias de Málaga. El valor estimado del contrato asciende a 180.000 euros. El presupuesto base de licitación se estableció en 150.000 euros (IVA excluido). La empresa TECNOEDUCA S.L. resulta adjudicataria del contrato tras ofertar un mejor precio unitario de 950 euros, IVA excluido.",
+   "opciones": [
+    "9.000 euros.",
+    "7.500 euros.",
+    "4.500 euros.",
+    "47,5 euros"
+   ]
+  },
+  {
+   "id": "pr-20-003",
+   "origen": "practicas",
+   "test": "Ejercicio 17.- Cálculo de garantías (2)",
+   "n": 3,
+   "enunciado": "Indique qué importe podría alcanzar, en los casos especiales previstos en la LCSP, la garantía total del siguiente contrato: Contrato de servicio para el mantenimiento integral de los sistemas de climatización de los edificios centrales del Ministerio de Justicia. El presupuesto base de licitación se estableció en 180.000 euros (IVA excluido). La empresa CLIMATIZA FACILITY SERVICES S.L. resultó adjudicataria del contrato por un importe de 170.000 euros (IVA excluido).",
+   "opciones": [
+    "5.400 euros.",
+    "9.000 euros.",
+    "8.500 euros.",
+    "17.000 euros."
+   ]
+  },
+  {
+   "id": "pr-20-004",
+   "origen": "practicas",
+   "test": "Ejercicio 17.- Cálculo de garantías (2)",
+   "n": 4,
+   "enunciado": "Indique qué importe tendrá la garantía definitiva del siguiente contrato: Contrato para el suministro de mobiliario de oficina destinado al equipamiento del Ministerio de Defensa. El presupuesto base de licitación se estableció en 120.000 euros, IVA excluido. La empresa MOBILIA S.A. resulta adjudicataria por un precio de 100.000 euros, IVA excluido.",
+   "opciones": [
+    "6.000 euros.",
+    "5.000 euros.",
+    "3.600 euros.",
+    "10.000 euros."
+   ]
+  },
+  {
+   "id": "pr-20-005",
+   "origen": "practicas",
+   "test": "Ejercicio 17.- Cálculo de garantías (2)",
+   "n": 5,
+   "enunciado": "Indique qué importe podría alcanzar, como máximo, la garantía provisional del siguiente contrato: Contrato de servicios de asesoría técnica informática para la implementación de un sistema de gestión documental electrónico en la Confederación Hidrográfica del Ebro. El valor estimado del contrato es de 165.000 euros. El presupuesto base de licitación se fijó en 150.000 euros, IVA excluido. IT SOLUTIONS, S.A. presenta una oferta por importe de 140.000 euros, IVA excluido.",
+   "opciones": [
+    "4.500 euros.",
+    "7.500 euros.",
+    "4.950 euros.",
+    "4.200 euros."
+   ]
+  },
+  {
+   "id": "pr-21-001",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 1,
+   "enunciado": "En una licitación concurren una empresa eslovena (UE), una islandesa (EEE) y una japonesa. Para acreditar su capacidad de obrar, ¿cuáles deben aportar informe de la Misión Diplomática Permanente u Oficina Consular española del lugar del domicilio de la empresa?",
+   "opciones": [
+    "Todas ellas: la eslovena, la islandesa y la japonesa.",
+    "Únicamente la empresa islandesa.",
+    "Únicamente la empresa japonesa.",
+    "Las empresas islandesa y japonesa."
+   ]
+  },
+  {
+   "id": "pr-21-002",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 2,
+   "enunciado": "Conforme al artículo 85 de la Ley de Contratos del Sector Público (en adelante LCSP), los empresarios podrán probar que no están incursos en prohibiciones para contratar, según los casos, mediante:",
+   "opciones": [
+    "Informe de auditoría o certificación bancaria.",
+    "Testimonio judicial o certificación bancaria.",
+    "Informe de auditoría o certificación administrativa.",
+    "Testimonio judicial o certificación administrativa."
+   ]
+  },
+  {
+   "id": "pr-21-003",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 3,
+   "enunciado": "Un ministerio licita un contrato de servicios de mantenimiento de equipos informáticos con un valor estimado de 580.000 euros. Conforme al artículo 86 de la LCSP, ¿qué documentos deberán aportar los empresarios para acreditar su solvencia?",
+   "opciones": [
+    "Los que determine el órgano de contratación, de entre los previstos en los artículos 87 a 91 de dicha Ley.",
+    "Los que determine la mesa de contratación, de entre los previstos en los artículos 87 a 91 de dicha Ley.",
+    "Los que reglamentariamente se establezcan, de entre los previstos en los artículos 87 a 91 de dicha Ley.",
+    "Dado el valor estimado del contrato, será preceptiva la clasificación de los empresarios como contratistas de servicios."
+   ]
+  },
+  {
+   "id": "pr-21-004",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 4,
+   "enunciado": "¿En cuál de los siguientes contratos podrá el órgano de contratación admitir, de forma justificada, otros medios de prueba de la solvencia distintos de los previstos en los artículos 87 a 91 de la LCSP?",
+   "opciones": [
+    "Contrato de suministro adjudicado por una Autoridad Administrativa Independiente, con valor estimado de 200.000 euros.",
+    "Contrato de servicios adjudicado por un organismo autónomo estatal, con valor estimado de 150.000 euros.",
+    "Contrato de servicios adjudicado por una fundación pública, con valor estimado de 225.000 euros.",
+    "Contrato de concesión de obras adjudicado por un ministerio, con valor estimado de 5.500.000 euros."
+   ]
+  },
+  {
+   "id": "pr-21-005",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 5,
+   "enunciado": "Conforme al artículo 87 de la LCSP, ¿cuál de los siguientes constituye un medio de acreditación de la solvencia económica y financiera?",
+   "opciones": [
+    "Volumen anual de negocios referido al mejor ejercicio de los cinco últimos disponibles, por importe igual o superior al exigido.",
+    "Patrimonio bruto al cierre del último ejercicio económico, por importe igual o superior al exigido.",
+    "Seguro de responsabilidad civil por riesgos profesionales, por importe igual o superior al exigido.",
+    "Declaración sobre la plantilla media anual de la empresa durante los tres últimos años."
+   ]
+  },
+  {
+   "id": "pr-21-006",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 6,
+   "enunciado": "Turespaña, O.A., proyecta la construcción de un nuevo edificio destinado a albergar sus oficinas administrativas. Al elaborar los pliegos de la licitación, se están seleccionando los medios con los que los empresarios podrán acreditar su solvencia técnica. ¿Cuál de los siguientes NO se encuentra entre los previstos en la LCSP para este tipo de contrato?",
+   "opciones": [
+    "Una relación de las obras ejecutadas en el curso de los cinco últimos años, avalada por certificados de buena ejecución.",
+    "Una declaración indicando el personal técnico del que disponga para la ejecución de la obra, esté o no integrado en la empresa.",
+    "Una declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "La indicación de la parte del contrato que el empresario tenga eventualmente el propósito de subcontratar."
+   ]
+  },
+  {
+   "id": "pr-21-007",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 7,
+   "enunciado": "El Instituto Nacional de Administración Pública, O.A., planea la adquisición de nuevos equipos informáticos para sus aulas de formación. Al elaborar los pliegos de la licitación, se están seleccionando los medios con los que los empresarios podrán acreditar su solvencia técnica. ¿Cuál de los siguientes se encuentra entre los previstos en la LCSP para este tipo de contrato?",
+   "opciones": [
+    "Declaración sobre la plantilla media anual de la empresa durante los tres últimos años.",
+    "Indicación de las medidas de gestión medioambiental que podrán aplicarse al ejecutar el contrato.",
+    "Descripción de las instalaciones técnicas, de las medidas para garantizar la calidad y de los medios de investigación de la empresa.",
+    "Relación de los principales suministros realizados durante los cinco últimos años."
+   ]
+  },
+  {
+   "id": "pr-21-008",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 8,
+   "enunciado": "El Instituto Nacional de Estadística, O.A., planea contratar la recogida y el transporte de documentación entre sus distintas dependencias. Al elaborar los pliegos de la licitación, se están seleccionando los medios con los que los empresarios podrán acreditar su solvencia técnica. ¿Cuál de los siguientes NO se ajusta a lo previsto en la LCSP para este tipo de contrato?",
+   "opciones": [
+    "Indicación de la parte del contrato que el empresario tenga eventualmente el propósito de subcontratar.",
+    "Títulos académicos y profesionales del responsable de la ejecución que vayan a tenerse en cuenta como criterio de adjudicación.",
+    "Indicación de las medidas de gestión medioambiental aplicables al ejecutar el contrato.",
+    "Relación de los principales servicios de igual o similar naturaleza realizados en los tres últimos años."
+   ]
+  },
+  {
+   "id": "pr-21-009",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 9,
+   "enunciado": "Señale la respuesta correcta respecto a la inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público:",
+   "opciones": [
+    "Solo podrá practicarse respecto de empresarios que hayan obtenido la correspondiente clasificación.",
+    "Acreditará, a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de aptitud del empresario.",
+    "Solo produce efectos acreditativos frente a los órganos de contratación del sector público estatal.",
+    "Constituye presupuesto de admisibilidad en todas las licitaciones del sector público estatal."
+   ]
+  },
+  {
+   "id": "pr-21-010",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 10,
+   "enunciado": "Construcciones Atlas, S.A., adjudicataria de un contrato de obras, se escinde durante su ejecución, atribuyéndose el contrato a Atlas Proyectos, S.A., una de las sociedades resultantes. Esta última, que cuenta con menos personal y medios que la sociedad originaria, no reúne las condiciones de solvencia exigidas, por lo que no puede producirse la subrogación. En tal caso, ¿qué ocurrirá con el contrato?",
+   "opciones": [
+    "Se resolverá, considerándose a todos los efectos como un supuesto de resolución por culpa del adjudicatario.",
+    "Se resolverá, considerándose a todos los efectos como un supuesto de resolución por culpa del ente adjudicador.",
+    "Se suspenderá la ejecución hasta que Atlas Proyectos, S.A. reúna las condiciones de solvencia necesarias.",
+    "Se continuará su ejecución, siempre que se presten las garantías complementarias que determine el órgano de contratación."
+   ]
+  },
+  {
+   "id": "pr-21-011",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 11,
+   "enunciado": "Conforme al artículo 99 de la Ley de Contratos del Sector Público, el objeto de los contratos del sector público:",
+   "opciones": [
+    "Deberá ser determinado, pudiendo definirse sin cerrarlo a una solución única.",
+    "Podrá ser indeterminado, pudiendo definirse sin cerrarlo a una solución única.",
+    "Deberá ser determinado, debiendo quedar cerrado a una solución única.",
+    "Podrá ser indeterminado, debiendo quedar cerrado a una solución única."
+   ]
+  },
+  {
+   "id": "pr-21-012",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 12,
+   "enunciado": "Conforme al artículo 99 de la LCSP, no podrá fraccionarse un contrato con la finalidad de:",
+   "opciones": [
+    "Facilitar la participación de pequeñas y medianas empresas en la licitación.",
+    "Permitir la realización independiente de determinadas partes de la prestación.",
+    "Favorecer la especialización de los empresarios que ejecuten las distintas prestaciones.",
+    "Disminuir su cuantía y eludir los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan."
+   ]
+  },
+  {
+   "id": "pr-21-013",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 13,
+   "enunciado": "Un ministerio licita un contrato de servicios de limpieza dividido en dos lotes: el lote 1, con un valor estimado de 100.000 euros, y el lote 2, con un valor estimado de 200.000 euros. Brillante, S.L. presenta oferta exclusivamente para el lote 1. Conforme al artículo 99 de la LCSP, señale la afirmación correcta:",
+   "opciones": [
+    "Las normas procedimentales y de publicidad se aplicarán tomando como referencia 100.000 euros.",
+    "Las normas procedimentales y de publicidad se aplicarán tomando como referencia 300.000 euros.",
+    "La solvencia exigible a Brillante, S.L. se determinará atendiendo al conjunto de las prestaciones correspondientes a ambos lotes.",
+    "La garantía definitiva que, en su caso, deba constituir Brillante, S.L. se determinará tomando como referencia 300.000 euros."
+   ]
+  },
+  {
+   "id": "pr-21-014",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 14,
+   "enunciado": "Un ministerio licita el suministro de vehículos, dividido en tres lotes: bicicletas, motocicletas y coches, sin admitir ofertas integradoras. Movilidad Sur, S.L. pretende participar en la licitación. Conforme al artículo 99 de la LCSP, señale la afirmación incorrecta:",
+   "opciones": [
+    "Podrá limitarse el número de lotes para los que puede presentar oferta.",
+    "Si resultara adjudicataria de más de un lote, cada lote constituirá un contrato.",
+    "Si se le permite presentar oferta a más de un lote, no podrá limitarse el número de lotes que puedan adjudicársele.",
+    "Podrá permitírsele presentar oferta a los tres lotes."
+   ]
+  },
+  {
+   "id": "pr-21-015",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 15,
+   "enunciado": "Según el artículo 99 de la LCSP, ¿cuál de las siguientes circunstancias no justifica la decisión de no dividir en lotes el objeto del contrato?",
+   "opciones": [
+    "Que la naturaleza o el objeto del contrato no permitan su división en lotes.",
+    "Que la división en lotes conlleve el riesgo de restringir injustificadamente la competencia.",
+    "Que la realización independiente de las prestaciones dificulte la correcta ejecución del contrato desde el punto de vista técnico.",
+    "Que la división en lotes perjudicara la obtención de condiciones económicas más ventajosas derivadas de economías de escala."
+   ]
+  },
+  {
+   "id": "pr-21-016",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 16,
+   "enunciado": "Conforme al artículo 99 de la LCSP, cuando existan motivos válidos, debidamente justificados en el expediente, el órgano de contratación podrá decidir no dividir en lotes el objeto del contrato, salvo en los casos de contratos de:",
+   "opciones": [
+    "Obras.",
+    "Concesión de obras.",
+    "Concesión de servicios.",
+    "Concesión de obras y concesión de servicios."
+   ]
+  },
+  {
+   "id": "pr-21-017",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 17,
+   "enunciado": "Conforme al artículo 100 de la LCSP, en relación con el presupuesto base de licitación, señale la afirmación incorrecta:",
+   "opciones": [
+    "Constituye el límite máximo de gasto que puede comprometer el órgano de contratación, IVA incluido.",
+    "En el momento de elaborarlo, el órgano de contratación cuidará de que sea adecuado a los precios del mercado.",
+    "Para su determinación deberán tenerse en cuenta las eventuales prórrogas del contrato.",
+    "Con carácter previo a la tramitación de un acuerdo marco o de un sistema dinámico de adquisición, no será necesario aprobarlo."
+   ]
+  },
+  {
+   "id": "pr-21-018",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 18,
+   "enunciado": "Un órgano de contratación está calculando el valor estimado de un contrato de servicios de limpieza. Conforme al artículo 101 de la LCSP, ¿cuál de los siguientes conceptos no deberá tenerse en cuenta para su determinación?",
+   "opciones": [
+    "Las eventuales prórrogas del contrato.",
+    "El importe máximo de las modificaciones previstas.",
+    "Cualquier opción eventual prevista en el contrato.",
+    "El Impuesto sobre el Valor Añadido."
+   ]
+  },
+  {
+   "id": "pr-21-019",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 19,
+   "enunciado": "Conforme al artículo 101 de la LCSP, y según las estimaciones del órgano de contratación, el valor estimado de los contratos de concesión de obras se determinará atendiendo a:",
+   "opciones": [
+    "El importe neto de la cifra de negocios que generará la empresa concesionaria durante la ejecución del contrato, IVA excluido.",
+    "El importe neto de la cifra de negocios que generará la empresa concesionaria durante la ejecución del contrato, IVA incluido.",
+    "El importe total pagadero durante la ejecución del contrato, IVA excluido.",
+    "El importe total pagadero durante la ejecución del contrato, IVA incluido."
+   ]
+  },
+  {
+   "id": "pr-21-020",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 20,
+   "enunciado": "Conforme a la LCSP, ¿cuál de los siguientes conceptos deberá tenerse en cuenta tanto para determinar el presupuesto base de licitación como para calcular el valor estimado del contrato?",
+   "opciones": [
+    "El Impuesto sobre el Valor Añadido.",
+    "Los gastos generales de estructura.",
+    "Las eventuales prórrogas del contrato.",
+    "El importe máximo de las modificaciones al alza previstas."
+   ]
+  },
+  {
+   "id": "pr-21-021",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 21,
+   "enunciado": "En relación con el presupuesto base de licitación, el precio por el que finalmente se adjudique el contrato:",
+   "opciones": [
+    "Podrá ser igual o inferior al presupuesto base de licitación.",
+    "Podrá ser igual o superior al presupuesto base de licitación.",
+    "Podrá ser tanto superior como inferior al presupuesto base de licitación.",
+    "Deberá coincidir, en todo caso, con el presupuesto base de licitación."
+   ]
+  },
+  {
+   "id": "pr-21-022",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 22,
+   "enunciado": "Señale la afirmación incorrecta en relación con el precio de los contratos, de acuerdo con lo dispuesto en el artículo 102 de la LCSP:",
+   "opciones": [
+    "En el precio se entenderá incluido el IVA, que se indicará como partida independiente.",
+    "El precio podrá formularse en términos de precios unitarios o a tanto alzado.",
+    "Podrá acordarse el pago aplazado cuando la ejecución del contrato deba comenzar antes de que sea posible determinar el precio.",
+    "Podrá preverse que la totalidad o parte del precio sea satisfecho en moneda distinta del euro."
+   ]
+  },
+  {
+   "id": "pr-21-023",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 23,
+   "enunciado": "En un contrato de obras, el pliego prevé la revisión periódica y predeterminada de precios. Señale la respuesta correcta según la LCSP:",
+   "opciones": [
+    "La fórmula de revisión aplicable será invariable durante la vigencia del contrato.",
+    "La revisión únicamente podrá producirse al alza.",
+    "Quedará excluido de la revisión el importe ejecutado en los dos primeros años transcurridos desde la formalización.",
+    "La revisión solo podrá llevarse a cabo si el período de recuperación de la inversión es igual o superior a cinco años."
+   ]
+  },
+  {
+   "id": "pr-21-024",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 24,
+   "enunciado": "En un contrato de concesión de servicios, el pliego prevé válidamente la revisión periódica y predeterminada de precios. ¿Cuándo podrá comenzar a aplicarse dicha revisión?",
+   "opciones": [
+    "Cuando se haya ejecutado, al menos, el 20 % del importe del contrato.",
+    "Una vez transcurrido un año desde la formalización, sin que sea necesario haber ejecutado el 20 % del contrato.",
+    "Una vez transcurridos dos años desde la formalización, sin que sea necesario haber ejecutado el 20 % del contrato.",
+    "Desde la formalización del contrato, con independencia del porcentaje ejecutado."
+   ]
+  },
+  {
+   "id": "pr-21-025",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 25,
+   "enunciado": "Conforme al artículo 106 de la LCSP, señale la respuesta correcta en relación con la garantía provisional:",
+   "opciones": [
+    "Deberá constituirse en todos los procedimientos de contratación.",
+    "Será exigible salvo que el órgano de contratación acuerde motivadamente su dispensa.",
+    "Podrá exigirse excepcionalmente por motivos de interés público, debidamente justificados en el expediente.",
+    "No podrá exigirse, al haber sido suprimida por la LCSP."
+   ]
+  }
+ ]
+}

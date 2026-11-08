@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-12-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 2,
+   "enunciado": "En un procedimiento abierto, el plazo para aportar la documentación relativa al cumplimiento de los requisitos previos es de: (Ayto Elche A2 – 2023)",
+   "opciones": [
+    "10 días hábiles, a contar desde el envío de la notificación.",
+    "15 días hábiles, a contar desde el envío de la notificación.",
+    "10 días hábiles, a contar desde el siguiente a aquel en que se hubiera recibido el requerimiento.",
+    "7 días hábiles, a contar desde el siguiente a aquel en que se hubiera recibido el requerimiento."
+   ]
+  },
+  {
+   "id": "vo-12-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 3,
+   "enunciado": "El órgano de contratación adjudicará, según establece el artículo 150 LCSP:",
+   "opciones": [
+    "Dentro de los 5 días hábiles siguientes a la recepción de la documentación.",
+    "Dentro de los 10 días hábiles siguientes a la recepción de la documentación.",
+    "Dentro de los 5 días siguientes al requerimiento de la documentación.",
+    "Dentro de los 10 días siguientes al requerimiento de la documentación."
+   ]
+  },
+  {
+   "id": "vo-12-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 4,
+   "enunciado": "Tal como dispone el artículo 151 de la Ley 9/2017: (Canarias C1 – 2022)",
+   "opciones": [
+    "La resolución de licitación deberá ser motivada, se notificará a los licitadores y se podrá notificar a los candidatos si así lo solicitan, debiendo ser publicada en el perfil de contratante en el plazo de 15 días.",
+    "La resolución de adjudicación deberá ser motivada y se notificará a los candidatos y licitadores, debiendo ser publicada en el perfil de contratante en el plazo de 15 días.",
+    "La resolución de adjudicación deberá ser motivada, se notificará a los licitadores y se podrá notificar a los candidatos si así lo solicitan, debiendo ser publicada en el perfil de contratante en el plazo de 10 días.",
+    "La resolución de adjudicación deberá ser motivada, se notificará a los candidatos y licitadores, que podrá ser publicada en el perfil de contratante en el plazo de 10 días."
+   ]
+  },
+  {
+   "id": "vo-12-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 5,
+   "enunciado": "Indique la correcta, en relación con el artículo 152 LCSP, decisión de no adjudicar o celebrar el contrato y desistimiento del procedimiento de adjudicación por la Administración:",
+   "opciones": [
+    "El desistimiento del procedimiento impedirá la iniciación inmediata de un procedimiento de licitación.",
+    "La decisión de no adjudicar o celebrar el contrato o el desistimiento del procedimiento podrán acordarse por el órgano de contratación antes de la formalización.",
+    "Solo podrá adoptarse el desistimiento por razones de interés público debidamente justificadas en el expediente.",
+    "La decisión de no adjudicar o celebrar el contrato deberá estar fundado en una infracción no subsanable de las normas de preparación del contrato o de las reguladoras del procedimiento de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-12-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 6,
+   "enunciado": "La formalización de un contrato sujeto a recurso especial en materia de contratación se ha de efectuar en el siguiente plazo: (Ayto Elche A2 – 2023)",
+   "opciones": [
+    "No antes de que transcurran 15 días hábiles desde que se remita la notificación de adjudicación a los licitadores.",
+    "No antes de que transcurran 15 días naturales desde que se remita la notificación de adjudicación a los licitadores.",
+    "Dentro de los 15 días hábiles desde que se remita la notificación de adjudicación a los licitadores.",
+    "Dentro de los 15 días naturales desde que se remita la notificación de adjudicación a los licitadores."
+   ]
+  },
+  {
+   "id": "vo-12-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 7,
+   "enunciado": "La formalización de los contratos deberá publicarse, junto con el correspondiente contrato, en el perfil de contratante del órgano de contratación, en un plazo:",
+   "opciones": [
+    "No superior a 15 días tras el perfeccionamiento.",
+    "Inmediatamente después del perfeccionamiento.",
+    "No superior a 10 días tras el perfeccionamiento.",
+    "No superior a 5 días tras el perfeccionamiento."
+   ]
+  },
+  {
+   "id": "vo-12-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 8,
+   "enunciado": "Conforme al procedimiento abierto, el plazo general de presentación de proposiciones para un contrato de obras, no será inferior a:",
+   "opciones": [
+    "30 días, si está sujeto a regulación armonizada.",
+    "15 días, si no está sujeto a regulación armonizada.",
+    "15 días, si está sujeto a regulación armonizada y se acepta la presentación de ofertas por medios electrónicos.",
+    "26 días, si no está sujeto a regulación armonizada."
+   ]
+  },
+  {
+   "id": "vo-12-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 9,
+   "enunciado": "Conforme al artículo 157 de la LCSP, finalizado el plazo para la presentación de las proposiciones, la apertura de las mismas deberá efectuarse en el plazo máximo de:",
+   "opciones": [
+    "15 días.",
+    "20 días hábiles.",
+    "2 meses.",
+    "20 días."
+   ]
+  },
+  {
+   "id": "vo-12-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 10,
+   "enunciado": "Indique la respuesta correcta, respecto al plazo de adjudicación:",
+   "opciones": [
+    "Cuando el único criterio para seleccionar al adjudicatario del contrato sea el del precio, la adjudicación deberá recaer en el plazo máximo de 15 días.",
+    "Cuando para la adjudicación del contrato deban tenerse en cuenta una pluralidad de criterios o utilizándose un único criterio sea este el del mayor coste del ciclo de vida, el plazo máximo para efectuar la adjudicación será de 2 meses.",
+    "Cuando el único criterio para seleccionar al adjudicatario del contrato sea el del precio, la adjudicación deberá recaer en el plazo máximo de 2 meses.",
+    "Cuando para la adjudicación del contrato deban tenerse en cuenta una pluralidad de criterios o utilizándose un único criterio sea este el del menor coste del ciclo de vida, el plazo máximo para efectuar la adjudicación será de 15 días."
+   ]
+  },
+  {
+   "id": "vo-12-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 11,
+   "enunciado": "En el procedimiento abierto simplificado regulado en el artículo 159.1 de la Ley 9/2017, de haber en el pliego de cláusulas administrativas particulares criterios de adjudicación evaluables mediante juicio de valor su ponderación: (Murcia A1 – 2020)",
+   "opciones": [
+    "No podrá superar el 25% del total, salvo en el caso de que el contrato tenga por objeto prestaciones de carácter intelectual.",
+    "En todo caso podrá superar el 25% del total.",
+    "No podrá superar el 25% del total incluso cuando el contrato tenga por objeto prestaciones de carácter intelectual.",
+    "En todo caso podrá superar el 35% del total."
+   ]
+  },
+  {
+   "id": "vo-12-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 12,
+   "enunciado": "De conformidad con la Ley 9/2017, una de las condiciones para que los órganos de contratación acuerden la utilización de un procedimiento abierto simplificado en los contratos de obras es que su valor estimado sea igual o inferior a: (Asturias A1 – 2022)",
+   "opciones": [
+    "2.000.000 de euros.",
+    "3.000.000 de euros.",
+    "4.000.000 de euros.",
+    "5.000.000 de euros."
+   ]
+  },
+  {
+   "id": "vo-12-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 13,
+   "enunciado": "Utilizando el procedimiento más ágil. El plazo de presentación de proposiciones en un contrato de obras con valor estimado de 79.000 € no será inferior a:",
+   "opciones": [
+    "20 días a contar desde la publicación del anuncio de licitación en el perfil de contratante",
+    "10 días hábiles a contar a partir del día siguiente a la publicación del anuncio de licitación en el perfil de contratante.",
+    "15 días a contar desde el día de la publicación del anuncio de licitación en el perfil de contratante.",
+    "15 días a contar a partir del día siguiente a la publicación del anuncio de licitación en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "vo-12-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 14,
+   "enunciado": "El artículo 159.4 de la LCSP, señala una serie de especialidades a seguir en la tramitación del procedimiento abierto simplificado, ¿Cuál de las siguientes es la correcta?: (SIAL - 2024)",
+   "opciones": [
+    "No procederá la constitución de garantía definitiva por parte de los licitadores.",
+    "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación.",
+    "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional.",
+    "La formalización del contrato podrá efectuarse mediante la firma de aceptación por el contratista de la resolución de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-12-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 15,
+   "enunciado": "Según el artículo 160 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el procedimiento restringido: (Murcia A1 – 2020)",
+   "opciones": [
+    "En este procedimiento estará prohibida toda negociación de los términos del contrato con los solicitantes o candidatos.",
+    "Este procedimiento es especialmente adecuado cuando se trata de servicios intelectuales de especial complejidad, como es el caso de algunos servicios de consultoría, de arquitectura o de ingeniería.",
+    "Solo podrán presentar proposiciones aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación.",
+    "Todas son correctas."
+   ]
+  },
+  {
+   "id": "vo-12-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 16,
+   "enunciado": "Según el artículo 161 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el procedimiento restringido, si se trata de contratos no sujetos a regulación armonizada, el plazo para la presentación de solicitudes de participación será:",
+   "opciones": [
+    "No podrá ser inferior a treinta días, contados desde la publicación del anuncio de licitación.",
+    "Como máximo, de quince días, contados desde la publicación del anuncio de licitación.",
+    "Como máximo, de treinta días, contados desde la publicación del anuncio de licitación.",
+    "Como mínimo, de quince días, contados desde la publicación del anuncio de licitación."
+   ]
+  },
+  {
+   "id": "vo-12-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 17,
+   "enunciado": "Según el artículo 162 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, en el procedimiento restringido, el órgano de contratación señalará el número mínimo de empresarios a los que invitará a participar en el procedimiento, que:",
+   "opciones": [
+    "No podrá ser inferior a 5.",
+    "No podrá ser inferior a 3.",
+    "No podrá ser superior a 5.",
+    "No podrá ser superior a 3."
+   ]
+  },
+  {
+   "id": "vo-12-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 18,
+   "enunciado": "Se considera un procedimiento con negociación cuando: (Girona A1 – 2024)",
+   "opciones": [
+    "Todo empresario interesado puede presentar una proposición, y queda excluida toda negociación de los términos del contrato con los licitadores.",
+    "Cualquier empresa interesada puede presentar una solicitud de participación en respuesta a una convocatoria de licitación.",
+    "Cuando la adjudicación recae en el licitador justificadamente elegido por el órgano de contratación, tras negociar las condiciones del contrato con uno o varios candidatos.",
+    "Tiene la finalidad de desarrollar una o varias soluciones susceptibles de satisfacer sus necesidades y que servirán de base para que los candidatos elegidos presenten una oferta."
+   ]
+  },
+  {
+   "id": "vo-12-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 19,
+   "enunciado": "Conforme a la LCSP, no es un supuesto de aplicación del procedimiento negociado contemplado en el artículo 167:",
+   "opciones": [
+    "Cuando el contrato haya sido declarado secreto o reservado.",
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+    "Cuando el órgano de contratación no pueda establecer con la suficiente precisión las especificaciones técnicas.",
+    "Cuando el contrato no pueda adjudicarse sin negociaciones previas debido a circunstancias específicas vinculadas a su objeto, o los riesgos inherentes a la prestación del contrato."
+   ]
+  },
+  {
+   "id": "vo-12-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 20,
+   "enunciado": "En relación con la tramitación del procedimiento de licitación con negociación:",
+   "opciones": [
+    "Se negociarán los requisitos mínimos de la prestación objeto del contrato ni tampoco los criterios de adjudicación.",
+    "No se negociarán los requisitos mínimos de la prestación objeto del contrato y si los criterios de adjudicación.",
+    "No se negociarán los requisitos mínimos de la prestación objeto del contrato ni tampoco los criterios de adjudicación.",
+    "Se negociarán los requisitos mínimos de la prestación objeto del contrato, pero no los criterios de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-12-021",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 21,
+   "enunciado": "Señale la respuesta incorrecta en relación con el diálogo competitivo:",
+   "opciones": [
+    "El documento descriptivo podrá establecer primas o compensaciones para todos o algunos de los participantes en el diálogo.",
+    "Podrá utilizare en los mismos casos que el procedimiento de licitación con negociación (supuestos previstos en el artículo 167).",
+    "La mesa especial de diálogo competitivo dirige un diálogo con los candidatos seleccionados, a fin de desarrollar una o varias soluciones.",
+    "En caso de que se decida limitar el número de empresas a las que se invitará a dialogar, el número mínimo de candidatos capacitados para ejecutar el objeto del contrato será de cinco."
+   ]
+  },
+  {
+   "id": "vo-12-022",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 22,
+   "enunciado": "En el diálogo competitivo, el órgano de contratación en todo caso deberá asegurase de que el número mínimo de candidatos capacitados para ejecutar el objeto del contrato será de:",
+   "opciones": [
+    "1.",
+    "3.",
+    "5.",
+    "7."
+   ]
+  },
+  {
+   "id": "vo-12-023",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 23,
+   "enunciado": "Señale la respuesta incorrecta en relación con el procedimiento de asociación para la innovación:",
+   "opciones": [
+    "En ningún caso, la resolución de la asociación para la innovación o la reducción del número de candidatos participantes dará lugar a indemnización.",
+    "En el caso de que la adquisición conlleve la realización de prestaciones sucesivas, aquella solo se podrá llevar a cabo durante un periodo máximo de 4 años.",
+    "El plazo de presentación de solicitudes en un contrato sujeto de regulación armonizada, no podrá ser inferior a 30 días.",
+    "Serán objeto de negociación los requisitos mínimos y los criterios de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-12-024",
+   "origen": "votaciones",
+   "test": "Clase repaso 17 - Bloque III",
+   "n": 24,
+   "enunciado": "Según el artículo 178 LCSP, dentro del procedimiento de asociación para la innovación, el plazo mínimo para la recepción de las solicitudes de participación, cuando el contrato esté sujeto a regulación armonizada, será de:",
+   "opciones": [
+    "30 días a partir de la fecha de envío del anuncio de licitación.",
+    "26 días a partir de la fecha de envío del anuncio de licitación.",
+    "20 días a partir de la fecha de envío del anuncio de licitación.",
+    "10 días a partir de la fecha de envío del anuncio de licitación."
+   ]
+  },
+  {
+   "id": "vo-13-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 1,
+   "enunciado": "El artículo 188 LCSP, establece que los efectos de los contratos administrativos se regirán por:",
+   "opciones": [
+    "Por la normativa europea, con exclusión de la legislación española si el contrato está sujeto a regulación armonizada.",
+    "Exclusivamente por el Código Civil.",
+    "Las normas a que hace referencia el artículo 25.2 y por los pliegos de cláusulas administrativas y de prescripciones técnicas.",
+    "Únicamente por los pliegos de cláusulas administrativas y de prescripciones técnicas."
+   ]
+  },
+  {
+   "id": "vo-13-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 2,
+   "enunciado": "¿Cuál no es una prerrogativa del órgano de contratación? (Ayuntamiento de Elche A2 – 2023)",
+   "opciones": [
+    "Interpretar los contratos administrativos.",
+    "Modificar los contratos administrativos por razones de interés público.",
+    "Suspender la ejecución de los contratos.",
+    "Inspeccionar las instalaciones donde el contratista desarrolle sus actividades."
+   ]
+  },
+  {
+   "id": "vo-13-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 3,
+   "enunciado": "Será preceptivo el dictamen del Consejo de Estado:",
+   "opciones": [
+    "Las reclamaciones dirigidas a la Administración con fundamento en la responsabilidad contractual en que esta pudiera haber incurrido, en los casos en que las indemnizaciones reclamadas sean de cuantía igual o superior a 40.000 euros.",
+    "Las modificaciones de los contratos cuando no estuvieran previstas en el pliego de cláusulas administrativas particulares y su cuantía, sea superior a un 20% del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 8.000.000 de euros.",
+    "Las reclamaciones dirigidas a la Administración con fundamento en la responsabilidad contractual en que esta pudiera haber incurrido, en los casos en que las indemnizaciones reclamadas sean de cuantía igual o superior a 30.050 euros.",
+    "Las modificaciones de los contratos cuando no estuvieran previstas en el pliego de cláusulas administrativas particulares y su cuantía, sea superior a un 20% del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 6.000.000 de euros."
+   ]
+  },
+  {
+   "id": "vo-13-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 4,
+   "enunciado": "La LCSP, en el art. 192, establece que estas penalidades deberán ser proporcionales a la gravedad del incumplimiento y las cuantías:",
+   "opciones": [
+    "De cada una de ellas no podrán ser superiores al 50 por ciento del precio del contrato, IVA excluido, ni el total de las mismas superar el 10 por cien del precio del contrato.",
+    "De cada una de ellas no podrán ser superiores al 20 por ciento del precio del contrato, IVA excluido, ni el total de las mismas superar el 50 por cien del precio del contrato.",
+    "De cada una de ellas no podrán ser superiores al 10 por ciento del precio del contrato, IVA excluido, ni el total de las mismas superar el 20 por cien del precio del contrato.",
+    "De cada una de ellas no podrán ser superiores al 10 por ciento del precio del contrato, IVA excluido, ni el total de las mismas superar el 50 por cien del precio del contrato."
+   ]
+  },
+  {
+   "id": "vo-13-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 5,
+   "enunciado": "Cuando el contratista, por causas imputables al mismo, hubiera incurrido en demora respecto al cumplimiento total, según el artículo 193.3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: (Ayuntamiento Arrecife A1 – 2026)",
+   "opciones": [
+    "La Administración podrá optar, atendidas las circunstancias del caso, por la resolución del contrato o por la imposición de las penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+    "La Administración podrá optar, atendidas las circunstancias del caso, por la resolución del contrato o por la imposición de las penalidades diarias en la proporción de 0,45 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+    "La Administración deberá resolver el contrato con la imposición de las penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido.",
+    "La Administración deberá resolver el contrato con la imposición de las penalidades mensuales en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "vo-13-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 6,
+   "enunciado": "Los terceros podrán requerir previamente, al órgano de contratación para que este, oído el contratista, informe sobre a cuál de las partes contratantes corresponde la responsabilidad de los daños:",
+   "opciones": [
+    "Dentro de los dos años siguientes a la producción del hecho.",
+    "Dentro de los seis meses siguientes a la producción del hecho.",
+    "Dentro del año siguiente a la producción del hecho.",
+    "Dentro del mes siguiente a la producción del hecho."
+   ]
+  },
+  {
+   "id": "vo-13-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 7,
+   "enunciado": "Respecto del pago del precio recogido en el artículo 198 de la Ley 9/2017, del 8 de noviembre, de Contratos del Sector Público, la Administración tendrá la obligación de abonar el precio (señale la respuesta correcta): (ITAL – 2024)",
+   "opciones": [
+    "Dentro de los treinta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato.",
+    "Dentro de los sesenta días siguientes a la fecha de presentación de la factura ante el registro administrativo correspondiente en los términos establecidos en la normativa vigente sobre factura electrónica.",
+    "Dentro de los sesenta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato.",
+    "Dentro de los treinta días siguientes a la fecha de presentación de la factura ante el registro administrativo correspondiente en los términos establecidos en la normativa vigente sobre factura electrónica."
+   ]
+  },
+  {
+   "id": "vo-13-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 8,
+   "enunciado": "El contratista podrá proceder, en su caso, a la suspensión del cumplimiento del contrato:",
+   "opciones": [
+    "Si la demora en el pago fuese igual o superior a 4 meses, debiendo comunicar a la Administración, con un mes de antelación, tal circunstancia.",
+    "Si la demora en el pago fuese superior a 4 meses, debiendo comunicar a la Administración, con un mes de antelación, tal circunstancia.",
+    "Si la demora en el pago fuese igual o superior a 6 meses, debiendo comunicar a la Administración, con un mes de antelación, tal circunstancia.",
+    "Si la demora en el pago fuese superior a 6 meses, debiendo comunicar a la Administración, con un mes de antelación, tal circunstancia."
+   ]
+  },
+  {
+   "id": "vo-13-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 9,
+   "enunciado": "Los órganos de contratación podrán establecer condiciones especiales en relación con ejecución del contrato, siempre que: (indique la incorrecta)",
+   "opciones": [
+    "Estén vinculadas al objeto del contrato.",
+    "No sean directa o indirectamente discriminatorias.",
+    "Sean compatibles con el derecho comunitario.",
+    "Se indiquen en el anuncio de información previa y en los pliegos."
+   ]
+  },
+  {
+   "id": "vo-13-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 10,
+   "enunciado": "Los contratos de las Administraciones Públicas, cuando la modificación se encuentra prevista en el PCAP, podrán modificarse durante su vigencia hasta un máximo de un: (Elche A2 – 2023)",
+   "opciones": [
+    "10% del precio inicial.",
+    "15% del precio inicial.",
+    "20% del precio inicial.",
+    "50% del precio inicial."
+   ]
+  },
+  {
+   "id": "vo-13-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 11,
+   "enunciado": "Una modificación de un contrato NO prevista se considerará sustancial: (Salamanca A2 – 2023)",
+   "opciones": [
+    "Cuando el valor de la modificación suponga una alteración de la cuantía del contrato que exceda aislada o conjuntamente, del 5 % del precio inicial del mismo, IVA excluido, en los contratos de suministro.",
+    "Cuando el valor de la modificación suponga una alteración de la cuantía del contrato que exceda aislada o conjuntamente, del 10 % del precio inicial del mismo, IVA incluido en los contratos de suministro.",
+    "Cuando el valor de la modificación suponga una alteración de la cuantía del contrato que exceda aislada o conjuntamente, del 15% del precio inicial del mismo, IVA excluido en los contratos de obras.",
+    "Cuando el valor de la modificación suponga una alteración de la cuantía del contrato que exceda aislada o conjuntamente, del 15 % del precio inicial del mismo, IVA incluido, en los contratos de obras."
+   ]
+  },
+  {
+   "id": "vo-13-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 12,
+   "enunciado": "El derecho a reclamar contado desde que el contratista reciba la orden de reanudar la ejecución del contrato:",
+   "opciones": [
+    "Prescribe en a los seis meses.",
+    "Caduca en un año.",
+    "Caduca en seis meses.",
+    "Prescribe en un año."
+   ]
+  },
+  {
+   "id": "vo-13-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 13,
+   "enunciado": "Excepto en los contratos de obras, deberá acordarse en su caso y cuando la naturaleza del contrato lo exija, y ser notificada al contratista la liquidación correspondiente del contrato, y abonársele, en su caso, el saldo resultante, dentro del plazo de:",
+   "opciones": [
+    "30 días a contar desde la fecha del acta de recepción o conformidad.",
+    "30 días a contar desde la fecha final del plazo de garantía.",
+    "1 mes a contar desde la fecha del acta de recepción o conformidad.",
+    "30 días a contar desde la entrega o realización del objeto del contrato."
+   ]
+  },
+  {
+   "id": "vo-13-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 14,
+   "enunciado": "Es una causa de resolución del contrato, según lo previsto en el artículo 211.1.c) de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: (SEAL – 2024)",
+   "opciones": [
+    "El cumplimiento del contrato.",
+    "La demora en el cumplimiento de cualquier plazo por parte de la Administración.",
+    "Cualquier incumplimiento de una obligación accesoria del contratista.",
+    "El mutuo acuerdo entre la Administración y el contratista."
+   ]
+  },
+  {
+   "id": "vo-13-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 15,
+   "enunciado": "De conformidad con el artículo 212.8 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los expedientes de resolución contractual deberán ser instruidos y resueltos en el plazo máximo de: (CyL A2 – 2020)",
+   "opciones": [
+    "Doce meses.",
+    "Tres meses.",
+    "Seis meses.",
+    "Ocho meses."
+   ]
+  },
+  {
+   "id": "vo-13-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 16,
+   "enunciado": "En un contrato de servicios, para que el/la contratista pueda ceder sus derechos y obligaciones a terceros, los pliegos deberán contemplar, entre otros requisitos, que el cedente tenga ejecutado al menos: (Cuerpo Especial IIPP – 2026)",
+   "opciones": [
+    "El 10 por 100 del importe del contrato.",
+    "El 15 por 100 del importe del contrato.",
+    "El 20 por 100 del importe del contrato.",
+    "El 25 por 100 del importe del contrato."
+   ]
+  },
+  {
+   "id": "vo-13-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 17,
+   "enunciado": "Indique la incorrecta en relación con la subcontratación del artículo 215 LCSP:",
+   "opciones": [
+    "Si así se prevé en los pliegos, los licitadores deberán indicar en la oferta la parte del contrato que tengan previsto subcontratar.",
+    "En todo caso, el contratista deberá comunicar por escrito la intención de subcontratar.",
+    "La subcontratación requerirá autorización previa del órgano contratante en los casos de carácter secreto o reservado.",
+    "Los subcontratistas quedarán obligados ante la Administración."
+   ]
+  },
+  {
+   "id": "vo-13-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 18,
+   "enunciado": "Indique la correcta en relación con la cesión de los contratos del artículo 214 LCSP:",
+   "opciones": [
+    "Que la cesión de formalice entre el adjudicatario y el órgano de contratación, en escritura pública.",
+    "Que el órgano de contratación autorice la cesión de forma previa o simultánea y expresa.",
+    "Que el cesionario tenga capacidad de para contratar con la Administración.",
+    "Que el cedente, cuando se trate de un contrato de concesión de obras o de servicios, que haya efectuado su explotación durante al menos un tercio del plazo de duración del mismo."
+   ]
+  },
+  {
+   "id": "vo-13-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 19,
+   "enunciado": "Indique la incorrecta respecto a los contratos basados en un acuerdo marco:",
+   "opciones": [
+    "Podrán adjudicarse solo durante la vigencia del acuerdo marco, que no podrá exceder de 5 años, salvo en casos excepcionales, debidamente justificados.",
+    "La duración será independiente de la duración del acuerdo marco.",
+    "Podrán adjudicarse solo durante la vigencia del acuerdo marco, que no podrá exceder de 4 años, salvo en casos excepcionales, debidamente justificados.",
+    "Podrán celebrarse solo entre las empresas y los órganos de contratación que haya sido originariamente partes en el mismo."
+   ]
+  },
+  {
+   "id": "vo-13-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 20,
+   "enunciado": "El sistema dinámico de adquisición es un proceso (indique la incorrecta):",
+   "opciones": [
+    "Con una duración limitada y determinada en los pliegos.",
+    "Abierto durante todo el periodo de vigencia a cualquier empresa interesada que cumpla los criterios de selección.",
+    "Totalmente electrónico.",
+    "Con una duración ilimitada."
+   ]
+  },
+  {
+   "id": "vo-13-021",
+   "origen": "votaciones",
+   "test": "Clase repaso 18 - Bloque III",
+   "n": 21,
+   "enunciado": "Podrá declarar de contratación centralizada los suministros, obras y servicios, que se contraten de forma general y con características esencialmente homogéneas:",
+   "opciones": [
+    "El Ministerio de Hacienda.",
+    "La Junta de Contratación Centralizada",
+    "El Ministro de Hacienda.",
+    "El Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "vo-14-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 1,
+   "enunciado": "La adjudicación de un contrato de obras requerirá: (Antequera A2 – 2024)",
+   "opciones": [
+    "La previa elaboración, supervisión, aprobación y replanteo del correspondiente proyecto.",
+    "Solo la previa elaboración del correspondiente proyecto.",
+    "Solo la previa elaboración y supervisión del correspondiente proyecto.",
+    "La previa elaboración, supervisión y aprobación del correspondiente proyecto."
+   ]
+  },
+  {
+   "id": "vo-14-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 2,
+   "enunciado": "En base a lo establecido en el artículo 235 de la Ley 9/2017, antes de la aprobación de un proyecto de obra ¿cuándo deberá solicitar el órgano de contratación un informe a la oficina o unidad de supervisión de proyectos?: (Ayuntamiento Borriol C1 – 2025)",
+   "opciones": [
+    "Cuando el presupuesto base de licitación del contrato de obras sea superior a 500.000 euros, I.V.A. incluido.",
+    "Cuando el presupuesto base de licitación del contrato de obras sea igual a 500.000 euros, I.V.A. excluido.",
+    "Cuando el presupuesto base de licitación del contrato de obras sea igual o superior a 500.000 euros, I.V.A. excluido.",
+    "Cuando el presupuesto base de licitación del contrato de obras sea igual o superior a 500.000 euros, I.V.A. incluido."
+   ]
+  },
+  {
+   "id": "vo-14-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 3,
+   "enunciado": "Según el artículo 236 de la LCSP, el replanteo previo del proyecto de obras tendrá lugar: (Diputación Valladolid A1 – 2023)",
+   "opciones": [
+    "Dentro del plazo que se consigne en el contrato que no podrá ser superior a un mes desde la fecha de su formalización, salvo casos excepcionales motivados.",
+    "Aprobado el proyecto y previamente a la aprobación del expediente de contratación de la obra.",
+    "Dentro del plazo de quince días desde la fecha de su formalización, cuando se trate contratos que hayan sido objeto de tramitación urgente.",
+    "Las letras A y C son correctas."
+   ]
+  },
+  {
+   "id": "vo-14-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 4,
+   "enunciado": "De acuerdo con los previsto en la LCSP, la ejecución del contrato de obras comenzará con: (Diputación Gerona A2 – 2023)",
+   "opciones": [
+    "La adjudicación del contrato.",
+    "El replanteo y la aprobación del proyecto.",
+    "La firma del contrato.",
+    "El acta de comprobación del replanteo."
+   ]
+  },
+  {
+   "id": "vo-14-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 5,
+   "enunciado": "Cuando las instrucciones fueren de carácter verbal:",
+   "opciones": [
+    "Deberán ser ratificadas por escrito en el plazo de un mes, para que sean vinculantes para las partes.",
+    "No deberán ser ratificadas por escrito, para que sean vinculantes para las partes.",
+    "Deberán ser ratificadas por escrito en el plazo de diez días, para que sean vinculantes para las partes.",
+    "Deberán ser ratificadas por escrito en el más breve plazo posible, para que sean vinculantes para las partes."
+   ]
+  },
+  {
+   "id": "vo-14-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 6,
+   "enunciado": "El artículo 240 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público regula las certificaciones en los contratos de obra, a este respecto indique la respuesta correcta: (ITAL – 2024)",
+   "opciones": [
+    "Serán expedidas por la Administración mensualmente, en los primeros diez días siguientes al mes al que correspondan.",
+    "Serán expedidas por el contratista mensualmente, en los primeros cinco días siguientes al mes al que correspondan.",
+    "Serán expedidas por el contratista mensualmente, en los primeros diez días siguientes al mes al que correspondan.",
+    "Serán expedidas en aquellos casos que el valor estimado del contrato supere 100.000 euros."
+   ]
+  }
+ ]
+}

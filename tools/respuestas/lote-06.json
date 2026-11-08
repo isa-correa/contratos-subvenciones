@@ -1,0 +1,127 @@
+{
+"au-07-009": {"bloque":"lcsp-preparacion","precepto":"art. 91","correcta":1,"justificaciones":[
+"No. El **art. 91** no remite al contrato de obras, sino al artículo anterior, que regula los servicios.",
+"Es esta. El **art. 91** dice que, en los contratos que no son de obras, servicios ni suministro, la solvencia técnica se acredita con los medios del **art. 90**, que son los de servicios.",
+"No. Los medios de suministro están en el **art. 89** y el **art. 91** no remite a ellos.",
+"No. La concesión de obras es uno de esos “restantes contratos” a los que se aplica el **art. 91**, pero no es el modelo al que se remite."]},
+"au-07-010": {"bloque":"lcsp-preparacion","precepto":"arts. 88.1.b, 89.1.b y 90.1.b","correcta":3,"justificaciones":[
+"No es solo esta. Es cierto en obras (**art. 88.1.b**), pero también lo es en los otros dos.",
+"No es solo esta. Es cierto en servicios (**art. 90.1.b**), pero también lo es en los otros dos.",
+"No es solo esta. Es cierto en suministros (**art. 89.1.b**), pero también lo es en los otros dos.",
+"Es esta. Indicar el personal técnico o las unidades técnicas participantes es medio de solvencia en obras, suministros y servicios (**arts. 88.1.b, 89.1.b y 90.1.b**)."]},
+"au-07-011": {"bloque":"lcsp-preparacion","precepto":"arts. 88.1.c y 90.1.e","correcta":2,"justificaciones":[
+"No. Los títulos académicos y profesionales también valen en servicios, así que no es exclusivo de obras.",
+"No. También valen en obras (**art. 88.1.c**), así que no es exclusivo de servicios.",
+"Es esta. Los títulos académicos y profesionales figuran en obras (**art. 88.1.c**) y en servicios (**art. 90.1.e**), siempre que no se evalúen como criterio de adjudicación.",
+"No. En suministros (**art. 89**) no aparece este medio, aunque sí en servicios."]},
+"au-07-012": {"bloque":"lcsp-preparacion","precepto":"arts. 89.1.c y 90.1.c","correcta":3,"justificaciones":[
+"No. La descripción de instalaciones técnicas, medidas de calidad y medios de estudio no figura entre los medios de obras (**art. 88**).",
+"No. Es medio de servicios (**art. 90.1.c**), pero no solo de servicios: también lo es de suministros.",
+"No. Obras no lo incluye en su lista (**art. 88**), así que esta combinación es incorrecta.",
+"Es esta. La descripción de instalaciones técnicas, medidas de calidad y medios de estudio e investigación está en suministros (**art. 89.1.c**) y en servicios (**art. 90.1.c**)."]},
+"au-07-013": {"bloque":"lcsp-preparacion","precepto":"art. 90.1.i","correcta":1,"justificaciones":[
+"No. La lista de medios de solvencia de obras (**art. 88.1**) no incluye indicar la parte que se subcontratará.",
+"Es esta. Indicar la parte del contrato que se pretende subcontratar es medio de solvencia técnica solo en servicios (**art. 90.1.i**).",
+"No. La lista de medios de suministros (**art. 89.1**) no incluye este medio.",
+"No. Solo uno de los tres tipos lo recoge, así que no vale para todos."]},
+"au-07-014": {"bloque":"lcsp-preparacion","precepto":"art. 96.1","correcta":2,"justificaciones":[
+"No. La inscripción acredita mucho más que la personalidad y la capacidad de obrar, y la palabra “exclusivamente” lo hace falso.",
+"No. También acredita otras condiciones además de las prohibiciones de contratar, y “exclusivamente” lo hace falso.",
+"Es esta. El **art. 96.1** enumera personalidad y capacidad de obrar, representación, habilitación profesional o empresarial, solvencia, clasificación, prohibiciones de contratar y demás circunstancias inscritas.",
+"No. La clasificación es una de las condiciones acreditadas, pero no la única."]},
+"au-07-015": {"bloque":"lcsp-preparacion","precepto":"art. 96.2","correcta":2,"justificaciones":[
+"No. Frente a todos los órganos de contratación del sector público acredita el Registro Oficial estatal (**art. 96.1**), no el autonómico.",
+"No. El ámbito estatal es el del Registro Oficial de Licitadores y Empresas Clasificadas, no el del registro autonómico.",
+"Es esta. El registro autonómico acredita sus circunstancias para contratar con la Comunidad Autónoma, con las entidades locales de su ámbito y con los entes dependientes de unas y otras (**art. 96.2**).",
+"No. Los organismos dependientes del sector público estatal quedan fuera del ámbito del registro autonómico."]},
+"au-08-001": {"bloque":"lcsp-preparacion","precepto":"art. 100.1","correcta":2,"justificaciones":[
+"No. La cuantía que exija autorización del Consejo de Ministros no es lo que define el presupuesto base de licitación.",
+"No. Esa autorización del Consejo de Ministros no es parte del concepto del **art. 100.1**.",
+"Es esta. El presupuesto base de licitación es el límite máximo de gasto que puede comprometer el órgano de contratación, con IVA incluido salvo disposición en contrario (**art. 100.1**).",
+"No. Es al revés: incluye el IVA. El que se calcula sin IVA es el valor estimado (**art. 101**)."]},
+"au-08-002": {"bloque":"lcsp-preparacion","precepto":"art. 101.2","correcta":2,"justificaciones":[
+"No. Los costes de las normativas laborales vigentes se tienen en cuenta en todos los contratos, no solo en los de servicios.",
+"No. Hay que contar los gastos generales de estructura y también el beneficio industrial, que esta opción excluye.",
+"Es esta. Las opciones eventuales y las prórrogas se suman al valor estimado (**art. 101.2.a**).",
+"No. Las multas no forman parte del valor estimado. Sí cuentan las primas o pagos a candidatos y licitadores."]},
+"au-08-003": {"bloque":"lcsp-preparacion","precepto":"art. 101.1.a","correcta":2,"justificaciones":[
+"No. El valor estimado se calcula sin IVA, no incluyéndolo.",
+"No. Se calcula según las estimaciones del órgano de contratación, no del contratista.",
+"Es esta. En obras, suministros y servicios se toma el importe total, sin IVA, pagadero según las estimaciones del órgano de contratación (**art. 101.1.a**).",
+"No. Incluye el IVA, y además sería el presupuesto base de licitación, no el valor estimado."]},
+"au-08-004": {"bloque":"lcsp-preparacion","precepto":"art. 101.2","correcta":2,"justificaciones":[
+"No. El valor estimado se calcula sin IVA.",
+"No. Las prórrogas eventuales sí se tienen en cuenta (**art. 101.2.a**).",
+"Es esta. Si el pliego prevé modificaciones, el valor estimado es el importe máximo que pueda alcanzar el contrato, con la totalidad de las modificaciones al alza (**art. 101.2.c**).",
+"No. Las primas o pagos previstos a candidatos y licitadores sí se tienen en cuenta (**art. 101.2.b**)."]},
+"au-08-005": {"bloque":"lcsp-preparacion","precepto":"arts. 102.4 y 102.7","correcta":3,"justificaciones":[
+"No es solo esta. Es cierta (**art. 102.4**), pero hay otras dos también ciertas.",
+"No es solo esta. Es cierta (**art. 102.4**), pero hay otras dos también ciertas.",
+"No es solo esta. Excepcionalmente cabe fijar precios provisionales (**art. 102.7**), pero hay otras dos también ciertas.",
+"Es esta. El precio puede ser unitario, a tanto alzado o, excepcionalmente, provisional (**art. 102**), así que valen las tres."]},
+"au-08-006": {"bloque":"lcsp-preparacion","precepto":"art. 101.1","correcta":2,"justificaciones":[
+"No. Las eventuales prórrogas sí se incluyen (**art. 101.2.a**).",
+"No. Las modificaciones previstas en el pliego sí se incluyen (**art. 101.2.c**).",
+"Es esta. El valor estimado se calcula sin incluir el IVA (**art. 101.1**).",
+"No. Incluir el IVA es propio del presupuesto base de licitación (**art. 100.1**), no del valor estimado."]},
+"au-08-007": {"bloque":"lcsp-preparacion","precepto":"art. 100.1","correcta":0,"justificaciones":[
+"Es esta. El presupuesto base de licitación es el límite máximo de gasto que puede comprometer el órgano de contratación, con IVA incluido (**art. 100.1**).",
+"No. Excluir el IVA es propio del valor estimado, no de este concepto.",
+"No. El mejor precio ofertado es la oferta, no el presupuesto base de licitación, que se fija antes de licitar.",
+"No. El presupuesto base de licitación no depende de las ofertas, sino de lo que fija el órgano de contratación."]},
+"au-08-008": {"bloque":"lcsp-preparacion","precepto":"art. 101.1.a","correcta":3,"justificaciones":[
+"No. El importe de adjudicación sale de la oferta ganadora, no de la estimación del órgano de contratación.",
+"No. El presupuesto base de licitación incluye el IVA (**art. 100.1**).",
+"No. El precio del contrato es el de la adjudicación y siempre lleva el IVA incluido (**art. 102.1**).",
+"Es esta. Importe total, sin IVA, según las estimaciones del órgano de contratación: es el valor estimado (**art. 101.1.a**)."]},
+"au-08-009": {"bloque":"lcsp-preparacion","precepto":"art. 102.1","correcta":1,"justificaciones":[
+"No. El Impuesto de Transmisiones Patrimoniales no se incluye en el precio ni se indica como partida independiente.",
+"Es esta. En el precio se entiende incluido el IVA, que en todo caso se indica como partida independiente (**art. 102.1**).",
+"No. El Impuesto de Sociedades grava al contratista y no es partida del precio.",
+"No. Las retenciones a cuenta del IRPF no forman parte del precio del contrato."]},
+"au-08-010": {"bloque":"lcsp-preparacion","precepto":"art. 99.1 y 99.2","correcta":1,"justificaciones":[
+"Es verdadera, así que no se marca. El objeto debe ser determinado (**art. 99.1**).",
+"Esta es la falsa, y por eso es la que hay que marcar. El objeto puede definirse por necesidades o funcionalidades, sin cerrarlo a una solución única (**art. 99.1**).",
+"Es verdadera, así que no se marca. No se puede fraccionar para reducir la cuantía y eludir publicidad o procedimiento (**art. 99.2**).",
+"Es verdadera, así que no se marca. Es lo que dice el **art. 99.1**."]},
+"au-08-011": {"bloque":"lcsp-preparacion","precepto":"art. 99.3","correcta":1,"justificaciones":[
+"No. Lo excepcional es no dividir en lotes, no dividir.",
+"Es esta. Siempre que la naturaleza o el objeto lo permitan, debe preverse la realización independiente de cada parte mediante lotes (**art. 99.3**).",
+"No. Está al revés: lo que exige motivos válidos es no dividir en lotes.",
+"No. Lo que debe justificarse en el expediente es la decisión de no dividir (**art. 99.3**)."]},
+"au-08-012": {"bloque":"lcsp-preparacion","precepto":"art. 99.4","correcta":0,"justificaciones":[
+"Es esta. Si se divide en lotes, el órgano de contratación puede limitar el número de lotes a los que un mismo licitador puede presentar oferta (**art. 99.4.a**).",
+"No. No es obligatorio limitar. Es una facultad, no un deber.",
+"No. Tampoco es obligatorio limitar los lotes adjudicables a cada licitador (**art. 99.4.b**).",
+"No. Sí puede limitar los lotes que se adjudican a cada licitador (**art. 99.4.b**), justificándolo en el expediente."]},
+"au-08-013": {"bloque":"lcsp-preparacion","precepto":"art. 102.1","correcta":3,"justificaciones":[
+"No. El precio se abona según la prestación realmente ejecutada, no al inicio.",
+"No. Los pagos pueden ser parciales conforme a lo pactado, no solo a la finalización.",
+"No. No se espera al fin del plazo de garantía para pagar.",
+"Es esta. El precio se abona en función de la prestación realmente ejecutada y de acuerdo con lo pactado (**art. 102.1**)."]},
+"au-08-014": {"bloque":"lcsp-preparacion","precepto":"art. 102.6","correcta":2,"justificaciones":[
+"No. Las penalidades por incumplimiento van por otra vía. Aquí se habla de variar el precio.",
+"No. La revisión de precios responde a variaciones de costes, no al cumplimiento de plazos o rendimiento (**art. 103**).",
+"Es esta. Si la naturaleza lo permite, los contratos pueden incluir cláusulas de variación de precios según objetivos de plazos o de rendimiento (**art. 102.6**).",
+"No. La modificación del contrato sigue su régimen propio y no es una cláusula de precio."]},
+"au-08-015": {"bloque":"lcsp-preparacion","precepto":"art. 102.7","correcta":0,"justificaciones":[
+"Es esta. En los contratos con precios provisionales no cabe la revisión de precios (**art. 102.7**).",
+"No. Esa excepción a las garantías no existe en el **art. 102.7**.",
+"No. Sí se fijan límites máximos: el precio se determina dentro de los límites del precio máximo (**art. 102.7**).",
+"No. Se permite en procedimiento negociado, diálogo competitivo o asociación para la innovación cuando no se puede fijar el precio de antemano. No se exige extraordinaria urgencia."]},
+"au-08-016": {"bloque":"lcsp-preparacion","precepto":"art. 99.6","correcta":0,"justificaciones":[
+"Es esta. Las normas procedimentales y de publicidad se determinan por el valor acumulado del conjunto, calculado según el **art. 101**, salvo las excepciones de los **arts. 20.2, 21.2 y 22.2** (**art. 99.6**).",
+"No. Si fuera el valor de cada lote, se podría rebajar el procedimiento troceando. Esa solo es la excepción para lotes pequeños.",
+"No. La ley no usa promedios.",
+"No. No se toma el lote mayor, sino el valor acumulado de todos."]},
+"au-08-017": {"bloque":"lcsp-preparacion","precepto":"art. 102.8","correcta":1,"justificaciones":[
+"Es verdadera, así que no se marca. El IVA se entiende incluido en el precio y se indica como partida independiente (**art. 102.1**).",
+"Esta es la falsa, y por eso es la que hay que marcar. En los contratos de las Administraciones Públicas se prohíbe el pago aplazado, salvo arrendamiento financiero, arrendamiento con opción de compra o autorización legal (**art. 102.8**).",
+"Es verdadera, así que no se marca. Puede pagarse en otra divisa, con estimación en euros (**art. 102.2**).",
+"Es verdadera, así que no se marca. El precio puede revisarse al alza o a la baja por variaciones de costes (**art. 102.5**)."]},
+"au-08-018": {"bloque":"lcsp-preparacion","precepto":"art. 103","correcta":2,"justificaciones":[
+"No. La revisión está permitida en los casos y términos del **art. 103**.",
+"No. El **art. 103** no limita la revisión a una sola vez. Se aplica periódicamente.",
+"Es esta. El PCAP debe detallar la fórmula de revisión, que será invariable durante la vigencia del contrato (**art. 103.4**).",
+"No. Además del suministro de energía, la revisión cabe en obras, fabricación de armamento y otros contratos con recuperación de la inversión de cinco años o más (**art. 103.2**)."]}
+}

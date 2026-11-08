@@ -1,0 +1,483 @@
+{
+ "pr-59-003": {
+  "bloque": "subv-general",
+  "precepto": "art. 10.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: Igual o superior a 12 millones no es lo que establece art. 10.2.",
+   "No: Superior a 10 millones no es lo que establece art. 10.2.",
+   "No: Igual o superior a 10 millones no es lo que establece art. 10.2.",
+   "Correcta: la concesión de subvenciones de cuantía superior a 12 millones requiere autorización del Consejo de Ministros (art. 10.2)."
+  ],
+  "ojo": "Con exactamente 12.000.000 no hace falta autorización: la ley dice “superior”."
+ },
+ "pr-59-004": {
+  "bloque": "subv-general",
+  "precepto": "art. 16.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 1 año no es lo que establece art. 16.2.",
+   "No: 3 años no es lo que establece art. 16.2.",
+   "Correcta: el convenio de colaboración no puede durar más de cuatro años, con prórrogas hasta un total de seis (art. 16.2).",
+   "No: Que no venga determinado no es lo que establece art. 16.2."
+  ]
+ },
+ "pr-59-005": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.2.g",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 10 días hábiles no es lo que establece art. 23.2.g.",
+   "No: 15 días hábiles no es lo que establece art. 23.2.g.",
+   "No: 15 días naturales no es lo que establece art. 23.2.g.",
+   "Correcta: el plazo de presentación de solicitudes es el que fije la convocatoria (art. 23.2.g)."
+  ]
+ },
+ "pr-59-006": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 10 días prorrogables por 5 días más no es lo que establece art. 23.5.",
+   "No: 15 días no es lo que establece art. 23.5.",
+   "Correcta: la subsanación se hace en el plazo máximo e improrrogable de 10 días (art. 23.5).",
+   "No: 5 días prorrogables por 5 días más no es lo que establece art. 23.5."
+  ]
+ },
+ "pr-59-007": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 24.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 15 días no es lo que establece art. 24.4.",
+   "Correcta: se concede un plazo de 10 días para presentar alegaciones a la propuesta provisional (art. 24.4).",
+   "No: 1 mes no es lo que establece art. 24.4.",
+   "No: 20 días no es lo que establece art. 24.4."
+  ]
+ },
+ "pr-59-008": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 12 meses no es lo que establece art. 25.4.",
+   "No: 3 meses no es lo que establece art. 25.4.",
+   "Correcta: el plazo máximo para resolver y notificar no puede exceder de seis meses, salvo ley o norma de la Unión Europea que fije otro (art. 25.4).",
+   "No: 9 meses no es lo que establece art. 25.4."
+  ]
+ },
+ "pr-59-009": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: El 20 % del importe de la actividad subvencionada no es lo que establece art. 29.2.",
+   "Correcta: si la normativa permite subcontratar sin indicar porcentaje, no se puede pasar del 50 % del importe de la actividad (art. 29.2).",
+   "No: Tiene que indicarlo la normativa reguladora no es lo que establece art. 29.2.",
+   "No: El 70 % del importe de la actividad subvencionada no es lo que establece art. 29.2."
+  ]
+ },
+ "pr-59-010": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: Exceda del 20 % y supere 40.000 euros no es lo que establece art. 29.3.",
+   "Correcta: hace falta contrato por escrito y autorización previa del concedente cuando lo subcontratado excede del 20 % de la subvención y de 60.000 euros (art. 29.3).",
+   "No: Exceda del 50 % y supere 20.000 euros no es lo que establece art. 29.3.",
+   "No: Exceda del 50 % y supere 60.000 euros no es lo que establece art. 29.3."
+  ]
+ },
+ "pr-59-011": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 6 meses no es lo que establece art. 30.2.",
+   "No: 1 mes no es lo que establece art. 30.2.",
+   "Correcta: sin previsión en las bases, la cuenta justificativa se presenta como máximo en tres meses desde que acaba el plazo de la actividad (art. 30.2).",
+   "No: 20 días no es lo que establece art. 30.2."
+  ]
+ },
+ "pr-59-012": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 42.2.b del Reglamento",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: quedan exonerados de garantía los beneficiarios de subvenciones por importe inferior a 3.000 euros (art. 42.2.b del Reglamento).",
+   "No: 6.000 euros no es lo que establece art. 42.2.b del Reglamento.",
+   "No: 1.000 euros no es lo que establece art. 42.2.b del Reglamento.",
+   "No: 10.000 euros no es lo que establece art. 42.2.b del Reglamento."
+  ],
+  "revisar": "Dato del Reglamento (RD 887/2006, art. 42.2.b), comprobado por web."
+ },
+ "pr-59-013": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 38.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: Incrementado un 20 % no es lo que establece art. 38.2.",
+   "No: Incrementado un 30 % no es lo que establece art. 38.2.",
+   "Correcta: el interés de demora es el interés legal del dinero incrementado en un 25 %, salvo que la Ley de Presupuestos fije otro (art. 38.2).",
+   "No: Incrementado un 40 % no es lo que establece art. 38.2."
+  ]
+ },
+ "pr-59-014": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el procedimiento de reintegro se resuelve y notifica en 12 meses desde el acuerdo de iniciación (art. 42.4).",
+   "No: 3 meses no es lo que establece art. 42.4.",
+   "No: 6 meses no es lo que establece art. 42.4.",
+   "No: 9 meses no es lo que establece art. 42.4."
+  ]
+ },
+ "pr-59-015": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 39.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 1 año no es lo que establece art. 39.1.",
+   "No: 3 años no es lo que establece art. 39.1.",
+   "No: 5 años no es lo que establece art. 39.1.",
+   "Correcta: el derecho a reconocer o liquidar el reintegro prescribe a los cuatro años (art. 39.1)."
+  ]
+ },
+ "pr-59-016": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 49.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 18 meses no es lo que establece art. 49.7.",
+   "No: 3 meses no es lo que establece art. 49.7.",
+   "No: 6 meses no es lo que establece art. 49.7.",
+   "Correcta: las actuaciones de control financiero concluyen en 12 meses desde la notificación de su inicio, ampliables hasta 12 más (art. 49.7)."
+  ]
+ },
+ "pr-59-017": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 59.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 1 año no es lo que establece art. 59.3.",
+   "No: 3 años no es lo que establece art. 59.3.",
+   "Correcta: la sanción no pecuniaria puede durar hasta cinco años (art. 59.3).",
+   "No: 6 años no es lo que establece art. 59.3."
+  ]
+ },
+ "pr-59-018": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las infracciones prescriben a los cuatro años desde que se cometieron (art. 65.1).",
+   "No: 2 años no es lo que establece art. 65.1.",
+   "No: 3 años no es lo que establece art. 65.1.",
+   "No: 1 año no es lo que establece art. 65.1."
+  ]
+ },
+ "pr-59-019": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 1 año no es lo que establece art. 65.2.",
+   "No: 6 meses no es lo que establece art. 65.2.",
+   "No: 3 años no es lo que establece art. 65.2.",
+   "Correcta: las sanciones prescriben a los cuatro años desde el día siguiente a la firmeza, sea cual sea la gravedad (art. 65.2)."
+  ]
+ },
+ "pr-59-020": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 102.1 del Reglamento",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 12 meses no es lo que establece art. 102.1 del Reglamento.",
+   "Correcta: el plazo máximo para notificar la resolución del procedimiento sancionador es de seis meses (art. 102.1 del Reglamento).",
+   "No: 3 meses no es lo que establece art. 102.1 del Reglamento.",
+   "No: 9 meses no es lo que establece art. 102.1 del Reglamento."
+  ],
+  "revisar": "Dato del Reglamento (RD 887/2006, art. 102.1), comprobado por web; la LGS no lo fija."
+ },
+ "pr-60-001": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 68.4 Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: una persona jurídica está obligada a relacionarse por medios electrónicos, y al requerirle la subsanación se considera presentada la solicitud el día en que se subsana, el 20 de diciembre, dentro del plazo (art. 68.4 de la Ley 39/2015).",
+   "No: el 20 de diciembre está dentro del plazo de un mes desde el 21 de noviembre, así que no hay extemporaneidad.",
+   "No: una sociedad mercantil sí está obligada a relacionarse electrónicamente con la Administración (art. 14.2.a).",
+   "No: la fecha no se retrotrae al 1 de diciembre; cuenta la de la subsanación."
+  ],
+  "ojo": "El plazo de un mes desde el 21 de noviembre vence el 21 de diciembre, domingo, y pasa al lunes 22. El 20 de diciembre llega en plazo de todos modos."
+ },
+ "pr-60-002": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el plazo es de diez días, máximo e improrrogable (art. 23.5).",
+   "No: la ley no permite ampliar a petición del interesado.",
+   "No: tampoco permite ampliar por iniciativa del órgano.",
+   "No: no hay ampliación posible, ni a petición ni de oficio."
+  ],
+  "ojo": "El requerimiento del enunciado daba cinco días, menos de los diez que fija la ley."
+ },
+ "pr-60-003": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 17.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: en la AGE las bases las aprueba el Ministro, no el Consejo de Ministros por real decreto.",
+   "Correcta: el Ministro establece las bases reguladoras mediante orden ministerial (art. 17.1).",
+   "No: la aprobación de las bases no corresponde al órgano concedente, sino al Ministro.",
+   "No: las bases no se aprueban por resolución de un Secretario de Estado."
+  ]
+ },
+ "pr-60-004": {
+  "bloque": "subv-concesion",
+  "precepto": "arts. 9.3 y 23.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: también se publica en el BOE el extracto de la convocatoria.",
+   "No: las bases reguladoras también se publican en el BOE.",
+   "No: lo que se publica en el BOE es un extracto de la convocatoria; el texto completo va a la BDNS (art. 23.2).",
+   "Correcta: las bases se publican en el BOE (art. 9.3) y de la convocatoria, el extracto (art. 23.2)."
+  ]
+ },
+ "pr-60-005": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 10.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el Consejo de Ministros no concede, solo autoriza las de más de 12 millones.",
+   "Correcta: son órganos concedentes los Ministros y los Secretarios de Estado (art. 10.1).",
+   "No: el Consejo de Ministros no figura como órgano concedente.",
+   "No: no son solo los Ministros, también los Secretarios de Estado."
+  ]
+ },
+ "pr-60-006": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 10.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la autorización se exige para subvenciones de cuantía superior a 12 millones, y la convocatoria es de 12.000.000, que no la supera (art. 10.2).",
+   "No: no es necesaria, y aunque lo fuera, la autorización no implicaría la aprobación del gasto.",
+   "No: no es necesaria porque la cuantía no supera 12 millones.",
+   "No: no es necesaria; la Comisión Delegada solo sustituye al Consejo de Ministros cuando sí hace falta."
+  ]
+ },
+ "pr-60-007": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la aprobación del gasto no precede a las bases.",
+   "Correcta: con carácter previo a la convocatoria o a la concesión directa (art. 34.1).",
+   "No: no puede ir al mismo tiempo, tiene que ser previa.",
+   "No: no basta con cualquier momento anterior a la concesión, tiene que ser previa a la convocatoria."
+  ]
+ },
+ "pr-60-008": {
+  "bloque": "subv-general",
+  "precepto": "art. 13.2.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: haber obtenido otras ayudas no inhabilita, solo hay que comunicarlo.",
+   "No: la prohibición es por residencia fiscal en un paraíso fiscal, no en cualquier país extranjero (art. 13.2.f).",
+   "Correcta: haber solicitado la declaración de concurso voluntario inhabilita (art. 13.2.b).",
+   "No: la prohibición es haber dado lugar, por causa de la que fueron declarados culpables, a la resolución firme de un contrato, y el enunciado dice “por cualquier causa” (art. 13.2.c)."
+  ]
+ },
+ "pr-60-009": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.1 y 23.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el procedimiento se inicia siempre de oficio, mediante convocatoria aprobada por el órgano competente (art. 23).",
+   "No: no se inicia con la publicación de las bases.",
+   "No: no se inicia con el extracto en la BDNS, sino con la convocatoria.",
+   "No: no se inicia a petición de los interesados."
+  ]
+ },
+ "pr-60-010": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la concesión directa no se limita a las nominativas (art. 22.2).",
+   "Correcta: excepcionalmente, si se acreditan razones de interés público, social, económico o humanitario que dificulten la convocatoria (art. 22.2.c).",
+   "No: las acciones de discriminación positiva no son un supuesto legal de concesión directa.",
+   "No: la ley exige una norma de rango legal, no reglamentario (art. 22.2.b)."
+  ]
+ },
+ "pr-60-011": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el 1 de junio de 2026 no sale de contar seis meses desde la publicación.",
+   "No: el 13 de abril de 2026 se sale contando desde la orden de bases (13 de octubre), que no es la convocatoria.",
+   "Correcta: seis meses desde la publicación de la convocatoria el 21 de noviembre de 2025 vencen el 21 de mayo de 2026 (art. 25.4).",
+   "No: el 20 de junio de 2026 se saldría contando desde la resolución de convocatoria, no desde su publicación."
+  ],
+  "ojo": "El plazo se cuenta desde la publicación de la convocatoria, no desde la fecha de la orden de bases ni de la resolución de convocatoria."
+ },
+ "pr-60-012": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no se produce caducidad en el procedimiento de concesión.",
+   "No: la prescripción no es la consecuencia del silencio.",
+   "No: el silencio es negativo, no estimatorio.",
+   "Correcta: el vencimiento del plazo sin notificar legitima para entender desestimada la solicitud (art. 25.5)."
+  ]
+ },
+ "pr-60-013": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.2.k y arts. 121 y 122 Ley 39/2015",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la resolución la dicta un Secretario de Estado, que tiene superior jerárquico, así que cabe recurso de alzada en el plazo de un mes (arts. 121 y 122 de la Ley 39/2015).",
+   "No: el recurso de reposición solo cabe contra actos que agoten la vía administrativa.",
+   "No: el plazo de la alzada es de un mes, no de tres.",
+   "No: sí cabe recurso en vía administrativa."
+  ],
+  "revisar": "La convocatoria debe indicar si la resolución pone fin a la vía administrativa (art. 23.2.k); sin esa información, se responde alzada porque el Secretario de Estado tiene al Ministro como superior."
+ },
+ "pr-60-014": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no siempre se puede subcontratar.",
+   "No: sí se puede, si la normativa lo prevé.",
+   "Correcta: solo cuando la normativa reguladora de la subvención lo prevea (art. 29.2).",
+   "No: no basta la autorización expresa del órgano concedente si la normativa no lo prevé."
+  ]
+ },
+ "pr-60-015": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.7",
+  "correcta": 3,
+  "justificaciones": [
+   "No: los intereses deudores de las cuentas bancarias nunca son subvencionables (art. 31.7.a).",
+   "No: los impuestos personales sobre la renta nunca son subvencionables (art. 31.8).",
+   "No: los gastos de procedimientos judiciales nunca son subvencionables (art. 31.7.c).",
+   "Correcta: los gastos de garantía bancaria pueden subvencionarse con carácter excepcional si lo prevé la normativa reguladora (art. 31.7)."
+  ]
+ },
+ "pr-60-016": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: tres meses desde que acaba el plazo para realizar la actividad (art. 30.2).",
+   "No: el plazo no es de seis meses, sino de tres desde el fin de la actividad.",
+   "No: se cuenta desde el fin del plazo de la actividad, no desde la notificación de la resolución.",
+   "No: ni seis meses ni desde la notificación."
+  ]
+ },
+ "pr-60-017": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 34.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la retención de crédito es anterior.",
+   "No: el reconocimiento de la obligación viene después, con el pago.",
+   "Correcta: la resolución de concesión conlleva el compromiso del gasto (art. 34.2).",
+   "No: la aprobación del gasto va antes de la convocatoria (art. 34.1)."
+  ]
+ },
+ "pr-60-018": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 36.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No: incumplir la justificación es causa de reintegro, no de nulidad (art. 37.1.c).",
+   "Correcta: la carencia o insuficiencia de crédito es causa de nulidad de la resolución (art. 36.1.b).",
+   "No: incumplir la actividad es causa de reintegro (art. 37.1.b).",
+   "No: no adoptar medidas de difusión es causa de reintegro (art. 37.1.d)."
+  ]
+ },
+ "pr-60-019": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 36.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la nulidad no se corrige revocando, sino mediante revisión de oficio.",
+   "Correcta: debe declarar la nulidad por revisión de oficio, con dictamen favorable del Consejo de Estado (art. 36.3 de la LGS y art. 106 de la Ley 39/2015).",
+   "No: la declaración de lesividad es para actos anulables, no para los nulos.",
+   "No: rectificar o convalidar no vale para un acto nulo."
+  ],
+  "ojo": "Las referencias a los arts. 102 y 103 de la Ley 30/1992 del texto de la LGS equivalen hoy a los arts. 106 y 107 de la Ley 39/2015."
+ },
+ "pr-60-020": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 36.5 y 37.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no procede la revisión de oficio cuando hay causa de reintegro (art. 36.5).",
+   "No: no se impugna el acto ni se exige un interés incrementado así.",
+   "Correcta: obtener la subvención falseando las condiciones es causa de reintegro, y puede además haber expediente sancionador (arts. 36.5 y 37.1.a).",
+   "No: el falseamiento para obtenerla es infracción muy grave, no grave (art. 58.a), y además hay reintegro."
+  ]
+ },
+ "pr-60-021": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 39",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo es de cuatro años, no cinco.",
+   "No: no se cuenta desde la publicación de la convocatoria.",
+   "No: ni cinco años ni desde la convocatoria.",
+   "Correcta: prescribe a los cuatro años desde que venció el plazo para presentar la justificación (art. 39.1 y 39.2.a)."
+  ]
+ },
+ "pr-60-022": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 41.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el Ministro no es el concedente.",
+   "Correcta: exige el reintegro el órgano concedente, que es el Secretario de Estado de Cultura (art. 41.1).",
+   "No: el Ministerio de Hacienda no resuelve reintegros de estas subvenciones.",
+   "No: el subdirector general solo tramita."
+  ]
+ },
+ "pr-60-023": {
+  "bloque": "subv-reintegro",
+  "precepto": "art. 42.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo es de doce meses, no de seis.",
+   "Correcta: doce meses desde el acuerdo de iniciación, con caducidad si se supera (art. 42.4).",
+   "No: ni seis meses ni prescripción.",
+   "No: el efecto de pasarse del plazo es la caducidad, no la prescripción."
+  ]
+ },
+ "pr-60-024": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no llega a muy grave, que exige conductas como falsear condiciones o no aplicar los fondos.",
+   "Correcta: no comunicar la obtención de otras ayudas para la misma finalidad es infracción grave (art. 57.a).",
+   "No: no es leve, está tipificada como grave.",
+   "No: aunque la suma no supere el coste, la omisión de comunicarlo ya es infracción."
+  ]
+ },
+ "pr-60-025": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 65.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la prescripción no es de un año.",
+   "No: el plazo de prescripción no es de tres años, sino de cuatro.",
+   "Correcta: las infracciones prescriben a los cuatro años desde que se cometieron (art. 65.1).",
+   "No: sí hay infracción, así que se aplica el plazo de prescripción."
+  ]
+ }
+}

@@ -1,0 +1,711 @@
+{
+ "casos": {
+  "caso-40": {
+   "id": "caso-40",
+   "titulo": "Ejercicio 19.- Procedimiento más ágil (2)",
+   "texto": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil:",
+   "corto": true
+  },
+  "caso-41": {
+   "id": "caso-41",
+   "titulo": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "texto": "A continuación, se enumeran distintas especialidades a seguir en la tramitación de los procedimientos abiertos simplificados. Usted debe indicar si tales especialidades son aplicables a cualquier procedimiento abierto simplificado, solo al procedimiento abierto simplificado abreviado (art. 159.6) o, por el contrario, si se trata de especialidades que no son aplicables a ninguno de ellos:",
+   "corto": true
+  },
+  "caso-38": {
+   "id": "caso-38",
+   "titulo": "Bloque III.- Supuesto 22",
+   "texto": "Con motivo de la celebración de su Centenario, el Museo Nacional del Prado, organismo autónomo adscrito al Ministerio de Cultura, pretende desarrollar varias actuaciones para adaptar sus instalaciones, actualizar su equipamiento técnico y realizar eventos conmemorativos. Para ello, el Departamento de Gestión Económica y Contratación del organismo está tramitando los siguientes expedientes de contratación: 1. Un contrato de obras, consistente en la rehabilitación integral del salón de actos principal del Museo del Prado, que se tramitará mediante procedimiento abierto, y que tendrá un presupuesto base de licitación, excluido el IVA, de 5.000.000 de euros. Los pliegos, que fijan el precio como único criterio de adjudicación, prevén modificaciones al alza de hasta un 20% de su precio inicial. 2. Un contrato de suministro, para adquirir nuevo equipamiento audiovisual, que se licitará mediante procedimiento abierto simplificado, con un presupuesto base de licitación, excluido el IVA, de 50.000 euros. Los pliegos, que contemplan criterios evaluables mediante juicio de valor, con una ponderación del 20 % respecto de la puntuación total, establecen modificaciones al alza de hasta un 20 % del precio inicial del contrato. 3. Un contrato de servicios, consistente en la organización de visitas guiadas y talleres didácticos, cuya adjudicación se pretende realizar mediante el procedimiento abierto simplificado abreviado regulado en el artículo 159.6 LCSP. No obstante, atendiendo a su escaso importe, se plantea la posibilidad de tramitarlo como contrato menor. El valor estimado del contrato es de 12.000 euros, y tendrá una duración de un mes, prorrogable por otro mes adicional. En relación con el supuesto planteado, se formulan las siguientes preguntas:"
+  },
+  "caso-39": {
+   "id": "caso-39",
+   "titulo": "Ejercicio 18.- Procedimiento más ágil (1)",
+   "texto": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil:",
+   "corto": true
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-37-009",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 9,
+   "enunciado": "Indique cuál de las siguientes afirmaciones relativas al procedimiento de diálogo competitivo es FALSA:",
+   "opciones": [
+    "El número mínimo de candidatos a los que se invitará a participar en el diálogo será de tres.",
+    "Las necesidades y requisitos del órgano de contratación se definirán en el anuncio de licitación y/o en un documento descriptivo.",
+    "En el documento descriptivo podrán establecerse primas o compensaciones para todos o algunos de los participantes en el diálogo.",
+    "Las ofertas finales podrán basarse en cualquiera de las soluciones presentadas durante el diálogo por los distintos candidatos."
+   ]
+  },
+  {
+   "id": "pr-37-010",
+   "origen": "practicas",
+   "test": "Examen nº 31- LCSP (arts. 160 a 182)",
+   "n": 10,
+   "enunciado": "El Ministerio para la Transición Ecológica pretende desarrollar un sistema innovador de detección temprana de incendios forestales, mediante una asociación para la innovación. Indique cuál de las siguientes NO constituye una característica de este procedimiento:",
+   "opciones": [
+    "Solo los empresarios seleccionados tras la solicitud de participación podrán presentar sus proyectos de investigación e innovación.",
+    "Los proyectos podrán ser objeto de negociación y mejorarse mediante ofertas ulteriores hasta la presentación de la oferta definitiva.",
+    "La asociación se estructurará en fases sucesivas siguiendo la secuencia de las etapas del proceso de investigación e innovación.",
+    "Finalizada la fase de investigación y desarrollo, el órgano de contratación deberá adquirir los suministros resultantes."
+   ]
+  },
+  {
+   "id": "pr-38-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 1,
+   "enunciado": "En relación con el contrato de obras, ¿dónde deberá publicarse el anuncio de licitación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado, pero no en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea, pero no en el Boletín Oficial del Estado.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 2,
+   "enunciado": "Conforme al artículo 156 de la LCSP, ¿qué plazo mínimo deberá conceder el órgano de contratación para que los empresarios interesados puedan presentar sus proposiciones en la licitación de las obras del Museo del Prado?",
+   "opciones": [
+    "20 días.",
+    "26 días.",
+    "30 días.",
+    "35 días."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 3,
+   "enunciado": "Señale la respuesta correcta sobre la posible reducción del plazo general de presentación de proposiciones en el contrato de obras:",
+   "opciones": [
+    "Si el órgano de contratación hubiese enviado un anuncio de información previa, podrá reducirse a veinte días.",
+    "En caso de urgencia, el órgano de contratación podrá fijar otro plazo que no será inferior a quince días hábiles.",
+    "Si el órgano de contratación aceptara la presentación de ofertas por medios electrónicos, podrá reducirse en cinco días.",
+    "Al tratarse de un contrato sujeto a regulación armonizada, no puede reducirse el plazo general de presentación de proposiciones."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 4,
+   "enunciado": "En el procedimiento de adjudicación del contrato de obras, ¿cuántos sobres deberá presentar en total cada licitador?",
+   "opciones": [
+    "Uno, que incluirá tanto la documentación acreditativa del cumplimiento de los requisitos previos como la proposición.",
+    "Dos: uno para la documentación acreditativa del cumplimiento de los requisitos previos y otro para la proposición.",
+    "Tres: uno para la documentación acreditativa del cumplimiento de los requisitos previos y dos para la proposición.",
+    "Dos: uno para los criterios que deban valorarse mediante juicio de valor, y otro para los que deban evaluarse mediante fórmulas."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 5,
+   "enunciado": "En la licitación de las obras, finalizado el plazo de presentación de proposiciones, ¿en qué plazo máximo debe realizarse su apertura?",
+   "opciones": [
+    "Diez días.",
+    "Quince días.",
+    "Veinte días.",
+    "Dos meses."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 6,
+   "enunciado": "En el procedimiento de adjudicación del contrato de obras, al no haberse previsto el empleo de medios electrónicos, ¿cuál de los siguientes sobres deberá abrirse en acto público?",
+   "opciones": [
+    "El que contiene la documentación acreditativa del cumplimiento de los requisitos previos.",
+    "El que contiene la oferta económica.",
+    "El que contiene la documentación acreditativa del cumplimiento de requisitos previos y el que contiene la oferta económica.",
+    "Ninguno, al haberse establecido el precio como único criterio de adjudicación."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 7,
+   "enunciado": "Conforme al artículo 158 de la LCSP, ¿de qué plazo máximo dispone el órgano de contratación para adjudicar el contrato de obras?",
+   "opciones": [
+    "Dos meses, a contar desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Dos meses, a contar desde el siguiente al de apertura de las proposiciones.",
+    "Quince días, a contar desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Quince días, a contar desde el siguiente al de apertura de las proposiciones."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 8,
+   "enunciado": "Una vez aceptada la propuesta de la mesa por el órgano de contratación, ¿qué plazo deberá concederse al licitador que haya presentado la mejor oferta para presentar la documentación acreditativa del cumplimiento de los requisitos previos y de haber constituido la garantía definitiva que sea procedente?",
+   "opciones": [
+    "10 días hábiles.",
+    "10 días naturales.",
+    "7 días hábiles.",
+    "7 días naturales."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 9,
+   "enunciado": "De no cumplimentarse adecuadamente el requerimiento al que se refiere la pregunta anterior, ¿qué importe se exigirá al licitador en concepto de penalidad?",
+   "opciones": [
+    "El 3% del presupuesto base de licitación, IVA excluido.",
+    "El 3% del importe de adjudicación, IVA excluido.",
+    "El 5% del presupuesto base de licitación, IVA excluido.",
+    "El 5% del importe de adjudicación, IVA excluido."
+   ],
+   "caso": "caso-38",
+   "sigueA": "pr-38-008"
+  },
+  {
+   "id": "pr-38-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 10,
+   "enunciado": "Una vez recibida la documentación requerida al licitador que haya presentado la mejor oferta, ¿de qué plazo dispone el órgano de contratación para adjudicar el contrato?",
+   "opciones": [
+    "Cinco días naturales.",
+    "Cinco días hábiles.",
+    "Diez días hábiles.",
+    "Quince días naturales."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 11,
+   "enunciado": "Una vez dictada la resolución de adjudicación del contrato de obras del Museo del Prado, ¿deberá ser objeto de publicación?",
+   "opciones": [
+    "No, bastará con su notificación individual a candidatos y licitadores.",
+    "Sí, en el Boletín Oficial del Estado, en el plazo de diez días.",
+    "Sí, en el perfil de contratante, en el plazo de diez días.",
+    "Sí, en el perfil de contratante, en el plazo de quince días."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 12,
+   "enunciado": "Remitida la notificación de la adjudicación a los licitadores y candidatos, ¿cuándo podría procederse a su formalización?",
+   "opciones": [
+    "No antes de que transcurran diez días.",
+    "No antes de que transcurran quince días.",
+    "No antes de que transcurran quince días hábiles.",
+    "No más tarde de los quince días hábiles siguientes."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 13,
+   "enunciado": "La falta de formalización del contrato por causas imputables al adjudicatario conlleva determinadas consecuencias jurídicas. Conforme a la LCSP, ¿cuál de las siguientes NO es una de ellas?",
+   "opciones": [
+    "El contrato se adjudicará al siguiente licitador por el orden en que hubieran quedado clasificadas las ofertas.",
+    "Se le exigirá el importe del 3 por ciento del presupuesto base de licitación, IVA excluido, en concepto de penalidad.",
+    "Incurrirá en una de las causas de prohibición de contratar recogidas en el artículo 71 de la LCSP.",
+    "El órgano de contratación acordará la resolución del contrato, incautándose la garantía constituida."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 14,
+   "enunciado": "Una vez formalizado el contrato de obras del Museo del Prado, ¿dónde deberá publicarse el anuncio de formalización?",
+   "opciones": [
+    "Exclusivamente en el perfil de contratante.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y, potestativamente, en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea.",
+    "La formalización de los contratos no es objeto de publicación, sino de notificación individual a los licitadores y candidatos."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 15,
+   "enunciado": "Por otro lado, el Museo Nacional del Prado pretende adjudicar el contrato de suministro de equipamiento audiovisual mediante procedimiento abierto simplificado. ¿Es posible conforme al artículo 159 de la LCSP?",
+   "opciones": [
+    "Sí, dado que se cumplen las dos condiciones legalmente exigidas relativas al valor estimado y a los criterios de adjudicación.",
+    "No, dado que el presupuesto base de licitación del contrato excede de 60.000 euros.",
+    "No, dado que entre los criterios de adjudicación previstos en el pliego algunos son evaluables mediante juicio de valor.",
+    "No, dado que los pliegos del contrato contemplan la posibilidad de introducir modificaciones."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 16,
+   "enunciado": "Señale la respuesta INCORRECTA sobre la tramitación del contrato de suministro mediante procedimiento abierto simplificado:",
+   "opciones": [
+    "El anuncio de licitación del contrato únicamente precisará de publicación en el perfil de contratante del órgano de contratación.",
+    "El plazo para la presentación de proposiciones no podrá ser inferior a quince días.",
+    "La oferta se presentará en un único sobre o archivo electrónico.",
+    "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 17,
+   "enunciado": "En relación con el contrato de suministro, si todos los criterios de adjudicación previstos en los pliegos fueran evaluables mediante fórmulas, ¿podría adjudicarse mediante el procedimiento abierto simplificado abreviado del artículo 159.6 de la LCSP?",
+   "opciones": [
+    "Sí, dado que se cumplirían las dos condiciones legalmente exigidas relativas al valor estimado y a los criterios de adjudicación.",
+    "No, porque el valor estimado del contrato supera el umbral máximo permitido para este procedimiento.",
+    "No, dado que este procedimiento solo resulta admisible cuando el único criterio de adjudicación es el precio.",
+    "No, dado que los pliegos del contrato contemplan la posibilidad de introducir modificaciones en el contrato."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 18,
+   "enunciado": "Finalmente, el Museo Nacional del Prado pretende adjudicar el contrato de servicios de visitas guiadas y talleres didácticos mediante el procedimiento abierto simplificado abreviado regulado en el artículo 159.6 de la LCSP. ¿Es posible?",
+   "opciones": [
+    "Sí, siempre que la ponderación de los criterios de adjudicación evaluables mediante juicio de valor no superen el 10% del total.",
+    "Sí, siempre que la ponderación de los criterios de adjudicación evaluables mediante juicio de valor no superen el 25% del total.",
+    "Sí, siempre que la ponderación de los criterios de adjudicación evaluables mediante juicio de valor no superen el 45% del total.",
+    "Sí, siempre que entre los criterios de adjudicación previstos en el pliego no haya ninguno evaluable mediante juicio de valor."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 19,
+   "enunciado": "Señale la respuesta INCORRECTA sobre la tramitación del contrato de servicios mediante el procedimiento abierto simplificado abreviado del artículo 159.6 de la LCSP:",
+   "opciones": [
+    "La oferta se entregará en un único sobre o archivo electrónico.",
+    "No procederá la constitución de garantía provisional por parte de los licitadores.",
+    "No se requerirá la constitución de garantía definitiva.",
+    "El plazo para la presentación de proposiciones no podrá ser inferior a quince días."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-38-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 22",
+   "n": 20,
+   "enunciado": "En relación con el contrato de servicios de visitas guiadas, ¿podría tramitarse como contrato menor?",
+   "opciones": [
+    "Sí, dada su cuantía y duración, el contrato debe tramitarse como contrato menor.",
+    "Sí, aunque también podría optarse por su adjudicación a través del procedimiento abierto simplificado.",
+    "Sí, aunque también podría optarse por su adjudicación a través del procedimiento abierto simplificado abreviado.",
+    "No, al no cumplirse los requisitos legalmente exigidos para su tramitación como contrato menor."
+   ],
+   "caso": "caso-38"
+  },
+  {
+   "id": "pr-39-001",
+   "origen": "practicas",
+   "test": "Ejercicio 18.- Procedimiento más ágil (1)",
+   "n": 1,
+   "enunciado": "Expediente de contratación que tiene por objeto el mantenimiento y conservación de ascensores, por un valor estimado de 99.000 euros, siendo el precio el único criterio de adjudicación:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-39"
+  },
+  {
+   "id": "pr-39-002",
+   "origen": "practicas",
+   "test": "Ejercicio 18.- Procedimiento más ágil (1)",
+   "n": 2,
+   "enunciado": "Contrato de suministro de 18 micrófonos con sistema de cableado digital para una sala de juntas de los Servicios Centrales de la AEAT, siendo su presupuesto base de licitación de 16.457 euros (IVA incluido):",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-39"
+  },
+  {
+   "id": "pr-39-003",
+   "origen": "practicas",
+   "test": "Ejercicio 18.- Procedimiento más ágil (1)",
+   "n": 3,
+   "enunciado": "Expediente de contratación de un servicio de reparación de averías de equipos microinformáticos por valor estimado de 10.000 euros, siendo la duración del contrato de dos meses, prorrogables por otros dos meses más. El contrato se adjudicará atendiendo al precio (80%) y al plazo de respuesta desde la comunicación de la incidencia (20%):",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-39"
+  },
+  {
+   "id": "pr-39-004",
+   "origen": "practicas",
+   "test": "Ejercicio 18.- Procedimiento más ágil (1)",
+   "n": 4,
+   "enunciado": "Expediente para la contratación de un suministro de cuatro equipos automáticos de hidrólisis ácida, por valor estimado de 110.000 euros. Los criterios de adjudicación son el precio (70%) y el plazo de garantía superior a la requerida (30%):",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-39"
+  },
+  {
+   "id": "pr-39-005",
+   "origen": "practicas",
+   "test": "Ejercicio 18.- Procedimiento más ágil (1)",
+   "n": 5,
+   "enunciado": "Expediente para la contratación del servicio de mantenimiento de los jardines del Ministerio, cuyo valor estimado asciende a 20.000 euros. Los criterios de adjudicación serán el precio (65 %) y otros criterios cualitativos sujetos a juicio de valor (35 %):",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-39"
+  },
+  {
+   "id": "pr-40-001",
+   "origen": "practicas",
+   "test": "Ejercicio 19.- Procedimiento más ágil (2)",
+   "n": 1,
+   "enunciado": "Expediente de contratación que tiene por objeto la realización de obras consistentes en el solado y pavimentado de una parcela de gravilla con valor estimado de 35.500 euros, siendo el precio el único criterio de adjudicación y 2 meses el plazo de ejecución:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-40"
+  },
+  {
+   "id": "pr-40-002",
+   "origen": "practicas",
+   "test": "Ejercicio 19.- Procedimiento más ágil (2)",
+   "n": 2,
+   "enunciado": "Contratación de un servicio de impresión bajo demanda de publicaciones del INAP, en el que los criterios evaluables mediante juicio de valor representan un 20% del total, siendo su valor estimado 26.457 euros:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-40"
+  },
+  {
+   "id": "pr-40-003",
+   "origen": "practicas",
+   "test": "Ejercicio 19.- Procedimiento más ágil (2)",
+   "n": 3,
+   "enunciado": "Expediente de contratación de un servicio de maquetación por valor estimado de 14.000 euros, siendo la duración del contrato de 6 meses, prorrogables por otros 6 meses. No se contemplan criterios de adjudicación evaluables mediante juicio de valor:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-40"
+  },
+  {
+   "id": "pr-40-004",
+   "origen": "practicas",
+   "test": "Ejercicio 19.- Procedimiento más ágil (2)",
+   "n": 4,
+   "enunciado": "Expediente de contratación de un suministro de repuestos de tóner para las impresoras del Ministerio, por valor estimado de 50.000 euros. Los únicos criterios de adjudicación son el precio y el plazo de entrega:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-40"
+  },
+  {
+   "id": "pr-40-005",
+   "origen": "practicas",
+   "test": "Ejercicio 19.- Procedimiento más ágil (2)",
+   "n": 5,
+   "enunciado": "Expediente de contratación del servicio de mantenimiento de los ascensores del Ministerio por un año de duración, prorrogable por otro. El presupuesto base de licitación sin impuestos asciende a 70.000 euros. El único criterio de adjudicación es el precio:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ],
+   "caso": "caso-40"
+  },
+  {
+   "id": "pr-41-001",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 1,
+   "enunciado": "Los licitadores deberán estar inscritos en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público o, en su caso, en el Registro Oficial de la correspondiente Comunidad Autónoma:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-002",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 2,
+   "enunciado": "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-003",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 3,
+   "enunciado": "No se requerirá la constitución de garantía definitiva:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-004",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 4,
+   "enunciado": "No se requerirá la formalización del contrato:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-005",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 5,
+   "enunciado": "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-006",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 6,
+   "enunciado": "No procederá la constitución de garantía provisional por parte de los licitadores:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-007",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 7,
+   "enunciado": "Se podrá prescindir, motivadamente, de la tramitación de expediente de contratación:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-008",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 8,
+   "enunciado": "La formalización del contrato podrá efectuarse mediante firma de aceptación por el contratista de la resolución de adjudicación:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-009",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 9,
+   "enunciado": "Con carácter general, el plazo de presentación de proposiciones no podrá ser inferior a diez días hábiles:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-41-010",
+   "origen": "practicas",
+   "test": "Ejercicio 20.- Procedimiento más ágil (3)",
+   "n": 10,
+   "enunciado": "La oferta se presentará, en todo caso, en un único sobre o archivo electrónico:",
+   "opciones": [
+    "Aplicable a todo procedimiento abierto simplificado.",
+    "Solo aplicable al procedimiento abierto simplificado abreviado (art. 159.6 LCSP).",
+    "No es una especialidad aplicable a los procedimientos abiertos simplificados."
+   ],
+   "caso": "caso-41"
+  },
+  {
+   "id": "pr-42-001",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 1,
+   "enunciado": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil: Contrato de servicios de alojamientos con desayuno para los formadores del Consejo de la UE para la Presidencia española por un valor estimado de 14.875 euros:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ]
+  },
+  {
+   "id": "pr-42-002",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 2,
+   "enunciado": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil: Expediente de contratación para la adquisición de mesas para renovar el mobiliario del aula de formación de una Subdirección General, en el que los criterios evaluables mediante juicio de valor representan un 15% del total, siendo su valor estimado 52.954 euros:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ]
+  },
+  {
+   "id": "pr-42-003",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 3,
+   "enunciado": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil: Contrato de suministro de gasóleo tipo C para calefactar la sede del Ministerio. Todos los criterios de adjudicación previstos en el PCAP son cuantificables mediante fórmulas. El importe del valor estimado del contrato es 38.246,28 euros.",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ]
+  },
+  {
+   "id": "pr-42-004",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 4,
+   "enunciado": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil: Expediente de contratación para la ejecución de obras de impermeabilización de la cubierta de un edificio administrativo del Ministerio, con un valor estimado de 80.000 euros y un plazo de ejecución de cuatro meses, siendo el precio el único criterio de adjudicación:",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ]
+  },
+  {
+   "id": "pr-42-005",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 5,
+   "enunciado": "A continuación se detallan expedientes de contratación que se tramitan en el departamento de contratación del Ministerio en el que está destinado. Indique qué procedimiento permitiría su contratación de una manera más rápida y ágil: Expediente de contratación del servicio de redacción de un proyecto de arquitectura para la rehabilitación de un edificio del Ministerio, con valor estimado de 98.000 euros. Los criterios de adjudicación serán el precio (40 %), la calidad técnica, sujeta a juicio de valor (35 %), y el plazo de entrega, evaluable mediante fórmulas (25 %):",
+   "opciones": [
+    "Mediante un contrato menor.",
+    "Mediante un procedimiento abierto simplificado sumario (art. 159.6).",
+    "Mediante un procedimiento abierto simplificado.",
+    "Mediante un procedimiento abierto."
+   ]
+  },
+  {
+   "id": "pr-42-006",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 6,
+   "enunciado": "En relación con los contratos que se pretenden celebrar en el Ministerio, se plantean distintas cuestiones sobre los procedimientos de adjudicación, sus requisitos y especialidades. Señale la respuesta correcta en cada caso: Se pretende celebrar un contrato de servicios en el que los criterios de adjudicación sujetos a juicio de valor representan el 10 % del total, señale la afirmación correcta:",
+   "opciones": [
+    "Podría adjudicarlo mediante contrato menor si su valor estimado fuera de 17.000 euros.",
+    "Podría acordar la utilización del procedimiento abierto simplificado si su valor estimado fuera inferior a 140.000 euros.",
+    "Solo estaría sujeto a regulación armonizada si su valor estimado fuera superior a 216.000 euros.",
+    "Podría aplicar la exención de acreditación de la solvencia prevista en el artículo 159.6 si su valor estimado fuera de 50.000 euros."
+   ]
+  },
+  {
+   "id": "pr-42-007",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 7,
+   "enunciado": "En relación con los contratos que se pretenden celebrar en el Ministerio, se plantean distintas cuestiones sobre los procedimientos de adjudicación, sus requisitos y especialidades. Señale la respuesta correcta en cada caso: El valor estimado de un contrato de suministros es 59.000 euros y el 20% de los criterios de adjudicación están sujetos a juicio de valor. Señale la respuesta correcta:",
+   "opciones": [
+    "Podría adjudicarse mediante contrato menor si su duración no excediera de un año y no se previeran prórrogas.",
+    "El órgano de contratación podrá acordar eximir a los licitadores de acreditar la solvencia conforme al artículo 159.6.",
+    "El órgano de contratación podrá acordar la utilización de un procedimiento abierto simplificado.",
+    "El órgano de contratación deberá acordar la utilización de un procedimiento abierto ordinario."
+   ]
+  },
+  {
+   "id": "pr-42-008",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 8,
+   "enunciado": "En relación con los contratos que se pretenden celebrar en el Ministerio, se plantean distintas cuestiones sobre los procedimientos de adjudicación, sus requisitos y especialidades. Señale la respuesta correcta en cada caso: ¿Cuál de los siguientes contratos podría adjudicarse mediante procedimiento abierto simplificado sumario?",
+   "opciones": [
+    "Contrato de obras de reparación de los aseos, con valor estimado de 100.000 €.",
+    "Contrato de servicios con valor estimado de 11.000 €, evaluable únicamente con criterios cuantificables mediante fórmulas.",
+    "Contrato de suministro con valor estimado de 50.000 € y un 25 % de los criterios de adjudicación sujetos a juicio de valor.",
+    "Contrato de servicios de limpieza con valor estimado de 80.000 €."
+   ]
+  }
+ ]
+}

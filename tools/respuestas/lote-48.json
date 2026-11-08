@@ -1,0 +1,557 @@
+{
+ "pr-62-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 221.4.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no es obligatorio invitar a todas, porque el acuerdo marco ya fija todos los términos y puede adjudicarse sin nueva licitación.",
+   "No: la ley no exige invitar a un mínimo de cinco empresas.",
+   "No: tampoco fija un mínimo de tres empresas.",
+   "Correcta: si el acuerdo marco establece todos los términos, se adjudica bien sin nueva licitación, bien con ella, si el pliego prevé ambos sistemas (art. 221.4.a)."
+  ]
+ },
+ "pr-62-022": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 231.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: elaboración, supervisión, aprobación y replanteo, por este orden (art. 231.1).",
+   "No: el replanteo va después de la aprobación, no antes.",
+   "No: el replanteo y la supervisión no van antes de la aprobación en ese orden.",
+   "No: la supervisión se hace antes de aprobar el proyecto, no después."
+  ]
+ },
+ "pr-62-023": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la reparación enmienda un menoscabo por causas fortuitas o accidentales, no por el paso del tiempo.",
+   "No: la reforma abarca ampliación, mejora, modernización o adaptación de un bien existente.",
+   "No: restauración y rehabilitación conservan la estética y el valor histórico de una construcción.",
+   "Correcta: si el menoscabo se produce por el tiempo y el uso natural, las obras son de conservación o mantenimiento (art. 232.5)."
+  ]
+ },
+ "pr-62-024": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 232.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la ley no habla de reparación estructural.",
+   "No: la ley no habla de reparación compleja.",
+   "Correcta: si la reparación afecta fundamentalmente a la estructura resistente es gran reparación, y si no, reparación simple (art. 232.4).",
+   "No: la ley no habla de reparación mayor."
+  ]
+ },
+ "pr-62-025": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 231 y 234.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la contratación separada del proyecto y de la obra es la regla general, y la conjunta es excepcional (art. 234.1).",
+   "No: lo excepcional es la contratación conjunta, no la separada.",
+   "No: ese es uno de los supuestos que permite la contratación conjunta, no la separada.",
+   "No: ese es otro supuesto que permite la contratación conjunta, no la separada."
+  ]
+ },
+ "pr-62-026": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 3,
+  "justificaciones": [
+   "No: por debajo de 500.000 euros el informe de supervisión es facultativo, con una excepción.",
+   "No: es justo al revés, el informe es facultativo salvo en obras que afecten a la estabilidad, seguridad o estanqueidad.",
+   "No: la ley no habla de sectores económicos estratégicos.",
+   "Correcta: es facultativo, salvo que las obras afecten a la estabilidad, seguridad o estanqueidad, y entonces es preceptivo (art. 235)."
+  ]
+ },
+ "pr-62-027": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el replanteo del proyecto se hace antes de aprobar el expediente de contratación, no tras adjudicar.",
+   "Correcta: se hace una vez aprobado el proyecto y antes de aprobar el expediente de contratación (art. 236.1).",
+   "No: la presencia del contratista es propia de la comprobación del replanteo (art. 237), no del replanteo del proyecto.",
+   "No: el replanteo es previo a la aprobación del expediente, no posterior."
+  ]
+ },
+ "pr-62-028": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el plazo se cuenta desde la formalización, no desde la adjudicación.",
+   "Correcta: no podrá ser superior a un mes desde la formalización, salvo casos excepcionales justificados (art. 237).",
+   "No: la ley dice un mes, no 30 días.",
+   "No: el cómputo es desde la formalización, no desde la adjudicación."
+  ]
+ },
+ "pr-62-029": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el replanteo del proyecto es previo a la licitación.",
+   "No: el informe de supervisión es previo a la aprobación del proyecto.",
+   "No: la aprobación del proyecto es anterior a la adjudicación.",
+   "Correcta: la ejecución del contrato de obras comienza con el acta de comprobación del replanteo (art. 237)."
+  ]
+ },
+ "pr-62-030": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 240.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la periodicidad no es libre, la ley fija un régimen mensual salvo prevención del PCAP.",
+   "No: ese plazo de cinco días no figura en la ley.",
+   "Correcta: certificaciones mensuales, en los primeros diez días siguientes al mes al que correspondan (art. 240.1).",
+   "No: el plazo es de diez días, no de quince."
+  ]
+ },
+ "pr-62-031": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la antelación mínima es de cinco días.",
+   "No: la antelación mínima es de cinco días, no de tres.",
+   "Correcta: debe comunicarse a la Intervención con una antelación mínima de cinco días (art. 242.3).",
+   "No: diez días no es el plazo legal."
+  ]
+ },
+ "pr-62-032": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.4.i",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el límite no es el 20 %.",
+   "No: el límite no es el 15 %, que es el porcentaje de modificación sustancial en obras del art. 205.",
+   "Correcta: el exceso de mediciones no es modificación si en global no supera el 10 % del precio del contrato inicial (art. 242.4.i).",
+   "No: el 3 % es el límite de los precios nuevos fijados contradictoriamente, no del exceso de mediciones."
+  ]
+ },
+ "pr-62-033": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la Administración fija los precios, pero con audiencia del contratista.",
+   "No: el contratista no fija los precios.",
+   "Correcta: los fija la Administración, previa audiencia del contratista por plazo mínimo de tres días hábiles (art. 242.2).",
+   "No: no se exige acuerdo, los fija la Administración y, si el contratista no los acepta, puede contratarlas con otro."
+  ]
+ },
+ "pr-62-034": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo general es de tres meses.",
+   "No: el plazo general es de tres meses, no de dos.",
+   "No: la ley usa meses, y son tres.",
+   "Correcta: tres meses contados desde la recepción (art. 243.1)."
+  ]
+ },
+ "pr-62-035": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: tres meses es el plazo general, el que se puede ampliar.",
+   "Correcta: la ampliación no puede superar los cinco meses (art. 243.1).",
+   "No: seis meses supera el máximo legal.",
+   "No: doce meses supera el máximo legal."
+  ]
+ },
+ "pr-62-036": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el plazo de garantía no puede ser inferior a un año, salvo casos especiales (art. 243.3).",
+   "No: dos años no es el mínimo, el mínimo es un año.",
+   "No: tres años no es el mínimo legal.",
+   "No: quince años es el plazo de responsabilidad por vicios ocultos (art. 244), no el de garantía."
+  ]
+ },
+ "pr-62-037": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 245",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el desistimiento sí es causa específica de resolución (art. 245.d).",
+   "No: la demora injustificada en la comprobación del replanteo sí lo es (art. 245.a).",
+   "No: la suspensión de la iniciación de las obras por más de cuatro meses sí lo es (art. 245.b).",
+   "Correcta: la ley fija ocho meses para la suspensión de las obras, no seis, así que esa causa no es la de la LCSP (art. 245.c)."
+  ]
+ },
+ "pr-62-038": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el 3 % es la indemnización del desistimiento antes de iniciar las obras.",
+   "No: el 2 % es la del retraso en la comprobación del replanteo.",
+   "Correcta: el 6 % del precio de adjudicación de las obras dejadas de realizar, como beneficio industrial (art. 246.4).",
+   "No: el 3 % del precio de adjudicación corresponde al desistimiento antes del inicio."
+  ]
+ },
+ "pr-62-039": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 246.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 3 % corresponde al desistimiento antes de iniciar las obras.",
+   "Correcta: el 2 % del precio de adjudicación, IVA excluido (art. 246.2).",
+   "No: ni el 3 % ni el IVA incluido.",
+   "No: el porcentaje es el 2 %, pero el IVA se excluye."
+  ]
+ },
+ "pr-62-040": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 247.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: información pública por un mes, prorrogable por idéntico plazo según la complejidad (art. 247.3).",
+   "No: el plazo es de un mes, no de dos.",
+   "No: el plazo inicial es de un mes y la prórroga es por idéntico plazo.",
+   "No: la prórroga es por idéntico plazo, no de quince días."
+  ]
+ },
+ "pr-62-041": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 267.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la tarifa no es una tasa local.",
+   "No: no tiene naturaleza tributaria.",
+   "Correcta: es una prestación patrimonial de carácter público no tributario (art. 267.1).",
+   "No: no es un ingreso de derecho privado, es prestación patrimonial de carácter público."
+  ]
+ },
+ "pr-62-042": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 247 y 285.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el documento descriptivo es propio de los contratos de las entidades que no son Administración Pública para los contratos no armonizados.",
+   "No: el PCAP es común a todos los contratos administrativos.",
+   "Correcta: el estudio de viabilidad es específico de las concesiones de obras y de servicios.",
+   "No: el PPT es común a todos los contratos administrativos."
+  ]
+ },
+ "pr-62-043": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 294",
+  "correcta": 1,
+  "justificaciones": [
+   "No: es causa específica, la letra e) del art. 294.",
+   "Correcta: la causa específica es la demora de más de seis meses, no de cuatro (art. 294.b).",
+   "No: es causa específica, la letra c) del art. 294.",
+   "No: es causa específica, la letra f) del art. 294."
+  ]
+ },
+ "pr-62-044": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 298",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el arrendador o empresario asume el mantenimiento durante la vigencia del contrato (art. 298).",
+   "No: el arrendatario no asume el mantenimiento.",
+   "No: la Administración solo paga, en su caso, el canon de mantenimiento, pero no lo asume.",
+   "No: no es una obligación mancomunada."
+  ]
+ },
+ "pr-62-045": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 307.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 2 % es la indemnización del retraso en el replanteo de obras.",
+   "Correcta: el 3 % del precio de adjudicación, IVA excluido (art. 307.2).",
+   "No: el 5 % no figura en la ley.",
+   "No: el 6 % es la indemnización de desistimiento una vez iniciado el suministro, y se calcula sobre lo dejado de suministrar."
+  ]
+ },
+ "pr-62-046": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 306.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: dos meses no es el plazo.",
+   "No: cuatro meses es el plazo de suspensión de la iniciación (art. 306.a).",
+   "No: seis meses no es el plazo.",
+   "Correcta: la suspensión del suministro por más de ocho meses acordada por la Administración (art. 306.b)."
+  ]
+ },
+ "pr-62-047": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 299",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la publicidad y adjudicación se acomodan al suministro, no a los servicios.",
+   "Correcta: se aplican las normas del contrato de obras, salvo publicidad y adjudicación, que siguen al suministro (art. 299).",
+   "No: se aplican las de obras, no las de suministros, con la excepción mencionada.",
+   "No: se excluyen la publicidad y el procedimiento de adjudicación."
+  ]
+ },
+ "pr-62-048": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 302.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el límite no es el 20 %.",
+   "No: el límite no es el 30 %.",
+   "No: el límite no es el 40 %.",
+   "Correcta: el importe de los bienes entregados no puede superar el 50 % del precio total (art. 302.1)."
+  ]
+ },
+ "pr-62-049": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la ley lo permite en un caso.",
+   "No: la ley no habla de causas excepcionales para esto.",
+   "Correcta: se puede contratar conjuntamente cuando la contratación separada conllevase una merma en la calidad de las prestaciones (art. 308.4).",
+   "No: no depende de los umbrales de un contrato menor."
+  ]
+ },
+ "pr-62-050": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 309.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el porcentaje es el 10 %, no el 20 %, y se calcula sobre el precio.",
+   "No: el porcentaje es el 10 %, no el 20 %.",
+   "No: el 10 % se aplica sobre el precio del contrato, no sobre el valor estimado.",
+   "Correcta: no pueden representar un incremento del gasto superior al 10 % del precio del contrato (art. 309.1)."
+  ]
+ },
+ "pr-62-051": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 308.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: llevan aparejada la cesión del derecho a la Administración, salvo que el contrato o los pliegos digan otra cosa (art. 308.1).",
+   "No: es al revés, la cesión es la regla general.",
+   "No: no es en todo caso, los pliegos pueden disponer otra cosa.",
+   "No: no es que nunca lleven aparejada la cesión."
+  ]
+ },
+ "pr-62-052": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 310.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: no se aplica la Ley a la preparación y adjudicación del contrato (art. 310.1).",
+   "No: la ley sí se aplica a los efectos, cumplimiento y extinción.",
+   "No: la ley sí se aplica a la extinción.",
+   "No: la ley sí se aplica a la modificación, duración y prórrogas."
+  ]
+ },
+ "pr-62-053": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el 6 % es el desistimiento una vez iniciada la prestación y se calcula sobre los servicios dejados de prestar.",
+   "No: se calcula sobre el precio de adjudicación, no sobre el presupuesto base de licitación.",
+   "No: se calcula sobre el precio de adjudicación, no sobre el valor estimado.",
+   "Correcta: el 3 % del precio de adjudicación, IVA excluido (art. 313.3)."
+  ]
+ },
+ "pr-62-054": {
+  "bloque": "lcsp-otros",
+  "precepto": "arts. 3.3.a y 324.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la ley no prevé un informe justificativo de esa Secretaría de Estado.",
+   "No: no se exige autorización previa del Ministerio de Hacienda.",
+   "No: no basta una ratificación del Departamento.",
+   "Correcta: un organismo autónomo es Administración Pública y por tanto poder adjudicador (art. 3.3.a), y con un valor estimado igual o superior a 12 millones necesita autorización del Consejo de Ministros (art. 324.1.a)."
+  ],
+  "ojo": "El valor estimado de 14 millones supera el umbral de 12 millones."
+ },
+ "pr-62-055": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el subsecretario no es órgano de contratación según el art. 323.1, lo son los ministros y secretarios de estado.",
+   "No: esa Dirección General no contrata, la Junta de Contratación Centralizada sí lo hace.",
+   "Correcta: los directores de las entidades gestoras de la Seguridad Social son órganos de contratación (art. 323.2).",
+   "No: el Consejo de Ministros autoriza, pero no es órgano de contratación."
+  ]
+ },
+ "pr-62-056": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 326.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en el diálogo competitivo la mesa es obligatoria.",
+   "No: en la licitación con negociación la mesa es obligatoria.",
+   "Correcta: en los procedimientos del art. 159.6 la constitución de la mesa es potestativa (art. 326.1).",
+   "No: solo en uno de ellos es potestativa."
+  ]
+ },
+ "pr-62-057": {
+  "bloque": "lcsp-otros",
+  "precepto": "arts. 323 y 324",
+  "correcta": 2,
+  "justificaciones": [
+   "No: los órganos de contratación son los ministros y los secretarios de estado, no los subsecretarios.",
+   "No: el umbral se refiere al valor estimado, no al presupuesto base de licitación, y es de 12 millones o más.",
+   "Correcta: la autorización del Consejo de Ministros debe obtenerse antes de aprobar el expediente (art. 324.2).",
+   "No: el informe del Ministerio de Hacienda es preceptivo en concesiones con valor estimado de 12 millones o más, no siempre."
+  ]
+ },
+ "pr-62-058": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en los tres meses siguientes a la formalización del contrato (art. 335.1).",
+   "No: el plazo es de tres meses, no de seis.",
+   "No: el cómputo es desde la formalización, no desde la publicación del anuncio.",
+   "No: ni seis meses ni desde la publicación."
+  ]
+ },
+ "pr-62-059": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 335.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: en obras el umbral es 600.000 euros, no 450.000.",
+   "No: en suministros el umbral se aplica al precio de adjudicación, no al valor estimado.",
+   "Correcta: contrato administrativo especial cuyo precio de adjudicación exceda de 150.000 euros (art. 335.1).",
+   "No: en servicios se aplica al precio de adjudicación, no al valor estimado."
+  ]
+ },
+ "pr-62-060": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 337",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el Registro sí hace constar clasificaciones de las comunidades autónomas (art. 338.1).",
+   "No: se interconecta con el Registro Electrónico de Apoderamientos, no con el Registro Civil (art. 337.4).",
+   "No: los datos básicos de contratos adjudicados son del Registro de Contratos del Sector Público, no de este.",
+   "Correcta: depende del Ministerio de Hacienda (art. 337.2)."
+  ]
+ },
+ "pr-63-001": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 191.3.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si no está prevista en el pliego, es preceptivo con modificaciones superiores al 20 % del precio inicial, que son 2.000.000 euros, y precio igual o superior a 6 millones (art. 191.3.b).",
+   "No: 5.000.000 euros no es el umbral, el 20 % de 10 millones son 2.000.000.",
+   "No: el dictamen no depende de la oposición del contratista, eso es para interpretación, nulidad y resolución.",
+   "No: una modificación no prevista sí cabe en los supuestos del art. 205."
+  ]
+ },
+ "pr-63-002": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 205.2.a y 206.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 4.000.000 es el 50 % del precio de adjudicación, que es el límite de la modificación posible, no el de la obligatoriedad.",
+   "No: 2.000.000 no es el límite de obligatoriedad.",
+   "Correcta: es obligatoria para el contratista hasta el 20 % del precio, que son 1.600.000 euros (art. 206.1).",
+   "No: 5.000.000 supera incluso el máximo del 50 % del precio."
+  ],
+  "ojo": "Hay que partir del precio (8.000.000), no del valor estimado (10.000.000)."
+ },
+ "pr-63-003": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 193.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 600 euros saldría de contar 10 días, y la demora es de 20.",
+   "Correcta: 0,60 euros por cada 1.000 euros del precio y día son 60 euros diarios, y por 20 días 1.200 euros (art. 193.3).",
+   "No: 10.000 euros es el 10 % del precio, que es el tope de otras penalidades.",
+   "No: sin penalidades en el pliego se aplican las diarias del art. 193.3."
+  ]
+ },
+ "pr-63-004": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 30 días es solo uno de los dos plazos.",
+   "No: el plazo total son 30 días para la conformidad más 30 días para pagar, y no un mes.",
+   "Correcta: 30 días para aprobar la conformidad desde la entrega y otros 30 desde esa aprobación para pagar, 60 en total (art. 198.4).",
+   "No: la ley cuenta en días, y son 60."
+  ]
+ },
+ "pr-63-005": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: 9.000 euros no corresponde a ningún cálculo con el precio de 80.000.",
+   "No: 10.000 euros no corresponde a esa suma.",
+   "Correcta: cada penalidad es de hasta el 10 % del precio, 8.000 euros, y dos son 16.000 euros (art. 192.1).",
+   "No: 40.000 es el tope total del 50 %, que no se alcanza con dos incumplimientos."
+  ],
+  "ojo": "El precio del contrato es 80.000 euros, no el valor estimado ni el presupuesto base."
+ },
+ "pr-63-006": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 192.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 216.000 euros sería seis penalidades del 10 % del precio, pero supera el tope total.",
+   "Correcta: seis penalidades de 36.000 euros son 216.000, pero el total no puede superar el 50 % del precio, 180.000 euros (art. 192.1).",
+   "No: 252.000 supera el tope del 50 %.",
+   "No: 288.000 supera el tope del 50 %."
+  ],
+  "ojo": "Aplica el tope del 50 % sobre el precio de 360.000 euros."
+ },
+ "pr-63-007": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la entrega efectiva no basta, hace falta el acto formal y positivo de recepción.",
+   "Correcta: el contrato se entiende cumplido con el acto formal y positivo de recepción, el 19 de mayo (art. 210).",
+   "No: el plazo de garantía se cuenta desde la recepción, no desde la entrega, y no marca el cumplimiento.",
+   "No: el fin del plazo de garantía extingue la responsabilidad, pero no es el cumplimiento del contrato."
+  ]
+ },
+ "pr-63-008": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 211.1.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: retraso superior a un tercio del plazo inicial, que son 6 meses de 18 (art. 211.1.d).",
+   "No: tres meses no alcanza el tercio de 18 meses.",
+   "No: dos meses no alcanza el tercio de 18 meses.",
+   "No: un mes no alcanza el tercio de 18 meses."
+  ]
+ },
+ "pr-63-009": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 219.3 y 29.4",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la duración no depende de los meses que quedan al acuerdo marco.",
+   "No: tampoco son seis meses.",
+   "No: no hay límite de un año.",
+   "Correcta: la duración del contrato basado es independiente de la del acuerdo marco y se rige por el art. 29, que fija 5 años en servicios con prórrogas (arts. 219.3 y 29.4)."
+  ]
+ },
+ "pr-63-010": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 198.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el 7 de febrero es solo el día en que empieza la demora.",
+   "No: el 7 de junio no completa los seis meses.",
+   "No: el 7 de julio no completa los seis meses desde que empieza la demora.",
+   "Correcta: el plazo de pago son 30 días y vence el 6 de febrero, así que la demora empieza el 7 de febrero y al cumplir seis meses nace el derecho a resolver, el 7 de agosto (art. 198.6)."
+  ],
+  "ojo": "La demora de pago se cuenta desde que vence el plazo de 30 días del art. 198.4. Con \"superior a seis meses\" el derecho nace al cumplirse los seis meses, el 7 de agosto, que es la única fecha posible entre las opciones."
+ }
+}

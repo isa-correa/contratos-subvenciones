@@ -1,0 +1,682 @@
+{
+ "casos": {
+  "caso-25": {
+   "id": "caso-25",
+   "titulo": "Bloque III.- Supuesto 20",
+   "texto": "El Instituto de Turismo de España (TURESPAÑA) es un organismo autónomo adscrito al Ministerio de Industria y Turismo, a través de la Secretaría de Estado de Turismo. El Presidente de TURESPAÑA, máximo órgano de dirección, es su órgano de contratación. En agosto de 2026, TURESPAÑA adjudicó un contrato de servicios de mantenimiento y conservación del Palacio de Congresos de Madrid, al carecer de personal propio para realizar dichas tareas. El contrato adjudicado tiene las siguientes características: - Procedimiento abierto. - Tramitación Anticipada. Inicio de la ejecución del contrato: 1 de marzo de 2027. - Duración: 12 meses, con posibilidad de prórroga por un año adicional en las mismas condiciones económicas. - Presupuesto Base de Licitación: 72.600 euros (60.000 euros, Iva excluido). - Importe de adjudicación: 60.500 euros (50.000 euros, Iva excluido). Otros contratos que tramita TURESPAÑA, sobre los que también se solicita informe, son: - Contrato de servicios de evaluación del idioma inglés, por valor estimado de 12.000 euros (contrato basado en un acuerdo marco). - Contrato para la fabricación de 1000 mesas, con características peculiares fijadas previamente por TURESPAÑA, destinadas al equipamiento de los servicios centrales del organismo autónomo, por un valor estimado de 140.000 €. - Arrendamiento de un inmueble donde se ubicarán parte de las dependencias administrativas de TURESPAÑA. - Contrato menor de obras para el arreglo de los desperfectos de una puerta acristalada. - Suscripción anual a revistas electrónicas de la Editorial Aranzadi, por importe de 3.500 euros. En relación con el supuesto planteado, se formulan las siguientes preguntas:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-25-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 1,
+   "enunciado": "De acuerdo con la Ley de Contratos del Sector Público (en adelante LCSP), ¿qué carácter tiene el contrato de servicios para el mantenimiento y conservación del Palacio de Congresos de Madrid, adjudicado por TURESPAÑA?",
+   "opciones": [
+    "Contrato privado.",
+    "Contrato administrativo.",
+    "Contrato excluido del ámbito de aplicación de la LCSP.",
+    "Contrato sujeto a regulación armonizada."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 2,
+   "enunciado": "Según la LCSP, ¿podía TURESPAÑA adjudicar en 2026 un contrato cuya ejecución debía iniciarse el 1 de marzo de 2027?",
+   "opciones": [
+    "No, debería haberse adjudicado en 2027, ejercicio en que estaba previsto el inicio de su ejecución.",
+    "Sí, aunque no podría formalizarse hasta 2027.",
+    "Sí, pudiendo incluso formalizarse el contrato en 2026.",
+    "Sí, pero únicamente si su ejecución se desarrolla en una sola anualidad."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 3,
+   "enunciado": "Conforme al artículo 63.3 de la LCSP, no resulta necesaria la publicación en el perfil de contratante de la siguiente información relativa al contrato de servicios de mantenimiento:",
+   "opciones": [
+    "La memoria justificativa del contrato.",
+    "La justificación del procedimiento utilizado para su adjudicación.",
+    "El informe de insuficiencia de medios.",
+    "El anuncio de licitación."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 4,
+   "enunciado": "Para calcular el valor estimado del contrato de servicios de mantenimiento y conservación del Palacio de Congresos de Madrid, ¿cuál de los siguientes conceptos deberá tener en cuenta el órgano de contratación?",
+   "opciones": [
+    "El Impuesto sobre el Valor Añadido.",
+    "El importe de la garantía definitiva que deba constituir el adjudicatario.",
+    "El importe por el que finalmente se adjudique el contrato.",
+    "La eventual prórroga de un año prevista para el contrato."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 5,
+   "enunciado": "¿Cuál de los siguientes NO constituye un medio para acreditar solvencia técnica en el contrato de servicios de mantenimiento?",
+   "opciones": [
+    "Una relación de los principales servicios o trabajos realizados de igual o similar naturaleza en el curso de los tres últimos años.",
+    "Declaración sobre la plantilla media anual de la empresa durante los tres últimos años.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar.",
+    "Muestras, descripciones y fotografías de las prestaciones a ejecutar."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 6,
+   "enunciado": "Conforme al artículo 135 de la LCSP, ¿dónde debió publicarse, al menos, el anuncio de licitación del contrato de servicios de mantenimiento y conservación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "Únicamente en el Boletín Oficial del Estado.",
+    "En el Boletín Oficial del Estado y en el perfil de contratante.",
+    "En el Diario Oficial de la Unión Europea, en el Boletín Oficial del Estado y en el perfil de contratante."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 7,
+   "enunciado": "De acuerdo con la LCSP, ¿cabría interponer recurso administrativo ordinario contra el anuncio de licitación del contrato de servicios de mantenimiento y conservación?",
+   "opciones": [
+    "No, al ser susceptible de impugnación mediante recurso especial en materia de contratación.",
+    "Sí, cabría interponer recurso potestativo de reposición ante el Presidente de TURESPAÑA.",
+    "Sí, cabría interponer recurso de alzada ante el Presidente de TURESPAÑA.",
+    "No, porque los anuncios de licitación no son susceptibles de recurso."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 8,
+   "enunciado": "Una vez clasificadas las ofertas presentadas en la licitación del contrato de servicios de mantenimiento y conservación, TURESPAÑA requirió al licitador que había presentado la mejor oferta para que constituyera la garantía definitiva. ¿Por qué importe debía constituirla?",
+   "opciones": [
+    "1.500 euros.",
+    "2.500 euros.",
+    "3.000 euros.",
+    "3.250 euros."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 9,
+   "enunciado": "Uno de los licitadores que no resultó adjudicatario del contrato de servicios de mantenimiento y conservación interpuso recurso especial en materia de contratación contra el acto de adjudicación. Señale la respuesta correcta:",
+   "opciones": [
+    "El recurso será inadmitido al tratarse de un contrato no sujeto a regulación armonizada.",
+    "El recurso será inadmitido por no superar el valor estimado del contrato el umbral exigido para su interposición.",
+    "El recurso será inadmitido al no ser el acto de adjudicación susceptible de recurso especial en materia de contratación.",
+    "La interposición del recurso determinará la suspensión automática de la tramitación del procedimiento."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 10,
+   "enunciado": "En relación con la prórroga de un año prevista en el contrato de servicios de mantenimiento y conservación, señale la respuesta correcta de acuerdo con la LCSP:",
+   "opciones": [
+    "En ningún caso podrá producirse por el consentimiento tácito de las partes.",
+    "Deberá preavisarse al empresario con una antelación mínima de tres meses.",
+    "Se acordará por el órgano de contratación y será potestativa para el empresario.",
+    "En los contratos tramitados de forma anticipada no es posible prever prórrogas."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 11,
+   "enunciado": "En relación con el contrato de servicios de evaluación del idioma inglés, ¿podría celebrarse verbalmente?",
+   "opciones": [
+    "No, la contratación verbal no está permitida en ningún caso.",
+    "Sí, al tratarse de un contrato basado en un acuerdo marco.",
+    "Sí, al ser su valor estimado inferior a 15.000 euros.",
+    "No, salvo que el contrato tuviera carácter de emergencia."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 12,
+   "enunciado": "¿Cuándo debe considerarse perfeccionado el contrato de servicios de evaluación del idioma inglés?",
+   "opciones": [
+    "Con el inicio de su ejecución.",
+    "Con su adjudicación.",
+    "Con su licitación.",
+    "Con su formalización."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 13,
+   "enunciado": "En relación con el contrato para la fabricación de las mesas cuyas características peculiares han sido fijadas previamente por TURESPAÑA, ¿qué consideración tendrá conforme a la LCSP?",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de obras.",
+    "Contrato de suministro.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 14,
+   "enunciado": "En relación con la garantía definitiva correspondiente al contrato de fabricación de las mesas, señale la respuesta correcta:",
+   "opciones": [
+    "Si el precio se formula en función de precios unitarios, su importe será el 5% del presupuesto base de licitación, IVA excluido.",
+    "La deberán presentar, antes de la adjudicación del contrato, todos los licitadores que presenten oferta.",
+    "Con carácter general, su importe será del 5% del precio final ofertado, incluido el IVA.",
+    "Se extinguirá automáticamente y será devuelta a los licitadores inmediatamente después de la perfección del contrato."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 15,
+   "enunciado": "Conforme al artículo 135 de la LCSP, ¿dónde deberá publicarse el anuncio de licitación del contrato de fabricación de las mesas?",
+   "opciones": [
+    "En el Boletín Oficial del Estado y en el perfil de contratante.",
+    "Únicamente en el Boletín Oficial del Estado.",
+    "Únicamente en el perfil de contratante.",
+    "En el Diario Oficial de la Unión Europea, en el Boletín Oficial del Estado y en el perfil de contratante."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 16,
+   "enunciado": "En el caso de que, por razones de interés público, el expediente del contrato de fabricación fuera objeto de tramitación urgente, ¿cuál de las siguientes especialidades le sería aplicable?",
+   "opciones": [
+    "El plazo de inicio de la ejecución del contrato no podrá ser superior a 30 días desde la formalización.",
+    "Los órganos que intervengan en la tramitación dispondrán de un plazo de cinco días para emitir los respectivos informes.",
+    "No será precisa la formalización del contrato.",
+    "Se podrá contratar sin sujetarse a requisitos formales, incluso el de la existencia de crédito suficiente."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 17,
+   "enunciado": "Señale la respuesta correcta en relación con el contrato de arrendamiento del inmueble donde se ubicarán parte de las dependencias administrativas de TURESPAÑA:",
+   "opciones": [
+    "Se regirá por la legislación patrimonial.",
+    "Tendrá carácter administrativo.",
+    "Tendrá la consideración de contrato privado incluido en el ámbito de aplicación de la LCSP.",
+    "Tendrá carácter administrativo especial."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 18,
+   "enunciado": "Conforme a la LCSP, ¿qué valor estimado podría tener como máximo el contrato adjudicado para el arreglo de la puerta?",
+   "opciones": [
+    "39.999,99 euros.",
+    "40.000 euros.",
+    "14.999,99 euros.",
+    "15.000 euros."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 19,
+   "enunciado": "¿Qué consideración tendrá el contrato que tiene por objeto la suscripción a revistas electrónicas de la editorial Aranzadi?",
+   "opciones": [
+    "Contrato administrativo de servicios.",
+    "Contrato privado.",
+    "Contrato administrativo especial.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-25-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 20",
+   "n": 20,
+   "enunciado": "¿Qué orden jurisdiccional será competente para resolver las cuestiones que se susciten respecto a la preparación y adjudicación del contrato de suscripción a las revistas electrónicas?",
+   "opciones": [
+    "Mercantil.",
+    "Contencioso-administrativo.",
+    "Civil.",
+    "Social."
+   ],
+   "caso": "caso-25"
+  },
+  {
+   "id": "pr-26-001",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 1,
+   "enunciado": "Conforme al artículo 131.2 de la LCSP, ¿cuál de los siguientes contratos responde a la forma ordinaria de adjudicación?",
+   "opciones": [
+    "Un contrato adjudicado mediante diálogo competitivo, utilizando el precio como único criterio de adjudicación.",
+    "Un contrato adjudicado mediante procedimiento restringido, utilizando una pluralidad de criterios de adjudicación.",
+    "Un contrato adjudicado mediante procedimiento abierto, utilizando el precio como único criterio de adjudicación.",
+    "Un contrato adjudicado mediante licitación con negociación, utilizando una pluralidad de criterios de adjudicación."
+   ]
+  },
+  {
+   "id": "pr-26-002",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 2,
+   "enunciado": "El artículo 131 de la LCSP contempla determinados procedimientos de adjudicación que solo podrán utilizarse cuando concurra alguno de los supuestos previstos para ellos. ¿Cuál de los siguientes NO constituye uno de estos procedimientos?",
+   "opciones": [
+    "La licitación con negociación.",
+    "La asociación para la innovación.",
+    "La subasta electrónica.",
+    "El diálogo competitivo."
+   ]
+  },
+  {
+   "id": "pr-26-003",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 3,
+   "enunciado": "El Organismo Autónomo Parques Nacionales pretende celebrar distintos contratos. Conforme al artículo 131 de la LCSP, ¿cuál de ellos podrá adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria?",
+   "opciones": [
+    "Un contrato de servicios para la reparación de equipos, cuyo valor estimado asciende a 14.500 euros.",
+    "Un contrato de concesión de servicios para la explotación de una cafetería, cuyo valor estimado asciende a 12.000 euros.",
+    "Un contrato de obras, con un valor estimado de 40.000 euros, cuya tramitación haya sido declarada urgente.",
+    "Un contrato de suministro, con un valor estimado de 60.000 euros, que incluya soluciones innovadoras."
+   ]
+  },
+  {
+   "id": "pr-26-004",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 4,
+   "enunciado": "El Instituto Nacional de Gestión Sanitaria necesita contratar con una clínica privada una prueba diagnóstica cuya realización no puede demorarse. Tratándose de una prestación de asistencia sanitaria en un supuesto de urgencia, ¿qué valor estimado deberá tener el contrato para que no resulten aplicables las disposiciones de la LCSP relativas a su preparación y adjudicación?",
+   "opciones": [
+    "Igual o inferior a 15.000 euros.",
+    "Inferior a 15.000 euros.",
+    "Igual o inferior a 30.000 euros.",
+    "Inferior a 30.000 euros."
+   ]
+  },
+  {
+   "id": "pr-26-005",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 5,
+   "enunciado": "El Ministerio de Cultura publica un anuncio de información previa de los contratos que proyecta adjudicar en los próximos doce meses. Conforme al artículo 134 de la LCSP, ¿en cuál de los siguientes contratos podrá dicha publicación permitir la reducción del plazo de presentación de proposiciones?",
+   "opciones": [
+    "En un contrato de obras no sujeto a regulación armonizada, adjudicado mediante procedimiento abierto.",
+    "En un contrato de suministro sujeto a regulación armonizada, adjudicado mediante licitación con negociación.",
+    "En un contrato de servicios sujeto a regulación armonizada, adjudicado mediante procedimiento restringido.",
+    "En un contrato de concesión de servicios sujeto a regulación armonizada, adjudicado mediante procedimiento abierto."
+   ]
+  },
+  {
+   "id": "pr-26-006",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 6,
+   "enunciado": "Conforme al artículo 134 de la LCSP, ¿dónde podrá publicarse el anuncio de información previa?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "Únicamente en el Diario Oficial de la Unión Europea.",
+    "A elección del órgano de contratación, en el Diario Oficial de la Unión Europea o en el perfil de contratante.",
+    "Necesariamente en el Diario Oficial de la Unión Europea y en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "pr-26-007",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 7,
+   "enunciado": "El Ministerio de Justicia pretende adquirir nuevo mobiliario, con un valor estimado de 70.000 euros, mediante procedimiento abierto. Conforme al artículo 135 de la LCSP, ¿dónde deberá publicarse el anuncio de licitación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-26-008",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 8,
+   "enunciado": "La Comunidad de Madrid pretende contratar un servicio de mantenimiento de sus edificios, con un valor estimado de 170.000 euros, mediante procedimiento abierto. Conforme al artículo 135 de la LCSP, ¿dónde deberá publicar el anuncio de licitación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-26-009",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 9,
+   "enunciado": "El organismo autónomo estatal INJUVE O.A. pretende contratar un servicio de limpieza, con un valor estimado de 140.000 euros, mediante procedimiento abierto. Conforme al artículo 135 de la LCSP, ¿dónde deberá publicar el anuncio de licitación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-26-010",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 10,
+   "enunciado": "El Ayuntamiento de Málaga pretende adjudicar, mediante procedimiento restringido, las obras de reforma de un polideportivo municipal, por un valor estimado de 5.500.000 euros. Conforme al artículo 135 de la LCSP, ¿dónde deberá publicar el anuncio de licitación?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-26-011",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 11,
+   "enunciado": "Conforme al artículo 136 de la LCSP, ¿a quién corresponde fijar los plazos de presentación de ofertas y solicitudes de participación?",
+   "opciones": [
+    "A los órganos de contratación, respetando los plazos mínimos establecidos en la Ley.",
+    "A los órganos de contratación, respetando los plazos máximos establecidos en la Ley.",
+    "A la mesa de contratación, respetando los plazos mínimos establecidos en la Ley.",
+    "No será necesario fijarlos, puesto que la Ley concreta el plazo aplicable a cada procedimiento."
+   ]
+  },
+  {
+   "id": "pr-26-012",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 12,
+   "enunciado": "Conforme al artículo 139 de la LCSP, señale la afirmación INCORRECTA respecto de las proposiciones de los interesados:",
+   "opciones": [
+    "Deberán ajustarse a los pliegos y documentación que rigen la licitación.",
+    "Deberán mantenerse secretas hasta el acto de adjudicación del contrato.",
+    "En ellas deberá indicarse, como partida independiente, el importe del Impuesto sobre el Valor Añadido que deba ser repercutido.",
+    "Su presentación supone la aceptación incondicionada de la totalidad de las cláusulas de los pliegos, sin salvedad o reserva alguna."
+   ]
+  },
+  {
+   "id": "pr-26-013",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 13,
+   "enunciado": "En una licitación convocada por el Ministerio de Defensa, la empresa NOVATEC, S.L. presenta, dentro de plazo, dos proposiciones: una individualmente, el 5 de octubre de 2026; y otra, como integrante de una unión temporal de empresas junto a TECNOVA, S.A., el 7 de octubre de 2026. Conforme al artículo 139 de la LCSP, ¿cuál de las proposiciones presentadas podrá ser admitida?",
+   "opciones": [
+    "Únicamente la presentada individualmente por NOVATEC, S.L.",
+    "Únicamente la presentada en unión temporal junto a TECNOVA, S.A.",
+    "Tanto la presentada individualmente por NOVATEC. SL como la presentada en unión temporal junto a TECNOVA S.A.",
+    "Ninguna de las suscritas por NOVATEC, S.L."
+   ]
+  },
+  {
+   "id": "pr-26-014",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 14,
+   "enunciado": "La empresa TECNODATA, S.L. participa en un procedimiento abierto convocado por el Ministerio de Economía. Conforme a la LCSP, ¿qué deberá presentar junto con su oferta a efectos de acreditar el cumplimiento de los requisitos previos para contratar?",
+   "opciones": [
+    "Los documentos justificativos del cumplimiento de los requisitos previos.",
+    "Un certificado acreditativo de su inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "Una declaración responsable ajustada al formulario del Documento Europeo Único de Contratación.",
+    "No deberá aportar documento alguno, pues la acreditación de los requisitos previos se realizará en una fase posterior."
+   ]
+  },
+  {
+   "id": "pr-26-015",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 15,
+   "enunciado": "La empresa OFIMOBEL, S.L. participa en un procedimiento convocado por el Ministerio de Hacienda para el suministro de mobiliario. Conforme al artículo 140.4 de la LCSP, ¿en qué momento deben concurrir las circunstancias relativas a su aptitud para contratar?",
+   "opciones": [
+    "En la fecha de publicación del anuncio de licitación, debiendo subsistir hasta la adjudicación del contrato.",
+    "En la fecha final de presentación de ofertas, debiendo subsistir hasta la perfección del contrato.",
+    "En la fecha de publicación del anuncio de licitación, debiendo subsistir hasta la perfección del contrato.",
+    "En la fecha final de presentación de ofertas, debiendo subsistir hasta la adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "pr-26-016",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 16,
+   "enunciado": "El Ministerio de Cultura licita la adquisición de escáneres para la digitalización de sus archivos y autoriza la presentación de variantes en los términos previstos en el artículo 142 de la LCSP. Un licitador propone, como variante, realizar directamente la digitalización con sus propios equipos. ¿Podrá admitirse dicha variante?",
+   "opciones": [
+    "No, porque su elección daría lugar a un contrato de servicios en lugar de a un contrato de suministro.",
+    "No, salvo que ninguna de las restantes ofertas presentadas resulte admisible.",
+    "Sí, sin que pueda rechazarse por el solo hecho de que su elección dé lugar a un contrato de servicios en vez de a uno de suministro.",
+    "Sí, siempre que en la adjudicación se tenga en cuenta únicamente el precio."
+   ]
+  },
+  {
+   "id": "pr-26-017",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 17,
+   "enunciado": "El Ayuntamiento de Almería licita, mediante procedimiento abierto, la adquisición de sillas de oficina cuyas características están definidas en los pliegos. Se prevé celebrar una subasta electrónica en tres fases sucesivas. Conforme al artículo 143 de la LCSP, señale la afirmación INCORRECTA:",
+   "opciones": [
+    "Solo podrá celebrarse si todos los criterios de adjudicación del contrato son evaluables mediante fórmulas.",
+    "Antes de iniciarla, el órgano de contratación efectuará una primera evaluación completa de las ofertas.",
+    "Las ofertas se clasificarán mediante un dispositivo electrónico que utilice métodos de evaluación automatizados.",
+    "Durante cada fase se comunicará a los licitadores, de forma continua e instantánea, su respectiva clasificación."
+   ]
+  },
+  {
+   "id": "pr-26-018",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 18,
+   "enunciado": "En una licitación no dividida en lotes cuyos pliegos admiten variantes, ¿cuál de las siguientes actuaciones de un licitador respeta lo dispuesto en el artículo 139.3 de la LCSP?",
+   "opciones": [
+    "Presentar dos proposiciones independientes para que se valore la más ventajosa.",
+    "Presentar una proposición y una variante ajustada a las condiciones de los pliegos.",
+    "Presentar una proposición individualmente y otra formando parte de una unión temporal de empresarios.",
+    "Presentar ofertas en dos uniones temporales distintas, siempre que no concurra también individualmente."
+   ]
+  },
+  {
+   "id": "pr-26-019",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 19,
+   "enunciado": "Conforme al artículo 145.2 de la LCSP, la mejor relación calidad-precio se evaluará con arreglo a criterios:",
+   "opciones": [
+    "Económicos y cualitativos.",
+    "Económicos y cuantitativos.",
+    "Objetivos y subjetivos.",
+    "Cuantitativos y cualitativos."
+   ]
+  },
+  {
+   "id": "pr-26-020",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 20,
+   "enunciado": "Conforme a la LCSP, señale la afirmación correcta respecto de la valoración de los criterios de adjudicación:",
+   "opciones": [
+    "Los criterios económicos podrán valorarse mediante fórmulas o mediante juicios de valor.",
+    "Los criterios cualitativos deberán valorarse, en todo caso, mediante fórmulas.",
+    "Los criterios cualitativos deberán valorarse, en todo caso, mediante juicios de valor.",
+    "Los criterios cualitativos podrán valorarse mediante fórmulas o mediante juicios de valor."
+   ]
+  },
+  {
+   "id": "pr-26-021",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 21,
+   "enunciado": "En un contrato de suministro, el PCAP establece el siguiente criterio de adjudicación: «Reducción del plazo de entrega: se otorgarán 2 puntos por cada día de reducción respecto del plazo máximo establecido, hasta un máximo de 10 puntos». De conformidad con la LCSP, este criterio tiene la consideración de:",
+   "opciones": [
+    "Criterio económico evaluable mediante fórmula.",
+    "Criterio económico sujeto a juicio de valor.",
+    "Criterio cualitativo evaluable mediante fórmula.",
+    "Criterio cualitativo sujeto a juicio de valor."
+   ]
+  },
+  {
+   "id": "pr-26-022",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 22,
+   "enunciado": "En un contrato de suministro de mobiliario, el PCAP establece el siguiente criterio de adjudicación: «Características estéticas del mobiliario: se valorarán hasta un máximo de 10 puntos el diseño, la armonía y la integración estética de los elementos ofertados». Conforme a la LCSP, este criterio tiene la consideración de:",
+   "opciones": [
+    "Criterio cualitativo evaluable mediante fórmula.",
+    "Criterio cualitativo sujeto a juicio de valor.",
+    "Criterio económico evaluable mediante fórmula.",
+    "Criterio económico sujeto a juicio de valor."
+   ]
+  },
+  {
+   "id": "pr-26-023",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 23,
+   "enunciado": "El Ayuntamiento de Córdoba prepara la licitación de unas obras de reparación de aceras y se plantea utilizar un único criterio de adjudicación. Conforme al artículo 146.1 de la LCSP, señale la afirmación CORRECTA:",
+   "opciones": [
+    "No podrá hacerlo, pues en todo caso deberá utilizar una pluralidad de criterios de adjudicación.",
+    "Deberá utilizar necesariamente el precio.",
+    "Podrá utilizar el precio o un criterio basado en la rentabilidad, como el coste del ciclo de vida.",
+    "Podrá utilizar el precio o un criterio cualitativo evaluable mediante fórmulas."
+   ]
+  },
+  {
+   "id": "pr-26-024",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 24,
+   "enunciado": "El Ministerio de Cultura prepara, mediante procedimiento abierto, la contratación de la redacción del proyecto de obra de un museo. Prevé utilizar criterios sujetos a juicio de valor y criterios evaluables mediante fórmulas. Conforme a los artículos 145 y 146 de la LCSP, tratándose de un servicio intelectual, señale la afirmación CORRECTA:",
+   "opciones": [
+    "Los criterios sujetos a juicio de valor deberán representar, al menos, el 51 % de la puntuación total.",
+    "Los criterios evaluables mediante fórmulas deberán valorarse antes que los sujetos a juicio de valor.",
+    "Cuando, por razones objetivas, no sea posible ponderar los criterios, estos se enumerarán por orden decreciente de importancia.",
+    "Los criterios sujetos a juicio de valor deberán ser evaluados, en todo caso, por un comité de al menos tres expertos."
+   ]
+  },
+  {
+   "id": "pr-26-025",
+   "origen": "practicas",
+   "test": "Examen nº 21 - LCSP (arts 131 a 148)",
+   "n": 25,
+   "enunciado": "En una licitación del organismo autónomo Parques Nacionales para contratar un servicio de limpieza, las dos ofertas mejor valoradas obtienen la misma puntuación. Si los pliegos no prevén criterios de desempate, ¿cuál deberá aplicarse en primer lugar conforme al artículo 147.2 de la LCSP?",
+   "opciones": [
+    "El menor porcentaje de contratos temporales en la plantilla de cada empresa.",
+    "El mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada empresa.",
+    "El mayor porcentaje de mujeres empleadas en la plantilla de cada empresa.",
+    "El sorteo entre las ofertas empatadas."
+   ]
+  },
+  {
+   "id": "pr-27-001",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 1,
+   "enunciado": "Los contratos de fabricación, por los que la cosa o cosas que hayan de ser entregadas por el empresario deban ser elaboradas con arreglo a características peculiares fijadas previamente por la entidad contratante, tendrán la consideración de:",
+   "opciones": [
+    "Contrato de suministro.",
+    "Contrato de obras.",
+    "Contrato de servicios.",
+    "Contrato mixto de suministro y obras."
+   ]
+  },
+  {
+   "id": "pr-27-002",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 2,
+   "enunciado": "Según el artículo 27 de la LCSP, el orden jurisdiccional civil será competente para resolver las cuestiones referidas a:",
+   "opciones": [
+    "La preparación de los contratos administrativos.",
+    "La adjudicación de los contratos privados de las Administraciones Públicas.",
+    "La preparación y adjudicación de los contratos de entidades que no tengan el carácter de Administraciones Públicas.",
+    "La extinción de los contratos que celebren las entidades del sector público que no tengan el carácter de poderes adjudicadores."
+   ]
+  },
+  {
+   "id": "pr-27-003",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 3,
+   "enunciado": "Conforme al artículo 44 de la LCSP, señale cuál de los siguientes contratos o actuaciones puede ser objeto de recurso especial en materia de contratación, siempre que se cumplan los demás requisitos exigidos en dicho artículo:",
+   "opciones": [
+    "Los procedimientos de adjudicación que se sigan por el trámite de emergencia.",
+    "Las concesiones de servicios cuyo valor estimado supere los dos millones de euros.",
+    "Los pliegos que establezcan las condiciones que deban regir la contratación.",
+    "Los contratos de suministro y servicios que tenga un valor estimado superior a ochenta mil euros."
+   ]
+  },
+  {
+   "id": "pr-27-004",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 4,
+   "enunciado": "Señale la respuesta correcta en relación los efectos de la interposición de un recurso especial en materia de contratación contra el acto de adjudicación:",
+   "opciones": [
+    "Suspende la tramitación del procedimiento de licitación, en todo caso.",
+    "En el caso de contratos basados en un acuerdo marco, no suspende la tramitación del procedimiento de licitación.",
+    "No suspende la tramitación del procedimiento de licitación, en ningún caso.",
+    "Suspende el acto público de apertura de las proposiciones."
+   ]
+  },
+  {
+   "id": "pr-27-005",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 5,
+   "enunciado": "Según el artículo 62 de la LCSP, en los contratos de obras, las facultades del responsable del contrato serán ejercidas por:",
+   "opciones": [
+    "El promotor.",
+    "El constructor.",
+    "El proyectista.",
+    "El director facultativo."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-04-027",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 27,
+   "enunciado": "De acuerdo con la LCSP, y sin perjuicio de lo dispuesto sobre admisibilidad de variantes y sobre presentación de nuevos precios en el seno de una subasta electrónica:",
+   "opciones": [
+    "Cada licitador no podrá presentar más de una proposición, sin perjuicio de las propuestas que suscriba en unión temporal.",
+    "Cada licitador podrá presentar dos proposiciones.",
+    "Cada licitador no podrá presentar más de una proposición.",
+    "Cada licitador podrá presentar proposiciones sin límite."
+   ]
+  },
+  {
+   "id": "vo-04-028",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 28,
+   "enunciado": "Señale la respuesta correcta respecto a la documentación acreditativa del cumplimiento de los requisitos previos para contratar:",
+   "opciones": [
+    "Las proposiciones irán siempre acompañadas de los documentos justificativos del cumplimiento de los requisitos previos.",
+    "El órgano de contratación solo podrá pedir que presenten los documentos justificativos a los licitadores a que les haya sido adjudicado el contrato.",
+    "Las circunstancias relativas a la capacidad, solvencia y ausencia de prohibiciones de contratar deben concurrir en la fecha final de presentación de ofertas.",
+    "Cuando se exija la constitución de garantía provisional, se aportará declaración responsable de haberla constituido."
+   ]
+  },
+  {
+   "id": "vo-04-029",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 29,
+   "enunciado": "De acuerdo con la LCSP, el órgano de contratación podrá tomar en consideración las variantes que ofrezcan los licitadores:",
+   "opciones": [
+    "Cuando en la adjudicación haya de tenerse en cuenta solo el precio, siempre que las variantes se prevean en los pliegos.",
+    "Cuando en la adjudicación hayan de tenerse en cuenta criterios distintos del precio, siempre que las variantes se prevean en los pliegos.",
+    "Cuando en la adjudicación hayan de tenerse en cuenta exclusivamente criterios distintos del precio, aun cuando los pliegos no prevean las variantes.",
+    "En ningún caso cuando, de ser elegida, diera lugar a un contrato de servicios en vez de a un contrato de suministro o viceversa."
+   ]
+  },
+  {
+   "id": "vo-04-030",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 30,
+   "enunciado": "De acuerdo con la LCSP, los procedimientos de adjudicación de los contratos del Sector Público son:",
+   "opciones": [
+    "La subasta, el procedimiento restringido y el procedimiento abreviado.",
+    "El abierto, el restringido, los procedimientos negociados, el diálogo competitivo y la asociación para la innovación.",
+    "El procedimiento abierto, el procedimiento restringido, el procedimiento negociado y el diálogo competitivo.",
+    "La subasta, el concurso y el diálogo competitivo."
+   ]
+  },
+  {
+   "id": "vo-04-031",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 31,
+   "enunciado": "El artículo 145.1 de la LCSP establece sobre la adjudicación de los contratos que: (ADMVO-LI 2019)",
+   "opciones": [
+    "Se realizará atendiendo a la oferta económica más ventajosa, sin necesidad de justificarlo en el expediente.",
+    "Se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio.",
+    "Se realizará atendiendo exclusivamente a criterios cualitativos.",
+    "Se realizará con arreglo a criterios basados en un planteamiento que atienda a la mejor relación coste-eficacia."
+   ]
+  },
+  {
+   "id": "vo-04-032",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 32,
+   "enunciado": "De conformidad con el artículo 145 de la LCSP, la mejor relación calidad-precio se evaluará con arreglo a criterios:",
+   "opciones": [
+    "Cuantitativos y económicos.",
+    "Económicos y de solvencia.",
+    "Cualitativos y de solvencia.",
+    "Económicos y cualitativos."
+   ]
+  },
+  {
+   "id": "vo-04-033",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 33,
+   "enunciado": "Según dispone la LCSP, en los contratos de servicios del Anexo IV, así como en los que tengan por objeto prestaciones de carácter intelectual, los criterios relacionados con la calidad deberán representar:",
+   "opciones": [
+    "El 25 por ciento, al menos, de la puntuación asignable en la valoración de las ofertas.",
+    "El 50 por ciento de la puntuación asignable en la valoración de las ofertas.",
+    "El 51 por ciento, al menos, de la puntuación asignable en la valoración de las ofertas.",
+    "El 100 por ciento de la puntuación asignable en la valoración de las ofertas."
+   ]
+  },
+  {
+   "id": "vo-04-034",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 34,
+   "enunciado": "Según el artículo 146 de la LCSP, en los procedimientos de contratación, ¿puede utilizarse un único criterio de adjudicación?",
+   "opciones": [
+    "Sí, siempre que este sea el precio.",
+    "Sí, debiendo ser un criterio cualitativo.",
+    "Sí, debiendo estar relacionado con los costes.",
+    "No, la adjudicación de los contratos se realizará, en todo caso, utilizando una pluralidad de criterios de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-04-035",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 35,
+   "enunciado": "Según la LCSP, en defecto de previsión en los pliegos, cuando se produzca un empate entre dos ofertas, el primer criterio de desempate será:",
+   "opciones": [
+    "Mayor porcentaje de mujeres empleadas en la plantilla de cada empresa.",
+    "El sorteo.",
+    "Menor porcentaje de contratos temporales en la plantilla de cada empresa.",
+    "Mayor porcentaje de trabajadores con discapacidad o en situación de exclusión social en la plantilla de cada empresa."
+   ]
+  },
+  {
+   "id": "vo-04-036",
+   "origen": "votaciones",
+   "test": "Clase 16 - Bloque III",
+   "n": 36,
+   "enunciado": "Señale la respuesta correcta en relación con los criterios de adjudicación, de acuerdo con lo dispuesto en la LCSP:",
+   "opciones": [
+    "La adjudicación de los contratos se realizará, necesariamente, utilizando una pluralidad de criterios de adjudicación.",
+    "Los criterios cuya cuantificación dependa de un juicio de valor en ningún caso podrán tener mayor ponderación que los evaluables de forma automática.",
+    "Cuando, por razones debidamente justificadas, no sea posible ponderar los criterios elegidos, estos se enumerarán por orden creciente de importancia.",
+    "Los órganos de contratación calcularán los costes a que se refiere el artículo 145 atendiendo, preferentemente, al coste del ciclo de vida."
+   ]
+  },
+  {
+   "id": "vo-05-002",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 2,
+   "enunciado": "¿Cuál es el plazo para la adjudicación de un contrato, una vez recepcionada la documentación requerida al licitador presentó la mejor oferta?",
+   "opciones": [
+    "5 días naturales.",
+    "10 días hábiles.",
+    "5 días hábiles.",
+    "15 días hábiles."
+   ]
+  },
+  {
+   "id": "vo-05-003",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 3,
+   "enunciado": "Según el artículo 151 de la LCSP, ¿en qué plazo debe ser publicada en el perfil de contratante la resolución de adjudicación? (GACE-LI 2019)",
+   "opciones": [
+    "10 días naturales.",
+    "15 días naturales.",
+    "15 días hábiles.",
+    "10 días hábiles."
+   ]
+  },
+  {
+   "id": "vo-05-004",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 4,
+   "enunciado": "Según el artículo 153 de la LCSP, con carácter general, los contratos que celebren las Administraciones Públicas:",
+   "opciones": [
+    "Deben formalizarse en escritura pública.",
+    "Deben formalizarse en escritura pública si así lo solicita la Administración pública contratante.",
+    "Deben formalizarse en documento administrativo que se ajuste con exactitud a las condiciones de la licitación.",
+    "No resultará necesaria la formalización del contrato, salvo que se trate de un contrato basado en un acuerdo marco."
+   ]
+  },
+  {
+   "id": "vo-05-005",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 5,
+   "enunciado": "Según el artículo 153 de la LCSP, si un contrato es susceptible de recurso especial en materia de contratación, la formalización:",
+   "opciones": [
+    "Deberá efectuarse antes de que transcurran diez días hábiles desde la notificación de la adjudicación a los licitadores.",
+    "No podrá efectuarse antes de que transcurran quince días desde que se remita la notificación de la adjudicación a los licitadores y candidatos.",
+    "No podrá efectuarse antes de que transcurran quince días hábiles desde que se remita la notificación de la adjudicación a los licitadores y candidatos.",
+    "Deberá efectuarse no más tarde de los quince días hábiles siguientes a la notificación de la adjudicación a los licitadores."
+   ]
+  },
+  {
+   "id": "vo-05-006",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 6,
+   "enunciado": "Según el artículo 153.4 de la LCSP, cuando por causas imputables al adjudicatario no se hubiese formalizado el contrato dentro del plazo indicado se le exigirá, en concepto de penalidad, el importe del: (Galicia C1 2021)",
+   "opciones": [
+    "3 por ciento del precio, IVA excluido.",
+    "3 por ciento del precio, IVA incluido.",
+    "3 por ciento del presupuesto base de licitación, IVA excluido.",
+    "3 por ciento del presupuesto base de licitación, IVA incluido."
+   ]
+  },
+  {
+   "id": "vo-05-007",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 7,
+   "enunciado": "Según la LCSP, la Administración puede desistir del procedimiento de adjudicación: (Comunidad Madrid A1 2019)",
+   "opciones": [
+    "Por una infracción no subsanable de las normas de preparación del contrato o del procedimiento de adjudicación.",
+    "Por razones de interés público o privado, debidamente motivadas.",
+    "Siempre que lo estime conveniente, indemnizando al adjudicatario.",
+    "Por razones de interés público, antes de la adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "vo-05-008",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 8,
+   "enunciado": "Señale la respuesta correcta, de acuerdo con lo previsto en el artículo 152 de la Ley de Contratos del Sector Público:",
+   "opciones": [
+    "En el caso en que el órgano de contratación desista del procedimiento de adjudicación, no podrá promoverse una nueva licitación de su objeto.",
+    "La decisión de no adjudicar o celebrar el contrato podrán acordarse por el órgano de contratación antes de la formalización.",
+    "La decisión de no adjudicar o celebrar el contrato podrá estar fundada en una infracción no subsanable de las normas de preparación del contrato.",
+    "El desistimiento del procedimiento podrá acordarse aun cuando se hubiese formalizado el contrato."
+   ]
+  },
+  {
+   "id": "vo-05-009",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 9,
+   "enunciado": "Según la LCSP, la decisión de no adjudicar o celebrar el contrato por la Administración: (Castilla La Mancha C1 2019)",
+   "opciones": [
+    "Deberá estar fundado, necesariamente, en una infracción de las normas de preparación del contrato.",
+    "No impedirá la iniciación inmediata de un procedimiento de licitación.",
+    "Deberá estar fundado, necesariamente, en una infracción de las normas de adjudicación del contrato.",
+    "Deberá ser objeto de publicación en el perfil de contratante."
+   ]
+  },
+  {
+   "id": "vo-05-010",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 10,
+   "enunciado": "Según el artículo 156 de la LCSP, en procedimientos abiertos de adjudicación de obras sujetas a regulación armonizada, el plazo de presentación de proposiciones no será inferior a: (Galicia C1 2021)",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "vo-05-011",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 11,
+   "enunciado": "En un procedimiento abierto, el plazo general de presentación de proposiciones para la adjudicación de un contrato de concesión de obras, solo se podrá reducir cuando:",
+   "opciones": [
+    "El anuncio de información previa se hubiera enviado en los términos legalmente previstos.",
+    "El plazo general de presentación de proposiciones sea impracticable por tratarse de una situación de urgencia.",
+    "El órgano de contratación aceptara la presentación de ofertas por medios electrónicos.",
+    "En ningún caso es posible la reducción del plazo general para la adjudicación de un contrato de concesión de obras."
+   ]
+  },
+  {
+   "id": "vo-05-012",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 12,
+   "enunciado": "La LCSP establece en su artículo 156 que el procedimiento por el que todo empresario interesado podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato, se denomina: (Castilla La Mancha A2 2019)",
+   "opciones": [
+    "Negociado.",
+    "Abierto.",
+    "Restringido.",
+    "Concurso."
+   ]
+  },
+  {
+   "id": "vo-05-013",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 13,
+   "enunciado": "En el procedimiento abierto, finalizado el plazo para la presentación de proposiciones, deberá efectuarse la apertura de las mismas en el plazo de:",
+   "opciones": [
+    "Quince días.",
+    "Veinte días.",
+    "Treinta días.",
+    "Dos meses."
+   ]
+  },
+  {
+   "id": "vo-05-014",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 14,
+   "enunciado": "Según la LCSP, en un procedimiento abierto, cuando el único criterio de adjudicación del contrato sea el precio, la adjudicación deberá recaer en el plazo máximo de: (ADMVO-PI-EXT 2021)",
+   "opciones": [
+    "15 días, a contar desde el siguiente al de apertura de las proposiciones.",
+    "15 días, a contar desde el siguiente al de la finalización del plazo de presentación de las proposiciones.",
+    "20 días, a contar desde el siguiente al de la publicación de la licitación en el perfil del contratante.",
+    "20 días, a contar desde el siguiente al de la publicación de la licitación en el Boletín Oficial del Estado."
+   ]
+  },
+  {
+   "id": "vo-05-015",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 15,
+   "enunciado": "Según la LCSP, cuando deban tenerse en cuenta una pluralidad de criterios, el plazo máximo para efectuar la adjudicación será: (GACE-LI 2021)",
+   "opciones": [
+    "De dos meses, a contar desde la apertura de las proposiciones.",
+    "De veinte días, a contar desde la apertura de las proposiciones.",
+    "De quince días, a contar desde que finalizó el plazo para la presentación de proposiciones.",
+    "De un mes, a contar desde la apertura de las proposiciones."
+   ]
+  },
+  {
+   "id": "vo-05-016",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 16,
+   "enunciado": "Según la LCSP, señale la respuesta correcta respecto a los plazos de presentación de proposiciones en el procedimiento abierto simplificado: (GACE-PI 2019)",
+   "opciones": [
+    "No podrá ser superior a 15 días.",
+    "No podrá ser inferior a 20 días en contratos de obras.",
+    "Será al menos de 10 días en contratos de obras y tramitación urgente.",
+    "No podrá ser inferior a 26 días en contratos de obras."
+   ]
+  },
+  {
+   "id": "vo-05-017",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 17,
+   "enunciado": "Según la LCSP, los órganos de contratación podrán utilizar el procedimiento abierto simplificado en contratos de obras siempre que: (ADMVO 2021)",
+   "opciones": [
+    "Su precio de licitación no exceda 2.000.000 € y los criterios de adjudicación evaluables mediante juicio de valor no superen el 50% del total.",
+    "Su valor estimado supere los 2.000.000 € y su plazo de ejecución sea inferior a un año.",
+    "Su valor estimado sea inferior a 2.000.000 €, con independencia de cualquier otro criterio.",
+    "Su valor estimado no exceda de 2.000.000 de euros y los criterios de adjudicación evaluables mediante juicio de valor no superen el 25% del total."
+   ]
+  },
+  {
+   "id": "vo-05-018",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 18,
+   "enunciado": "Según el artículo 159.1 de la LCSP, ¿cuándo podrá acordarse la utilización del procedimiento abierto simplificado en contratos de suministros?",
+   "opciones": [
+    "Cuando el valor estimado sea inferior a 2.000.000 euros.",
+    "Cuando el valor estimado sea inferior a 140.000 euros.",
+    "Cuando el valor estimado sea igual o inferior a 216.000 euros.",
+    "Cuando el valor estimado sea igual o inferior a 140.000 euros."
+   ]
+  },
+  {
+   "id": "vo-05-019",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 19,
+   "enunciado": "De acuerdo con el artículo 159 de la LCSP, en un procedimiento abierto simplificado: (ADMVO-PI 2019)",
+   "opciones": [
+    "El plazo de presentación de ofertas será de 30 días hábiles.",
+    "El anuncio de licitación deberá publicarse en el perfil de contratante y, en su caso, en el Diario Oficial de la Unión Europea.",
+    "No procederá la constitución de garantía provisional por parte de los licitadores.",
+    "Los licitadores deberán contar con la preceptiva clasificación."
+   ]
+  },
+  {
+   "id": "vo-05-020",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 20,
+   "enunciado": "Según lo dispuesto en el artículo 159 de la LCSP, la tramitación del procedimiento abierto simplificado NO se ajustará a una de las siguientes especialidades. Indique cuál:",
+   "opciones": [
+    "Todos los licitadores deberán estar inscritos en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "El anuncio de licitación del contrato no será objeto de publicación.",
+    "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación.",
+    "No procederá la constitución de garantía provisional por parte de los licitadores."
+   ]
+  },
+  {
+   "id": "vo-05-021",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 21,
+   "enunciado": "Señale la respuesta correcta respecto al contrato de servicios por valor estimado de 170.000 € celebrado por el Ministerio: (ADMVO-LI-EXT 2023)",
+   "opciones": [
+    "Se trata de un contrato menor.",
+    "El contrato puede tramitarse por el procedimiento abierto simplificado del artículo 159 de la Ley 9/2017.",
+    "Se trata de un contrato sujeto a una regulación armonizada que puede tramitarse por el procedimiento abierto.",
+    "No es un contrato sujeto a una regulación armonizada porque su valor estimado es inferior 216.000 euros."
+   ]
+  },
+  {
+   "id": "vo-05-022",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 22,
+   "enunciado": "En un contrato de obras del Ministerio el valor estimado asciende a 79.000 euros y, entre los criterios de adjudicación, un 20% son evaluables mediante juicio de valor. Señale la respuesta correcta: (ADMVO-LI 2019)",
+   "opciones": [
+    "Se podrá realizar la contratación mediante un contrato menor de obras.",
+    "El órgano de contratación podrá acordar la utilización de un procedimiento abierto simplificado sumario.",
+    "El órgano de contratación podrá acordar la utilización de un procedimiento abierto simplificado.",
+    "El órgano de contratación deberá acordar la utilización de un procedimiento abierto ordinario."
+   ]
+  },
+  {
+   "id": "vo-05-023",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 23,
+   "enunciado": "Según el artículo 159.6 de la LCSP, ¿cuál de estos contratos podría adjudicarse mediante procedimiento abierto simplificado sumario? (GACE-LI 2019)",
+   "opciones": [
+    "Un contrato de obras con valor estimado de 100.000 €.",
+    "Un contrato de servicios con valor estimado 30.000 €, que se adjudicará únicamente con criterios cuantificables mediante la mera aplicación de fórmulas.",
+    "Un contrato de suministros con valor estimado de 60.000 €, con criterios de adjudicación sometidos a juicio de valor con una ponderación del 25 %.",
+    "Un contrato de servicios con valor estimado de 80.000 €."
+   ]
+  },
+  {
+   "id": "vo-05-024",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 24,
+   "enunciado": "En el procedimiento abierto simplificado sumario previsto en el artículo 159.6 de la LCSP, el plazo para presentar proposiciones, cuando se trate de compras corrientes de bienes disponibles en el mercado será de: (Técnico Intervención Vitoria-Gasteiz 2019)",
+   "opciones": [
+    "Diez días hábiles.",
+    "Diez días naturales.",
+    "Cinco días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "vo-05-025",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 25,
+   "enunciado": "En contratos de suministros de valor estimado inferior a 60.000 euros, según el artículo 159.6 de la LCSP, el procedimiento abierto simplificado podrá tener la siguiente especialidad: (GACE-LI 2017)",
+   "opciones": [
+    "Se exigirá la constitución de una garantía definitiva del 1% del importe de adjudicación del contrato.",
+    "Se exigirá la constitución de una garantía definitiva del 2% del precio del contrato.",
+    "Se exigirá a los licitadores el requisito de la clasificación.",
+    "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional."
+   ]
+  },
+  {
+   "id": "vo-05-026",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 26,
+   "enunciado": "La LCSP establece en el procedimiento abierto simplificado que, en los contratos de obras de valor estimado inferior a 80.000 euros, se podrá: (Castilla La Mancha C1 2021)",
+   "opciones": [
+    "Requerir la constitución de garantía provisional.",
+    "Efectuar la formalización del contrato mediante la firma de aceptación por el contratista de la resolución de adjudicación.",
+    "El plazo para la presentación de proposiciones podrá ser inferior a diez días hábiles.",
+    "Requerir a los licitadores la acreditación de la solvencia económica y financiera y técnica o profesional."
+   ]
+  },
+  {
+   "id": "vo-05-027",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 27,
+   "enunciado": "En contratos de servicios de valor estimado inferior a 60.000 euros, de acuerdo con el artículo 159.6 de la LCSP, el procedimiento abierto simplificado podrá tener la siguiente especialidad:",
+   "opciones": [
+    "Se eximirá a los licitadores de cumplir los requisitos de solvencia económica y financiera y técnica o profesional.",
+    "No se requerirá la formalización del contrato.",
+    "No se requerirá la constitución de garantía definitiva.",
+    "El plazo para la presentación de proposiciones no podrá ser inferior a cinco días hábiles."
+   ]
+  },
+  {
+   "id": "vo-05-028",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 28,
+   "enunciado": "De conformidad con el artículo 160.1 de la LCSP, en el procedimiento restringido: (Castilla La Mancha A2 2019)",
+   "opciones": [
+    "Todo empresario interesado podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
+    "La adjudicación recaerá en el licitador justificadamente elegido por el órgano de contratación, tras negociar las condiciones del contrato.",
+    "El órgano de contratación señalará el número mínimo de empresarios a los que invitará a participar en el procedimiento, que no podrá ser inferior a 3.",
+    "Cualquier empresa interesada podrá presentar una solicitud de participación en respuesta a una convocatoria de licitación."
+   ]
+  },
+  {
+   "id": "vo-05-029",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 29,
+   "enunciado": "De acuerdo con el artículo 160 de la LCSP, ¿cuál de las siguientes NO es una característica del procedimiento restringido? (Galicia A1 2020)",
+   "opciones": [
+    "Solo podrán presentar proposiciones los empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación.",
+    "Cualquier empresa que cumpla los requisitos de solvencia podrá presentar una proposición en respuesta a una convocatoria de licitación.",
+    "En este procedimiento estará prohibida toda negociación de los términos del contrato con los solicitantes o candidatos.",
+    "Este procedimiento es especialmente adecuado cuando se trata de servicios intelectuales de especial complejidad."
+   ]
+  },
+  {
+   "id": "vo-05-030",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 30,
+   "enunciado": "El plazo de presentación de las solicitudes de participación en procedimientos restringidos relativos a contratos no sujetos a regulación armonizada será, como mínimo, de:",
+   "opciones": [
+    "Quince días, contados a partir de la fecha de envío de la invitación escrita.",
+    "Treinta días, contados desde la publicación del anuncio de licitación.",
+    "Quince días, contados desde la publicación del anuncio de licitación.",
+    "Treinta días, contados a partir de la fecha de envío de la invitación escrita."
+   ]
+  },
+  {
+   "id": "vo-05-031",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 31,
+   "enunciado": "Conforme al artículo 162 de la LCSP, el número mínimo de empresarios a los que el órgano de contratación invitará a participar en el procedimiento restringido no podrá ser inferior a: (Cortes Generales A2 2020)",
+   "opciones": [
+    "Cinco.",
+    "Seis.",
+    "Siete.",
+    "Tres."
+   ]
+  },
+  {
+   "id": "vo-05-032",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 32,
+   "enunciado": "El plazo general de presentación de proposiciones en procedimientos restringidos relativos a contratos SARA será el suficiente para la adecuada elaboración de las proposiciones y, en cualquier caso, no será inferior a:",
+   "opciones": [
+    "Veinticinco días.",
+    "Treinta días.",
+    "Quince días.",
+    "Treinta y cinco días."
+   ]
+  },
+  {
+   "id": "vo-05-033",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 33,
+   "enunciado": "De acuerdo con lo previsto en el artículo 165 de la LCSP, cuando el órgano de contratación utilice el procedimiento restringido, en la adjudicación del contrato será de aplicación lo previsto en esta Ley para:",
+   "opciones": [
+    "El procedimiento abierto.",
+    "El procedimiento abierto simplificado.",
+    "El procedimiento negociado sin publicidad.",
+    "La subasta electrónica."
+   ]
+  },
+  {
+   "id": "vo-05-034",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 34,
+   "enunciado": "Según el artículo 166 de la LCSP, indique cuál de las siguientes es una característica de los procedimientos con negociación:",
+   "opciones": [
+    "La adjudicación se realizará ordinariamente a través de un procedimiento con negociación.",
+    "Exigirán, en todo caso, la publicación de un anuncio de licitación por el órgano de contratación.",
+    "En el pliego de prescripciones técnicas se determinarán los aspectos económicos y técnicos objeto de negociación.",
+    "Salvo que se dieran las circunstancias excepcionales que recoge el artículo 168, los órganos de contratación deberán publicar un anuncio de licitación."
+   ]
+  },
+  {
+   "id": "vo-05-035",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 35,
+   "enunciado": "Según el artículo 167 de la LCSP, ¿cuál de los siguientes NO es un supuesto previsto para la aplicación del procedimiento de licitación con negociación? (ADMVO-EST 2021)",
+   "opciones": [
+    "Cuando se trata de servicios intelectuales de especial complejidad, como es el caso de algunos servicios de consultoría, de arquitectura o de ingeniería.",
+    "Cuando resulte imprescindible que la prestación sea objeto de un trabajo previo de diseño o de adaptación por parte de los licitadores.",
+    "Cuando en los procedimientos abiertos o restringidos seguidos previamente solo se hubieren presentado ofertas irregulares o inaceptables.",
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras."
+   ]
+  },
+  {
+   "id": "vo-05-036",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 36,
+   "enunciado": "Según el artículo 168 de la LCSP, ¿cuál de los siguientes NO es un supuesto de aplicación del procedimiento negociado sin publicidad?",
+   "opciones": [
+    "Cuando el contrato haya sido declarado secreto o reservado.",
+    "Cuando se trate de la adquisición en mercados organizados o bolsas de materias primas de suministros que coticen en los mismos.",
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+    "Cuando se trate de un suministro concertado en condiciones especialmente ventajosas con un proveedor que cese definitivamente en sus actividades."
+   ]
+  },
+  {
+   "id": "vo-05-037",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 37,
+   "enunciado": "Siempre que ello sea posible, para la realización del objeto del contrato, de acuerdo con la LCSP, en el procedimiento negociado será necesario solicitar ofertas, al menos a:",
+   "opciones": [
+    "Cinco empresas.",
+    "Tres empresas.",
+    "Cuatro empresas.",
+    "Diez empresas."
+   ]
+  },
+  {
+   "id": "vo-05-038",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 38,
+   "enunciado": "De acuerdo con el artículo 170 de la LCSP, es una especialidad de la tramitación del procedimiento negociado sin publicidad:",
+   "opciones": [
+    "Cuando únicamente participe un candidato, no deberá negociarse con él.",
+    "Se tramitarán con arreglo a las normas del procedimiento de licitación con negociación, a excepción de la publicidad previa.",
+    "Se negociarán los requisitos mínimos de la prestación objeto del contrato.",
+    "Excepcionalmente, podrán negociarse los criterios de adjudicación."
+   ]
+  },
+  {
+   "id": "vo-05-039",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 39,
+   "enunciado": "Los órganos de contratación podrán adjudicar contratos utilizando el procedimiento negociado sin la previa publicación de un anuncio de licitación: (Universidad de Mérida, Esp. Jurídica 2021)",
+   "opciones": [
+    "Cuando se trate de servicios intelectuales de especial complejidad.",
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+    "Cuando el contrato no pueda adjudicarse sin negociaciones previas debido a la naturaleza del contrato.",
+    "Cuando los productos se fabriquen exclusivamente para fines de investigación, experimentación, estudio o desarrollo."
+   ]
+  },
+  {
+   "id": "vo-05-040",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 40,
+   "enunciado": "Según la LCSP, indique cuál de las siguientes es una característica del procedimiento de diálogo competitivo: (Galicia A1 2021)",
+   "opciones": [
+    "En caso de que se decida limitar el número de empresas a las que se invitará a dialogar, el número mínimo será cinco.",
+    "El documento descriptivo deberá establecer primas o compensaciones para todos los participantes en el diálogo.",
+    "Cualquier empresa interesada podrá presentar una solicitud de participación en respuesta a un anuncio de licitación.",
+    "La adjudicación del contrato corresponderá a la Mesa especial del diálogo competitivo."
+   ]
+  },
+  {
+   "id": "vo-05-041",
+   "origen": "votaciones",
+   "test": "Clase 17 - Bloque III",
+   "n": 41,
+   "enunciado": "Según el artículo 167 de la LCSP, cuando no pueda establecerse con la suficiente precisión las especificaciones técnicas de un contrato de obras, ¿qué procedimientos podrán emplearse para la adjudicación del contrato? (GACE-EST 2023)",
+   "opciones": [
+    "El procedimiento restringido y el procedimiento abierto simplificado, precedidos de la publicación de un anuncio de licitación.",
+    "El procedimiento de asociación para la innovación y el procedimiento negociado sin publicidad.",
+    "El procedimiento de licitación con negociación, así como el procedimiento de diálogo competitivo.",
+    "El procedimiento negociado sin publicidad y el procedimiento abierto simplificado."
+   ]
+  }
+ ]
+}

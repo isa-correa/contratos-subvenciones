@@ -1,0 +1,687 @@
+{
+ "casos": {
+  "caso-28": {
+   "id": "caso-28",
+   "titulo": "Bloque III.- Supuesto 21",
+   "texto": "El Ministerio de Transportes y Movilidad Sostenible decidió contratar, mediante procedimiento abierto, la construcción de una nueva estación intermodal de autobuses y trenes en el municipio de San Vicente del Raspeig, con el fin de mejorar la conexión entre ambos medios de transporte y aliviar el tráfico en la ciudad de Alicante. El órgano de contratación declaró motivadamente la urgencia del expediente el 10 de julio de 2026. Durante su preparación, se solicitó a la Dirección General del Sector Ferroviario un informe técnico sobre la integración de la nueva estación con la infraestructura existente. Se estableció un plazo de ejecución de cinco años. El valor estimado del contrato ascendía a 3.300.000 euros y el presupuesto base de licitación, IVA excluido, se fijó en 3.000.000 de euros, siendo aplicable el tipo general del impuesto. El pliego de cláusulas administrativas particulares preveía la revisión de precios y exigía la constitución de las garantías provisional y definitiva. En cuanto a los criterios de adjudicación, el pliego atribuía un 60 % de la puntuación total a los evaluables mediante fórmulas y el 40 % restante a los sujetos a juicio de valor. El anuncio de licitación se publicó exclusivamente en el perfil de contratante del Ministerio. A la licitación concurrieron varias empresas, entre ellas NORDVIK, AS, una empresa noruega —Estado signatario del Acuerdo sobre el Espacio Económico Europeo— con sede en Oslo. Esta carecía de clasificación como contratista de obras, motivo por el cual la mesa de contratación acordó su inadmisión. NORDVIK, AS impugnó esta decisión mediante un recurso especial en materia de contratación. Finalmente, el contrato se adjudicó a CONSTRUMED, S.A., por un importe de 2.700.000 euros, IVA excluido, formalizándose el 21 de septiembre de 2026. En relación con la situación descrita, responda a las siguientes cuestiones:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-27-006",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 6,
+   "enunciado": "Según el artículo 20.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de los siguientes contratos estará sujeto a una regulación armonizada cuando su valor estimado sea igual o superior a 140.000 €?",
+   "opciones": [
+    "Un contrato de obras celebrado por una Comunidad Autónoma.",
+    "Un contrato de servicios celebrado por un Ayuntamiento.",
+    "Un contrato de suministro celebrado por una entidad gestora de la Seguridad Social.",
+    "Un contrato de servicios celebrado por una Universidad Pública."
+   ]
+  },
+  {
+   "id": "pr-27-007",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 7,
+   "enunciado": "Conforme al artículo 44 de la LCSP, serán susceptibles de recurso especial en materia de contratación las actuaciones señaladas en el mismo en relación con los contratos de suministros cuyo valor estimado sea superior a:",
+   "opciones": [
+    "100.000 euros.",
+    "143.000 euros.",
+    "140.000 euros, cuando se trate de un contrato adjudicado por la Administración General del Estado.",
+    "216.000 euros, cuando se trate de un contrato adjudicado por una Comunidad Autónoma."
+   ]
+  },
+  {
+   "id": "pr-27-008",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 8,
+   "enunciado": "Según la LCSP, ¿cuál de los siguientes contratos celebrados por una Administración Pública tiene carácter privado?",
+   "opciones": [
+    "Contrato cuyo objeto es la interpretación artística.",
+    "Contrato de gestión de servicios públicos.",
+    "Contrato por los que el adjudicatario se obliga a entregar bienes o derechos.",
+    "Contratos de compraventa de programas de ordenador."
+   ]
+  },
+  {
+   "id": "pr-27-009",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 9,
+   "enunciado": "De conformidad con lo establecido en el artículo 35 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los documentos en los que se formalicen los contratos que celebren las entidades del sector público NO podrán incluir:",
+   "opciones": [
+    "Estipulaciones que establezcan derechos y obligaciones para las partes distintos de los previstos en los pliegos.",
+    "La acreditación de la capacidad de los firmantes para suscribir el contrato.",
+    "La identificación de las partes.",
+    "Las condiciones de pago."
+   ]
+  },
+  {
+   "id": "pr-27-010",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 10,
+   "enunciado": "En la concesión de obras, el derecho de explotación implica transferir al concesionario un riesgo operacional que abarca:",
+   "opciones": [
+    "Solo el riesgo de demanda.",
+    "Solo el riesgo de suministro.",
+    "El riesgo de demanda o el riesgo de suministros o ambos.",
+    "El concesionario no asume ningún tipo de riesgo."
+   ]
+  },
+  {
+   "id": "pr-27-011",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 11,
+   "enunciado": "Conforme al artículo 16 de la LCSP, los contratos que tengan por objeto la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas tendrán la consideración de:",
+   "opciones": [
+    "Contratos de obra.",
+    "Contratos de suministro.",
+    "Contratos de servicio.",
+    "Contratos mixtos."
+   ]
+  },
+  {
+   "id": "pr-27-012",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 12,
+   "enunciado": "De acuerdo con el artículo 71 de la la LCSP, se considera una prohibición para contratar:",
+   "opciones": [
+    "Haber sido condenado mediante sentencia firme por cualquier delito.",
+    "En empresas de 25 trabajadores, no cumplir el requisito de que el 2% de sus empleados sean trabajadores con discapacidad.",
+    "Haber solicitado la declaración de concurso voluntario.",
+    "Haber dejado de formalizar el contrato adjudicado por causa imputables al órgano de contratación."
+   ]
+  },
+  {
+   "id": "pr-27-013",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 13,
+   "enunciado": "Conforme a la LCSP, será preceptiva la interposición del recurso especial en materia de contratación como vía previa al recurso contencioso-administrativo:",
+   "opciones": [
+    "En todos los contratos sujetos a regulación armonizada.",
+    "En todos los contratos susceptibles de recurso especial en materia de contratación.",
+    "Siempre que el acto recurrido sea el de la adjudicación del contrato.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "pr-27-014",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 14,
+   "enunciado": "Según el artículo 29 de la LCSP, el plazo máximo de duración de las concesiones de servicios que comprendan la explotación de un servicio cuyo objeto consista en la prestación de servicios sanitarios, no podrá exceder, incluidas las prórrogas, de:",
+   "opciones": [
+    "Veinticinco años.",
+    "Cuarenta años.",
+    "Diez años.",
+    "Sesenta años."
+   ]
+  },
+  {
+   "id": "pr-27-015",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 15,
+   "enunciado": "Según el artículo 40 de la LCSP, los encargos que acuerden los poderes adjudicadores para la ejecución directa de prestaciones a través de medios propios, cuando no observen los requisitos relativos a la condición de medio propio, constituirán causa de:",
+   "opciones": [
+    "Nulidad de derecho administrativo.",
+    "Anulabilidad de derecho administrativo.",
+    "Invalidez de derecho civil.",
+    "Nulidad civil."
+   ]
+  },
+  {
+   "id": "pr-27-016",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 16,
+   "enunciado": "Conforme al artículo 86 de la LCSP, la solvencia económica y financiera y técnica o profesional para un contrato se acreditará mediante la aportación de los documentos que se determinen por:",
+   "opciones": [
+    "La Mesa de Contratación.",
+    "El órgano de contratación.",
+    "Las Comisiones Clasificadoras.",
+    "La Mesa Especial de Clasificación."
+   ]
+  },
+  {
+   "id": "pr-27-017",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 17,
+   "enunciado": "Conforme a la LCSP, ¿tiene la administración contratante preferencia sobre cualquier otro acreedor para hacer efectivas las garantías?",
+   "opciones": [
+    "No, en ningún caso.",
+    "Solo en el caso de las garantías provisionales.",
+    "Solo en el caso de las garantías definitivas.",
+    "Sí, tanto en el caso de las garantías provisionales como en el de las garantías definitivas."
+   ]
+  },
+  {
+   "id": "pr-27-018",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 18,
+   "enunciado": "Según el artículo 36 de la LCSP, los contratos basados en un acuerdo marco y los contratos específicos en el marco de un sistema dinámico de adquisición, se perfeccionan:",
+   "opciones": [
+    "Con su adjudicación.",
+    "Con su formalización.",
+    "Con su publicación.",
+    "Con su firma."
+   ]
+  },
+  {
+   "id": "pr-27-019",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 19,
+   "enunciado": "Conforme a lo dispuesto en el artículo 100 de la LCSP, el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, se denomina:",
+   "opciones": [
+    "Precio de licitación.",
+    "Valor estimado.",
+    "Presupuesto base de licitación.",
+    "Importe de adjudicación."
+   ]
+  },
+  {
+   "id": "pr-27-020",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 20,
+   "enunciado": "Conforme al artículo 107.3 de la LCSP, cuando el precio del contrato se formule en función de precios unitarios, el importe de la garantía a constituir se fijará atendiendo:",
+   "opciones": [
+    "Al valor estimado del contrato, IVA incluido.",
+    "Al valor estimado del contrato, IVA excluido.",
+    "Al presupuesto base de licitación, IVA incluido.",
+    "Al presupuesto base de licitación, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-27-021",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 21,
+   "enunciado": "Conforme al artículo 84.1 de la LCSP, la capacidad de obrar de los empresarios españoles que fueren personas jurídicas podrá acreditarse mediante la aportación de:",
+   "opciones": [
+    "Justificante de existencia de un seguro de responsabilidad civil.",
+    "La escritura o documento de constitución de la empresa, debidamente inscrito en el Registro público que corresponda.",
+    "La oportuna clasificación, en caso de contratos de obras de valor estimado igual o superior a 500.000 €.",
+    "Los títulos académicos y profesionales del empresario."
+   ]
+  },
+  {
+   "id": "pr-27-022",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 22,
+   "enunciado": "Conforme al artículo 107 de la LCSP, en casos especiales, el órgano de contratación podrá establecer en el PCAP que, además de la garantía definitiva, se preste:",
+   "opciones": [
+    "Una complementaria de un 5 por 100 del precio final ofertado, excluido el IVA.",
+    "Una complementaria de hasta un 10 por 100 del precio final ofertado, excluido el IVA.",
+    "Una complementaria de un 10 por 100 del precio final ofertado, excluido el IVA.",
+    "Una complementaria de hasta un 5 por 100 del precio final ofertado, excluido el IVA."
+   ]
+  },
+  {
+   "id": "pr-27-023",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 23,
+   "enunciado": "Conforme al artículo 29.2 de la LCSP, ¿en cuál de los siguientes contratos podrá resultar obligatoria la prórroga para el contratista sin necesidad de preaviso?",
+   "opciones": [
+    "En un contrato de obras cuyo valor estimado sea inferior a 40.000 euros.",
+    "En un contrato de servicios cuya duración sea inferior a dos meses.",
+    "En un contrato de servicios que haya sido previamente prorrogado.",
+    "En un contrato de suministro cuya prórroga esté expresamente prevista en el pliego."
+   ]
+  },
+  {
+   "id": "pr-27-024",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 24,
+   "enunciado": "De acuerdo con la LCSP, podrán ser objeto de recurso especial en materia de contratación:",
+   "opciones": [
+    "Los contratos de obras cuyo valor estimado sea superior a 2 millones de euros.",
+    "Los contratos de suministro y servicios, siempre que su valor estimado sea igual o superior a 150.000 euros.",
+    "Las concesiones de obras o de servicios cuyo valor estimado supere los 3 millones de euros.",
+    "Los encargos cuando su importe, atendida su duración total, sea igual o superior a lo establecido para los contratos de obras."
+   ]
+  },
+  {
+   "id": "pr-27-025",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 25,
+   "enunciado": "Según el artículo 116.3 de la LCSP, los pliegos de cláusulas administrativas y de prescripciones técnicas serán sustituidos por el documento de licitación, en caso de que:",
+   "opciones": [
+    "El procedimiento elegido para adjudicar el contrato sea la asociación para la innovación.",
+    "Se hayan de adjudicar contratos basados en acuerdos marco invitando a una nueva licitación a empresas parte del mismo.",
+    "El procedimiento elegido para adjudicar el contrato sea el de diálogo competitivo.",
+    "Se realice un encargo a medios propios personificados."
+   ]
+  },
+  {
+   "id": "pr-27-026",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 26,
+   "enunciado": "Según el artículo 116.4 de la LCSP, en el expediente de contratación, ¿en cuál de los siguientes tipos de contratos será necesario justificar adecuadamente la insuficiencia de medios?",
+   "opciones": [
+    "En los contratos de obras.",
+    "En los contratos de servicios.",
+    "En los contratos de suministro.",
+    "En todos los contratos típicos."
+   ]
+  },
+  {
+   "id": "pr-27-027",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 27,
+   "enunciado": "Un empresario presenta individualmente una proposición en una licitación y además suscribe otra en unión temporal con otros empresarios. Señale la respuesta correcta de conformidad con la LCSP:",
+   "opciones": [
+    "No se admitirá ninguna de las propuestas suscritas por dicho empresario.",
+    "Se le otorgará un plazo de subsanación para que indique con qué propuesta quiere concurrir a la licitación.",
+    "Solo se admitirá la propuesta que haya presentado individualmente.",
+    "Solo se admitirá la propuesta que haya presentado en primer lugar."
+   ]
+  },
+  {
+   "id": "pr-27-028",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 28,
+   "enunciado": "Se consideran contratos menores, según el artículo 118 de la LCSP:",
+   "opciones": [
+    "Los de obra de valor estimado igual o inferior a 40.000 euros.",
+    "Los de servicios de valor estimado igual o inferior a 15.000 euros.",
+    "Los de dirección facultativa de obra de valor estimado inferior a 40.000 euros.",
+    "Los de suministro de valor estimado inferior a 15.000 euros."
+   ]
+  },
+  {
+   "id": "pr-27-029",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 29,
+   "enunciado": "En la tramitación de emergencia, de acuerdo con el artículo 120 de la LCSP, el plazo de inicio de la ejecución de las prestaciones no podrá ser superior a:",
+   "opciones": [
+    "Un mes, contado desde la formalización del contrato.",
+    "Un mes, contado desde la adopción del acuerdo por el que se declare la situación de emergencia.",
+    "Treinta días, contados desde la adopción del acuerdo que declare la situación de emergencia.",
+    "Treinta días, contados desde la formalización del contrato."
+   ]
+  },
+  {
+   "id": "pr-27-030",
+   "origen": "practicas",
+   "test": "Examen nº 22- LCSP (arts 1 a 148)",
+   "n": 30,
+   "enunciado": "Según la LCSP, los pliegos de cláusulas administrativas particulares deberán aprobarse:",
+   "opciones": [
+    "Previamente a la autorización del gasto o conjuntamente con ella.",
+    "Posteriormente a la autorización del gasto o conjuntamente con ella.",
+    "Conjuntamente con la licitación del contrato.",
+    "En todo caso, con carácter previo a la aprobación del gasto."
+   ]
+  },
+  {
+   "id": "pr-28-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 1,
+   "enunciado": "Califique jurídicamente el contrato de construcción de la nueva estación intermodal en el municipio de San Vicente del Raspeig:",
+   "opciones": [
+    "Contrato administrativo de servicios.",
+    "Contrato administrativo de concesión de obras.",
+    "Contrato administrativo de obras.",
+    "Contrato privado de concesión de obras."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 2,
+   "enunciado": "¿Se encuentra sujeto a regulación armonizada el contrato para la construcción de la estación intermodal?",
+   "opciones": [
+    "Sí, ya que su presupuesto base de licitación supera los 140.000 euros.",
+    "Sí, ya que su valor estimado supera los 3.000.000 de euros.",
+    "No, ya que su presupuesto base de licitación es inferior a 5.404.000 euros.",
+    "No, ya que su valor estimado es inferior a 5.404.000 euros."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 3,
+   "enunciado": "Atendiendo a los datos del supuesto y a la definición recogida en el artículo 100.1 de la LCSP, ¿a qué importe asciende el presupuesto base de licitación del contrato?",
+   "opciones": [
+    "2.700.000 euros.",
+    "3.000.000 euros.",
+    "3.300.000 euros.",
+    "3.630.000 euros."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 4,
+   "enunciado": "El valor estimado del contrato asciende a 3.300.000 euros, mientras que su presupuesto base de licitación, IVA excluido, se fija en 3.000.000 de euros. ¿Cuál de las siguientes circunstancias podría justificar esta diferencia?",
+   "opciones": [
+    "La inclusión del IVA correspondiente en el cálculo del valor estimado.",
+    "La previsión en el pliego de modificaciones al alza por un importe máximo de 300.000 euros, IVA excluido.",
+    "La inclusión del importe máximo de la garantía total que podría exigirse al adjudicatario.",
+    "La existencia de un error material, pues el valor estimado debe coincidir con el presupuesto base de licitación, IVA excluido."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 5,
+   "enunciado": "¿Cuál de las siguientes circunstancias pudo justificar la tramitación urgente del expediente de contratación?",
+   "opciones": [
+    "La existencia de una necesidad inaplazable que requiriera acelerar la adjudicación.",
+    "La necesidad de actuar ante un acontecimiento catastrófico de especial gravedad.",
+    "La necesidad de adoptar medidas inmediatas ante una situación de grave peligro.",
+    "La necesidad de atender determinadas actuaciones relacionadas con la defensa nacional."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 6,
+   "enunciado": "¿En qué plazo deberá emitir la Dirección General del Sector Ferroviario el informe técnico solicitado?",
+   "opciones": [
+    "En el plazo improrrogable de cinco días.",
+    "En el plazo improrrogable de diez días.",
+    "En el plazo de cinco días, prorrogable hasta diez por causa debidamente justificada.",
+    "En el plazo de diez días, prorrogable hasta quince por causa debidamente justificada."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 7,
+   "enunciado": "Conforme a la LCSP, ¿a qué importe podría ascender, como máximo, la garantía provisional exigida a los licitadores?",
+   "opciones": [
+    "90.000 euros.",
+    "99.000 euros.",
+    "108.900 euros.",
+    "150.000 euros."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 8,
+   "enunciado": "Señale la afirmación correcta respecto de la garantía provisional exigida en la licitación:",
+   "opciones": [
+    "Deberá prestarse, necesariamente, en efectivo o en valores, que en todo caso serán de Deuda Pública.",
+    "Se extinguirá automáticamente y será devuelta a los licitadores inmediatamente después de la adjudicación del contrato.",
+    "El licitador seleccionado como adjudicatario podrá aplicar el importe de la garantía provisional a la definitiva.",
+    "Responderá, entre otros aspectos, de la obligación de formalizar el contrato en plazo."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 9,
+   "enunciado": "Señale la afirmación incorrecta respecto de los pliegos de cláusulas administrativas particulares que rigen el presente contrato:",
+   "opciones": [
+    "Deben aprobarse previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato.",
+    "Sus cláusulas se consideran parte integrante del contrato.",
+    "Su aprobación corresponde al órgano de contratación.",
+    "No pueden contener estipulaciones contrarias a los correspondientes pliegos de cláusulas administrativas generales."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 10,
+   "enunciado": "Conforme a la LCSP, ¿es correcta la publicación del anuncio de licitación exclusivamente en el perfil de contratante del Ministerio?",
+   "opciones": [
+    "No, debió publicarse, además, en el «Boletín Oficial del Estado».",
+    "No, debió publicarse, además, en el «Diario Oficial de la Unión Europea».",
+    "No, debió publicarse, además, tanto en el «Boletín Oficial del Estado», como en el «Diario Oficial de la Unión Europea».",
+    "Sí, los anuncios de licitación se publican únicamente en el perfil de contratante."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 11,
+   "enunciado": "Señale la afirmación INCORRECTA en relación con las proposiciones presentadas por los interesados:",
+   "opciones": [
+    "Deben ajustarse a los pliegos y su presentación supone la aceptación incondicionada de la totalidad de sus cláusulas.",
+    "El carácter secreto de las proposiciones debe mantenerse durante todo el proceso de valoración de las ofertas.",
+    "Si un licitador presenta más de una proposición, se inadmitirán todas las que suscriba.",
+    "En ellas debe indicarse, como partida independiente, el importe del Impuesto sobre el Valor Añadido que deba ser repercutido."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 12,
+   "enunciado": "En la licitación convocada por el Ministerio de Transportes y Movilidad Sostenible, ¿cuál de los siguientes documentos debieron aportar los licitadores junto con sus proposiciones?",
+   "opciones": [
+    "La totalidad de los documentos justificativos del cumplimiento de los requisitos previos para contratar.",
+    "La documentación acreditativa de los criterios de desempate.",
+    "El documento acreditativo de la constitución de la garantía provisional.",
+    "El documento acreditativo de la constitución de la garantía definitiva."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 13,
+   "enunciado": "¿Actuó correctamente la mesa de contratación al inadmitir la oferta de NORDVIK, AS?",
+   "opciones": [
+    "No, siempre que hubiera acreditado su solvencia por los medios previstos en los pliegos.",
+    "No, dado que el valor estimado del contrato no hacía exigible la clasificación del empresario.",
+    "Sí, dado que la exención de clasificación solo se aplica a empresarios no españoles de Estados miembros de la Unión Europea.",
+    "Sí, dado que la exención de clasificación solo se aplica a empresarios españoles."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 14,
+   "enunciado": "¿Podía NORDVIK, AS interponer recurso especial contra el acuerdo de inadmisión adoptado por la mesa de contratación?",
+   "opciones": [
+    "No, ya que la inadmisión constituye un acto de mero trámite.",
+    "No, dado que el contrato no está sujeto a regulación armonizada.",
+    "No, dado que el presupuesto base de licitación, IVA excluido, no supera los 3.000.000 de euros.",
+    "Sí, al concurrir los requisitos exigidos por el artículo 44 de la LCSP."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 15,
+   "enunciado": "De resultar procedente el recurso especial interpuesto por NORDVIK, AS, ¿quedaría suspendido el procedimiento de adjudicación?",
+   "opciones": [
+    "Sí, la interposición del recurso suspendería automáticamente su tramitación.",
+    "Sí, bastaría con solicitar expresamente la suspensión en el escrito de interposición.",
+    "No, sin perjuicio de que la empresa pudiera solicitar la suspensión como medida cautelar.",
+    "No, pues la interposición de un recurso especial no produce efectos suspensivos en ningún caso."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 16,
+   "enunciado": "De resultar procedente el recurso, el órgano competente deberá dictar y notificar su resolución a NORDVIK, AS en el plazo de:",
+   "opciones": [
+    "Tres meses, transcurridos los cuales podrá considerarlo desestimado.",
+    "Dos meses, transcurridos los cuales podrá considerarlo desestimado.",
+    "Un mes, transcurrido el cual podrá considerarlo desestimado.",
+    "Tres meses, transcurridos los cuales podrá considerarlo estimado."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 17,
+   "enunciado": "Una de las empresas admitidas en la licitación aportó la clasificación exigida, otorgada por el órgano competente de la Comunidad Autónoma de Murcia siete años antes de publicarse el anuncio de licitación. La empresa había cumplido los requisitos legales para conservar dicha clasificación. ¿Actuó correctamente la mesa de contratación al admitirla?",
+   "opciones": [
+    "No, pues la clasificación obtenida solo produce efectos ante los órganos de contratación de la Comunidad Autónoma de Murcia.",
+    "No, salvo que dispusiera también de clasificación otorgada por la Junta Consultiva de Contratación Pública del Estado.",
+    "No, pues la clasificación había caducado al superar el plazo máximo de cinco años de vigencia.",
+    "Sí, pues la clasificación obtenida tiene vigencia indefinida y eficacia general frente a todos los órganos de contratación."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 18,
+   "enunciado": "El órgano de contratación estableció en los pliegos los medios para acreditar la solvencia técnica en esta licitación. ¿Cuál de los siguientes NO podía incluirse con tal finalidad?",
+   "opciones": [
+    "Una relación de las obras ejecutadas en los cinco últimos años, avalada por certificados de buena ejecución.",
+    "La acreditación de un seguro de responsabilidad civil por riesgos profesionales en vigor.",
+    "Una declaración sobre la plantilla media anual de la empresa y el número de directivos durante los tres últimos años.",
+    "Los títulos académicos y profesionales de los empresarios, siempre que no se valorasen como criterio de adjudicación."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 19,
+   "enunciado": "Señale la respuesta correcta respecto de los criterios de adjudicación previstos en el pliego:",
+   "opciones": [
+    "Si su ponderación no fuera posible, se enumerarán por orden decreciente de importancia.",
+    "La valoración de los criterios sujetos a juicio de valor corresponderá, en todo caso, a un comité de expertos.",
+    "Los criterios evaluables mediante fórmulas se valorarán en primer lugar.",
+    "Se dará preponderancia a los criterios sujetos a juicio de valor."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 20,
+   "enunciado": "El pliego atribuye un 60 % de la puntuación a criterios evaluables mediante fórmulas. Conforme a la LCSP, dichos criterios:",
+   "opciones": [
+    "Podrán tener carácter económico o cualitativo.",
+    "Tendrán, en todo caso, carácter cualitativo.",
+    "Tendrán, en todo caso, carácter económico.",
+    "No podrán tener carácter económico ni cualitativo."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 21,
+   "enunciado": "Si el órgano de contratación hubiera optado por un único criterio de adjudicación, ¿cuál de los siguientes podría haber utilizado?",
+   "opciones": [
+    "Cualquier criterio vinculado al objeto del contrato.",
+    "Cualquier criterio cualitativo evaluable mediante fórmulas.",
+    "Un criterio relacionado con los costes.",
+    "Necesariamente el precio."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 22,
+   "enunciado": "¿Qué importe debió constituir CONSTRUMED, S.A. en concepto de garantía definitiva?",
+   "opciones": [
+    "90.000 euros.",
+    "135.000 euros.",
+    "150.000 euros.",
+    "165.000 euros."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 23,
+   "enunciado": "Señale la afirmación CORRECTA respecto de la garantía definitiva constituida por CONSTRUMED, S.A.:",
+   "opciones": [
+    "Se extinguirá automáticamente con la recepción de conformidad de las obras.",
+    "Si se hacen efectivas sobre ella penalidades, CONSTRUMED, S.A. deberá reponerla en el plazo de 15 días desde su ejecución.",
+    "El pliego podría haber eximido a CONSTRUMED, S.A. de la obligación de constituirla.",
+    "La responsabilidad económica de CONSTRUMED, S.A. quedará limitada al importe de la garantía constituida."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 24,
+   "enunciado": "En relación con la revisión de precios prevista en los pliegos, señale la afirmación CORRECTA:",
+   "opciones": [
+    "La cláusula que la establece es nula, pues la revisión de precios no resulta admisible en los contratos de obras.",
+    "La revisión solo sería posible si el período de recuperación de la inversión fuera igual o superior a cinco años.",
+    "La fórmula de revisión podrá modificarse durante la vigencia del contrato para adaptarla a la evolución de los costes.",
+    "Quedarán excluidos de la revisión el primer 20 % ejecutado y el importe ejecutado durante el primer año desde la formalización."
+   ],
+   "caso": "caso-28"
+  },
+  {
+   "id": "pr-28-025",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 21",
+   "n": 25,
+   "enunciado": "Atendiendo a la modalidad de tramitación seguida en el expediente y a la fecha de formalización del contrato, ¿cuál es la fecha límite para iniciar su ejecución?",
+   "opciones": [
+    "21 de octubre de 2026.",
+    "21 de noviembre de 2026.",
+    "21 de diciembre de 2026.",
+    "21 de marzo de 2027."
+   ],
+   "caso": "caso-28"
+  }
+ ]
+}

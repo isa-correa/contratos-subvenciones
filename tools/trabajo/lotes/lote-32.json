@@ -1,0 +1,694 @@
+{
+ "casos": {
+  "caso-15": {
+   "id": "caso-15",
+   "titulo": "Ejercicio 12.- Acreditación de solvencia (1)",
+   "texto": "Indique cuáles de los siguientes medios pueden utilizarse, conforme a la LCSP, para acreditar la solvencia en los supuestos que se indican:",
+   "corto": true
+  },
+  "caso-14": {
+   "id": "caso-14",
+   "titulo": "Bloque III.- Supuesto 18",
+   "texto": "El Ministerio de Cultura, con ocasión de la inauguración y puesta en marcha del nuevo centro cultural “La Vanguardia”, que acogerá múltiples actividades, precisa celebrar diferentes contratos para garantizar su funcionamiento integral. En concreto, se prevén los siguientes: a) Un contrato cuyo objeto es el arrendamiento de un inmueble en el que ubicará el nuevo centro cultural. b) Un contrato que tendrá por objeto el arrendamiento del mobiliario necesario para el equipamiento del centro, con una duración inicial de dos años y posibilidad de una prórroga de tres años más. Dicho contrato estará basado en un acuerdo marco. c) Un contrato por el que se encomiende a una empresa especializada las tareas de limpieza de las instalaciones del centro, con un valor estimado de 120.000 euros, una duración inicial de 3 años y posibilidad de prórroga de 2 años adicionales. d) Un contrato por el que se atribuya a una empresa la gestión y explotación de una cafetería ubicada dentro del recinto, percibiendo la adjudicataria directamente de los usuarios los ingresos generados por el servicio prestado y asumiendo el riesgo operacional derivado de su explotación. Este contrato tendrá una duración de 7 años. e) Un contrato que tiene por objeto la ejecución de los accesos al recinto, por un valor estimado de 800.000 euros. En relación con la situación descrita, responda las siguientes cuestiones:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-13-011",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 11,
+   "enunciado": "Tres contratos han sido adjudicados, respectivamente, por una entidad gestora de la Seguridad Social, una mutua colaboradora con la Seguridad Social y una sociedad mercantil estatal. Cumpliéndose los restantes requisitos previstos en el artículo 44 de la LCSP, ¿cuáles de ellos podrían ser objeto de recurso especial en materia de contratación?",
+   "opciones": [
+    "Únicamente el adjudicado por la entidad gestora de la Seguridad Social.",
+    "Los adjudicados por la entidad gestora de la Seguridad Social y por la mutua colaboradora con la Seguridad Social.",
+    "Los adjudicados por la entidad gestora de la Seguridad Social y por la sociedad mercantil estatal.",
+    "Todos ellos podrían ser objeto de recurso especial en materia de contratación."
+   ]
+  },
+  {
+   "id": "pr-13-012",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 12,
+   "enunciado": "Cumpliéndose los restantes requisitos previstos en el artículo 44 de la LCSP, ¿cuál de los siguientes contratos, atendiendo a su objeto y valor estimado, sería susceptible de recurso especial en materia de contratación?",
+   "opciones": [
+    "Construcción de un edificio administrativo, con un valor estimado de 2.500.000 €.",
+    "Adquisición de equipos informáticos, con un valor estimado de 100.000 €.",
+    "Explotación de una cafetería con transferencia del riesgo operacional, con un valor estimado de 3.000.000 €.",
+    "Limpieza de dependencias públicas, con un valor estimado de 120.000 €."
+   ]
+  },
+  {
+   "id": "pr-13-013",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 13,
+   "enunciado": "Cumpliéndose los restantes requisitos previstos en el artículo 44 de la LCSP, ¿cuál de las siguientes actuaciones NO podrá ser objeto de recurso especial en materia de contratación?",
+   "opciones": [
+    "La propuesta de adjudicación formulada por la mesa de contratación.",
+    "La formalización de un encargo a un medio propio cuando este no cumpla los requisitos legales.",
+    "El acuerdo de adjudicación.",
+    "El acuerdo de la mesa de contratación por el que se admite una oferta."
+   ]
+  },
+  {
+   "id": "pr-13-014",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 14,
+   "enunciado": "Atendiendo a la entidad contratante, al tipo y valor estimado del contrato y a la actuación impugnada, ¿frente a cuál de las siguientes actuaciones cabría interponer recurso especial en materia de contratación?",
+   "opciones": [
+    "El informe de insuficiencia de medios de un contrato de servicios de valor estimado de 150.000 € celebrado por un ministerio.",
+    "Los pliegos de un contrato de suministro de valor estimado de 180.000 € que pretende celebrar una fundación pública.",
+    "El acuerdo de adjudicación de un contrato de obras de valor estimado de 6.000.000 € adoptado por una sociedad mercantil estatal.",
+    "El acuerdo de admisión de una oferta en un contrato de servicios de valor estimado de 100.000 € celebrado por un Ayuntamiento."
+   ]
+  },
+  {
+   "id": "pr-13-015",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 15,
+   "enunciado": "El ministro de Sanidad, en su condición de órgano de contratación, dicta una resolución por la que adjudica, mediante tramitación de emergencia, un contrato de servicios con un valor estimado de 300.000 euros. ¿Cuál de los siguientes recursos administrativos podrá interponerse contra dicha resolución?",
+   "opciones": [
+    "Recurso potestativo de reposición ante el propio ministro.",
+    "Recurso de alzada ante el Consejo de Ministros.",
+    "Recurso especial en materia de contratación ante el Tribunal Administrativo Central de Recursos Contractuales.",
+    "No cabrá recurso administrativo alguno."
+   ]
+  },
+  {
+   "id": "pr-13-016",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 16,
+   "enunciado": "Conforme a la LCSP, señale la afirmación INCORRECTA en relación con el recurso especial en materia de contratación:",
+   "opciones": [
+    "Tendrá carácter potestativo y será gratuito para los recurrentes.",
+    "Contra actos susceptibles de impugnación mediante recurso especial no cabrá interponer recursos administrativos ordinarios.",
+    "No se dará este recurso en relación con los procedimientos de adjudicación que se sigan por el trámite de urgencia.",
+    "Contra la resolución de un recurso especial solo cabrá la interposición de recurso contencioso-administrativo."
+   ]
+  },
+  {
+   "id": "pr-13-017",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 17,
+   "enunciado": "Conforme al artículo 45 de la LCSP, señale la afirmación INCORRECTA en relación con el Tribunal Administrativo Central de Recursos Contractuales:",
+   "opciones": [
+    "Es un órgano especializado que actúa con plena independencia funcional en el ejercicio de sus competencias.",
+    "Está adscrito al Ministerio de Justicia.",
+    "Está compuesto por un presidente y un mínimo de cinco vocales.",
+    "Está dividido en un mínimo de dos secciones."
+   ]
+  },
+  {
+   "id": "pr-13-018",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 18,
+   "enunciado": "Conforme al artículo 45 de la LCSP, señale la afirmación INCORRECTA en relación con el presidente y los vocales del Tribunal Administrativo Central de Recursos Contractuales:",
+   "opciones": [
+    "Serán designados por el Gobierno, a propuesta conjunta de los ministros de Hacienda y de Justicia.",
+    "La duración de sus nombramientos será de seis años y no podrá prorrogarse.",
+    "El presidente debe ser funcionario de carrera de un cuerpo para cuyo acceso se requiera el título de licenciado o grado en Derecho.",
+    "Los vocales deben ser funcionarios de carrera de cuerpos para cuyo acceso se requiera el título de licenciado o grado en Derecho."
+   ]
+  },
+  {
+   "id": "pr-13-019",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 19,
+   "enunciado": "Una persona legitimada interpone recurso especial en materia de contratación contra los pliegos y solicita, en el mismo escrito, la suspensión cautelar del procedimiento de adjudicación. ¿En qué plazo deberá el órgano competente para resolver el recurso adoptar una decisión motivada sobre la medida solicitada?",
+   "opciones": [
+    "Cinco días hábiles.",
+    "Cinco días naturales.",
+    "Tres días hábiles.",
+    "Tres días naturales."
+   ]
+  },
+  {
+   "id": "pr-13-020",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 20,
+   "enunciado": "Conforme al artículo 53 de la LCSP, ¿cuándo quedará en suspenso la tramitación del procedimiento por la mera interposición del recurso especial en materia de contratación?",
+   "opciones": [
+    "En ningún caso, salvo que así lo acuerde expresamente el órgano competente para resolver el recurso.",
+    "En todo caso, cualquiera que sea el acto recurrido.",
+    "Cuando el acto recurrido sea el de adjudicación.",
+    "Cuando el acto recurrido sea el de adjudicación, salvo en los contratos basados en un acuerdo marco o en los contratos específicos en el marco de un sistema dinámico de adquisición."
+   ]
+  },
+  {
+   "id": "pr-13-021",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 21,
+   "enunciado": "Conforme a los artículos 50 y 57 de la LCSP, complete correctamente la siguiente afirmación: con carácter general, el recurso especial en materia de contratación deberá interponerse en el plazo de _______; transcurridos _______ desde el día siguiente a su interposición sin que se haya notificado su resolución, el interesado podrá considerarlo _______ a efectos de interponer recurso contencioso-administrativo.",
+   "opciones": [
+    "Quince días naturales; dos meses; desestimado.",
+    "Quince días hábiles; dos meses; desestimado.",
+    "Quince días naturales; un mes; estimado.",
+    "Quince días hábiles; dos meses; estimado."
+   ]
+  },
+  {
+   "id": "pr-13-022",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 22,
+   "enunciado": "Conforme a la LCSP, señale la afirmación INCORRECTA en relación con los órganos de contratación:",
+   "opciones": [
+    "Les corresponde la representación de las entidades del sector público en materia contractual.",
+    "Pueden tener carácter unipersonal o colegiado.",
+    "La titularidad de los órganos de contratación unipersonales deberá recaer en funcionarios de carrera del subgrupo A1.",
+    "Pueden delegar o desconcentrar sus competencias y facultades en materia contractual."
+   ]
+  },
+  {
+   "id": "pr-13-023",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 23,
+   "enunciado": "Conforme al artículo 62 de la LCSP, señale la afirmación CORRECTA en relación con el responsable del contrato:",
+   "opciones": [
+    "Su designación tendrá carácter potestativo.",
+    "Deberá ser una persona física vinculada a la entidad contratante.",
+    "Su designación le atribuye la facultad de celebrar contratos en nombre de la entidad contratante.",
+    "En los contratos de obras, sus facultades serán ejercidas por el director facultativo."
+   ]
+  },
+  {
+   "id": "pr-13-024",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 24,
+   "enunciado": "Conforme al artículo 63 de la LCSP, señale la afirmación INCORRECTA en relación con el perfil de contratante:",
+   "opciones": [
+    "Los órganos de contratación difundirán su perfil de contratante preferentemente a través de Internet.",
+    "El acceso a la información del perfil de contratante será libre y no requerirá identificación previa.",
+    "La información contenida en el perfil de contratante permanecerá accesible al público durante un período no inferior a cinco años.",
+    "La forma de acceso al perfil de contratante deberá hacerse constar en los pliegos y en los anuncios de licitación."
+   ]
+  },
+  {
+   "id": "pr-13-025",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 25,
+   "enunciado": "Conforme al artículo 63 de la LCSP, ¿cuándo debe publicarse en el perfil de contratante la formalización de encargos a medios propios?",
+   "opciones": [
+    "En todos los casos, cualquiera que sea su importe.",
+    "Cuando su importe sea superior a 50.000 euros, IVA excluido.",
+    "Cuando su importe sea superior a 5.000 euros, IVA excluido.",
+    "En ningún caso, por no tener tales encargos la consideración jurídica de contratos."
+   ]
+  },
+  {
+   "id": "pr-13-026",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 26,
+   "enunciado": "Según el artículo 65 de la LCSP, solo podrán contratar con el sector público las personas naturales o jurídicas, españolas o extranjeras, que reúnan determinados requisitos de aptitud. ¿Cuál de los siguientes NO es uno de ellos?",
+   "opciones": [
+    "Tener plena capacidad de obrar.",
+    "No estar incursas en una prohibición de contratar.",
+    "Acreditar la solvencia económica y financiera y técnica o profesional o, cuando proceda, encontrarse debidamente clasificadas.",
+    "Haber ejecutado previamente prestaciones similares para destinatarios públicos o privados."
+   ]
+  },
+  {
+   "id": "pr-13-027",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 27,
+   "enunciado": "De acuerdo con el artículo 66.1 de la LCSP, ¿en cuál de los siguientes supuestos podrá una persona jurídica resultar adjudicataria de un contrato cuyas prestaciones no estén comprendidas en los fines, objeto o ámbito de actividad que le sean propios según sus estatutos o reglas fundacionales?",
+   "opciones": [
+    "Cuando acredite la solvencia económica y técnica exigida.",
+    "Que se trate de obras de mera conservación y mantenimiento.",
+    "Cuando el contrato se tramite por emergencia.",
+    "En ninguno de ellos, pues las prestaciones objeto del contrato deben estar comprendidas en su ámbito de actividad estatutario."
+   ]
+  },
+  {
+   "id": "pr-13-028",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 28,
+   "enunciado": "El Ministerio de Sanidad licita un contrato de servicios al que pretende concurrir una empresa india. Según el artículo 68.1 de la LCSP, ¿qué requisito deberá cumplir dicha empresa para poder participar en la licitación?",
+   "opciones": [
+    "Justificar mediante informe que India admite la participación de empresas españolas en forma sustancialmente análoga.",
+    "Contar con autorización de la Comisión Europea para participar en procedimientos de contratación pública en la Unión Europea.",
+    "Abrir una sucursal en España, designar apoderados o representantes para sus operaciones e inscribirse en el Registro Mercantil.",
+    "Concurrir conjuntamente con una empresa española o de otro Estado miembro de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-13-029",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 29,
+   "enunciado": "Una empresa española y otra italiana pretenden concurrir conjuntamente, en unión temporal, a la licitación de un contrato de obras con un valor estimado de 775.000 euros. Conforme a la LCSP, señale la afirmación INCORRECTA:",
+   "opciones": [
+    "Ambas empresas quedarán obligadas solidariamente y deberán nombrar un representante o apoderado único de la unión.",
+    "Para participar en la licitación deberán formalizar previamente la unión en escritura pública.",
+    "La clasificación será exigible únicamente a la empresa española.",
+    "La duración de la unión temporal será coincidente, al menos, con la del contrato hasta su extinción."
+   ]
+  },
+  {
+   "id": "pr-13-030",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 30,
+   "enunciado": "Una Administración licita un contrato para supervisar la instalación de un sistema de videovigilancia. Conforme al artículo 70 de la LCSP, ¿cuál de las siguientes empresas NO podrá resultar adjudicataria?",
+   "opciones": [
+    "La que participó en la elaboración de los documentos preparatorios del contrato de supervisión.",
+    "La que asesoró al órgano de contratación durante la preparación del procedimiento de contratación.",
+    "La que resultó adjudicataria del contrato de instalación del sistema de videovigilancia.",
+    "Ninguna de las empresas anteriores podrá resultar adjudicataria del contrato de supervisión."
+   ]
+  },
+  {
+   "id": "pr-13-031",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 31,
+   "enunciado": "Conforme al artículo 71.1.d) de la LCSP, ¿a partir de qué número de trabajadores se exigen la cuota de reserva del 2 % para trabajadores con discapacidad y la obligación de contar con un plan de igualdad inscrito en el registro laboral correspondiente?",
+   "opciones": [
+    "Ambas obligaciones, a partir de 50 trabajadores.",
+    "Ambas obligaciones, a partir de 250 trabajadores.",
+    "La cuota de reserva, a partir de 50 trabajadores; el plan de igualdad, a partir de 250.",
+    "La cuota de reserva, a partir de 250 trabajadores; el plan de igualdad, a partir de 50."
+   ]
+  },
+  {
+   "id": "pr-13-032",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 32,
+   "enunciado": "Conforme al artículo 72.6 de la LCSP, ¿cuál será la duración máxima de una prohibición de contratar impuesta por sentencia penal firme cuando esta no haya fijado su duración? ¿Y en el resto de los supuestos de prohibición de contratar?",
+   "opciones": [
+    "Cinco años en ambos casos.",
+    "Tres años en ambos casos.",
+    "Cinco años y tres años, respectivamente.",
+    "Tres años y cinco años, respectivamente."
+   ]
+  },
+  {
+   "id": "pr-13-033",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 33,
+   "enunciado": "Conforme a los artículos 74 y 75 de la LCSP, señale la afirmación INCORRECTA en relación con la solvencia exigida para contratar:",
+   "opciones": [
+    "Las condiciones mínimas de solvencia serán determinadas por el órgano de contratación.",
+    "Cuando lo considere adecuado, el órgano de contratación podrá sustituir el requisito de solvencia por el de clasificación.",
+    "Los requisitos de solvencia deberán estar vinculados al objeto del contrato y ser proporcionales al mismo.",
+    "Siempre que concurran los requisitos legalmente previstos, el empresario podrá acreditar su solvencia con medios externos."
+   ]
+  },
+  {
+   "id": "pr-13-034",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 34,
+   "enunciado": "Una empresa española pretende contratar con un poder adjudicador. Conforme al régimen general del artículo 77.1 de la LCSP, señale la afirmación INCORRECTA:",
+   "opciones": [
+    "En un contrato de obras de valor estimado de 1.000.000 €, será indispensable que se encuentre debidamente clasificada.",
+    "En un contrato de obras de valor estimado de 180.000 €, podrá acreditar su solvencia mediante la clasificación correspondiente.",
+    "En un contrato de servicios de valor estimado de 280.000 €, podrá acreditar su solvencia mediante la clasificación correspondiente.",
+    "En un contrato de servicios de valor estimado de 750.000 €, será indispensable que se encuentre debidamente clasificada."
+   ]
+  },
+  {
+   "id": "pr-13-035",
+   "origen": "practicas",
+   "test": "Examen nº17 - LCSP (arts 34 a 83)",
+   "n": 35,
+   "enunciado": "El órgano competente de una comunidad autónoma acuerda la clasificación de una empresa. Conforme a los artículos 80 a 82 de la LCSP, señale la afirmación CORRECTA:",
+   "opciones": [
+    "El acuerdo tendrá eficacia general frente a todos los órganos de contratación.",
+    "Corresponde al empresario instar su inscripción en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público.",
+    "La clasificación tendrá una vigencia de cinco años, prorrogable por períodos de igual duración.",
+    "Para conservar la clasificación deberá justificarse cada tres años el mantenimiento de la solvencia económica y financiera."
+   ]
+  },
+  {
+   "id": "pr-14-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 1,
+   "enunciado": "El Ministerio de Cultura, en su condición de entidad promotora del nuevo centro cultural \"La Vanguardia\", tiene previsto celebrar distintos contratos para su puesta en marcha y funcionamiento. A los efectos de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (en adelante, LCSP), ¿qué consideración tiene el citado Ministerio?",
+   "opciones": [
+    "Poder Adjudicador no Administración Pública.",
+    "Entidad integrante del sector público que no tiene la condición de Poder Adjudicador.",
+    "Administración Pública.",
+    "Entidad excluida del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 2,
+   "enunciado": "En relación con los contratos que el Ministerio pretende celebrar, ¿cuál de los siguientes quedaría excluido del ámbito de aplicación de la LCSP?",
+   "opciones": [
+    "El contrato que tiene por objeto el arrendamiento del inmueble en el que se ubicará el nuevo centro cultural.",
+    "El contrato de arrendamiento del mobiliario necesario para el equipamiento del centro.",
+    "El contrato de explotación de la cafetería ubicada dentro del recinto.",
+    "Ninguno, todos los contratos descritos quedan incluidos en el ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 3,
+   "enunciado": "Califique jurídicamente el contrato que tiene como objeto el arrendamiento del mobiliario para el equipamiento del centro:",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de suministro.",
+    "Contrato administrativo especial.",
+    "Contrato privado."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 4,
+   "enunciado": "En relación con el contrato de arrendamiento del mobiliario, ¿es correcta la duración de la posible prórroga?",
+   "opciones": [
+    "No, porque su duración total, incluida la prórroga, excede del límite máximo permitido por la LCSP.",
+    "No, porque la prórroga no puede exceder del periodo de duración inicialmente previsto.",
+    "Sí, pero únicamente si el contrato prevé una opción de compra al finalizar el arrendamiento.",
+    "Sí, la duración de la prórroga es conforme con lo previsto en la LCSP."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 5,
+   "enunciado": "Presumiendo que la prórroga prevista en el contrato de arrendamiento del mobiliario fuera conforme con la LCSP, ¿resulta esta obligatoria para las partes?",
+   "opciones": [
+    "Sí, tanto para la Administración como para el contratista.",
+    "Solo será obligatoria para la Administración.",
+    "Solo será obligatoria para el contratista.",
+    "No, siendo necesario para su eficacia el consentimiento expreso de ambas partes."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 6,
+   "enunciado": "Continuando con la pregunta anterior, para que la prórroga resulte obligatoria, ¿debe realizarse algún preaviso?",
+   "opciones": [
+    "Sí, con dos meses de antelación a la finalización del plazo de duración del contrato, salvo que el pliego establezca uno mayor.",
+    "Sí, con tres meses de antelación a la finalización del plazo de duración del contrato, salvo que el pliego establezca uno mayor.",
+    "No, bastará el consentimiento tácito de ambas partes.",
+    "No, pero la prórroga exigirá el consentimiento expreso de ambas partes."
+   ],
+   "caso": "caso-14",
+   "sigueA": "pr-14-005"
+  },
+  {
+   "id": "pr-14-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 7,
+   "enunciado": "¿Qué orden jurisdiccional sería competente para conocer de las cuestiones que pudieran suscitarse en relación con la adjudicación y los efectos del contrato de arrendamiento del mobiliario?",
+   "opciones": [
+    "El contencioso-administrativo.",
+    "El civil.",
+    "El contencioso-administrativo respecto a la adjudicación y el civil respecto a los efectos.",
+    "El civil respecto a la adjudicación y el contencioso-administrativo respecto a los efectos."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 8,
+   "enunciado": "De conformidad con la LCSP, ¿cuándo se considerará perfeccionado el contrato de arrendamiento del mobiliario?",
+   "opciones": [
+    "Con su formalización en documento administrativo.",
+    "Cuando se apruebe el expediente de contratación.",
+    "Con su adjudicación.",
+    "Cuando el contrato se eleve a escritura pública."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 9,
+   "enunciado": "Califique jurídicamente el contrato previsto por el Ministerio de Cultura que tiene como objeto encomendar a una empresa especializada las tareas de limpieza de las instalaciones del centro cultural \"La Vanguardia\":",
+   "opciones": [
+    "Encomienda de gestión.",
+    "Contrato de servicios.",
+    "Contrato de obras.",
+    "Contrato administrativo especial."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 10,
+   "enunciado": "Atendiendo al valor estimado del contrato de limpieza del centro cultural \"La Vanguardia\", señale la respuesta correcta:",
+   "opciones": [
+    "Es un contrato sujeto a regulación armonizada y susceptible de recurso especial en materia de contratación.",
+    "Es un contrato sujeto a regulación armonizada, pero no es susceptible de recurso especial en materia de contratación.",
+    "No es un contrato sujeto a regulación armonizada, ni es susceptible de recurso especial en materia de contratación.",
+    "No es un contrato sujeto a regulación armonizada, pero es susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 11,
+   "enunciado": "En el contrato de limpieza, a efectos de acreditar su solvencia, ¿podrá exigirse la clasificación de los licitadores?",
+   "opciones": [
+    "No, puesto que su valor estimado es inferior a 500.000 euros.",
+    "No, aunque los licitadores podrán acreditar su solvencia mediante su clasificación.",
+    "No, dado que para este tipo de contratos no cabe la clasificación del empresario.",
+    "Sí, dado que su valor estimado es superior a 100.000 euros."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 12,
+   "enunciado": "En relación con el contrato de limpieza, ¿cuál de las siguientes circunstancias constituiría una causa de anulabilidad de Derecho administrativo conforme a la LCSP?",
+   "opciones": [
+    "Que el contrato se adjudique a una empresa incursa en una prohibición de contratar.",
+    "Que se omita la publicación del anuncio de licitación en el medio de publicidad en que resulte preceptiva.",
+    "Que los pliegos otorguen ventajas a las empresas por el hecho de haber contratado previamente con cualquier Administración.",
+    "Que el contrato se celebre sin crédito suficiente, sin que concurra un supuesto de emergencia."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 13,
+   "enunciado": "Si la Administración contara con los medios suficientes, ¿podría realizar las tareas de limpieza empleando exclusivamente medios propios no personificados?",
+   "opciones": [
+    "No, salvo que no haya habido ofertas de empresarios en la licitación previamente efectuada.",
+    "Sí, siempre que su empleo suponga una economía superior al 5 por 100 del importe del presupuesto del contrato.",
+    "Sí, siempre que su empleo suponga una economía superior al 20 por 100 del importe del presupuesto del contrato.",
+    "Sí, la prestación de servicios se realizará normalmente por la propia Administración por sus propios medios."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 14,
+   "enunciado": "Califique jurídicamente el contrato que tiene como objeto la gestión y explotación de la cafetería ubicada dentro del recinto:",
+   "opciones": [
+    "Contrato de gestión de servicio público.",
+    "Contrato de concesión de servicios.",
+    "Contrato de servicios.",
+    "Contrato mixto."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 15,
+   "enunciado": "De acuerdo con la LCSP, ¿es correcta la duración del contrato para la gestión y explotación de la cafetería?",
+   "opciones": [
+    "No, puesto que excede de cinco años.",
+    "Sí, puesto que no excede de cincuenta años.",
+    "Sí, puesto que no excede de cuarenta años.",
+    "Sí, siempre que así lo justifique la recuperación de las inversiones realizadas, junto con un rendimiento sobre el capital invertido."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 16,
+   "enunciado": "De acuerdo con la LCSP, ¿es correcto que el adjudicatario del contrato de gestión y explotación de la cafetería perciba como contrapartida los ingresos generados por el servicio prestado?",
+   "opciones": [
+    "No, todo contrato debe adjudicarse por un precio cierto que satisfará la entidad contratante.",
+    "Sí, asumiendo el empresario el riesgo de demanda, el riesgo de suministro, o ambos.",
+    "Sí, siempre que quede garantizado que el empresario vaya a recuperar las inversiones realizadas.",
+    "No, salvo que el derecho a explotar el servicio vaya acompañado del de percibir un precio."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 17,
+   "enunciado": "Califique jurídicamente el contrato que tiene por objeto la ejecución de los accesos al recinto:",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de servicios.",
+    "Contrato de concesión de obras.",
+    "Contrato administrativo especial."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 18,
+   "enunciado": "En relación con el contrato de ejecución de los accesos al recinto, ¿cuál de los siguientes empresarios podría acreditar su solvencia a través del cumplimiento de los requisitos específicos exigidos en el anuncio de licitación y detallados en los pliegos del contrato?",
+   "opciones": [
+    "Un empresario español.",
+    "Un empresario alemán.",
+    "Un empresario argentino.",
+    "Ninguno de los anteriores, al resultar indispensable su clasificación como contratista de obras de los poderes adjudicadores."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 19,
+   "enunciado": "En relación con el contrato de ejecución de los accesos al recinto, ¿qué recurso administrativo cabría contra un acto de la mesa de contratación por el que se acordara la admisión o inadmisión de un candidato o licitador?",
+   "opciones": [
+    "No cabría recurso alguno al tratarse de un acto de mero trámite.",
+    "Recurso especial en materia de contratación, el cuál tendría efectos suspensivos.",
+    "Recurso especial en materia de contratación, careciendo este de efectos suspensivos.",
+    "Recurso administrativo ordinario, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-14-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 18",
+   "n": 20,
+   "enunciado": "Atendiendo a la LCSP, ¿qué valor estimado deberían alcanzar, respectivamente, el contrato de explotación de la cafetería y el de ejecución de los accesos al recinto para encontrarse sujetos a regulación armonizada?",
+   "opciones": [
+    "140.000 euros y 5.404.000 euros, respectivamente.",
+    "216.000 euros y 5.404.000 euros, respectivamente.",
+    "5.404.000 euros, en ambos casos.",
+    "3.000.000 de euros, en ambos casos."
+   ],
+   "caso": "caso-14"
+  },
+  {
+   "id": "pr-15-001",
+   "origen": "practicas",
+   "test": "Ejercicio 12.- Acreditación de solvencia (1)",
+   "n": 1,
+   "enunciado": "Acreditación de la solvencia técnica en los contratos de obras:",
+   "opciones": [
+    "Relación de las obras ejecutadas en el curso de los cinco últimos años, avalada por certificados de buena ejecución.",
+    "Indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato.",
+    "Muestras, descripciones y fotografías de las obras a realizar.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar."
+   ],
+   "caso": "caso-15"
+  },
+  {
+   "id": "pr-15-002",
+   "origen": "practicas",
+   "test": "Ejercicio 12.- Acreditación de solvencia (1)",
+   "n": 2,
+   "enunciado": "Acreditación de la solvencia técnica en un contrato de suministro:",
+   "opciones": [
+    "Una relación de los principales suministros de igual o similar naturaleza realizados en el curso máximo de los tres últimos años.",
+    "Indicación del personal técnico, integrado o no en la empresa, que participará en la ejecución del contrato.",
+    "Muestras, descripciones y fotografías de los productos a suministrar.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años."
+   ],
+   "caso": "caso-15"
+  },
+  {
+   "id": "pr-15-003",
+   "origen": "practicas",
+   "test": "Ejercicio 12.- Acreditación de solvencia (1)",
+   "n": 3,
+   "enunciado": "Acreditación de la solvencia técnica en un contrato de servicios:",
+   "opciones": [
+    "Una relación de los principales servicios de igual o similar naturaleza realizados en los cinco últimos años.",
+    "Indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato.",
+    "Descripción de las instalaciones técnicas, medidas para garantizar la calidad y medios de estudio e investigación de la empresa.",
+    "Volumen anual de negocios referido al mejor ejercicio dentro de los tres últimos."
+   ],
+   "caso": "caso-15"
+  },
+  {
+   "id": "pr-15-004",
+   "origen": "practicas",
+   "test": "Ejercicio 12.- Acreditación de solvencia (1)",
+   "n": 4,
+   "enunciado": "Acreditación de la solvencia técnica en un contrato de servicios:",
+   "opciones": [
+    "Justificante de la existencia de un seguro de responsabilidad civil por riesgos profesionales.",
+    "Títulos académicos y profesionales del empresario, de los directivos y, en particular, del responsable de la ejecución del contrato.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los cinco últimos años.",
+    "Indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar."
+   ],
+   "caso": "caso-15"
+  },
+  {
+   "id": "pr-15-005",
+   "origen": "practicas",
+   "test": "Ejercicio 12.- Acreditación de solvencia (1)",
+   "n": 5,
+   "enunciado": "Acreditación de la solvencia económica en un contrato de obras:",
+   "opciones": [
+    "Volumen anual de negocios, referido al mejor ejercicio dentro de los cinco últimos disponibles.",
+    "Patrimonio neto al cierre del último ejercicio económico para el que esté vencida la obligación de aprobación de cuentas anuales.",
+    "Declaración sobre la plantilla media anual de la empresa y del número de directivos durante los tres últimos años.",
+    "Seguro de responsabilidad civil por riesgos profesionales por importe igual o superior al exigido en el anuncio de licitación."
+   ],
+   "caso": "caso-15"
+  }
+ ]
+}

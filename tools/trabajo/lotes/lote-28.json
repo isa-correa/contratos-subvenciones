@@ -1,0 +1,604 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "vo-14-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 7,
+   "enunciado": "De conformidad con lo dispuesto en el artículo 243 de la Ley 9/2017, el órgano de contratación deberá aprobar la certificación final de las obras ejecutadas dentro del plazo de: (CYL A2 – 2025)",
+   "opciones": [
+    "Tres meses contados a partir de la recepción.",
+    "Dos meses contados a partir de la firma del acta de replanteo.",
+    "Seis meses contados a partir de la recepción.",
+    "Un mes contado desde la última certificación."
+   ]
+  },
+  {
+   "id": "vo-14-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 8,
+   "enunciado": "El plazo de garantía de las obras se establece en el PCAP y no podrá ser inferior a: (Elche A2 – 2023)",
+   "opciones": [
+    "18 meses.",
+    "No existe límite inferior.",
+    "Un año.",
+    "Dos años."
+   ]
+  },
+  {
+   "id": "vo-14-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 9,
+   "enunciado": "Son causas de resolución del contrato de obras, además de las generales de la Ley, las siguientes:",
+   "opciones": [
+    "La demora justificada en la comprobación del replanteo.",
+    "La suspensión de la iniciación de las obras por plazo superior a 8 meses.",
+    "La suspensión de las obras por plazo superior a 4 meses por parte de la Administración.",
+    "El desistimiento."
+   ]
+  },
+  {
+   "id": "vo-14-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 10,
+   "enunciado": "Según lo dispuesto en el artículo 247.1 LCSP, con carácter previo a la decisión de construir y explotar en régimen de concesión unas obras, el órgano que corresponda de la Administración concedente: (SEAL – 2024)",
+   "opciones": [
+    "Recabará informe sobre la rentabilidad del proyecto.",
+    "Acordará la realización de un estudio de viabilidad.",
+    "Someterá el proyecto a contraste de equilibrio presupuestario.",
+    "Condicionará su aprobación a la normativa vigente de gastos plurianuales."
+   ]
+  },
+  {
+   "id": "vo-14-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 11,
+   "enunciado": "Según el artículo 263 de la LCSP, el secuestro o intervención tendrá carácter temporal y su duración será la que determine el órgano de contratación sin que pueda exceder de:",
+   "opciones": [
+    "3 años, excluidas las prórrogas.",
+    "5 años, excluidas las prórrogas.",
+    "3 años, incluidas las prórrogas.",
+    "5 años, incluidas las prórrogas."
+   ]
+  },
+  {
+   "id": "vo-14-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 12,
+   "enunciado": "Son causas de resolución del contrato de concesión de obras:",
+   "opciones": [
+    "La demora superior a 3 meses por parte del órgano de contratación en la entrega al concesionario de la contraprestación, de los terrenos o de los medios auxiliares a que se obligó según el contrato.",
+    "La supresión de la explotación de las obras por razones de interés particular.",
+    "La ejecución hipotecaria declarada desierta.",
+    "La imposibilidad de la explotación de las obras como consecuencia de acuerdos adoptados por la Administración concedente con anterioridad al contrato."
+   ]
+  },
+  {
+   "id": "vo-14-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 13,
+   "enunciado": "La Administración podrá gestionar indirectamente, mediante contrato de concesión de servicios: (Antequera A2 – 2024)",
+   "opciones": [
+    "Los servicios de su titularidad o competencia siempre que sean susceptibles de explotación económica por particulares.",
+    "Los servicios de su titularidad o competencia siempre que no sean susceptibles de explotación económica por particulares.",
+    "Los servicios de su titularidad o competencia siempre que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+    "Los servicios de su titularidad o competencia siempre que sean susceptibles de explotación económica por los poderes públicos."
+   ]
+  },
+  {
+   "id": "vo-14-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 14,
+   "enunciado": "En los contratos de concesión de servicios la tramitación del expediente irá precedida de la realización y aprobación de un estudio de viabilidad de los mismos o en su caso, de un estudio de viabilidad económico-financiera, que: (Ayuntamiento Castellón A1 – 2024)",
+   "opciones": [
+    "Tendrán carácter vinculante en los supuestos en que concluyan en la viabilidad del proyecto.",
+    "Tendrán carácter vinculante en cualquier caso.",
+    "Tendrán carácter vinculante en los supuestos en que concluyan en la inviabilidad del proyecto.",
+    "No tendrán en ningún caso carácter vinculante."
+   ]
+  },
+  {
+   "id": "vo-14-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 15,
+   "enunciado": "En base al artículo 291 de la LCSP, finalizado el plazo de la concesión:",
+   "opciones": [
+    "El servicio no revertirá a la Administración, no debiendo el contratista entregar las obras e instalaciones a que esté obligado con arreglo al contrato y en el estado de conservación y funcionamiento adecuados.",
+    "El servicio revertirá a la Administración, debiendo el contratista entregar las obras e instalaciones a que esté obligado con arreglo al contrato y con independencia del estado de conservación y funcionamiento.",
+    "El servicio no revertirá a la Administración, debiendo el contratista conservarlos en un estado adecuados.",
+    "El servicio revertirá a la Administración, debiendo el contratista entregar las obras e instalaciones a que esté obligado con arreglo al contrato y en el estado de conservación y funcionamiento adecuados."
+   ]
+  },
+  {
+   "id": "vo-14-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 16,
+   "enunciado": "Señale la afirmación CORRECTA respecto de lo señalado en el artículo 300 de la Ley 9/2017: (La Rioja A2 – 2022)",
+   "opciones": [
+    "El contratista estará obligado a entregar los bienes objeto de suministro en el tiempo y lugar fijados en el contrato y de conformidad con las prescripciones técnicas y cláusulas administrativas.",
+    "El contratista no estará obligado a entregar los bienes objeto de suministro en el tiempo y lugar fijados en el contrato y de conformidad con las prescripciones técnicas y cláusulas administrativas.",
+    "El contratista estará obligado a entregar los bienes objeto de suministro en el tiempo y lugar fijados en el contrato y de conformidad con los pliegos de cláusulas administrativas y particulares así como en lo establecido en su oferta.",
+    "El proveedor podrá entregar los bienes objeto de suministro en el tiempo y lugar fijados en el contrato y de conformidad con las prescripciones técnicas y cláusulas administrativas."
+   ]
+  },
+  {
+   "id": "vo-14-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 17,
+   "enunciado": "¿Cómo debe actuar la Administración contratante, conforme al artículo 304 de la LCSP, ante el mal estado de los bienes recibidos en el ámbito de un contrato de suministros? (ITAL – 2024)",
+   "opciones": [
+    "Se incautará la garantía provisional al contratista con carácter previo a la liquidación del contrato.",
+    "Devolverá la garantía provisional al contratista con carácter previo a la certificación final.",
+    "Lo hará constar en la certificación final.",
+    "Se hará constar así en el acto de recepción y se darán las instrucciones precisas al contratista para que subsane los defectos observados o proceda a un nuevo suministro de conformidad con lo pactado."
+   ]
+  },
+  {
+   "id": "vo-14-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 18,
+   "enunciado": "El contratista tendrá derecho a percibir una indemnización en el caso de desistimiento antes de la iniciación del suministro del:",
+   "opciones": [
+    "2% del precio de adjudicación del contrato, IVA excluido.",
+    "3% del precio de adjudicación del contrato, IVA excluido.",
+    "6% del precio de adjudicación del contrato, IVA excluido, de los suministros dejados de realizar, en concepto de beneficio industrial.",
+    "3% del precio de adjudicación del contrato, IVA excluido, de los suministros dejados de realizar, en concepto de beneficio industrial."
+   ]
+  },
+  {
+   "id": "vo-14-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 19,
+   "enunciado": "De conformidad con el artículo 308.1 de la Ley 9/2017, salvo que se disponga otra cosa en los pliegos de cláusulas administrativas o en el documento contractual, los contratos de servicios que tengan por objeto el desarrollo y la puesta a disposición de productos protegidos por un derecho de propiedad intelectual o industrial: (Diputación Cáceres A1 – 2025)",
+   "opciones": [
+    "No podrán contratarse por las Administraciones Públicas.",
+    "Llevarán aparejada la cesión de este a la Administración contratante.",
+    "Se tramitarán como contratos de obras.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "vo-14-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 20,
+   "enunciado": "Según lo establecido en el artículo 310.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no serán de aplicación las disposiciones de esta ley a la preparación y adjudicación del contrato cuyo objeto sea: (SEAL – 2024)",
+   "opciones": [
+    "Seminarios, coloquios, mesas redondas, conferencias, colaboraciones o cualquier otro tipo similar de actividad, siempre que dichas actividades sean realizadas por personas físicas.",
+    "Servicios que conlleven prestaciones directas a favor de la ciudadanía.",
+    "Prestaciones de carácter intelectual, como los servicios de ingenierías y arquitectura.",
+    "El acceso a la información contenida en bases de datos especializadas."
+   ]
+  },
+  {
+   "id": "vo-14-021",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 21,
+   "enunciado": "Según la LCSP, son causas de resolución de los contratos de servicios, además de las generales, las siguientes: (SIAL – 2024)",
+   "opciones": [
+    "El desistimiento, una vez iniciada la prestación del servicio o la suspensión del contrato por plazo superior a 10 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+    "El desistimiento, una vez iniciada la prestación del servicio o la suspensión del contrato por plazo superior a 8 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+    "El desistimiento, una vez iniciada la prestación del servicio o la suspensión del contrato por plazo superior a 6 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor.",
+    "El desistimiento, una vez iniciada la prestación del servicio o la suspensión del contrato por plazo superior a 4 meses acordada por el órgano de contratación, salvo que en el pliego se señale otro menor."
+   ]
+  },
+  {
+   "id": "vo-14-022",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 22,
+   "enunciado": "La preparación y adjudicación de los contratos SARA que concierten los PANAP se regirán por:",
+   "opciones": [
+    "El derecho privado.",
+    "Normas establecidas en el Libro II de la LPAC.",
+    "Instrucciones aprobadas por los órganos competentes.",
+    "Normas establecidas en las Secciones 1ª. y 2ª. del Capítulo I del Título I del Libro II de esta Ley."
+   ]
+  },
+  {
+   "id": "vo-14-023",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 23,
+   "enunciado": "Los contratos de las entidades del sector público que no tengan el carácter de poderes adjudicadores:",
+   "opciones": [
+    "Los efectos, modificación y extinción se regularán por las instrucciones aprobadas por los órganos competentes.",
+    "La adjudicación se ajustará a las instrucciones aprobadas por los órganos competentes.",
+    "La adjudicación se regulará por las normas de derecho privado.",
+    "La adjudicación se regirá por las normas establecidas en las Secciones 1ª. y 2ª. del Capítulo I del Título I del Libro II de esta Ley."
+   ]
+  },
+  {
+   "id": "vo-14-024",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 24,
+   "enunciado": "Los órganos de contratación de la Administración General del Estado, son:",
+   "opciones": [
+    "Presidente del Gobierno.",
+    "Ministros y Secretarios de Estado.",
+    "Presidente o Director.",
+    "Director General."
+   ]
+  },
+  {
+   "id": "vo-14-025",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 25,
+   "enunciado": "La composición de las Juntas de Contratación se fijará reglamentariamente, debiendo figurar entre sus vocales:",
+   "opciones": [
+    "Dos funcionarios que tenga atribuido, legal o reglamentariamente, el asesoramiento jurídico del órgano de contratación y un interventor.",
+    "Un funcionario que tenga atribuido, legal o reglamentariamente, el asesoramiento administrativo del órgano de contratación y un interventor.",
+    "Un funcionario que tenga atribuido, legal o reglamentariamente, el asesoramiento jurídico del órgano de contratación y un interventor.",
+    "Un funcionario que tenga atribuido, legal o reglamentariamente, el asesoramiento jurídico del órgano de contratación y un abogado."
+   ]
+  },
+  {
+   "id": "vo-14-026",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 26,
+   "enunciado": "Los órganos de contratación de las entidades del sector público estatal que tengan la consideración de poder adjudicador en virtud de lo establecido en el apartado 3 del artículo 3 de la presente Ley necesitarán la autorización del Consejo de Ministros para celebrar contratos en los siguientes supuestos:",
+   "opciones": [
+    "Cuando el valor estimado del contrato, calculado conforme a lo señalado en el artículo 101, sea igual o superior a doce millones de euros.",
+    "Cuando el pago de los contratos se concierte mediante el sistema de arrendamiento financiero o mediante el sistema de arrendamiento con opción de compra y el número de anualidades supere tres años.",
+    "En los acuerdos marco y sistemas dinámicos de adquisición cuyo valor estimado sea igual o superior a diez millones de euros.",
+    "En las subvenciones cuando el valor estimado sea igual o superior a diez millones de euros."
+   ]
+  },
+  {
+   "id": "vo-14-027",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 27,
+   "enunciado": "En ningún caso podrán formar parte de las Mesas de contratación ni emitir informes de valoración de las ofertas:",
+   "opciones": [
+    "Los cargos públicos representativos.",
+    "El personal de libre designación.",
+    "El personal que no haya participado en la redacción de la documentación técnica del contrato de que se trate.",
+    "El funcionario de carrera."
+   ]
+  },
+  {
+   "id": "vo-14-028",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 28,
+   "enunciado": "El órgano de regulación y consulta en materia de contratación pública en el sector pública estatal es: (Elche A2 – 2023)",
+   "opciones": [
+    "La Junta Consultiva de Contratación Pública del Estado.",
+    "El Tribunal Administrativo Central de Recursos Contractuales.",
+    "La Oficina Independiente de Regulación y Supervisión de la Contratación.",
+    "La Junta Consultiva del Sector Público."
+   ]
+  },
+  {
+   "id": "vo-14-029",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 29,
+   "enunciado": "Se remitirá al Tribunal de Cuentas, los contratos cuyo precio de adjudicación exceda de:",
+   "opciones": [
+    "450.000 €, en caso de contratos de servicios.",
+    "150.000 €, en caso de contratos de suministros.",
+    "600.000 €, en caso de acuerdos marco.",
+    "600.000 €, en caso de contratos de obras y concesiones."
+   ]
+  },
+  {
+   "id": "vo-14-030",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 30,
+   "enunciado": "El Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público, dependerá del:",
+   "opciones": [
+    "Secretario de Estado de Hacienda.",
+    "Junta de Contratación.",
+    "Ministerio de Hacienda.",
+    "Junta Consultiva."
+   ]
+  },
+  {
+   "id": "vo-14-031",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 31,
+   "enunciado": "El Ministerio de Hacienda y Función Pública mantendrá un Registro de Contratos, en el que se inscribirán:",
+   "opciones": [
+    "Los datos básicos de los contratos adjudicados solo de la Administración General del Estado.",
+    "Todos los datos de los contratos adjudicados por las distintas Administraciones Públicas y demás entidades del sector público sujetas a esta Ley.",
+    "Los datos básicos de los contratos adjudicados por las distintas Administraciones Públicas y demás entidades del sector público no sujetas a esta Ley.",
+    "Los datos básicos de los contratos adjudicados por las distintas Administraciones Públicas y demás entidades del sector público sujetas a esta Ley."
+   ]
+  },
+  {
+   "id": "vo-14-032",
+   "origen": "votaciones",
+   "test": "Clase repaso 19 - Bloque III",
+   "n": 32,
+   "enunciado": "Los órganos de contratación de las Administraciones locales, podrán optar, por alojar sus perfiles de contratante en el servicio de información de la Comunidad Autónoma de su ámbito territorial, o la Plataforma de Contratación del Sector Público, de forma:",
+   "opciones": [
+    "Excluyente y exclusiva.",
+    "Restrictiva y exclusiva.",
+    "Excluyente y particular.",
+    "Privativa y exclusiva."
+   ]
+  },
+  {
+   "id": "vo-15-001",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 1,
+   "enunciado": "Según la ley 38/2003, de 17 de noviembre, general de subvenciones, se entiende por subvención toda disposición dineraria realizada por cualquier administración pública, a favor de personas públicas o privadas, y que cumpla los siguientes requisitos:",
+   "opciones": [
+    "Que la entrega esté sujeta al cumplimiento de un indeterminado objetivo.",
+    "Que la entrega se realice con contraprestación directa de los beneficiarios.",
+    "Que el proyecto, la acción, conducta o situación financiada tenga por objeto el fomento de una actividad de utilidad pública o interés social o de promoción de una finalidad pública.",
+    "Todas son correctas."
+   ]
+  },
+  {
+   "id": "vo-15-002",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 2,
+   "enunciado": "Según el artículo 2 LGS, no tienen carácter de subvenciones: (indique la incorrecta)",
+   "opciones": [
+    "Las prestaciones contributivas y no contributivas de la Seguridad Social.",
+    "Los beneficios fiscales y beneficios en la cotización a la Seguridad Social.",
+    "Las prestaciones reconocidas por el Fondo de Garantía Social.",
+    "Las ayudas económicas de emergencia o urgencia social gestionadas por las administraciones competentes a través de los servicios sociales, destinadas a cubrir necesidades básicas de la ciudadanía."
+   ]
+  },
+  {
+   "id": "vo-15-003",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 3,
+   "enunciado": "No están excluidos del ámbito de aplicación de la Ley 38/2003: (Ayto Vall d´Uixó C1 – 2024)",
+   "opciones": [
+    "Los premios que se otorguen previa solicitud del beneficiario.",
+    "Las subvenciones previstas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.",
+    "Las subvenciones reguladas en la Ley Orgánica 3/1987, de 2 de julio, de Financiación de los Partidos Políticos.",
+    "Todas las respuestas son correctas."
+   ]
+  },
+  {
+   "id": "vo-15-004",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 4,
+   "enunciado": "El otorgamiento de una subvención debe cumplir los siguientes requisitos (indique la incorrecta):",
+   "opciones": [
+    "La competencia del órgano administrativo concedente.",
+    "La existencia de crédito adecuado y suficiente.",
+    "La fiscalización previa respecto a las subvenciones con asignación nominativa.",
+    "La aprobación del gasto por el órgano competente para ello."
+   ]
+  },
+  {
+   "id": "vo-15-005",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 5,
+   "enunciado": "¿Quién es la autoridad competente para conceder una subvención de cuantía superior a 12 millones de euros?:",
+   "opciones": [
+    "Los Directores Generales de las distintas Entidades Gestoras y Servicios Comunes de la Seguridad Social, previa autorización del Consejo de Estado.",
+    "El Presidente o Director del organismo autónomo, con autorización del Ministro correspondiente.",
+    "El Consejo de Ministros.",
+    "El Ministro en la Administración General del Estado, con autorización del Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "vo-15-006",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 6,
+   "enunciado": "En el ámbito de la Administración General del Estado, las bases reguladoras de la concesión del artículo 17 de la LGS:",
+   "opciones": [
+    "Serán objeto de publicación en la BDNS.",
+    "Se aprobarán por Real Decreto.",
+    "Su aprobación requerirá informe previo de los servicios jurídicos y de la Intervención Delegada correspondiente.",
+    "Requieren autorización previa del Ministro."
+   ]
+  },
+  {
+   "id": "vo-15-007",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 7,
+   "enunciado": "La BDNS podrá suministrar información pública sobre las:",
+   "opciones": [
+    "Sanciones firmes impuestas por infracciones graves.",
+    "Infracciones firmes impuestas por sanciones graves.",
+    "Sanciones firmes impuestas por infracciones muy graves.",
+    "Infracciones firmes impuestas por sanciones muy graves."
+   ]
+  },
+  {
+   "id": "vo-15-008",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 8,
+   "enunciado": "Según el artículo 22.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, podrán concederse de forma directa: (Diputación Badajoz A2 – 2025)",
+   "opciones": [
+    "Excepcionalmente, las subvenciones en que se acrediten razones de interés público, social, económico o humanitario u otras debidamente justificadas que dificulten su convocatoria pública.",
+    "Las subvenciones por cuantía superior a la que se determine en la convocatoria.",
+    "Las subvenciones que no estén previstas nominativamente en los Presupuestos de las Entidades Locales.",
+    "Aquellas cuyo otorgamiento o cuantía venga impuesto a la Administración por una norma de rango reglamentario."
+   ]
+  },
+  {
+   "id": "vo-15-009",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 9,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución del procedimiento de concesión de régimen de concurrencia competitiva será, por regla general, de:",
+   "opciones": [
+    "6 meses, a partir de la publicación de las bases.",
+    "6 meses, a partir del final del plazo de presentación de solicitudes.",
+    "6 meses, a partir de la aprobación de la convocatoria.",
+    "6 meses, a partir de la publicación de la correspondiente convocatoria."
+   ]
+  },
+  {
+   "id": "vo-15-010",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 10,
+   "enunciado": "De acuerdo con el artículo 29 de la ley 38/2003, ¿en cuál de los siguientes supuestos sería necesario que la subcontratación de la actividad se formalice en contrato por escrito previa autorización de la entidad concedente de la subvención? (Diputación A Coruña A2 - 2026)",
+   "opciones": [
+    "Cuando la actividad concertada con terceros sobrepase del 20 por ciento del importe de la subvención y dicho importe sea superior a 50.000 euros.",
+    "Cuando la actividad concertada con terceros sobrepase del 30 por ciento del importe de la subvención y dicho importe sea superior a 60.000 euros.",
+    "Cuando la actividad concertada con terceros sobrepase del 20 por ciento del importe de la subvención y dicho importe sea igual o superior a 60.000 euros.",
+    "Cuando la actividad concertada con terceros sobrepase del 20 por ciento del importe de la subvención y dicho importe sea superior a 60.000 euros."
+   ]
+  },
+  {
+   "id": "vo-15-011",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 11,
+   "enunciado": "A falta de previsión en la norma reguladora de la subvención, la justificación se realizará, como máximo, en el plazo de:",
+   "opciones": [
+    "6 meses desde el otorgamiento de la subvención.",
+    "3 meses desde la realización del pago del último gasto vinculado a la actividad.",
+    "3 meses desde la finalización del plazo para la realización de la actividad.",
+    "Ninguna de las opciones es correcta."
+   ]
+  },
+  {
+   "id": "vo-15-012",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 12,
+   "enunciado": "Indique la respuesta CORRECTA. De acuerdo con la Ley 38/2003, de 17 de noviembre, general de subvenciones, en ningún caso serán gastos subvencionables: (GVA A1 – 2025)",
+   "opciones": [
+    "Los tributos, cuando el beneficiario de la subvención los abona efectivamente.",
+    "Los gastos de asesoría jurídica.",
+    "Los impuestos indirectos susceptibles de recuperación.",
+    "Los gastos financieros."
+   ]
+  },
+  {
+   "id": "vo-15-013",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 13,
+   "enunciado": "En relación al procedimiento de aprobación del gasto y pago:",
+   "opciones": [
+    "El compromiso del gasto deberá efectuarse con carácter previo a la convocatoria de la subvención o a la concesión directa de la misma.",
+    "La convocatoria de la subvención conllevará el compromiso del gasto correspondiente.",
+    "La aprobación del gasto deberá efectuarse con carácter posterior a la convocatoria de la subvención o a la concesión directa de la misma.",
+    "La resolución de concesión de la subvención conllevará el compromiso del gasto correspondiente."
+   ]
+  },
+  {
+   "id": "vo-15-014",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 14,
+   "enunciado": "Según el art. 37 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, NO es una causa de reintegro de las cantidades percibidas: (Salamanca A2 – 2023)",
+   "opciones": [
+    "La obtención de la subvención falseando las condiciones requeridas para ello.",
+    "El incumplimiento de la obligación de justificación o justificación insuficiente.",
+    "La carencia o insuficiencia de crédito.",
+    "La resistencia a las actuaciones de comprobación y control financiero."
+   ]
+  },
+  {
+   "id": "vo-15-015",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 15,
+   "enunciado": "El interés de demora se calculará:",
+   "opciones": [
+    "Desde el momento del gasto de la subvención hasta la fecha en que se acuerde la procedencia del reintegro.",
+    "Desde el momento del pago de la subvención hasta la fecha en que se notifique la procedencia del reintegro.",
+    "Desde el momento de la justificación de la subvención hasta la fecha en que se valore la procedencia del reintegro.",
+    "Desde el momento del pago de la subvención hasta la fecha en que se acuerde la procedencia del reintegro."
+   ]
+  },
+  {
+   "id": "vo-15-016",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 16,
+   "enunciado": "Según el artículo 39 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, el derecho de la Administración a liquidar el reintegro de la subvención prescribirá a los: (Diputación Palencia A2 – 2025)",
+   "opciones": [
+    "Tres años.",
+    "Cuatro años.",
+    "Cinco años.",
+    "Seis años."
+   ]
+  },
+  {
+   "id": "vo-15-017",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 17,
+   "enunciado": "En el marco de un procedimiento de concesión de subvenciones, el plazo máximo para resolver y notificar un procedimiento de reintegro será de:",
+   "opciones": [
+    "12 meses desde la notificación del acuerdo de iniciación.",
+    "6 meses desde la notificación del acuerdo de iniciación.",
+    "3 meses desde la fecha del acuerdo de iniciación.",
+    "12 meses desde la fecha del acuerdo de iniciación."
+   ]
+  },
+  {
+   "id": "vo-15-018",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 18,
+   "enunciado": "De acuerdo con el artículo 56 de la Ley 38/2003, NO es una infracción leve: (Junta Andalucía A1 - 2016)",
+   "opciones": [
+    "La falta de justificación del empleo dado a los fondos recibidos una vez transcurrido el plazo establecido para su presentación.",
+    "La presentación de cuentas justificativas inexactas o incompletas.",
+    "La resistencia, obstrucción, excusa o negativa a las actuaciones del control financiero.",
+    "El incumplimiento de la obligación de llevar o conservar la contabilidad."
+   ]
+  },
+  {
+   "id": "vo-15-019",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 19,
+   "enunciado": "Respecto a las sanciones pecuniarias, podrán consistir en:",
+   "opciones": [
+    "Una multa fija comprendida entre 65 y 6.000 €.",
+    "Una multa proporcional que puede ir del tanto al doble de la cantidad indebidamente obtenida, aplicada o no justificada.",
+    "Una multa fija comprendida entre 75 y 6.000 €.",
+    "Una multa fija que puede ir del tanto al triple de la cantidad indebidamente obtenida, aplicada o no justificada."
+   ]
+  },
+  {
+   "id": "vo-15-020",
+   "origen": "votaciones",
+   "test": "Clase repaso 20 - Bloque III",
+   "n": 20,
+   "enunciado": "Según el artículo 65 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, las infracciones en materia de subvenciones prescriben: (Diputación Palencia A2 – 2025)",
+   "opciones": [
+    "En el plazo de cuatro años a contar desde el día en que la infracción se hubiera cometido.",
+    "En el plazo de cuatro años a contar desde el día en que la subvención se hubiera concedido.",
+    "En el plazo de cuatro años a contar desde el día siguiente a aquel en que hubiera adquirido firmeza la resolución por la que se impuso la sanción.",
+    "Ninguna respuesta es correcta."
+   ]
+  }
+ ]
+}

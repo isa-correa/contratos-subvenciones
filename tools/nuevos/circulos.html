@@ -1,0 +1,36 @@
+<!doctype html><meta charset="utf-8"><link rel="stylesheet" href="base.css"><style>
+.cuerpo{flex:1;display:grid;grid-template-columns:470px 1fr;gap:36px;margin-top:10px;align-items:center}
+.circ{position:relative;width:470px;height:470px}
+.c{position:absolute;left:50%;bottom:0;transform:translateX(-50%);border-radius:50%;border:3px solid var(--azul)}
+.c1{width:470px;height:470px;background:var(--azul-suave)}
+.c2{width:330px;height:330px;background:var(--azul-medio)}
+.c3{width:176px;height:176px;background:var(--azul);border-color:#0b4aa6}
+.et{position:absolute;left:0;right:0;text-align:center;font-weight:700;line-height:1.15}
+.et small{display:block;font-weight:600;font-size:14px}
+.e3{top:44px;color:var(--azul);font-size:20px}
+.e2{top:166px;color:#0b2f66;font-size:19px}
+.e1{top:374px;color:#fff;font-size:13px}
+.niv{display:grid;gap:18px}
+.n{border-radius:14px;padding:12px 16px 12px 16px;border:2px solid var(--azul)}
+.n h3{font-size:21px;display:flex;gap:10px;align-items:center;margin-bottom:4px}
+.n h3 i{font-style:normal;display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--azul);color:#fff;font-size:16px}
+.n p{font-size:17px}
+.n .no{color:var(--rojo);font-weight:700}
+.n1{background:var(--azul-suave)}.n2{background:#eef4fc}.n3{background:#fff}
+.n.n1 h3 i{background:#0b4aa6}.n.n2 h3 i{background:var(--azul)}.n.n3 h3 i{background:var(--azul-medio);color:#0b2f66}
+.aviso{margin-top:14px}
+</style><div class="hoja">
+<h1>@@T@@</h1>
+<p class="sub">@@S@@</p>
+<div class="cuerpo">
+ <div class="circ"><div class="c c1"></div><div class="c c2"></div><div class="c c3"></div>
+  <div class="et e3">SECTOR PÚBLICO<small>nivel 3</small></div>
+  <div class="et e2">PODERES<br>ADJUDICADORES<small>nivel 2</small></div>
+  <div class="et e1">ADMINISTRACIONES<br>PÚBLICAS<small>nivel 1</small></div></div>
+ <div class="niv">
+  <div class="n n1"><h3><i>1</i>Administraciones Públicas</h3><p>Son a la vez <b>Administración Pública, poder adjudicador y sector público</b>: ministerios, ayuntamientos, organismos autónomos, universidades públicas.</p></div>
+  <div class="n n2"><h3><i>2</i>Poderes adjudicadores</h3><p>Son poder adjudicador y sector público, pero <span class="no">NO</span> Administración Pública: fundaciones públicas, mutuas colaboradoras con la Seguridad Social.</p></div>
+  <div class="n n3"><h3><i>3</i>Resto del sector público</h3><p>Son sector público, pero <span class="no">NO</span> poder adjudicador ni Administración Pública: entidades públicas empresariales, sociedades mercantiles estatales, fondos sin personalidad jurídica.</p></div>
+ </div></div>
+<div class="aviso"><svg viewBox="0 0 24 24"><path d="M12 2 1 21h22z" fill="#c98a00"/><path d="M12 9v6m0 2.5v.5" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></svg><span>@@A@@</span></div>
+<div class="pie">1 / 1</div></div>

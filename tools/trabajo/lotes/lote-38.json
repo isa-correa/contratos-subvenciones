@@ -1,0 +1,670 @@
+{
+ "casos": {},
+ "calendarios": {
+  "oct2026": {
+   "titulo": "Calendario octubre 2026",
+   "year": 2026,
+   "meses": [
+    10
+   ],
+   "festivos": [
+    "2026-10-12"
+   ],
+   "nota": "Los domingos también van en rojo."
+  }
+ },
+ "preguntas": [
+  {
+   "id": "pr-29-001",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 1,
+   "enunciado": "El Ministerio de Cultura licita el mantenimiento anual de sus ascensores, con un presupuesto base de licitación calculado en 100.000 euros. El precio es el único criterio de adjudicación y en los pliegos no se establecen parámetros para identificar las ofertas anormalmente bajas. Si concurre un único licitador, ¿por debajo de qué importe total se considerará que su oferta incurre en presunción de anormalidad?",
+   "opciones": [
+    "75.000 euros.",
+    "80.000 euros.",
+    "90.000 euros.",
+    "100.000 euros."
+   ]
+  },
+  {
+   "id": "pr-29-002",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 2,
+   "enunciado": "El Ministerio de Defensa licita el mantenimiento de sus jardines por procedimiento abierto ordinario, con varios criterios de adjudicación. Señale la respuesta correcta en relación con una oferta incursa en presunción de anormalidad:",
+   "opciones": [
+    "Corresponden a la mesa de contratación su identificación y, en su caso, el acuerdo de exclusión.",
+    "El licitador que la hubiera presentado dispondrá de un plazo no inferior a diez días hábiles para su justificación.",
+    "Si el licitador que la presentó resultara finalmente adjudicatario, deberá prestar, en todo caso, una garantía complementaria.",
+    "Los pliegos deberán establecer parámetros objetivos para su identificación, referidos a la oferta considerada en su conjunto."
+   ]
+  },
+  {
+   "id": "pr-29-003",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 3,
+   "enunciado": "El Ministerio de Justicia licita el transporte de su personal mediante procedimiento abierto ordinario, utilizando el precio como único criterio de adjudicación. Señale la afirmación incorrecta en relación con la clasificación de las ofertas y la propuesta de adjudicación:",
+   "opciones": [
+    "La mesa de contratación clasificará las proposiciones presentadas por orden decreciente.",
+    "Una vez clasificadas las ofertas, la mesa elevará al órgano de contratación una propuesta de adjudicación.",
+    "La propuesta de la mesa vincula al órgano de contratación, que deberá adjudicar conforme a ella.",
+    "Se entenderá que la mejor oferta es la que incorpora el precio más bajo."
+   ]
+  },
+  {
+   "id": "pr-29-004",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 4,
+   "enunciado": "En un procedimiento abierto ordinario, aceptada la propuesta de la mesa por el órgano de contratación, se requiere al licitador que presentó la mejor oferta para que aporte la documentación justificativa de su aptitud para contratar y de haber constituido la garantía definitiva. ¿De qué plazo dispone para atender este requerimiento?",
+   "opciones": [
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Quince días naturales.",
+    "Quince días hábiles."
+   ]
+  },
+  {
+   "id": "pr-29-005",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 5,
+   "enunciado": "Según el artículo 150 de la LCSP, recibida la documentación requerida al licitador que presentó la mejor oferta, ¿de qué plazo dispone el órgano de contratación para acordar la adjudicación del contrato?",
+   "opciones": [
+    "Cinco días hábiles.",
+    "Cinco días naturales.",
+    "Diez días naturales.",
+    "Quince días naturales."
+   ]
+  },
+  {
+   "id": "pr-29-006",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 6,
+   "enunciado": "Conforme al artículo 151 de la LCSP, una vez dictada la resolución de adjudicación del contrato, ¿en qué plazo deberá publicarse en el perfil de contratante?",
+   "opciones": [
+    "Diez días naturales.",
+    "Quince días naturales.",
+    "Cinco días hábiles.",
+    "Diez días hábiles."
+   ]
+  },
+  {
+   "id": "pr-29-007",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 7,
+   "enunciado": "El licitador que presentó la mejor oferta no cumplimenta adecuadamente el requerimiento de documentación en el plazo señalado. Conforme al artículo 150.2 de la LCSP, ¿cuál de las siguientes NO es una consecuencia prevista para este incumplimiento?",
+   "opciones": [
+    "Se entenderá que ha retirado su oferta.",
+    "Se le exigirá una penalidad del 3 % del presupuesto base de licitación, IVA excluido.",
+    "Se recabará la misma documentación al siguiente licitador, según el orden de clasificación de las ofertas.",
+    "Se procederá a la incautación de la garantía definitiva."
+   ]
+  },
+  {
+   "id": "pr-29-008",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 8,
+   "enunciado": "El Ministerio de Juventud e Infancia adjudica a Viveros del Sur, S.L., un servicio de jardinería mediante procedimiento abierto ordinario, con un valor estimado de 70.000 euros. La resolución de adjudicación se notifica a todos los licitadores el jueves 1 de octubre de 2026. ¿Cuál es el último día del plazo legal para formalizar el contrato?",
+   "opciones": [
+    "El 16 de octubre.",
+    "El 22 de octubre.",
+    "El 23 de octubre.",
+    "El 26 de octubre."
+   ],
+   "calendario": "oct2026"
+  },
+  {
+   "id": "pr-29-009",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 9,
+   "enunciado": "Vencido el plazo de formalización legalmente previsto, la adjudicataria no ha formalizado el contrato por causas que le son imputables. ¿Qué consecuencia económica establece el artículo 153.4 de la LCSP?",
+   "opciones": [
+    "Se le incautará íntegramente la garantía provisional.",
+    "Se le exigirá una penalidad del 3 % del presupuesto base de licitación, IVA excluido.",
+    "Se le exigirá una penalidad del 3 % del precio de adjudicación, IVA excluido.",
+    "Se le incautará íntegramente la garantía definitiva."
+   ]
+  },
+  {
+   "id": "pr-29-010",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 10,
+   "enunciado": "El Ministerio de Hacienda adjudica, mediante procedimiento abierto, un suministro de mobiliario con un valor estimado de 180.000 euros. La notificación de la adjudicación se remite a todos los licitadores el martes 6 de octubre de 2026. Si no se interpone recurso, ¿cuándo podrá formalizarse el contrato conforme al artículo 153 de la LCSP?",
+   "opciones": [
+    "A partir del 16 de octubre.",
+    "No más tarde del 21 de octubre.",
+    "A partir del 22 de octubre.",
+    "A partir del 29 de octubre."
+   ],
+   "calendario": "oct2026"
+  },
+  {
+   "id": "pr-29-011",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 11,
+   "enunciado": "Según el artículo 153 de la LCSP, señale la afirmación incorrecta sobre la formalización de los contratos de las Administraciones Públicas:",
+   "opciones": [
+    "El documento administrativo de formalización constituye título suficiente para acceder a cualquier registro público.",
+    "El contratista podrá solicitar la elevación a escritura pública, corriendo de su cargo los gastos correspondientes.",
+    "No resultará necesaria en caso de contratos basados en un acuerdo marco.",
+    "No podrá iniciarse la ejecución del contrato antes de su formalización, salvo en los casos de tramitación urgente o de emergencia."
+   ]
+  },
+  {
+   "id": "pr-29-012",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 12,
+   "enunciado": "Parque Móvil del Estado, organismo autónomo estatal, ha formalizado un contrato de suministro con un valor estimado de 115.000 euros. De acuerdo con el artículo 154 de la LCSP, ¿dónde debe publicarse obligatoriamente el anuncio de formalización?",
+   "opciones": [
+    "Únicamente en el perfil de contratante.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea."
+   ]
+  },
+  {
+   "id": "pr-29-013",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 13,
+   "enunciado": "Conforme al artículo 154 de la LCSP, ¿en qué plazo máximo desde el perfeccionamiento del contrato deberá publicarse su formalización en el perfil de contratante?",
+   "opciones": [
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Quince días naturales.",
+    "Quince días hábiles."
+   ]
+  },
+  {
+   "id": "pr-29-014",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 14,
+   "enunciado": "El Ayuntamiento de Móstoles cancela sus fiestas por una emergencia sanitaria y decide no celebrar un contrato de servicios de pirotecnia, ya adjudicado pero aún no formalizado. Conforme al artículo 152 de la LCSP, señale la afirmación CORRECTA sobre esta decisión:",
+   "opciones": [
+    "No podrá promoverse una nueva licitación de su objeto en tanto subsistan las razones alegadas.",
+    "Solo se compensará a los licitadores si así se hubiera previsto en el anuncio o en el pliego.",
+    "Debe fundarse en una infracción no subsanable de las normas de preparación o adjudicación del contrato.",
+    "No es válida, pues debió adoptarse antes de la adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "pr-29-015",
+   "origen": "practicas",
+   "test": "Examen nº 23 - LCSP (arts. 149 a 155)",
+   "n": 15,
+   "enunciado": "El Ayuntamiento de Benidorm ha adjudicado un suministro de contenedores sujeto a regulación armonizada. Antes de formalizarlo, detecta que omitió publicar el anuncio de licitación en el DOUE y acuerda desistir del procedimiento. Según el artículo 152 de la LCSP, señale la afirmación INCORRECTA:",
+   "opciones": [
+    "Deberá justificarse en el expediente la concurrencia de una infracción no subsanable de las normas de preparación o adjudicación.",
+    "El desistimiento impide iniciar inmediatamente una nueva licitación del mismo objeto.",
+    "La decisión deberá notificarse a los candidatos o licitadores.",
+    "Se compensará a los licitadores por los gastos en que hubiesen incurrido."
+   ]
+  },
+  {
+   "id": "pr-30-001",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 1,
+   "enunciado": "El Ministerio de Cultura licita, mediante procedimiento abierto, el mantenimiento de sus museos, con un valor estimado de 150.000 euros. Conforme al artículo 156 de la LCSP, ¿cuál es, con carácter general, el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-30-002",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 2,
+   "enunciado": "El Ayuntamiento de Jaén licita, mediante procedimiento abierto, la construcción de un museo, con un valor estimado de 3.000.000 euros. Conforme al artículo 156 de la LCSP, ¿cuál es, con carácter general, el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-30-003",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 3,
+   "enunciado": "El Ministerio de Sanidad licita, mediante procedimiento abierto, un suministro de equipos médicos con valor estimado de 300.000 euros. El órgano de contratación envió previamente un anuncio de información previa en los términos previstos en el artículo 156.3 de la LCSP. ¿Cuál será el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veinte días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-30-004",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 4,
+   "enunciado": "El Ayuntamiento de Marbella licita, mediante procedimiento abierto, una concesión de obras para construir y explotar un aparcamiento, con un valor estimado de 8.000.000 de euros. Concurre una situación de urgencia que hace impracticable el plazo general y se admite la presentación electrónica de ofertas. ¿Cuál será el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta días.",
+    "Veinticinco días.",
+    "Quince días.",
+    "Diez días."
+   ]
+  },
+  {
+   "id": "pr-30-005",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 5,
+   "enunciado": "El Ayuntamiento de Córdoba licita, mediante procedimiento abierto, un servicio de jardinería, con un valor estimado de 180.000 euros. Conforme al artículo 156 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-30-006",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 6,
+   "enunciado": "El Ayuntamiento de Jaén licita, mediante procedimiento abierto, la reparación de un puente, con un valor estimado de 6.000.000 de euros. Una situación de urgencia hace impracticable el plazo general. Conforme al artículo 156 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días."
+   ]
+  },
+  {
+   "id": "pr-30-007",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 7,
+   "enunciado": "El Parque Móvil del Estado, organismo autónomo estatal, licita mediante procedimiento abierto un suministro de recambios de vehículos, con un valor estimado de 180.000 euros. Conforme al artículo 156 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones, teniendo en cuenta que se admite la presentación electrónica de las ofertas?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veinticinco días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-30-008",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 8,
+   "enunciado": "El Instituto Nacional de Administración Pública, O.A., licita mediante procedimiento abierto y tramitación urgente la reforma de su sede, con un valor estimado de 1.200.000 euros. ¿Cuál es el plazo mínimo de presentación de proposiciones conforme a la LCSP?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días."
+   ]
+  },
+  {
+   "id": "pr-30-009",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 9,
+   "enunciado": "El Ministerio de Trabajo licita, mediante procedimiento abierto, un suministro de ordenadores con un valor estimado de 1.250.000 euros. Se ha enviado un anuncio de información previa en los términos previstos en el artículo 156.3 de la LCSP y se admite la presentación electrónica de ofertas. ¿Cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Quince días.",
+    "Diez días."
+   ]
+  },
+  {
+   "id": "pr-30-010",
+   "origen": "practicas",
+   "test": "Examen nº 24 - LCSP: Procedimiento abierto (1)",
+   "n": 10,
+   "enunciado": "El Ayuntamiento de Lugo licita, mediante procedimiento abierto, una concesión de servicios para la explotación de un mercado municipal, con un valor estimado de 3.000.000 de euros. Según la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días."
+   ]
+  },
+  {
+   "id": "pr-31-001",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 1,
+   "enunciado": "El Instituto de Turismo de España, O.A., licita mediante procedimiento abierto y tramitación urgente un servicio de promoción turística, con un valor estimado de 120.000 euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Quince días.",
+    "Trece días.",
+    "Ocho días."
+   ]
+  },
+  {
+   "id": "pr-31-002",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 2,
+   "enunciado": "El Ministerio de Defensa licita, mediante procedimiento abierto, la reforma de una base aérea, con un valor estimado de 5.500.000 euros. El órgano de contratación había enviado un anuncio de información previa en los términos previstos en el artículo 156.3 de la LCSP. ¿Cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días."
+   ]
+  },
+  {
+   "id": "pr-31-003",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 3,
+   "enunciado": "La Fundación Biodiversidad, F.S.P., fundación del sector público estatal, licita mediante procedimiento abierto un suministro informático, con un valor estimado de 190.000 euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Quince días.",
+    "Diez días."
+   ]
+  },
+  {
+   "id": "pr-31-004",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 4,
+   "enunciado": "El Ministerio de Transportes licita, mediante procedimiento abierto, una concesión de servicios para la explotación de un área de servicio, con un valor estimado de 7.000.000 de euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-31-005",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 5,
+   "enunciado": "El Ministerio de Agricultura, Pesca y Alimentación licita, mediante procedimiento abierto ordinario, un servicio de vigilancia de edificios, con un valor estimado de 180.000 euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-31-006",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 6,
+   "enunciado": "La Xunta de Galicia licita, mediante procedimiento abierto, la construcción de un colegio, con un valor estimado de 4.000.000 de euros. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días."
+   ]
+  },
+  {
+   "id": "pr-31-007",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 7,
+   "enunciado": "El Ministerio de Sanidad licita, mediante procedimiento abierto, un servicio de mantenimiento, con un valor estimado de 190.000 euros. Una situación de urgencia hace impracticable el plazo general. Según la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Treinta días.",
+    "Quince días.",
+    "Ocho días."
+   ]
+  },
+  {
+   "id": "pr-31-008",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 8,
+   "enunciado": "El Ayuntamiento de Elche licita, mediante procedimiento abierto y tramitación urgente, una concesión de servicios para la explotación de un polideportivo, con un valor estimado de 2.000.000 de euros. Según la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta días.",
+    "Veintiséis días.",
+    "Quince días.",
+    "Trece días."
+   ]
+  },
+  {
+   "id": "pr-31-009",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 9,
+   "enunciado": "El Ministerio de Justicia licita, mediante procedimiento abierto, un suministro de combustible con un valor estimado de 150.000 euros. Con carácter previó, se envió un anuncio de información previa en los términos del artículo 156.3 de la LCSP, concurre una situación de urgencia que hace impracticable el plazo general y se admite, además, la presentación electrónica de ofertas. De acuerdo con la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Quince días.",
+    "Diez días.",
+    "El plazo finalizó cinco días antes de publicarse el anuncio de licitación."
+   ]
+  },
+  {
+   "id": "pr-31-010",
+   "origen": "practicas",
+   "test": "Examen nº 25 - LCSP: Procedimiento abierto (2)",
+   "n": 10,
+   "enunciado": "El Ministerio de Defensa licita, mediante procedimiento abierto, una concesión de servicios con un valor estimado de 8.000.000 de euros. Una situación de urgencia hace impracticable el plazo general y se admite la presentación electrónica de ofertas. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta días.",
+    "Veinticinco días.",
+    "Quince días.",
+    "Trece días."
+   ]
+  },
+  {
+   "id": "pr-32-001",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 1,
+   "enunciado": "El Ministerio de Cultura licita, mediante procedimiento abierto simplificado, un contrato de obras. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-002",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 2,
+   "enunciado": "El Ministerio de Sanidad licita, mediante procedimiento abierto simplificado, un servicio de archivo. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-003",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 3,
+   "enunciado": "El Instituto Nacional de Administración Pública, O.A., licita, mediante procedimiento abierto supersimplificado, unas obras de pintura, con un valor estimado de 50.000 euros. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-004",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 4,
+   "enunciado": "El Ministerio de Transportes y Movilidad Sostenible licita, mediante procedimiento abierto supersimplificado, un servicio de vigilancia. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-005",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 5,
+   "enunciado": "El Ministerio de Cultura licita, mediante procedimiento abierto supersimplificado, un suministro de material de oficina de uso corriente disponible en el mercado. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Diez días hábiles.",
+    "Diez días naturales.",
+    "Cinco días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-006",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 6,
+   "enunciado": "El Ministerio de Justicia licita, mediante procedimiento abierto simplificado y tramitación urgente, unas obras de reforma de un local. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Diez días naturales."
+   ]
+  },
+  {
+   "id": "pr-32-007",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 7,
+   "enunciado": "El Ministerio de Sanidad licita, mediante procedimiento abierto supersimplificado y tramitación urgente, un servicio de limpieza. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Ocho días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-008",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 8,
+   "enunciado": "El Ministerio de Cultura licita, mediante procedimiento abierto simplificado, un suministro de cera. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veinte días naturales.",
+    "Quince días hábiles.",
+    "Quince días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-009",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 9,
+   "enunciado": "El Ministerio de Vivienda y Agenda Urbana licita, mediante procedimiento abierto supersimplificado, un suministro de uniformes. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Quince días naturales.",
+    "Diez días naturales.",
+    "Diez días hábiles.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-32-010",
+   "origen": "practicas",
+   "test": "Examen nº 26 - LCSP - Abierto simplificado (1)",
+   "n": 10,
+   "enunciado": "El Ministerio de Sanidad licita, mediante procedimiento abierto supersimplificado, un suministro de material sanitario de uso corriente disponible en el mercado. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Cinco días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-33-001",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 1,
+   "enunciado": "El Ministerio de Defensa licita, mediante procedimiento abierto, un suministro de material textil, con un valor estimado de 130.000 euros. El contrato se tramita de urgencia. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta y cinco días.",
+    "Quince días.",
+    "Diez días hábiles.",
+    "Ocho días."
+   ]
+  },
+  {
+   "id": "pr-33-002",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 2,
+   "enunciado": "El Ministerio de Juventud e Infancia licita, mediante procedimiento abierto simplificado, las obras de rehabilitación de un museo. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veintiséis días naturales.",
+    "Veinte días naturales.",
+    "Quince días naturales.",
+    "Diez días hábiles."
+   ]
+  },
+  {
+   "id": "pr-33-003",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 3,
+   "enunciado": "El Ministerio de Sanidad licita, mediante procedimiento abierto supersimplificado, un suministro de ropa de uso corriente disponible en el mercado. Conforme al artículo 159 de la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Quince días naturales.",
+    "Diez días hábiles.",
+    "Cinco días naturales.",
+    "Cinco días hábiles."
+   ]
+  },
+  {
+   "id": "pr-33-004",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 4,
+   "enunciado": "El Ayuntamiento de Benamocarra licita, mediante procedimiento abierto, un contrato de servicios con un valor estimado de 180.000 euros. El contrato se tramita de urgencia. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Veintiséis días naturales.",
+    "Quince días naturales.",
+    "Ocho días hábiles.",
+    "Ocho días naturales."
+   ]
+  },
+  {
+   "id": "pr-33-005",
+   "origen": "practicas",
+   "test": "Examen nº 27 - LCSP - Procedimientos abiertos",
+   "n": 5,
+   "enunciado": "El Ayuntamiento de Tarragona licita, mediante procedimiento abierto, una concesión de servicios para explotar un mercado municipal, con un valor estimado de 6.000.000 de euros. Concurre una situación de urgencia y se admite la presentación electrónica de ofertas. Conforme a la LCSP, ¿cuál es el plazo mínimo de presentación de proposiciones?",
+   "opciones": [
+    "Treinta días naturales.",
+    "Veinticinco días naturales.",
+    "Quince días naturales.",
+    "Trece días naturales."
+   ]
+  }
+ ]
+}

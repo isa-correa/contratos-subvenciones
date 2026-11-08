@@ -1,0 +1,562 @@
+{
+ "vo-04-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 139.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Quien presenta una proposición en unión temporal no puede además presentar otra por su cuenta ni figurar en más de una unión (**art. 139.3**).",
+   "No. Solo cabe una proposición por licitador, salvo variantes y subasta electrónica (**art. 139.3**).",
+   "Es esta. Cada licitador no puede presentar más de una proposición, salvo las variantes (**art. 142**) y los nuevos precios de una subasta electrónica (**art. 143**).",
+   "No. Hay límite: una sola proposición (**art. 139.3**)."
+  ]
+ },
+ "vo-04-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 140.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Con la proposición va una declaración responsable, no todos los documentos justificativos (**art. 140.1.a**).",
+   "No. El órgano puede pedir los documentos en cualquier momento, no solo al adjudicatario (**art. 140.3**).",
+   "Es esta. Capacidad, solvencia y ausencia de prohibiciones deben concurrir en la fecha final de presentación de ofertas y subsistir al perfeccionarse el contrato (**art. 140.4**).",
+   "No. Si se exige garantía provisional, se aporta el documento acreditativo de haberla constituido, no una mera declaración (**art. 140.1.d**)."
+  ]
+ },
+ "vo-04-029": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 142.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las variantes solo se toman en cuenta cuando hay criterios distintos del precio (**art. 142.1**).",
+   "Es esta. Si hay criterios distintos del precio y los pliegos las prevén (**art. 142.1**).",
+   "No. Los pliegos deben preverlas, y los criterios no han de ser exclusivamente distintos del precio (**art. 142.1**).",
+   "No. Esa limitación sobre cambiar de tipo de contrato no está en el art. 142 (**art. 142**)."
+  ]
+ },
+ "vo-04-030": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La subasta y el procedimiento abreviado no son procedimientos de adjudicación en la LCSP (**art. 131.2**).",
+   "Es esta. Abierto, restringido, con negociación (con y sin publicidad), diálogo competitivo y asociación para la innovación (**art. 131.2**).",
+   "No. Faltan los de la asociación para la innovación y la licitación con negociación (**art. 131.2**).",
+   "No. La subasta y el concurso no son procedimientos de la LCSP actual (**art. 131.2**)."
+  ],
+  "ojo": "La opción 2 es la lista incompleta: omite la asociación para la innovación."
+ },
+ "vo-04-031": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No se adjudica solo por precio: la regla es la pluralidad de criterios (**art. 145.1**).",
+   "Es esta. Pluralidad de criterios basados en la mejor relación calidad-precio (**art. 145.1**).",
+   "No. La mejor relación calidad-precio combina criterios económicos y cualitativos, no solo cualitativos (**art. 145.2**).",
+   "No. La relación coste-eficacia es una alternativa previa justificación, no la regla general (**art. 145.1**)."
+  ]
+ },
+ "vo-04-032": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No son solo cuantitativos: también cualitativos (**art. 145.2**).",
+   "No. La solvencia no es criterio de adjudicación (**art. 145.2**).",
+   "No. La solvencia se acredita al concurrir, no se valora como criterio (**art. 145.2**).",
+   "Es esta. Criterios económicos y cualitativos (**art. 145.2**)."
+  ]
+ },
+ "vo-04-033": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El porcentaje es del 51 por ciento, no del 25 (**art. 145.4**).",
+   "No. El mínimo es 51 por ciento, no el 50 (**art. 145.4**).",
+   "Es esta. Al menos el 51 por ciento de la puntuación (**art. 145.4**).",
+   "No. No se exige el 100 por ciento (**art. 145.4**)."
+  ]
+ },
+ "vo-04-034": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 146.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cabe un único criterio si se relaciona con los costes (precio o coste del ciclo de vida) (**art. 146.1**).",
+   "No. Si es único, ha de estar relacionado con los costes, no ser cualitativo (**art. 146.1**).",
+   "No. Es una opción más amplia: el precio o la rentabilidad (como el ciclo de vida), la pregunta es incompleta (**art. 146.1**).",
+   "No. Sí cabe un único criterio en algunos casos (**art. 146.1**)."
+  ],
+  "ojo": "El art. 146.1 admite un único criterio si es de costes: el precio o un criterio de rentabilidad como el ciclo de vida. La opción 0 es la más cercana."
+ },
+ "vo-04-035": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 147.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Es el tercer criterio, tras discapacidad y temporalidad (**art. 147.2.c**).",
+   "No. El sorteo es el último (**art. 147.2.d**).",
+   "No. Es el segundo criterio (**art. 147.2.b**).",
+   "Es esta. El primero es el mayor porcentaje de trabajadores con discapacidad o en exclusión social (**art. 147.2.a**)."
+  ]
+ },
+ "vo-04-036": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La adjudicación se realiza con una pluralidad de criterios (**art. 145.1**), salvo el caso de único criterio de costes (**art. 146.1**).",
+   "No. Pueden tener mayor ponderación, y entonces los valora un comité de expertos u organismo técnico (**art. 146.2.a**).",
+   "No. Si no es posible ponderar, se enumeran por orden decreciente de importancia, no creciente (**art. 146.3**).",
+   "No. El coste del ciclo de vida es una opción posible (**arts. 145.1 y 148**), no el criterio preferente de cálculo."
+  ],
+  "ojo": "La opción 0 es la más segura, pero en rigor admite excepción: un único criterio de costes (art. 146.1)."
+ },
+ "vo-05-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 150.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Son cinco días hábiles, no naturales (**art. 150.3**).",
+   "No. Diez días hábiles es el plazo del licitador para aportar la documentación (**art. 150.2**).",
+   "Es esta. Cinco días hábiles desde la recepción de la documentación (**art. 150.3**).",
+   "No. Quince días hábiles es el plazo de espera para formalizar (**art. 153.3**)."
+  ]
+ },
+ "vo-05-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 151.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Son quince días, no diez (**art. 151.1**).",
+   "Es esta. 15 días, que por defecto son naturales (**art. 151.1 y DA 12.ª**).",
+   "No. El art. 151.1 no dice hábiles, y los plazos por días son naturales salvo indicación (**DA 12.ª**).",
+   "No. Son quince días, no diez (**art. 151.1**)."
+  ],
+  "ojo": "El art. 151.1 dice solo '15 días'. Por la DA 12.ª se entienden naturales."
+ },
+ "vo-05-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No hay obligación de escritura pública (**art. 153.1**).",
+   "No. Solo la eleva el contratista si lo solicita y corre con los gastos (**art. 153.1**).",
+   "Es esta. Documento administrativo que se ajuste con exactitud a las condiciones de la licitación (**art. 153.1**).",
+   "No. Hay que formalizar siempre, salvo contratos basados en acuerdo marco o contratos menores (**art. 153.1 y 2**)."
+  ]
+ },
+ "vo-05-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es un máximo de diez días hábiles, es un mínimo de espera de quince (**art. 153.3**).",
+   "No. Los quince días son hábiles, no naturales (**art. 153.3**).",
+   "Es esta. No antes de quince días hábiles desde la remisión de la notificación (**art. 153.3**).",
+   "No. El plazo de quince días es un mínimo de espera, no un tope (**art. 153.3**)."
+  ]
+ },
+ "vo-05-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 153.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se calcula sobre el presupuesto base de licitación, no sobre el precio (**art. 153.4**).",
+   "No. Se calcula sobre el presupuesto base de licitación, sin IVA (**art. 153.4**).",
+   "Es esta. 3 por ciento del presupuesto base de licitación, IVA excluido (**art. 153.4**).",
+   "No. Se calcula sin IVA (**art. 153.4**)."
+  ]
+ },
+ "vo-05-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El desistimiento exige una infracción no subsanable de las normas de preparación o de adjudicación (**art. 152.4**).",
+   "No. No cabe por razones de interés privado (**art. 152**).",
+   "No. No es discrecional: exige causa justificada (**art. 152.4**).",
+   "No. El interés público fundamenta la decisión de no adjudicar (**art. 152.3**), no el desistimiento."
+  ]
+ },
+ "vo-05-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Tras desistir sí se puede iniciar inmediatamente una nueva licitación (**art. 152.4**).",
+   "Es esta. Ambas decisiones pueden acordarse antes de la formalización (**art. 152.2**).",
+   "No. La infracción no subsanable fundamenta el desistimiento. La no adjudicación exige interés público (**art. 152.3 y 4**).",
+   "No. Solo antes de la formalización (**art. 152.2**)."
+  ]
+ },
+ "vo-05-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 152.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La infracción de las normas de preparación fundamenta el desistimiento, y no es la única causa posible (**art. 152.4**).",
+   "Es esta. El desistimiento no impide iniciar inmediatamente una nueva licitación (**art. 152.4**).",
+   "No. La infracción de las normas de adjudicación fundamenta el desistimiento, no la no adjudicación (**art. 152.4**).",
+   "No. La ley manda notificarlo a candidatos y licitadores, no publicarlo en el perfil (**art. 152.1**)."
+  ],
+  "ojo": "La opción 1 describe el desistimiento (art. 152.4). Para la decisión de no adjudicar, en cambio, no puede promoverse nueva licitación mientras subsistan las razones (art. 152.3)."
+ },
+ "vo-05-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Treinta y cinco días desde el envío del anuncio a la Oficina de Publicaciones de la UE (**art. 156.2**).",
+   "No. Treinta días es el plazo para las concesiones de obras y de servicios (**art. 156.2**).",
+   "No. Veintiséis días es el mínimo en contratos no armonizados de obras (**art. 156.6**).",
+   "No. Quince días es el mínimo en contratos no armonizados de suministros y servicios (**art. 156.6**)."
+  ]
+ },
+ "vo-05-011": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En concesiones el anuncio previo no reduce el plazo (**art. 156.4**).",
+   "No. En concesiones la urgencia no reduce el plazo general (**art. 156.4**).",
+   "Es esta. En concesiones solo se reduce cuando se aceptan ofertas por medios electrónicos (**art. 156.4 y 3.c**).",
+   "No. Hay un caso de reducción: la presentación electrónica (**art. 156.4**)."
+  ]
+ },
+ "vo-05-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 156.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En el negociado se negocian los términos del contrato (**art. 166**).",
+   "Es esta. En el abierto todo empresario interesado puede presentar proposición y no hay negociación (**art. 156.1**).",
+   "No. En el restringido solo presentan proposición los seleccionados (**art. 160.2**).",
+   "No. El concurso no es un procedimiento de la LCSP actual (**art. 131.2**)."
+  ]
+ },
+ "vo-05-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 157.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El plazo máximo es de veinte días (**art. 157.3**).",
+   "Es esta. Veinte días desde que finaliza el plazo de presentación (**art. 157.3**).",
+   "No. El plazo máximo es de veinte días (**art. 157.3**).",
+   "No. Dos meses es el plazo de adjudicación con pluralidad de criterios (**art. 158.2**)."
+  ]
+ },
+ "vo-05-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Quince días desde el siguiente a la apertura de las proposiciones (**art. 158.1**).",
+   "No. Se cuenta desde la apertura, no desde el fin del plazo de presentación (**art. 158.1**).",
+   "No. Son quince días desde la apertura (**art. 158.1**).",
+   "No. Son quince días desde la apertura (**art. 158.1**)."
+  ]
+ },
+ "vo-05-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Dos meses desde la apertura de las proposiciones (**art. 158.2**).",
+   "No. Veinte días es el plazo máximo para abrir las proposiciones (**art. 157.3**).",
+   "No. Quince días es el plazo si el único criterio es el precio (**art. 158.1**).",
+   "No. Es de dos meses, no de un mes (**art. 158.2**)."
+  ]
+ },
+ "vo-05-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Quince días es el mínimo, no el máximo (**art. 159.3**).",
+   "Es esta. En obras, al menos veinte días desde el siguiente a la publicación (**art. 159.3**).",
+   "No. La regla del sumario es diez días hábiles, y no depende de urgencia (**art. 159.6.a**).",
+   "No. Veintiséis es el plazo del abierto ordinario de obras no armonizadas (**art. 156.6**)."
+  ]
+ },
+ "vo-05-017": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El umbral se refiere al valor estimado y el tope de juicio de valor es 25, no 50 por ciento (**art. 159.1**).",
+   "No. Se exige un valor estimado igual o inferior a 2.000.000, no superior (**art. 159.1.a**).",
+   "No. Además del valor hace falta cumplir el límite de juicio de valor (**art. 159.1.b**).",
+   "Es esta. Valor estimado hasta 2.000.000 de euros y juicio de valor hasta el 25 por ciento (**art. 159.1**)."
+  ]
+ },
+ "vo-05-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "No. 2.000.000 es el umbral para obras, no para suministros (**art. 159.1.a**).",
+   "Es la más cercana. En suministros el valor estimado debe ser inferior al umbral de regulación armonizada (**art. 159.1.a**), 140.000 euros en la AGE.",
+   "No. 216.000 es el umbral de las Administraciones no estatales y, además, debe ser inferior, no igual (**art. 159.1.a**).",
+   "No. Debe ser inferior, no igual (**art. 159.1.a**)."
+  ],
+  "ojo": "Los umbrales son los de regulación armonizada (arts. 21.1.a y 22.1.a) y se actualizan cada dos años. Antes eran 100.000 euros.",
+  "revisar": "La cifra de 140.000 euros es la de la AGE desde el 1 de enero de 2026. Para otras Administraciones es 216.000. Revisa si tu convocatoria usa otra."
+ },
+ "vo-05-019": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo es de quince días como mínimo, y veinte en obras (**art. 159.3**).",
+   "No. El anuncio solo precisa publicarse en el perfil de contratante (**art. 159.2**).",
+   "Es esta. No procede garantía provisional (**art. 159.4.b**).",
+   "No. Basta con estar inscrito en el Registro Oficial; no se exige clasificación en todo caso (**art. 159.4.a**)."
+  ]
+ },
+ "vo-05-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es especialidad. Los licitadores deben estar inscritos en el Registro Oficial (**art. 159.4.a**).",
+   "Es la que NO. El anuncio sí se publica, solo en el perfil de contratante (**art. 159.2**).",
+   "Sí es especialidad. Las proposiciones se presentan únicamente en el registro del anuncio (**art. 159.4.c**).",
+   "Sí es especialidad. No procede garantía provisional (**art. 159.4.b**)."
+  ]
+ },
+ "vo-05-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 22.1.a y 21",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un menor no llega a 15.000 euros (**art. 118.1**).",
+   "No. En el simplificado el valor estimado debe quedar por debajo del umbral armonizado, y 170.000 lo supera en la AGE (**art. 159.1.a**).",
+   "Es esta. En la AGE el umbral de servicios es 140.000, así que 170.000 es de regulación armonizada y puede ir por abierto (**arts. 22.1.a y 156**).",
+   "No. El umbral de 216.000 es el de otras Administraciones. Un Ministerio es AGE (**art. 22.1.a**)."
+  ],
+  "revisar": "Los umbrales (140.000 en la AGE, 216.000 en el resto) cambian cada dos años. Vigentes desde el 1 de enero de 2026."
+ },
+ "vo-05-022": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Un menor de obras llega solo a 40.000 euros (**art. 118.1**).",
+   "No. El sumario exige que todos los criterios sean automáticos, y hay un 20 por ciento de juicio de valor (**art. 159.6.c**).",
+   "Es esta. Obras bajo 2.000.000 con juicio de valor por debajo del 25 por ciento: cabe el simplificado (**art. 159.1**).",
+   "No. No es obligatorio el ordinario: puede usarse el simplificado (**art. 159.1**)."
+  ]
+ },
+ "vo-05-023": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Para obras el tope del sumario es de menos de 80.000 euros (**art. 159.6**).",
+   "Es esta. Servicios por debajo de 60.000 euros y criterios solo por fórmulas (**art. 159.6**).",
+   "No. Hay criterios de juicio de valor, y el sumario solo admite fórmulas, además de que 60.000 no es inferior a 60.000 (**art. 159.6.c**).",
+   "No. 80.000 supera el tope de 60.000 en servicios (**art. 159.6**)."
+  ]
+ },
+ "vo-05-024": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Son cinco días hábiles en compras corrientes (**art. 159.6.a**).",
+   "No. Son cinco días hábiles, no naturales (**art. 159.6.a**).",
+   "No. Son hábiles (**art. 159.6.a**).",
+   "Es esta. Cinco días hábiles para compras corrientes de bienes disponibles en el mercado (**art. 159.6.a**)."
+  ]
+ },
+ "vo-05-025": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En el sumario no se requiere garantía definitiva (**art. 159.6.f**).",
+   "No. No hay garantía del 2 por ciento. No se requiere (**art. 159.6.f**).",
+   "No. La clasificación no es un requisito añadido. De hecho se eximen la solvencia y la clasificación (**art. 159.6.b**).",
+   "Es esta. Se exime de acreditar la solvencia económica y financiera y la técnica o profesional (**art. 159.6.b**)."
+  ]
+ },
+ "vo-05-026": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.g",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En el simplificado no procede garantía provisional (**art. 159.4.b**).",
+   "Es esta. La formalización puede ser la firma de aceptación de la resolución de adjudicación (**art. 159.6.g**).",
+   "No. El plazo no puede ser inferior a diez días hábiles (**art. 159.6.a**).",
+   "No. En el sumario se exime de acreditar solvencia (**art. 159.6.b**)."
+  ]
+ },
+ "vo-05-027": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.f",
+  "correcta": 2,
+  "justificaciones": [
+   "También es especialidad real: se exime de acreditar la solvencia (**art. 159.6.b**). La pregunta admite dos respuestas.",
+   "No. La formalización no se suprime: puede hacerse con la firma de aceptación (**art. 159.6.g**).",
+   "Es esta. No se requiere constitución de garantía definitiva (**art. 159.6.f**).",
+   "No. El plazo es de diez días hábiles, con cinco para compras corrientes (**art. 159.6.a**)."
+  ],
+  "ojo": "Pregunta defectuosa: la 0 (art. 159.6.b) y la 2 (art. 159.6.f) son ambas especialidades reales. Se marca la 2 por ser la que más se pregunta."
+ },
+ "vo-05-028": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 160.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Eso es el procedimiento abierto (**art. 156.1**).",
+   "No. Eso es el negociado: se negocia con los candidatos (**art. 166.1**).",
+   "No. El mínimo de empresarios invitados no puede ser inferior a cinco (**art. 162.2**).",
+   "Es esta. Cualquier empresa interesada presenta una solicitud de participación (**art. 160.1**)."
+  ]
+ },
+ "vo-05-029": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 160",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es característica. Solo presentan proposiciones los seleccionados (**art. 160.2**).",
+   "Es la que NO. En el restringido se presenta solicitud de participación, no una proposición directa. Eso es el abierto (**art. 160.1**).",
+   "Sí es característica. Está prohibida toda negociación (**art. 160.3**).",
+   "Sí es característica. Es especialmente adecuado para servicios intelectuales complejos (**art. 160.4**)."
+  ]
+ },
+ "vo-05-030": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 161.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se cuentan desde la publicación del anuncio, no desde la invitación (**art. 161.3**).",
+   "No. En contratos no armonizados el mínimo es de quince días (**art. 161.3**).",
+   "Es esta. Quince días desde la publicación del anuncio (**art. 161.3**).",
+   "No. El mínimo es de quince días y se cuenta desde la publicación (**art. 161.3**)."
+  ]
+ },
+ "vo-05-031": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 162.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. No puede ser inferior a cinco (**art. 162.2**).",
+   "No. El mínimo es cinco (**art. 162.2**).",
+   "No. El mínimo es cinco (**art. 162.2**).",
+   "No. Tres es el mínimo en la licitación con negociación y el diálogo competitivo (**arts. 169.2 y 174.2**)."
+  ]
+ },
+ "vo-05-032": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 164.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El mínimo es de treinta días (**art. 164.1**).",
+   "Es esta. No inferior a treinta días desde el envío de la invitación (**art. 164.1**).",
+   "No. Quince días es el mínimo en contratos no armonizados (**art. 156.6**).",
+   "No. Treinta y cinco días es el abierto SARA (**art. 156.2**)."
+  ]
+ },
+ "vo-05-033": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 165",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En la adjudicación se aplica el régimen del procedimiento abierto (**art. 165**).",
+   "No. El simplificado tiene su propio régimen (**art. 159**).",
+   "No. El negociado sin publicidad es otro procedimiento (**art. 168**).",
+   "No. La subasta electrónica es una fase del procedimiento (**art. 143**)."
+  ]
+ },
+ "vo-05-034": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 166.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Lo ordinario es el abierto o el restringido (**art. 131.2**).",
+   "No. En los del art. 168 no hay anuncio (**art. 166.3**).",
+   "No. Los aspectos negociables se fijan en el pliego de cláusulas administrativas particulares (**art. 166.2**).",
+   "Es esta. Salvo el art. 168, hay que publicar anuncio de licitación (**art. 166.3**)."
+  ]
+ },
+ "vo-05-035": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 167",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la que NO. Los servicios intelectuales complejos justifican el restringido (**art. 160.4**), no la licitación con negociación (**art. 167**).",
+   "Sí es supuesto. Trabajo previo de diseño o adaptación (**art. 167.a**).",
+   "Sí es supuesto. Ofertas irregulares o inaceptables previas (**art. 167.e**).",
+   "Sí es supuesto. Proyecto o soluciones innovadoras (**art. 167.b**)."
+  ]
+ },
+ "vo-05-036": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 168",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí es supuesto. Contrato secreto o reservado (**art. 168.a.3.º**).",
+   "Sí es supuesto. Compra en mercados organizados de materias primas (**art. 168.c.3.º**).",
+   "Es la que NO. Proyecto o soluciones innovadoras es supuesto de licitación con negociación (**art. 167.b**).",
+   "Sí es supuesto. Suministro de proveedor que cesa en su actividad (**art. 168.c.4.º**)."
+  ]
+ },
+ "vo-05-037": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 169.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El número mínimo de candidatos invitados es de tres (**art. 169.2**).",
+   "Es esta. Al menos tres, si es posible (**art. 169.2**).",
+   "No. El mínimo es tres (**art. 169.2**).",
+   "No. El mínimo es tres (**art. 169.2**)."
+  ],
+  "revisar": "La cifra de tres sale del art. 169.2, que en mi copia del texto aparece cortada. Compruébala en el BOE."
+ },
+ "vo-05-038": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 170.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Si participa un solo candidato, se negocia con él cuando sea posible (**art. 170.2**).",
+   "Es esta. Se tramita con las normas de la licitación con negociación (**art. 169**), salvo la publicidad previa (**art. 170.1**).",
+   "No. Los requisitos mínimos no se negocian (**art. 169.5**).",
+   "No. Los criterios de adjudicación no se negocian (**art. 169.5**)."
+  ]
+ },
+ "vo-05-039": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 168.c.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Eso justifica el restringido o la licitación con negociación (**arts. 160.4 y 167**).",
+   "No. Eso es un supuesto con publicidad (**art. 167.b**).",
+   "No. Eso es un supuesto con publicidad (**art. 167.c**).",
+   "Es esta. Productos fabricados solo para investigación, experimentación, estudio o desarrollo (**art. 168.c.1.º**)."
+  ]
+ },
+ "vo-05-040": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 172.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El mínimo de candidatos invitados es tres (**art. 174.2**).",
+   "No. Las primas pueden establecerse para todos o algunos, no es obligatorio (**art. 173.1**).",
+   "Es esta. Cualquier empresa interesada puede presentar solicitud de participación (**art. 172.2**).",
+   "No. Adjudica el órgano de contratación a propuesta de la mesa especial (**art. 176.4**)."
+  ]
+ },
+ "vo-05-041": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 167.d",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El simplificado y el restringido no están previstos para ese supuesto (**art. 167**).",
+   "No. La asociación para la innovación es para necesidades que no cubre el mercado (**art. 177**).",
+   "Es esta. Licitación con negociación (**art. 167.d**) y diálogo competitivo (**art. 172.3**).",
+   "No. El negociado sin publicidad solo opera en los supuestos tasados del art. 168 (**art. 168**)."
+  ]
+ }
+}

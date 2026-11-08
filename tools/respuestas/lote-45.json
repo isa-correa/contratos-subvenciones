@@ -1,0 +1,473 @@
+{
+ "pr-56-003": {
+  "bloque": "subv-general",
+  "precepto": "art. 8.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: son los principios del art. 8.3: publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación, eficacia y eficiencia.",
+   "Falsa: participación ciudadana, solidaridad, coordinación o solvencia no figuran entre los principios del art. 8.3."
+  ]
+ },
+ "pr-56-004": {
+  "bloque": "subv-general",
+  "precepto": "art. 8.1 LGS y arts. 10 y 11 del Reglamento",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: el plan estratégico lo aprueba cada departamento ministerial para sus subvenciones y las de sus organismos vinculados, no uno por cada Administración.",
+   "Es correcta: los planes prevén un período de tres años, salvo que la naturaleza del sector aconseje otro (art. 11.4 del Reglamento)."
+  ],
+  "revisar": "El detalle del plan por departamento viene del Reglamento (RD 887/2006), que he comprobado por web y no en el texto de la LGS."
+ },
+ "pr-56-005": {
+  "bloque": "subv-general",
+  "precepto": "arts. 13 y 14 del Reglamento",
+  "correcta": 1,
+  "justificaciones": [
+   "Falsa: el informe de seguimiento se emite antes del 30 de abril de cada año, no del 31 de octubre (art. 14.2 del Reglamento).",
+   "Correcta: los planes los aprueban los Ministros responsables y se remiten a la Secretaría de Estado de Hacienda y Presupuestos y a las Cortes Generales (art. 13 del Reglamento)."
+  ],
+  "revisar": "Datos del Reglamento (RD 887/2006), comprobados por web; conviene confirmarlos en el BOE."
+ },
+ "pr-56-006": {
+  "bloque": "subv-general",
+  "precepto": "art. 9.2, 9.3 y 9.4.e",
+  "correcta": 1,
+  "justificaciones": [
+   "Falsa: lo que se publica en el BOE son las propias bases reguladoras (art. 9.3), y el extracto lo es de la convocatoria (art. 23.2).",
+   "Correcta: la aprobación del gasto por el órgano competente es uno de los requisitos para otorgar la subvención (art. 9.4.e)."
+  ]
+ },
+ "pr-56-007": {
+  "bloque": "subv-general",
+  "precepto": "art. 10.1 y 10.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: los presidentes o directores de organismos y entidades públicas dependientes de la AGE son competentes para conceder (art. 10.1).",
+   "Es la incorrecta: la concesión de más de 12 millones requiere la previa autorización del Consejo de Ministros, pero no es competencia suya (art. 10.2)."
+  ]
+ },
+ "pr-56-008": {
+  "bloque": "subv-general",
+  "precepto": "art. 10.3",
+  "correcta": 1,
+  "justificaciones": [
+   "Falsa: la competencia para conceder no lleva aparejada la de aprobar el gasto; la aprobación del gasto es un requisito distinto (arts. 9.4.e y 10.2).",
+   "Correcta: las facultades de conceder pueden desconcentrarse por real decreto acordado en Consejo de Ministros (art. 10.3)."
+  ]
+ },
+ "pr-56-009": {
+  "bloque": "subv-general",
+  "precepto": "art. 11.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: las agrupaciones solo pueden ser beneficiarias cuando lo prevean expresamente las bases reguladoras.",
+   "Es correcta: una agrupación sin personalidad jurídica debe nombrar un representante o apoderado único (art. 11.3)."
+  ]
+ },
+ "pr-56-010": {
+  "bloque": "subv-general",
+  "precepto": "arts. 12.3 y 20",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: comunidades autónomas y corporaciones locales pueden ser entidades colaboradoras de las subvenciones de la AGE (art. 12.3).",
+   "Es la incorrecta: la ley no exige estar inscrita en la BDNS para ser entidad colaboradora."
+  ]
+ },
+ "pr-56-011": {
+  "bloque": "subv-general",
+  "precepto": "art. 13.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Falsa: la prohibición es por residencia fiscal en un paraíso fiscal, no en cualquier país extranjero (art. 13.2.f).",
+   "Correcta: no estar al corriente de obligaciones tributarias o con la Seguridad Social impide ser beneficiario (art. 13.2.e)."
+  ]
+ },
+ "pr-56-012": {
+  "bloque": "subv-general",
+  "precepto": "art. 13.7 y 13.2.h",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la ausencia de prohibiciones puede justificarse mediante testimonio judicial, certificados telemáticos o certificación administrativa (art. 13.7).",
+   "Falsa tal como está: la prohibición del art. 13.2.h exige resolución firme, y el enunciado omite ese requisito."
+  ],
+  "ojo": "La segunda opción parece cierta, pero le falta “firme”. La primera es literal del art. 13.7.",
+  "revisar": "Respuesta elegida por ser literal; la segunda opción es casi idéntica al art. 13.2.h."
+ },
+ "pr-56-013": {
+  "bloque": "subv-general",
+  "precepto": "art. 14.1.d y 14.1.e",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: la comunicación obligatoria se refiere a otras ayudas que financien las mismas actividades subvencionadas, no a las de distinta finalidad (art. 14.1.d).",
+   "Es correcta: hay que acreditar, antes de la propuesta de resolución de concesión, estar al corriente con Hacienda y Seguridad Social (art. 14.1.e)."
+  ]
+ },
+ "pr-56-014": {
+  "bloque": "subv-general",
+  "precepto": "art. 15.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: justificar la entrega de los fondos ante el órgano concedente es obligación de la entidad colaboradora (art. 15.1.c).",
+   "Falsa: cumplir el objetivo que fundamenta la concesión es obligación del beneficiario (art. 14.1.a)."
+  ]
+ },
+ "pr-56-015": {
+  "bloque": "subv-general",
+  "precepto": "art. 16.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el convenio dura como máximo cuatro años y, con prórrogas, no puede pasar de seis (art. 16.2).",
+   "Falsa: la prórroga se acuerda por mutuo acuerdo de las partes antes de que acabe el convenio, no por una autorización escrita del órgano (art. 16.2)."
+  ]
+ },
+ "pr-56-016": {
+  "bloque": "subv-general",
+  "precepto": "art. 17.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: en la AGE las bases se aprueban por orden ministerial, no por acuerdo del Consejo de Ministros.",
+   "Es correcta: las bases fijan los criterios objetivos de otorgamiento y su ponderación (art. 17.3.e)."
+  ]
+ },
+ "pr-56-017": {
+  "bloque": "subv-general",
+  "precepto": "arts. 18.1, 20.8 y 20.9",
+  "correcta": 1,
+  "justificaciones": [
+   "Falsa: la BDNS puede dar información pública sobre sanciones firmes por infracciones muy graves, no por graves y muy graves (art. 20.9).",
+   "Correcta: la BDNS opera como sistema nacional de publicidad de subvenciones (art. 18.1)."
+  ]
+ },
+ "pr-56-018": {
+  "bloque": "subv-general",
+  "precepto": "art. 19.2 y 19.3",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: el importe no puede superar el coste de la actividad subvencionada (art. 19.3).",
+   "Es la incorrecta: la compatibilidad con otras subvenciones para la misma finalidad la regula la normativa reguladora, y no está prohibida en todo caso (art. 19.2)."
+  ]
+ },
+ "pr-56-019": {
+  "bloque": "subv-general",
+  "precepto": "art. 20.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: la responsable de administrar y custodiar la BDNS es la Intervención General de la Administración del Estado, no el Tribunal de Cuentas.",
+   "Es correcta: las administraciones concedentes remiten a la BDNS las convocatorias y las resoluciones de concesión (art. 18.2)."
+  ]
+ },
+ "pr-56-020": {
+  "bloque": "subv-general",
+  "precepto": "art. 18.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: quien debe dar publicidad de las subvenciones percibidas son los beneficiarios, no las entidades colaboradoras (art. 18.3).",
+   "Es correcta: la publicidad se limita cuando afecta al honor o la intimidad de personas físicas y así lo prevé su normativa reguladora."
+  ],
+  "revisar": "La segunda opción reproduce una regla de publicidad que no he podido localizar literal en la LGS; se elige la primera por ser claramente falsa."
+ },
+ "pr-57-001": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el procedimiento ordinario de concesión es la concurrencia competitiva, que compara las solicitudes y las ordena por los criterios de las bases.",
+   "Incorrecta: lo contrario es lo que dice el art. 22.1."
+  ]
+ },
+ "pr-57-002": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: excepcionalmente, si lo prevén las bases, se prorratea el importe global máximo entre los beneficiarios.",
+   "Incorrecta: lo contrario es lo que dice el art. 22.1."
+  ]
+ },
+ "pr-57-003": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 22.2.b",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 22.2.b.",
+   "Correcta: la concesión directa por otorgamiento o cuantía impuestos exige una norma de rango legal, no basta una reglamentaria."
+  ]
+ },
+ "pr-57-004": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.2.k",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la convocatoria indica si la resolución agota la vía administrativa y, si no, ante qué órgano se interpone el recurso de alzada.",
+   "Incorrecta: lo contrario es lo que dice el art. 23.2.k."
+  ]
+ },
+ "pr-57-005": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: presentar la solicitud implica autorizar al órgano gestor a recabar los certificados de la AEAT y de la Tesorería General de la Seguridad Social.",
+   "Incorrecta: lo contrario es lo que dice el art. 23.3."
+  ]
+ },
+ "pr-57-006": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.5",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 23.5.",
+   "Correcta: el plazo de subsanación es de 10 días improrrogables, no de 15."
+  ]
+ },
+ "pr-57-007": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 23.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 23.2.",
+   "Correcta: la convocatoria se publica en la BDNS y su extracto en el BOE, al revés de lo que dice el enunciado."
+  ]
+ },
+ "pr-57-008": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 24.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 24.1.",
+   "Correcta: la instrucción corresponde al órgano que designe la convocatoria, no necesariamente al concedente."
+  ]
+ },
+ "pr-57-009": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 24.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la propuesta de resolución definitiva se notifica a los propuestos como beneficiarios para que comuniquen su aceptación, cuando proceda según las bases.",
+   "Incorrecta: lo contrario es lo que dice el art. 24.5."
+  ]
+ },
+ "pr-57-010": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 24.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las propuestas provisional y definitiva no crean derecho alguno hasta la notificación de la resolución de concesión.",
+   "Incorrecta: lo contrario es lo que dice el art. 24.6."
+  ]
+ },
+ "pr-57-011": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la resolución incluye a los solicitantes a los que se concede y hace constar de forma expresa la desestimación del resto.",
+   "Incorrecta: lo contrario es lo que dice el art. 25.3."
+  ]
+ },
+ "pr-57-012": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 25.4",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 25.4.",
+   "Correcta: el plazo máximo de seis meses se cuenta desde la publicación de la convocatoria, no desde que el interesado presenta su solicitud."
+  ]
+ },
+ "pr-57-013": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 27.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si la propuesta provisional es inferior a lo solicitado y las bases lo prevén, se puede pedir la reformulación de la solicitud.",
+   "Incorrecta: lo contrario es lo que dice el art. 27.1."
+  ]
+ },
+ "pr-57-014": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 28.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 28.1.",
+   "Correcta: el instrumento habitual para las subvenciones nominativas son los convenios, no los contratos."
+  ]
+ },
+ "pr-57-015": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 29.2.",
+   "Correcta: el beneficiario puede subcontratar total o parcialmente cuando la normativa reguladora lo prevea; el enunciado limita a lo parcial."
+  ]
+ },
+ "pr-57-016": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los contratistas quedan obligados solo ante el beneficiario, que asume la total responsabilidad frente a la Administración.",
+   "Incorrecta: lo contrario es lo que dice el art. 29.5."
+  ]
+ },
+ "pr-57-017": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 29.7.a",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 29.7.a.",
+   "Correcta: en ningún caso se puede subcontratar con personas incursas en las prohibiciones del art. 13, aunque lo prevean las bases."
+  ]
+ },
+ "pr-57-018": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 30.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si hubo fondos propios u otras ayudas, hay que acreditar en la justificación su importe, procedencia y aplicación.",
+   "Incorrecta: lo contrario es lo que dice el art. 30.4."
+  ]
+ },
+ "pr-57-019": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.8",
+  "correcta": 1,
+  "justificaciones": [
+   "Incorrecta: lo contrario es lo que dice el art. 31.8.",
+   "Correcta: los tributos sí son gasto subvencionable cuando el beneficiario los abona efectivamente; no lo son los impuestos recuperables ni los personales sobre la renta."
+  ]
+ },
+ "pr-57-020": {
+  "bloque": "subv-concesion",
+  "precepto": "art. 31.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si el gasto supera la cuantía del contrato menor, el beneficiario pide como mínimo tres ofertas antes de comprometer el gasto.",
+   "Incorrecta: lo contrario es lo que dice el art. 31.3."
+  ]
+ },
+ "pr-58-001": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No: esta conducta es una infracción grave según el art. 57.b.",
+   "Correcta: alterar sustancialmente los fines de la subvención incumpliendo sus condiciones es infracción grave.",
+   "No: esta conducta es una infracción grave según el art. 57.b."
+  ]
+ },
+ "pr-58-002": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 56.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los incumplimientos de índole contable o registral son infracciones leves.",
+   "No: esta conducta es una infracción leve según el art. 56.d.",
+   "No: esta conducta es una infracción leve según el art. 56.d."
+  ]
+ },
+ "pr-58-003": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 56.a y 56.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: presentar fuera de plazo o de forma inexacta o incompleta las cuentas justificativas es infracción leve.",
+   "No: esta conducta es una infracción leve según el art. 56.a y 56.b.",
+   "No: esta conducta es una infracción leve según el art. 56.a y 56.b."
+  ]
+ },
+ "pr-58-004": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 58.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No: esta conducta es una infracción muy grave según el art. 58.b.",
+   "No: esta conducta es una infracción muy grave según el art. 58.b.",
+   "Correcta: no aplicar, total o parcialmente, las cantidades recibidas a los fines de la subvención es infracción muy grave."
+  ]
+ },
+ "pr-58-005": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.e",
+  "correcta": 1,
+  "justificaciones": [
+   "No: esta conducta es una infracción grave según el art. 57.e.",
+   "Correcta: que la entidad colaboradora no verifique las condiciones, cuando de ello se derive reintegro, es infracción grave.",
+   "No: esta conducta es una infracción grave según el art. 57.e."
+  ]
+ },
+ "pr-58-006": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 58.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No: esta conducta es una infracción muy grave según el art. 58.c.",
+   "No: esta conducta es una infracción muy grave según el art. 58.c.",
+   "Correcta: la resistencia al control que impide verificar el empleo de los fondos es infracción muy grave."
+  ]
+ },
+ "pr-58-007": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.d",
+  "correcta": 1,
+  "justificaciones": [
+   "No: esta conducta es una infracción grave según el art. 57.d.",
+   "Correcta: obtener la condición de entidad colaboradora falseando los requisitos es infracción grave.",
+   "No: esta conducta es una infracción grave según el art. 57.d."
+  ]
+ },
+ "pr-58-008": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.f",
+  "correcta": 1,
+  "justificaciones": [
+   "No: esta conducta es una infracción grave según el art. 57.f.",
+   "Correcta: no suministrar información a la BDNS es infracción grave.",
+   "No: esta conducta es una infracción grave según el art. 57.f."
+  ]
+ },
+ "pr-58-009": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 58.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: esta conducta es una infracción muy grave según el art. 58.a.",
+   "No: esta conducta es una infracción muy grave según el art. 58.a.",
+   "Correcta: obtener una subvención falseando las condiciones o ocultando las que lo impedían es infracción muy grave."
+  ]
+ },
+ "pr-58-010": {
+  "bloque": "subv-sanciones",
+  "precepto": "art. 57.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No: esta conducta es una infracción grave según el art. 57.c.",
+   "Correcta: no justificar el empleo de los fondos una vez vencido el plazo es infracción grave.",
+   "No: esta conducta es una infracción grave según el art. 57.c."
+  ]
+ },
+ "pr-59-001": {
+  "bloque": "subv-general",
+  "precepto": "art. 11.4 del Reglamento",
+  "correcta": 3,
+  "justificaciones": [
+   "No: un año no es el período de vigencia de los planes estratégicos.",
+   "No: seis meses tampoco es el período de vigencia de los planes.",
+   "No: cuatro años no es el período, que son tres.",
+   "Correcta: los planes estratégicos prevén un período de vigencia de tres años, salvo que el sector aconseje otro (art. 11.4 del Reglamento)."
+  ],
+  "revisar": "Dato del Reglamento (RD 887/2006), comprobado por web."
+ },
+ "pr-59-002": {
+  "bloque": "subv-general",
+  "precepto": "art. 14.2 del Reglamento",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 31 de octubre no es la fecha del informe de seguimiento.",
+   "Correcta: el informe sobre el grado de avance del plan se emite antes del 30 de abril de cada año (art. 14.2 del Reglamento).",
+   "No: el 31 de diciembre no es la fecha del informe de seguimiento.",
+   "No: el 30 de septiembre no es la fecha del informe de seguimiento."
+  ],
+  "revisar": "Dato del Reglamento (RD 887/2006), comprobado por web."
+ }
+}

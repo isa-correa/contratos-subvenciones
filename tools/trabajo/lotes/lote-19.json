@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "of-08-003",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 3,
+   "enunciado": "De acuerdo con la Ley 38/2003, de 17 de noviembre, quedan incluidas dentro del ámbito de la Ley:",
+   "opciones": [
+    "Las subvenciones por ayudas sociales otorgadas por un Ayuntamiento.",
+    "La subvención otorgada a un grupo parlamentario del Congreso de las Diputados.",
+    "Las subvenciones previstas en la Ley Orgánica 5/1985, de 19 de junio, para el Régimen Electoral General.",
+    "Los premios que se otorgan sin solicitud del beneficiario."
+   ]
+  },
+  {
+   "id": "of-08-004",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 4,
+   "enunciado": "Señale la afirmación correcta. De acuerdo la Ley 38/2003, la subvención es un instrumento de la actividad administrativa:",
+   "opciones": [
+    "De servicio público.",
+    "Arbitral.",
+    "De limitación.",
+    "De fomento."
+   ]
+  },
+  {
+   "id": "of-08-005",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 5,
+   "enunciado": "Conforme a la LGS, ¿cuál de las siguientes subvenciones está incluida dentro de la aplicación de esta Ley?",
+   "opciones": [
+    "Los premios que se otorguen sin la previa solicitud del beneficiario.",
+    "Las subvenciones previstas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.",
+    "Las previstas nominativamente en los Presupuestos Generales del Estado.",
+    "Las subvenciones a los grupos parlamentarios de las Cámaras de las Cortes Generales."
+   ]
+  },
+  {
+   "id": "of-08-006",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 6,
+   "enunciado": "Indique la afirmación correcta en relación con el concepto de subvención y el ámbito de aplicación de la Ley 38/2003:",
+   "opciones": [
+    "La entrega ha de estar sujeta al cumplimiento de un determinado objetivo, ya realizado a fecha de la convocatoria.",
+    "Tienen carácter de subvención las prestaciones no contributivas del Sistema de la Seguridad Social.",
+    "Están excluidas del ámbito de aplicación de la Ley los premios que se otorguen a solicitud del beneficiario.",
+    "No tienen carácter de subvención las prestaciones reconocidas por el Fondo de Garantía Salarial."
+   ]
+  },
+  {
+   "id": "of-08-007",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 7,
+   "enunciado": "Quedan incluidos en el ámbito de aplicación de la Ley 38/2003, de 17 de noviembre, General de Subvenciones:",
+   "opciones": [
+    "Los premios que se otorguen previa solicitud del beneficiario.",
+    "Las subvenciones previstas en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.",
+    "Las subvenciones reguladas en la Ley Orgánica 3/1987, de 2 de julio, de Financiación de los Partidos Políticos.",
+    "Las subvenciones a los grupos parlamentarios de las Cámaras de las Cortes Generales."
+   ]
+  },
+  {
+   "id": "of-08-008",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 8,
+   "enunciado": "Según la Ley General de Subvenciones, ¿qué régimen jurídico le será de aplicación a una subvención concedida por el Estado a agricultores afectados por la sequía en la comunidad autónoma de Madrid?",
+   "opciones": [
+    "Las normas de derecho privado en todo caso.",
+    "El derecho autonómico, dado que las subvenciones van dirigidas a varias Comunidades Autónomas.",
+    "El derecho privado y las restantes normas de desarrollo y, en su defecto, el derecho administrativo.",
+    "Ley General de Subvenciones y sus disposiciones de desarrollo, las restantes normas de derecho administrativo y, en su defecto, las normas de derecho privado."
+   ]
+  },
+  {
+   "id": "of-08-009",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 9,
+   "enunciado": "Las subvenciones a los grupos parlamentarios de las Cámaras de las Cortes Generales, según la Ley 38/2003, ¿están incluidas en el ámbito de aplicación?",
+   "opciones": [
+    "Están explícitamente excluidas del ámbito de aplicación.",
+    "Están explícitamente incluidas en el ámbito de aplicación.",
+    "No tienen acceso a ningún tipo de subvenciones, si bien la Ley permite el acceso a los grupos parlamentarios de las cámaras regionales.",
+    "Están explícitamente incluidas sólo las de los grupos con representación en más de la mitad de las Comunidades Autónomas."
+   ]
+  },
+  {
+   "id": "of-08-010",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 10,
+   "enunciado": "Según el artículo 2.4 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, no tienen carácter de subvenciones:",
+   "opciones": [
+    "Las otorgadas como consecuencia de la Política Agrícola Común.",
+    "Las que financien proyectos relacionados con la ciencia y la tecnología.",
+    "Los beneficios fiscales y beneficios en la cotización a la Seguridad Social.",
+    "Las destinadas a fomentar actividades de interés social."
+   ]
+  },
+  {
+   "id": "of-08-011",
+   "origen": "oficiales",
+   "test": "Tema 5 (1) - LGS (arts 1 a 6)",
+   "n": 11,
+   "enunciado": "Según el artículo 6 de la Ley 38/2003, ¿cuál de las siguientes afirmaciones sobre las subvenciones financiadas con cargo a fondos de la Unión Europea es correcta?",
+   "opciones": [
+    "Se rigen por la Ley General de Subvenciones y, en su defecto, por el derecho privado nacional.",
+    "Se rigen por las normas comunitarias aplicables y las normas nacionales de desarrollo o transposición, siendo la Ley General de Subvenciones de aplicación supletoria respecto de las normas de aplicación directa de la Unión Europea.",
+    "Se rigen exclusivamente por la normativa nacional de desarrollo o transposición de las normas comunitarias aplicables.",
+    "Los procedimientos de concesión y control de la Ley General de Subvenciones tienen carácter preferente sobre las normas comunitarias de aplicación directa."
+   ]
+  },
+  {
+   "id": "of-09-001",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 1,
+   "enunciado": "Será requisito para la percepción de ayudas y subvenciones con cargo a los Presupuestos Generales del Estado el cumplimiento, por parte de los beneficiarios:",
+   "opciones": [
+    "Solo de sus obligaciones tributarias.",
+    "Solo de sus obligaciones frente a la Seguridad Social.",
+    "De sus obligaciones tributarias y frente a la Seguridad Social.",
+    "No necesitan acreditar cumplimiento alguno."
+   ]
+  },
+  {
+   "id": "of-09-002",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 2,
+   "enunciado": "En relación con la competencia para conceder subvenciones, de acuerdo con la Ley General de Subvenciones:",
+   "opciones": [
+    "Está atribuida exclusivamente al Ministro, aunque puede ser desconcentrada por Orden Ministerial.",
+    "Está atribuida a Ministro o Secretario de Estado, además de Presidentes o Directores de Organismos Públicos.",
+    "Está atribuida al Consejo de Ministros en aquellos casos en los que el valor de la subvención supere los seis millones de euros.",
+    "La LGS no hace referencia a la competencia para otorgarlas, por lo que se aplica supletoriamente la LCSP."
+   ]
+  },
+  {
+   "id": "of-09-003",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 3,
+   "enunciado": "Las subvenciones concedidas por las Administraciones Públicas deberán, con carácter general, publicarse en la BDNS. Dicha publicación no procederá, sin embargo, en el siguiente supuesto:",
+   "opciones": [
+    "Cuando la publicación de los datos del beneficiario en razón del objeto de la subvención pueda ser contraria al respeto y salvaguarda del honor de las personas físicas.",
+    "Si se ha concedido la subvención por el procedimiento de concurrencia competitiva.",
+    "Si se trata de ayudas públicas cofinanciadas con Fondos Estructurales.",
+    "Si los beneficiarios son personas físicas."
+   ]
+  },
+  {
+   "id": "of-09-004",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 4,
+   "enunciado": "La Ley 38/2003, General de Subvenciones, determina que para poder otorgar una subvención:",
+   "opciones": [
+    "Deben aprobarse, con carácter previo a su otorgamiento, las normas que establezcan las bases reguladoras de la concesión.",
+    "Debe publicarse en el BOE la existencia de crédito adecuado y suficiente para su concesión.",
+    "Se aprobarán las bases reguladoras cuando se hayan fiscalizado los actos de contenido económico.",
+    "Deben aprobarse las bases reguladoras, una vez se ha tramitado el procedimiento de concesión."
+   ]
+  },
+  {
+   "id": "of-09-005",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 5,
+   "enunciado": "Según la LGS, ¿qué órganos son competentes para la concesión de subvenciones en la AGE?",
+   "opciones": [
+    "Los Subdirectores generales de los Organismos Públicos con autorización previa del Presidente o Director correspondiente.",
+    "Los Ministros y los Secretarios de Estado y los Presidentes o Directores de los Organismos Públicos.",
+    "Los Subsecretarios y Directores Generales de los Departamentos Ministeriales en el ámbito de sus competencias.",
+    "Solamente el Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "of-09-006",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 6,
+   "enunciado": "Conforme a la Ley 38/2003, ¿cuál es el órgano responsable de la administración y custodia de la Base de Datos Nacional de Subvenciones?",
+   "opciones": [
+    "La Dirección General de Presupuestos.",
+    "La Subsecretaría del Ministerio Política Territorial y Función Pública.",
+    "La Intervención General de la Administración del Estado.",
+    "La Dirección General de Fondos Europeos."
+   ]
+  },
+  {
+   "id": "of-09-007",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 7,
+   "enunciado": "De conformidad con la Ley General de Subvenciones, el beneficiario de una subvención:",
+   "opciones": [
+    "Ha de ser una persona jurídica necesariamente, ya que las personas físicas reciben ayudas, no subvenciones.",
+    "Puede ser una persona física o jurídica.",
+    "Puede ser solo una persona física.",
+    "Solo podrá ser una persona física en el caso de que la entidad colaboradora sea una persona jurídica."
+   ]
+  },
+  {
+   "id": "of-09-008",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 8,
+   "enunciado": "De conformidad con el artículo 10 de la Ley 38/2003, son órganos competentes para la concesión de subvenciones:",
+   "opciones": [
+    "La Comisión Delegada del Gobierno para asuntos económicos.",
+    "El Consejo de Ministros.",
+    "Los Ministros y Secretarios de Estado.",
+    "Los Directores Generales."
+   ]
+  },
+  {
+   "id": "of-09-009",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 9,
+   "enunciado": "Según el artículo 10 de la LGS, en un organismo autónomo, ¿quién es la autoridad competente para conceder una subvención de cuantía superior a 12 millones de euros?",
+   "opciones": [
+    "El titular del Departamento ministerial, con autorización del Consejo de Ministros.",
+    "El Presidente o Director, con autorización del titular del Departamento ministerial.",
+    "El Consejo de Ministros.",
+    "El Presidente o Director del organismo autónomo, con autorización del Consejo de Ministros."
+   ]
+  },
+  {
+   "id": "of-09-010",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 10,
+   "enunciado": "Conforme a la Ley General de Subvenciones, no podrán obtener la condición de beneficiario de una subvención:",
+   "opciones": [
+    "Los que hayan dado lugar, por causa de la que hubiesen sido declarados culpables, a la resolución firme de cualquier contrato celebrado con la Administración.",
+    "Los que tengan la residencia fiscal fuera de España.",
+    "Los sancionados mediante resolución con la pérdida de la posibilidad de obtener subvenciones, aun cuando dicha resolución no sea firme.",
+    "Los condenados mediante sentencia a la pérdida de la posibilidad de obtener ayudas, aun cuando dicha sentencia no sea firme."
+   ]
+  },
+  {
+   "id": "of-09-011",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 11,
+   "enunciado": "De acuerdo con la LGS, no tienen atribuida la competencia para la concesión de subvenciones:",
+   "opciones": [
+    "Los Ministros.",
+    "Los Presidentes o Directores de Organismos Autónomos.",
+    "Los Subsecretarios.",
+    "Los Secretarios de Estado."
+   ]
+  },
+  {
+   "id": "of-09-012",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 12,
+   "enunciado": "Conforme al artículo 10 de la LGS, la competencia para la concesión de subvenciones corresponde a:",
+   "opciones": [
+    "Los Secretarios Generales Técnicos.",
+    "El Consejo de Ministros cuando la cuantía sea superior a 12 millones de euros.",
+    "Los Directores Generales.",
+    "Los Ministros y Secretarios de Estado."
+   ]
+  },
+  {
+   "id": "of-09-013",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 13,
+   "enunciado": "De conformidad con lo previsto en la Ley 38/2003, requerirá la previa autorización del Consejo de Ministros o, en su caso, de la Comisión Delegada del Gobierno para Asuntos Económicos, la concesión de subvenciones de cuantía superior a:",
+   "opciones": [
+    "Quince millones de euros.",
+    "Doce millones de euros.",
+    "Diez millones de euros.",
+    "Veinte millones de euros."
+   ]
+  },
+  {
+   "id": "of-09-014",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 14,
+   "enunciado": "Conforme al artículo 10 de la LGS, la concesión de subvenciones en cuantía superior a 12 millones de euros requerirá la previa autorización de:",
+   "opciones": [
+    "La Comisión Delegada del Gobierno para Asuntos Económicos o, cuando así lo establezca la normativa de la subvención, del Consejo de Ministros.",
+    "El Consejo de Ministros y la Comisión Delegada del Gobierno para Asuntos Económicos.",
+    "El Consejo de Ministros o, cuando así lo establezca la normativa reguladora, de la Comisión Delegada del Gobierno para Asuntos Económicos.",
+    "El Consejo de Ministros, cuando así lo establezca la normativa reguladora de la subvención."
+   ]
+  },
+  {
+   "id": "of-09-015",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 15,
+   "enunciado": "Conforme a la LGS, ¿cuál de los siguientes es un órgano competente para la concesión de subvenciones en la AGE?",
+   "opciones": [
+    "Los Subdirectores Generales.",
+    "La Comisión Delegada del Gobierno para Asuntos Económicos.",
+    "Los Secretarios de Estado.",
+    "La Comisión General de Secretarios de Estado y Subsecretarios."
+   ]
+  },
+  {
+   "id": "of-09-016",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 16,
+   "enunciado": "¿Cuál de los siguientes NO es uno de los requisitos enumerados en el artículo 9 de la LGS?",
+   "opciones": [
+    "La comunicación posterior al Tribunal de Cuentas.",
+    "La fiscalización previa de los actos administrativos de contenido económico.",
+    "La aprobación del gasto.",
+    "La existencia de crédito adecuado y suficiente."
+   ]
+  },
+  {
+   "id": "of-09-017",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 17,
+   "enunciado": "Conforme a la LGS, ¿cuál de los siguientes NO es un requisito que debe cumplir el otorgamiento de una subvención?",
+   "opciones": [
+    "La audiencia pública.",
+    "La tramitación del procedimiento de concesión de acuerdo con las normas que resulten de aplicación.",
+    "La competencia del órgano administrativo concedente.",
+    "La existencia de crédito adecuado y suficiente para atender las obligaciones económicas derivadas de la concesión."
+   ]
+  },
+  {
+   "id": "of-09-018",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 18,
+   "enunciado": "El plan en el que se concretan los objetivos y efectos que se pretenden con las subvenciones a otorgar por un Departamento Ministerial, el plazo necesario para su consecución, los costes previsibles y sus fuentes de financiación, se denomina:",
+   "opciones": [
+    "Plan anual de subvenciones.",
+    "Plan estratégico de subvenciones.",
+    "Plan trienal de subvenciones.",
+    "Plan plurianual de subvenciones."
+   ]
+  },
+  {
+   "id": "of-09-019",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 19,
+   "enunciado": "Según establece el artículo 20 de la Ley 38/2003, ¿quién es el órgano responsable de la administración y custodia de la Base de Datos Nacional de Subvenciones (BDNS)?",
+   "opciones": [
+    "Intervención General de la Administración del Estado.",
+    "Secretaría de Estado de Hacienda.",
+    "Agencia Estatal de Administración Tributaria.",
+    "Ninguna de las respuestas anteriores es correcta."
+   ]
+  },
+  {
+   "id": "of-09-020",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 20,
+   "enunciado": "La aprobación de las bases reguladoras de las subvenciones, a nivel estatal, se lleva a cabo por:",
+   "opciones": [
+    "Real Decreto del Consejo de Ministros.",
+    "Orden Ministerial.",
+    "Resolución, o en su caso, instrucción.",
+    "Ley Orgánica."
+   ]
+  },
+  {
+   "id": "of-09-021",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 21,
+   "enunciado": "De acuerdo con el artículo 10 de la Ley 38/2003, ¿quién tiene la competencia para la concesión de una subvención de cuantía de 10 millones de euros en un Organismo Autónomo?",
+   "opciones": [
+    "El Presidente o Director del Organismo Autónomo, sin que esta competencia pueda ser objeto de desconcentración.",
+    "El Presidente o Director del Organismo Autónomo previa autorización del Consejo de Ministros, sin que esta competencia pueda ser objeto de desconcentración.",
+    "El Presidente o Director del Organismo Autónomo; esta competencia podrá ser objeto de desconcentración.",
+    "El Presidente o Director del Organismo Autónomo previa autorización del Consejo de Ministros; esta competencia podrá ser objeto de desconcentración."
+   ]
+  },
+  {
+   "id": "of-09-022",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 22,
+   "enunciado": "Según lo dispuesto en el artículo 20 de la Ley 38/2003, ¿cuál de los siguientes es el órgano responsable de la administración y custodia de la Base de Datos Nacional de Subvenciones?",
+   "opciones": [
+    "El Ministerio de Hacienda.",
+    "La Intervención General de la Administración del Estado.",
+    "El Ministerio de Economía, Comercio y Empresa.",
+    "La Autoridad Independiente de Responsabilidad Fiscal."
+   ]
+  },
+  {
+   "id": "of-09-023",
+   "origen": "oficiales",
+   "test": "Tema 5 (2) - LGS (arts 8 a 21)",
+   "n": 23,
+   "enunciado": "De acuerdo con el artículo 10.3 de la Ley 38/2003, ¿qué facultades podrán ser objeto de desconcentración mediante real decreto acordado en Consejo de Ministros?",
+   "opciones": [
+    "Las facultades para conceder subvenciones.",
+    "La autorización del Consejo de Ministros para conceder subvenciones de cuantía superior a 12 millones de euros.",
+    "La aprobación del gasto correspondiente a la subvención.",
+    "La competencia para conceder subvenciones en las corporaciones locales."
+   ]
+  },
+  {
+   "id": "of-10-001",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 1,
+   "enunciado": "Si las bases reguladoras permitieran la subcontratación de las actividades subvencionadas sin establecer límites cuantitativos, ¿qué porcentaje NO podrá superar?",
+   "opciones": [
+    "El 20 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos.",
+    "El 30 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos.",
+    "El 40 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos.",
+    "El 50 % del importe de la actividad subvencionada, sumando los precios de todos los subcontratos."
+   ]
+  },
+  {
+   "id": "of-10-002",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 2,
+   "enunciado": "Según el artículo 22 de la Ley 38/2003, el procedimiento ordinario de concesión de subvenciones se tramitará en régimen de:",
+   "opciones": [
+    "Concesión directa.",
+    "Concurrencia competitiva.",
+    "Concesión indirecta.",
+    "Concurrencia no competitiva."
+   ]
+  },
+  {
+   "id": "of-10-003",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 3,
+   "enunciado": "Según el artículo 23 de la LGS, el procedimiento de concesión en régimen de concurrencia competitiva se inicia:",
+   "opciones": [
+    "Siempre de oficio.",
+    "Siempre a instancia de parte.",
+    "De oficio o a instancia de parte.",
+    "No existe este tipo de procedimiento de concesión."
+   ]
+  },
+  {
+   "id": "of-10-004",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 4,
+   "enunciado": "El vencimiento del plazo máximo sin haberse notificado la resolución de concesión de la subvención legitima a los interesados:",
+   "opciones": [
+    "Para entender desestimada su pretensión por silencio administrativo.",
+    "Para entender estimada su pretensión por silencio administrativo.",
+    "Para considerar prescrito su derecho.",
+    "Para considerar caducado el procedimiento."
+   ]
+  },
+  {
+   "id": "of-10-005",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 5,
+   "enunciado": "De acuerdo con la Ley 38/2003, ¿qué tipo de subvenciones podrán concederse de forma directa?",
+   "opciones": [
+    "Las de concurrencia competitiva.",
+    "Las previstas nominativamente en los Presupuestos Generales del Estado, Comunidades Autónomas o Entidades Locales.",
+    "Aquellas cuyo otorgamiento o cuantía venga impuesto a la Administración por una norma con rango inferior a la ley.",
+    "A propuesta del Ministro de Hacienda, aquellas en que se acrediten razones de interés presupuestario."
+   ]
+  },
+  {
+   "id": "of-10-006",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 6,
+   "enunciado": "Según la LGS, en una subvención quedarán exonerados de la constitución de garantía:",
+   "opciones": [
+    "Los beneficiarios de subvenciones concedidas por importe inferior a 3.000 €.",
+    "Las entidades obligadas por ley a la presentación de fianzas o depósitos ante las Administraciones Públicas.",
+    "Las entidades lucrativas que desarrollen proyectos o programas de acción social y cooperación internacional.",
+    "No existen supuestos que exoneren de la obligación de constituir garantía."
+   ]
+  },
+  {
+   "id": "of-10-007",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 7,
+   "enunciado": "De conformidad con el artículo 30.2 de la LGS, el plazo de rendición de la cuenta justificativa será el que determinen las bases reguladoras y en su defecto se realizará, como máximo, en el plazo de:",
+   "opciones": [
+    "Un mes desde la finalización del plazo para la realización de la actividad.",
+    "Dos meses desde la finalización del plazo para la realización de la actividad.",
+    "Tres meses desde la finalización del plazo para la realización de la actividad.",
+    "Seis meses desde la finalización del plazo para la realización de la actividad."
+   ]
+  },
+  {
+   "id": "of-10-008",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 8,
+   "enunciado": "De acuerdo con la LGS, ¿cómo se tramitará el procedimiento ordinario de concesión de subvenciones?",
+   "opciones": [
+    "Mediante la concesión directa a través de Real Decreto.",
+    "Mediante la concesión nominativa a través de Real Decreto.",
+    "En régimen de concurrencia competitiva.",
+    "Mediante la concesión nominativa en los Presupuestos Generales del Estado."
+   ]
+  },
+  {
+   "id": "of-10-009",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 9,
+   "enunciado": "¿A través de qué instrumento debe canalizarse una subvención nominativa?",
+   "opciones": [
+    "Un convenio.",
+    "Un contrato privado.",
+    "Un contrato de servicios.",
+    "Una encomienda de gestión."
+   ]
+  },
+  {
+   "id": "of-10-010",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 10,
+   "enunciado": "De acuerdo con el artículo 23 de la LGS, señale cuál de los siguientes aspectos NO es un contenido necesario de la convocatoria de subvenciones:",
+   "opciones": [
+    "Objeto, condiciones y finalidad de la concesión de la subvención.",
+    "Plazo de resolución y notificación.",
+    "Identificación de los empleados públicos responsables de la tramitación de las solicitudes.",
+    "Criterios de valoración de las solicitudes."
+   ]
+  },
+  {
+   "id": "of-10-011",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 11,
+   "enunciado": "De acuerdo con la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se considera gasto subvencionable:",
+   "opciones": [
+    "Los gastos financieros, de asesoría jurídica o financiera, los notariales, registrales y periciales, en todo caso.",
+    "Los impuestos indirectos aun cuando sean susceptibles de recuperación o compensación.",
+    "Los impuestos personales sobre la renta.",
+    "Con carácter excepcional, los gastos de garantía bancaria cuando así lo prevea la normativa reguladora de la subvención."
+   ]
+  },
+  {
+   "id": "of-10-012",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 12,
+   "enunciado": "De acuerdo con la Ley 38/2003, de 17 de noviembre, General de Subvenciones las subvenciones reguladas por esta ley:",
+   "opciones": [
+    "Podrán adjudicarse directamente cuando se acrediten razones excepcionales de interés público que dificulten su convocatoria.",
+    "Solo pueden adjudicarse directamente si existe causa excepcional de utilidad pública o interés social debidamente justificada.",
+    "Solo pueden adjudicarse directamente las previstas en los presupuestos de la Administración correspondiente.",
+    "Solo pueden adjudicarse directamente las sometidas al régimen especial para subvenciones de cooperación internacional."
+   ]
+  },
+  {
+   "id": "of-10-013",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 13,
+   "enunciado": "Según la Ley 38/2003, el plazo máximo para resolver y notificar la resolución del procedimiento de concesión en régimen de concurrencia competitiva será de:",
+   "opciones": [
+    "3 meses.",
+    "6 meses.",
+    "1 mes.",
+    "15 días."
+   ]
+  },
+  {
+   "id": "of-10-014",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 14,
+   "enunciado": "Según la Ley 38/2003, de 17 de noviembre, General de Subvenciones, en ningún caso serán gastos subvencionables:",
+   "opciones": [
+    "Los gastos financieros.",
+    "Los gastos de asesoría jurídica o financiera.",
+    "Los gastos notariales y registrales.",
+    "Los gastos de procedimientos judiciales."
+   ]
+  },
+  {
+   "id": "of-10-015",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 15,
+   "enunciado": "Según la Ley General de Subvenciones, deben concederse por concurrencia competitiva:",
+   "opciones": [
+    "Las subvenciones con asignación nominal en los Presupuestos Generales del Estado.",
+    "Las subvenciones de cuantía impuesta por una norma de rango legal.",
+    "Las subvenciones que se concedan con criterios de valoración previamente fijados.",
+    "Las subvenciones que se justifiquen por razones de interés social."
+   ]
+  },
+  {
+   "id": "of-10-016",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 16,
+   "enunciado": "Según la LGS, con carácter previo a la convocatoria de la subvención o a la concesión directa de la misma, deberá realizarse:",
+   "opciones": [
+    "El compromiso del gasto.",
+    "La autorización del gasto.",
+    "La aprobación del gasto.",
+    "La aprobación y el compromiso del gasto."
+   ]
+  },
+  {
+   "id": "of-10-017",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 17,
+   "enunciado": "Dentro del proceso de concesión de una subvención, quedan exonerados de constituir garantía, salvo previsión en contrario:",
+   "opciones": [
+    "Las personas o entidades cuyo domicilio se encuentre radicado fuera del territorio nacional.",
+    "Las entidades que por ley estén exentos de la presentación de cauciones o depósitos ante las Administraciones Públicas.",
+    "Los beneficiarios de subvenciones concedidas por importe inferior a 5.000 euros.",
+    "Las sociedades mercantiles y las fundaciones del sector privado."
+   ]
+  },
+  {
+   "id": "of-10-018",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 18,
+   "enunciado": "Indique cuál de las siguientes afirmaciones es correcta en relación con la concesión de subvenciones, a los efectos de la LGS:",
+   "opciones": [
+    "Se prohíbe expresamente la concesión de subvenciones de forma nominativa en los Presupuestos Generales del Estado.",
+    "El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concesión directa.",
+    "Con carácter excepcional, se podrán conceder directamente aquellas subvenciones en las que se acrediten razones justificadas que dificulten su convocatoria pública.",
+    "Las bases reguladoras no podrán prever que el órgano competente proceda al prorrateo del importe global máximo."
+   ]
+  }
+ ]
+}

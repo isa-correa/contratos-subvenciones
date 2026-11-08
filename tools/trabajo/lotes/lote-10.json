@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-14-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 14,
+   "enunciado": "Cuando concurra dos licitadores, se considerarán, en principio, desproporcionadas o temerarias las ofertas que sean:",
+   "opciones": [
+    "Inferiores al presupuesto base de licitación en más de 25 unidades porcentuales.",
+    "Inferiores en más de 20 unidades porcentuales a la otra oferta.",
+    "Inferiores en más de 15 unidades porcentuales a la media aritmética de las ofertas presentadas.",
+    "Inferiores en más de 10 unidades porcentuales a la media aritmética de las ofertas presentadas."
+   ]
+  },
+  {
+   "id": "au-14-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 15,
+   "enunciado": "Identificar las ofertas que se encuentran incursas en presunción de anormalidad corresponde, de acuerdo con la LCSP a:",
+   "opciones": [
+    "El órgano de contratación, en todo caso.",
+    "La mesa de contratación, o en su defecto, el órgano de contratación.",
+    "El responsable del contrato.",
+    "El órgano de contratación, o en su defecto, la mesa de contratación."
+   ]
+  },
+  {
+   "id": "au-14-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 16,
+   "enunciado": "En contratos sujetos a regulación armonizada, ¿de qué plazo dispone la Comisión Nacional de los Mercados y la Competencia para emitir informe sobre el carácter de los indicios de conductas colusorias apreciados por el órgano de contratación?",
+   "opciones": [
+    "5 días hábiles.",
+    "10 días hábiles.",
+    "15 días hábiles.",
+    "20 días hábiles."
+   ]
+  },
+  {
+   "id": "au-14-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 17,
+   "enunciado": "De no cumplimentarse adecuadamente por el licitador que presentó la mejor oferta el requerimiento de haber constituido la garantía definitiva que proceda, se entenderá que ha retirado su oferta, procediéndose a exigirle en concepto de penalidad:",
+   "opciones": [
+    "El importe del 3 por ciento del importe de adjudicación, IVA excluido.",
+    "El importe del 5 por ciento del importe de adjudicación, IVA excluido.",
+    "El importe del 5 por ciento del presupuesto base de licitación, IVA excluido.",
+    "El importe del 3 por ciento del presupuesto base de licitación, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-14-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 18,
+   "enunciado": "Si un contrato no es susceptible de recurso especial en materia de contratación, la formalización deberá efectuarse:",
+   "opciones": [
+    "No más tarde de los quince días hábiles siguientes a aquel en que se realice la notificación de la adjudicación.",
+    "No más tarde de los diez días hábiles siguientes a aquel en que se realice la notificación de la adjudicación.",
+    "No antes de los quince días hábiles siguientes a aquel en que se realice la notificación de la adjudicación.",
+    "No antes de los diez días hábiles siguientes a aquel en que se realice la notificación de la adjudicación."
+   ]
+  },
+  {
+   "id": "au-14-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 19,
+   "enunciado": "Cuando por causas imputables al adjudicatario no se hubiese formalizado el contrato dentro del plazo indicado se le exigirá, en concepto de penalidad:",
+   "opciones": [
+    "El importe del 3 por ciento del presupuesto base de licitación, IVA excluido.",
+    "El importe del 5 por ciento del presupuesto base de licitación, IVA excluido.",
+    "El importe del 5 por ciento del importe de adjudicación, IVA excluido.",
+    "El importe del 3 por ciento del importe de adjudicación, IVA excluido."
+   ]
+  },
+  {
+   "id": "au-14-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (14) LCSP (arts. 149 a 155)",
+   "n": 20,
+   "enunciado": "La formalización de los contratos deberá publicarse en el perfil de contratante del órgano de contratación:",
+   "opciones": [
+    "En un plazo no superior a quince días tras su adjudicación.",
+    "En un plazo no superior a diez días tras el perfeccionamiento del mismo.",
+    "En un plazo no superior a diez días tras su adjudicación.",
+    "En un plazo no superior a quince días tras el perfeccionamiento del mismo."
+   ]
+  },
+  {
+   "id": "au-15-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 1,
+   "enunciado": "¿Cuándo se puede utilizar el procedimiento abierto simplificado, regulado en la LCSP?",
+   "opciones": [
+    "En todos los contratos de suministros.",
+    "En los contratos de obras cuyo valor estimado sea superior a 2.000.000 euros.",
+    "En los contratos de servicios cuyo valor estimado sea inferior a 140.000 euros.",
+    "En los contratos de obras cuyo presupuesto base de licitación sea igual a 2.000.000 euros."
+   ]
+  },
+  {
+   "id": "au-15-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 2,
+   "enunciado": "En los contratos de obras que celebren las Administraciones Públicas por procedimiento abierto y tramitación ordinaria, que no estén sujetos a regulación armonizada, el plazo de presentación de proposiciones será:",
+   "opciones": [
+    "Como mínimo de veinte días.",
+    "Como mínimo de veintiséis días.",
+    "No inferior a quince días.",
+    "Como máximo de quince días."
+   ]
+  },
+  {
+   "id": "au-15-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 3,
+   "enunciado": "En contratos de suministros de valor estimado inferior a 60.000 euros, de acuerdo con lo previsto en el artículo 159.6 de la LCSP, el procedimiento abierto simplificado podrá tener la siguiente especialidad:",
+   "opciones": [
+    "La oferta se evaluará, en todo caso, con arreglo a criterios de adjudicación cuantificables mediante un juicio de valor.",
+    "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional.",
+    "Se exigirá a los licitadores el requisito de la clasificación.",
+    "Se exigirá la constitución de una garantía definitiva del 3% del importe de adjudicación del contrato."
+   ]
+  },
+  {
+   "id": "au-15-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 4,
+   "enunciado": "Señale la respuesta correcta en relación con el procedimiento abierto simplificado regulado en el artículo 159 de la LCSP:",
+   "opciones": [
+    "Los contratos de obra de valor estimado inferior a 80.000 euros podrán seguir una tramitación más simplificada.",
+    "Los contratos de servicios de valor estimado inferior a 80.000 euros podrán seguir una tramitación más simplificada.",
+    "Como regla general, el plazo para la presentación de proposiciones no podrá ser inferior a 10 días.",
+    "Entre los criterios de adjudicación previstos en el pliego no podrá figurar ninguno evaluable mediante fórmulas."
+   ]
+  },
+  {
+   "id": "au-15-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 5,
+   "enunciado": "En el procedimiento abierto simplificado el plazo para presentar ofertas no podrá ser inferior a:",
+   "opciones": [
+    "15 días en los contratos de obras y 20 en los contratos de servicios y suministros.",
+    "20 días en los contratos de obras y 15 en los contratos de servicios y suministros.",
+    "15 días para todo tipo de contratos.",
+    "15 días en los contratos de obras y 10 en los contratos de servicios y suministros."
+   ]
+  },
+  {
+   "id": "au-15-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 6,
+   "enunciado": "En el procedimiento abierto simplificado sumario el plazo de presentación de proposiciones, desde la publicación del anuncio de licitación en el perfil de contratante, no podrá ser inferior a:",
+   "opciones": [
+    "10 días hábiles, sin excepción.",
+    "10 días hábiles cuando se trate de compras corrientes de bienes disponibles en el mercado.",
+    "5 días hábiles, sin excepción.",
+    "5 días hábiles cuando se trate de compras corrientes de bienes disponibles el mercado."
+   ]
+  },
+  {
+   "id": "au-15-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 7,
+   "enunciado": "En el procedimiento abierto supersimplificado:",
+   "opciones": [
+    "Los licitadores siempre han de acreditar la solvencia económica y financiera, técnica o profesional.",
+    "Los licitadores solo han de acreditar la solvencia técnica o profesional.",
+    "Los licitadores solo han de acreditar la solvencia económica o financiera.",
+    "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional."
+   ]
+  },
+  {
+   "id": "au-15-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 8,
+   "enunciado": "Señale la respuesta correcta en relación con el procedimiento abierto simplificado:",
+   "opciones": [
+    "No procederá la constitución de garantía provisional por parte de los licitadores.",
+    "El plazo para la presentación de proposiciones no podrá ser inferior a diez días hábiles.",
+    "El anuncio de licitación del contrato no será objeto de publicación.",
+    "No procederá la constitución de garantía provisional ni definitiva por parte de los licitadores."
+   ]
+  },
+  {
+   "id": "au-15-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 9,
+   "enunciado": "Según el artículo 159.6 de la LCSP, se podrá adjudicar un contrato de obras a través de un procedimiento abierto simplificado sumario cuando su valor estimado sea inferior a:",
+   "opciones": [
+    "100.000 €",
+    "80.000 €",
+    "60.000 €",
+    "50.000 €"
+   ]
+  },
+  {
+   "id": "au-15-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 10,
+   "enunciado": "Señale la respuesta correcta en relación con un contrato de servicios adjudicado por un Ministerio a través de un procedimiento abierto simplificado:",
+   "opciones": [
+    "El valor estimado del contrato deberá ser inferior a 60.000 euros.",
+    "El plazo de presentación de proposiciones no podrá ser inferior a veinte días.",
+    "No procederá la constitución de garantía definitiva por parte de los licitadores.",
+    "Todos los licitadores deberán estar inscritos en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público."
+   ]
+  },
+  {
+   "id": "au-15-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 11,
+   "enunciado": "Indique cuál de las siguientes NO es una característica de los procedimientos abiertos, según la LCSP:",
+   "opciones": [
+    "Todo empresario interesado podrá presentar una proposición.",
+    "Quedará excluida toda negociación de los términos del contrato con los licitadores.",
+    "El órgano de contratación deberá adjudicar el contrato de acuerdo con la propuesta formulada por la mesa de contratación.",
+    "Cuando se utilicen una pluralidad de criterios de adjudicación, los licitadores deberán presentar la proposición en dos sobres o archivos electrónicos."
+   ]
+  },
+  {
+   "id": "au-15-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 12,
+   "enunciado": "De acuerdo con la LCSP, cuando se utilice un único criterio de adjudicación:",
+   "opciones": [
+    "Ha de ser obligatoriamente el precio.",
+    "Deberá estar relacionado con la calidad.",
+    "Puede ser un criterio de rentabilidad, como el coste del ciclo de vida.",
+    "En los contratos de las Administraciones Públicas no puede haber un único criterio de adjudicación."
+   ]
+  },
+  {
+   "id": "au-15-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 13,
+   "enunciado": "¿En cuál de los siguientes contratos no puede utilizarse el procedimiento abierto simplificado?",
+   "opciones": [
+    "En un contrato de obras con un valor estimado de 800.000 €.",
+    "En un contrato de servicios con un valor estimado de 90.000 €.",
+    "En un contrato de concesión de servicios con un valor estimado de 175.000 €.",
+    "En un contrato de suministros con un valor estimado de 139.000 €."
+   ]
+  },
+  {
+   "id": "au-15-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 14,
+   "enunciado": "De acuerdo con el artículo 156 de la LCSP, en el procedimiento abierto todo empresario interesado:",
+   "opciones": [
+    "Podrá presentar una proposición, sin perjuicio de la ulterior negociación de los términos del contrato.",
+    "Podrá presentar una solicitud de participación, sin perjuicio de la ulterior negociación de los términos del contrato.",
+    "Podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato.",
+    "Podrá presentar una solicitud de participación, quedando excluida toda negociación de los términos del contrato."
+   ]
+  },
+  {
+   "id": "au-15-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 15,
+   "enunciado": "Señale la respuesta incorrecta. En los procedimientos abiertos de adjudicación de contratos sujetos a regulación armonizada, el plazo de presentación de proposiciones no será inferior a:",
+   "opciones": [
+    "Treinta y cinco días, para los contratos de obras.",
+    "Treinta y cinco días, para los contratos de servicios.",
+    "Treinta días, para los contratos de suministros.",
+    "Treinta días para las concesiones de obras y servicios."
+   ]
+  },
+  {
+   "id": "au-15-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 16,
+   "enunciado": "Conforme al artículo 157 de la LCSP, finalizado el plazo para la presentación de las proposiciones, la apertura de las mismas deberá efectuarse en el plazo máximo de:",
+   "opciones": [
+    "Veinte días.",
+    "Quince días.",
+    "Veinte días hábiles.",
+    "Quince días hábiles."
+   ]
+  },
+  {
+   "id": "au-15-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 17,
+   "enunciado": "Señale la respuesta correcta en relación con el procedimiento abierto, de acuerdo con el artículo 157 de la LCSP:",
+   "opciones": [
+    "En todo caso, la apertura de la oferta económica se realizará en acto público.",
+    "La propuesta de adjudicación no crea derecho alguno en favor del licitador propuesto frente a la Administración.",
+    "El órgano de contratación adjudicará el contrato, en todo caso, de acuerdo con la propuesta formulada por la mesa.",
+    "La documentación acreditativa del cumplimiento de los requisitos previos deberá incluirse en el sobre o archivo electrónico que contenga la proposición."
+   ]
+  },
+  {
+   "id": "au-15-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 18,
+   "enunciado": "Cuando el único criterio para seleccionar al adjudicatario del contrato sea el del precio, la adjudicación deberá recaer en el plazo máximo de:",
+   "opciones": [
+    "Quince días a contar desde el siguiente al de apertura de las proposiciones.",
+    "Quince días a contar desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Veinte días a contar desde el siguiente al de apertura de las proposiciones.",
+    "Veinte días a contar desde la fecha de finalización del plazo para presentar las proposiciones."
+   ]
+  },
+  {
+   "id": "au-15-019",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 19,
+   "enunciado": "Cuando para la adjudicación del contrato deban tenerse en cuenta una pluralidad de criterios, o utilizándose un único criterio sea este el del menor coste del ciclo de vida, el plazo máximo para efectuar la adjudicación, salvo que se hubiese establecido otro en el pliego de cláusulas administrativas particulares, será de:",
+   "opciones": [
+    "Un mes a contar desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Dos meses a contar desde la apertura de las proposiciones.",
+    "Dos meses a contar desde la fecha de finalización del plazo para presentar las proposiciones.",
+    "Un mes a contar desde la apertura de las proposiciones."
+   ]
+  },
+  {
+   "id": "au-15-020",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 20,
+   "enunciado": "Conforme al artículo 159 de la LCSP, los órganos de contratación podrán acordar la utilización de un procedimiento abierto simplificado en los contratos de obras cuyo valor estimado sea:",
+   "opciones": [
+    "Igual o inferior a 2.000.000 de euros.",
+    "Inferior a 3.000.000 de euros.",
+    "Inferior a 5.404.000 euros.",
+    "Inferior a 140.000 euros."
+   ]
+  },
+  {
+   "id": "au-15-021",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 21,
+   "enunciado": "Según la LCSP, los órganos de contratación podrán utilizar un procedimiento abierto simplificado siempre que entre los criterios de adjudicación previstos en el PCAP ninguno sea evaluable mediante juicio de valor o, de haberlo, su ponderación no supere:",
+   "opciones": [
+    "El veinticinco por ciento del total, sin excepción.",
+    "El cuarenta y cinco por ciento del total, sin excepción.",
+    "El veinticinco por ciento del total, salvo en el caso de que el contrato tenga por objeto prestaciones de carácter intelectual.",
+    "El cuarenta y cinco por ciento del total, salvo que el contrato tenga por objeto prestaciones de carácter intelectual."
+   ]
+  },
+  {
+   "id": "au-15-022",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 22,
+   "enunciado": "Indique cuál de las siguientes NO es una especialidad de la tramitación del procedimiento abierto simplificado, de acuerdo con el artículo 159.4 de la LCSP:",
+   "opciones": [
+    "No procederá la constitución de garantía provisional por parte de los licitadores.",
+    "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación.",
+    "La formalización del contrato podrá efectuarse mediante la firma de aceptación de la resolución de adjudicación.",
+    "Presentada la garantía definitiva, en un plazo no superior a cinco días se procederá a adjudicar el contrato."
+   ]
+  },
+  {
+   "id": "au-15-023",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 23,
+   "enunciado": "Señale la respuesta incorrecta. De acuerdo con el artículo 159.6 de la LCSP, en contratos de obras de valor estimado inferior a 80.000 euros, el procedimiento abierto simplificado podrá seguir la siguiente tramitación:",
+   "opciones": [
+    "Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o profesional.",
+    "No se requerirá la formalización del contrato.",
+    "No se requerirá la constitución de garantía definitiva.",
+    "La oferta se entregará en un único sobre o archivo electrónico."
+   ]
+  },
+  {
+   "id": "au-15-024",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 24,
+   "enunciado": "Según el artículo 159.6 de la LCSP, el procedimiento abierto simplificado podrá seguir una tramitación más ágil en contratos de suministros y de servicios de valor estimado inferior a:",
+   "opciones": [
+    "80.000 euros.",
+    "140.000 euros.",
+    "100.000 euros.",
+    "60.000 euros."
+   ]
+  },
+  {
+   "id": "au-15-025",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (15) LCSP (arts. 156 a 159)",
+   "n": 25,
+   "enunciado": "En la adjudicación de contratos de obras que sigan la tramitación a que se refiere el artículo 159.6 de la LCSP, el plazo para la presentación de proposiciones no podrá ser inferior a:",
+   "opciones": [
+    "Veintiséis días.",
+    "Veinte días.",
+    "Quince días.",
+    "Diez días hábiles."
+   ]
+  },
+  {
+   "id": "au-16-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 1,
+   "enunciado": "Según el artículo 160 de la LCSP, en el procedimiento restringido cualquier empresa interesada podrá:",
+   "opciones": [
+    "Presentar una solicitud de participación en respuesta a una convocatoria de licitación.",
+    "Presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores.",
+    "Presentar una proposición en respuesta a una convocatoria de licitación.",
+    "Presentar una solicitud de participación, sin perjuicio de la posterior negociación de los términos del contrato."
+   ]
+  },
+  {
+   "id": "au-16-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 2,
+   "enunciado": "De acuerdo con el artículo 160 de la LCSP, ¿quiénes podrán presentar proposiciones en un procedimiento restringido?",
+   "opciones": [
+    "Cualquier empresa interesada, en respuesta a una convocatoria de licitación.",
+    "Cualquier empresa interesada que reúna los requisitos de solvencia.",
+    "Aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación.",
+    "Todos los empresarios que, reuniendo los requisitos de solvencia, lo hayan solicitado con anterioridad."
+   ]
+  },
+  {
+   "id": "au-16-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 3,
+   "enunciado": "Señale la respuesta INCORRECTA respecto al procedimiento de adjudicación restringido:",
+   "opciones": [
+    "Es especialmente adecuado cuando se trata de servicios intelectuales de especial complejidad.",
+    "Solo podrán presentar solicitudes de participación los empresarios que sean seleccionados por el órgano de contratación.",
+    "Estará prohibida toda negociación de los términos del contrato con los solicitantes o candidatos.",
+    "Los contratos de concesión de servicios especiales del Anexo IV se adjudicarán ordinariamente mediante este procedimiento."
+   ]
+  },
+  {
+   "id": "au-16-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 4,
+   "enunciado": "En procedimientos restringidos de adjudicación de contratos sujetos a regulación armonizada, el plazo de presentación de las solicitudes de participación no podrá ser inferior a:",
+   "opciones": [
+    "35 días.",
+    "30 días.",
+    "25 días.",
+    "20 días."
+   ]
+  },
+  {
+   "id": "au-16-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 5,
+   "enunciado": "Si se trata de contratos no sujetos a regulación armonizada, el plazo para la presentación de solicitudes de participación en un procedimiento restringido será, como mínimo, de:",
+   "opciones": [
+    "30 días.",
+    "20 días.",
+    "15 días.",
+    "10 días."
+   ]
+  },
+  {
+   "id": "au-16-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 6,
+   "enunciado": "En los procedimientos restringidos, el órgano de contratación señalará el número mínimo de empresarios a los que invitará a participar en el procedimiento, que no podrá ser inferior a:",
+   "opciones": [
+    "Diez.",
+    "Siete.",
+    "Cinco.",
+    "Tres."
+   ]
+  },
+  {
+   "id": "au-16-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 7,
+   "enunciado": "El plazo general de presentación de proposiciones en los procedimientos restringidos relativos a contratos sujetos a regulación armonizada no será inferior a:",
+   "opciones": [
+    "Treinta días, contados a partir de la fecha de envío de la invitación escrita.",
+    "Diez días, contados a partir de la fecha de envío de la invitación escrita.",
+    "Treinta días, contados a partir de la publicación del anuncio de licitación.",
+    "Diez días, contados a partir de la publicación del anuncio de licitación."
+   ]
+  },
+  {
+   "id": "au-16-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 8,
+   "enunciado": "En los procedimientos restringidos relativos a contratos no sujetos a regulación armonizada, el plazo para la presentación de proposiciones no será inferior a:",
+   "opciones": [
+    "Quince días, contados desde la publicación del anuncio de licitación.",
+    "Diez días, contados desde la publicación del anuncio de licitación.",
+    "Quince días, contados desde la fecha de envío de la invitación.",
+    "Diez días, contados desde la fecha de envío de la invitación."
+   ]
+  },
+  {
+   "id": "au-16-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 9,
+   "enunciado": "Según el artículo 165 de la LCSP, cuando se siga el procedimiento restringido, en la adjudicación del contrato será de aplicación lo previsto en esta Ley para:",
+   "opciones": [
+    "El díálogo competitivo.",
+    "El procedimiento abierto.",
+    "El procedimiento negociado.",
+    "El procedimiento abierto simplificado."
+   ]
+  },
+  {
+   "id": "au-16-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 10,
+   "enunciado": "Conforme a la Ley de Contratos del Sector Público, no es un supuesto de aplicación del procedimiento negociado contemplado en el artículo 167:",
+   "opciones": [
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+    "Cuando el órgano de contratación no pueda establecer con la suficiente precisión las especificaciones técnicas.",
+    "Cuando no pueda establecerse un valor estimado del contrato a precios de mercado.",
+    "Cuando en procedimientos ordinarios seguidos previamente solo se hubieren presentado ofertas irregulares o inaceptables."
+   ]
+  },
+  {
+   "id": "au-16-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 11,
+   "enunciado": "De acuerdo con la Ley 9/2017, de Contratos del Sector Público, los aspectos económicos y técnicos que hayan de ser objeto de negociación con las empresas en un procedimiento con negociación se determinarán en:",
+   "opciones": [
+    "El pliego de cláusulas administrativas particulares.",
+    "El pliego de prescripciones técnicas.",
+    "El pliego de cláusulas administrativas generales.",
+    "Las proposiciones de los interesados."
+   ]
+  },
+  {
+   "id": "au-16-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 12,
+   "enunciado": "Siempre que ello sea posible, para la realización del objeto del contrato, de acuerdo con la Ley 9/2017, de Contratos del Sector Público, en el procedimiento negociado será necesario solicitar ofertas, al menos:",
+   "opciones": [
+    "A cinco empresas.",
+    "A tres empresas.",
+    "A cuatro empresas.",
+    "A diez empresas."
+   ]
+  },
+  {
+   "id": "au-16-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 13,
+   "enunciado": "¿En qué procedimiento de adjudicación todo empresario interesado podrá presentar una proposición, quedando excluida toda negociación de los términos del contrato con los licitadores?",
+   "opciones": [
+    "Procedimiento abierto.",
+    "Diálogo competitivo.",
+    "Procedimiento restringido.",
+    "Asociación para la innovación."
+   ]
+  },
+  {
+   "id": "au-16-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 14,
+   "enunciado": "Conforme al artículo 160 de la LCSP, el procedimiento que permite presentar una solicitud de participación en respuesta a una convocatoria de licitación a cualquier empresa interesada, pero sólo permite presentar ofertas a aquellas que sean seleccionadas por el órgano de contratación en atención a su solvencia es el:",
+   "opciones": [
+    "Procedimiento abierto.",
+    "Procedimiento negociado.",
+    "Procedimiento restringido.",
+    "Diálogo competitivo."
+   ]
+  },
+  {
+   "id": "au-16-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 15,
+   "enunciado": "Señale en cuál de los siguientes casos se podrán adjudicar contratos sin la previa publicación de un anuncio de licitación:",
+   "opciones": [
+    "Cuando se trate de la adquisición en mercados organizados o bolsas de materias primas de suministros que coticen en estos.",
+    "Cuando la prestación objeto del contrato incluya un proyecto o soluciones innovadoras.",
+    "Cuando resulte imprescindible un trabajo previo de diseño o de adaptación por parte de los licitadores.",
+    "Cuando no pueda establecerse con la suficiente precisión las especificaciones técnicas por referencia a una norma."
+   ]
+  },
+  {
+   "id": "au-16-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 16,
+   "enunciado": "Señale en cuál de los siguientes casos los órganos de contratación NO podrán adjudicar contratos utilizando el procedimiento negociado sin la previa publicación de un anuncio de licitación:",
+   "opciones": [
+    "Cuando el contrato haya sido declarado secreto o reservado.",
+    "Cuando los productos se fabriquen exclusivamente para fines de investigación, experimentación, estudio o desarrollo.",
+    "Cuando no exista competencia por razones técnicas.",
+    "Cuando se trate de contratos de servicios sociales personalísimos."
+   ]
+  },
+  {
+   "id": "au-16-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 17,
+   "enunciado": "Señale la respuesta correcta en relación con la tramitación del procedimiento de licitación con negociación:",
+   "opciones": [
+    "No será preciso publicar un anuncio de licitación.",
+    "En caso de que se decida limitar el número de empresas a las que se invitará a negociar, el número mínimo será de cinco.",
+    "No se negociarán los requisitos mínimos de la prestación objeto del contrato.",
+    "Los criterios de adjudicación serán objeto de negociación."
+   ]
+  },
+  {
+   "id": "au-16-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (16) LCSP (arts. 160 a 182)",
+   "n": 18,
+   "enunciado": "Señale la respuesta INCORRECTA en relación con el diálogo competitivo:",
+   "opciones": [
+    "Cualquier empresa interesada podrá presentar una solicitud de participación en respuesta a un anuncio de licitación.",
+    "Podrá utilizarse en los casos enumerados en el artículo 167 (supuestos de aplicación de la licitación con negociación).",
+    "El documento descriptivo podrá establecer primas o compensaciones para todos o algunos de los participantes en el diálogo.",
+    "Finalizada la fase de diálogo, la mesa especial de diálogo competitivo procederá a la adjudicación del contrato."
+   ]
+  }
+ ]
+}

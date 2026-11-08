@@ -1,0 +1,697 @@
+{
+ "casos": {
+  "caso-22": {
+   "id": "caso-22",
+   "titulo": "Bloque III.- Supuesto 19",
+   "texto": "Al consultar la Plataforma de Contratación del Sector Público, en los perfiles de contratante alojados en ella, se observan varias actuaciones de contratación recientemente publicadas correspondientes a distintas entidades del sector público. En concreto, figuran las siguientes: Publicación 1 En el perfil de contratante del Instituto Nacional de las Artes Escénicas y de la Música, O.A. (INAEM), figura el acuerdo de adjudicación de un contrato de obras para la ampliación y reforma de su sede administrativa, a favor de la UTE «Rasur, S.A. – Índico Infraestructuras, S.L.». El contrato tiene un valor estimado de 4.000.000 € y se ha adjudicado a tanto alzado por 4.356.000 € (3.600.000 €, IVA excluido). Publicación 2 En el perfil de contratante de la Agencia Española de Protección de Datos, A.A.I. (AEPD), se ha publicado, con fecha 15 de enero de 2026, el anuncio de licitación de un contrato de servicios de vigilancia y seguridad de sus dependencias. El presupuesto base de licitación asciende a 121.000 € (100.000 €, IVA excluido), para una duración inicial de un año, con posibilidad de prórroga por otro año en las mismas condiciones económicas. El pliego exige a los licitadores la constitución de una garantía provisional por el importe máximo legalmente previsto. Consta que el servicio se viene prestando por «SegurIbérica, S.L.», en virtud del contrato vigente, que finaliza el 1 de mayo de 2026. Publicación 3 En el perfil de contratante de Loterías y Apuestas del Estado, S.M.E., S.A., sociedad mercantil estatal que opera en régimen de mercado y se financia mayoritariamente con ingresos de explotación, figuran publicados los pliegos de un contrato cuyo objeto es el arrendamiento con opción de compra de terminales electrónicos de venta y validación para su red comercial. El valor estimado del contrato es de 160.000 €. Publicación 4 En el perfil de contratante de la Fundación Estatal Salud, Infancia y Bienestar Social, F.S.P., figura publicada la memoria justificativa de un contrato cuyo objeto es la gestión integral del servicio de atención sanitaria en un centro asistencial, incluyendo su explotación mediante tarifas abonadas por los usuarios y asumiendo el adjudicatario el riesgo operacional, cuyo valor estimado asciende a 5.500.000 €. El contrato no comprende la ejecución de obras y tiene una duración prevista de ocho años, coincidente con el período de recuperación de la inversión. El pliego prevé la revisión periódica y predeterminada de precios. Publicación 5 En el perfil de contratante del Ministerio para la Transición Ecológica y el Reto Demográfico figura publicada la formalización de un encargo a TRAGSA (medio propio personificado) para la ejecución de actuaciones de reforestación en varias zonas afectadas por incendios. En relación con la situación descrita, responda las siguientes cuestiones:"
+  }
+ },
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-21-026",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 26,
+   "enunciado": "Conforme al artículo 106 de la LCSP, la garantía provisional responderá del mantenimiento de las ofertas de los licitadores hasta:",
+   "opciones": [
+    "La adjudicación del contrato.",
+    "La formalización del contrato.",
+    "La perfección del contrato.",
+    "El inicio de la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "pr-21-027",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 27,
+   "enunciado": "En la licitación de un contrato cuyo presupuesto base de licitación asciende a 60.500 euros (50.000 euros, IVA excluido), el pliego exige la constitución de garantía provisional. Conforme al artículo 106 de la LCSP, dicha garantía:",
+   "opciones": [
+    "Ascenderá a 1.500 euros.",
+    "Podrá alcanzar, como máximo, 1.500 euros.",
+    "Ascenderá a 1.815 euros.",
+    "Podrá alcanzar, como máximo, 1.815 euros."
+   ]
+  },
+  {
+   "id": "pr-21-028",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 28,
+   "enunciado": "Un contrato de servicios de limpieza se divide en cuatro lotes, con presupuestos base de licitación, IVA excluido, de 100.000, 100.000, 190.000 y 10.000 euros, respectivamente. Limpiezas Beta, S.L. presenta oferta exclusivamente a los lotes 1 y 4. Si el pliego exige garantía provisional, ¿a cuánto podrá ascender, como máximo, el importe total de la garantía correspondiente a los lotes a los que presenta oferta?",
+   "opciones": [
+    "12.000 euros.",
+    "3.300 euros.",
+    "3.000 euros.",
+    "300 euros."
+   ]
+  },
+  {
+   "id": "pr-21-029",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 29,
+   "enunciado": "En un procedimiento de contratación con un presupuesto base de licitación de 121.000 euros (100.000 euros, IVA excluido), el pliego exige garantía provisional por el importe máximo legalmente previsto. La oferta mejor valorada es la presentada por Servicios Integrales Málaga, S.L., por 96.800 euros (80.000 euros, IVA excluido). Para constituir la garantía definitiva, la empresa:",
+   "opciones": [
+    "Podrá aplicar a la garantía definitiva el importe de la garantía provisional constituida y completarla con 1.000 euros.",
+    "Podrá aplicar a la garantía definitiva el importe de la garantía provisional constituida y completarla con 1.840 euros.",
+    "Deberá constituir una nueva garantía por importe de 4.000 euros.",
+    "Deberá constituir una nueva garantía por importe de 4.840 euros."
+   ]
+  },
+  {
+   "id": "pr-21-030",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 30,
+   "enunciado": "De acuerdo con la LCSP, señale la afirmación incorrecta en relación con la garantía definitiva:",
+   "opciones": [
+    "Deberá constituirla el licitador que haya presentado la mejor oferta.",
+    "Podrá eximirse justificadamente de su constitución, salvo en los contratos de concesión de obras y de concesión de servicios.",
+    "Responderá, entre otros conceptos, de la obligación de formalizar el contrato en plazo.",
+    "Cuando el precio se formule en función de precios unitarios, se fijará atendiendo al presupuesto base de licitación, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-21-031",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 31,
+   "enunciado": "Construcciones Vega, S.L. ha cumplido satisfactoriamente un contrato de obras, cuyo plazo de garantía venció el 15 de septiembre de 2026 sin que resultaran responsabilidades. ¿Hasta qué fecha dispone la Administración para adoptar y notificar el acuerdo de devolución de la garantía definitiva?",
+   "opciones": [
+    "15 de octubre de 2026.",
+    "15 de noviembre de 2026.",
+    "15 de diciembre de 2026.",
+    "15 de septiembre de 2027."
+   ]
+  },
+  {
+   "id": "pr-21-032",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 32,
+   "enunciado": "Según el artículo 106 de la LCSP, una vez perfeccionado el contrato, la garantía provisional constituida por los licitadores será devuelta:",
+   "opciones": [
+    "Inmediatamente.",
+    "En el plazo de un mes.",
+    "En el plazo de dos meses.",
+    "En el plazo de tres meses."
+   ]
+  },
+  {
+   "id": "pr-21-033",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 33,
+   "enunciado": "Cuando se hagan efectivas sobre la garantía definitiva penalidades o indemnizaciones, el contratista deberá reponerla o ampliarla en la cuantía que corresponda. Asimismo, cuando como consecuencia de una modificación varíe el precio del contrato, deberá reajustarse la garantía. ¿De qué plazo dispone el contratista para realizar dichas actuaciones?",
+   "opciones": [
+    "15 días en ambos casos.",
+    "10 días en ambos casos.",
+    "15 días para la reposición o ampliación y 10 días para el reajuste.",
+    "10 días para la reposición o ampliación y 15 días para el reajuste."
+   ]
+  },
+  {
+   "id": "pr-21-034",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 34,
+   "enunciado": "En un procedimiento de contratación, el pliego establece la exigencia de una garantía complementaria por el máximo legalmente previsto. La mejor oferta es la presentada por Contratas del Sur, S.L., por 96.800 euros (80.000 euros, IVA excluido). ¿Qué importe deberá constituir la empresa en concepto de garantía complementaria?",
+   "opciones": [
+    "4.000 euros.",
+    "4.840 euros.",
+    "8.000 euros.",
+    "9.680 euros."
+   ]
+  },
+  {
+   "id": "pr-21-035",
+   "origen": "practicas",
+   "test": "Examen nº 18 - LCSP (arts 84 a 114)",
+   "n": 35,
+   "enunciado": "De acuerdo con la LCSP, las garantías exigidas en los contratos celebrados con las Administraciones Públicas podrán prestarse en distintas formas. Indique cuál de las siguientes NO es una de ellas:",
+   "opciones": [
+    "En efectivo.",
+    "En acciones de sociedades cotizadas.",
+    "Mediante aval.",
+    "Mediante contrato de seguro de caución."
+   ]
+  },
+  {
+   "id": "pr-22-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 1,
+   "enunciado": "A efectos del artículo 3 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (en adelante, LCSP), ¿qué consideración tiene el Instituto Nacional de las Artes Escénicas y de la Música, O.A. (INAEM)?",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador no Administración Pública.",
+    "Entidad integrante del sector público que no tiene la condición de poder adjudicador.",
+    "Entidad excluida del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 2,
+   "enunciado": "En relación con el contrato celebrado por el INAEM, ¿se encuentra sujeto a regulación armonizada?",
+   "opciones": [
+    "Sí, al superar el umbral previsto en el artículo 20 de la LCSP.",
+    "No, dado que su valor estimado es inferior a 5.538.000 euros.",
+    "No, dado que su valor estimado es inferior a 5.440.000 euros.",
+    "No, dado que su valor estimado es inferior a 5.404.000 euros."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 3,
+   "enunciado": "Para acreditar la solvencia técnica en el contrato del INAEM, el órgano de contratación podrá tener en cuenta la relación de las obras ejecutadas en el curso de:",
+   "opciones": [
+    "Los dos últimos años.",
+    "Los cinco últimos años.",
+    "Los tres últimos años.",
+    "Los cuatro últimos años."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 4,
+   "enunciado": "¿Cabe interponer recurso especial en materia de contratación contra el acto de adjudicación del contrato celebrado por el INAEM?",
+   "opciones": [
+    "No, puesto que el contrato no se encuentra sujeto a regulación armonizada.",
+    "No, puesto que el adjudicatario es una unión temporal de empresas (UTE).",
+    "Sí, mediante escrito que deberá presentarse en el plazo de quince días naturales.",
+    "Sí, mediante escrito que deberá presentarse en el plazo de quince días hábiles."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 5,
+   "enunciado": "En relación con el contrato de obras del INAEM, teniendo en cuenta que no se prevén prórrogas, modificaciones, opciones eventuales ni otros conceptos adicionales computables en el cálculo del valor estimado, ¿a cuánto asciende su presupuesto base de licitación?",
+   "opciones": [
+    "4.000.000 euros.",
+    "4.356.000 euros.",
+    "4.400.000 euros.",
+    "4.840.000 euros."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 6,
+   "enunciado": "En el momento de dictarse el acto de adjudicación del contrato, la unión de empresarios “Rasur, S.A. – Índico Infraestructuras, S.L.” aún no había formalizado su constitución en escritura pública. ¿Es conforme a la LCSP la adjudicación del contrato a su favor?",
+   "opciones": [
+    "No, puesto que la formalización en escritura pública es necesaria para licitar.",
+    "No, puesto que la formalización en escritura pública debió realizarse tras la propuesta de adjudicación del contrato a su favor.",
+    "Sí, dado que la formalización en escritura pública solo se exige en caso de efectuarse la adjudicación del contrato a su favor.",
+    "Sí, dado que la formalización en escritura pública solo se exige una vez perfeccionado el contrato, antes de iniciar su ejecución."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 7,
+   "enunciado": "Una vez adjudicado el contrato de obras del INAEM y antes de su formalización, ¿qué importe deberá constituir la UTE adjudicataria en concepto de garantía definitiva?",
+   "opciones": [
+    "108.000 euros.",
+    "180.000 euros.",
+    "200.000 euros.",
+    "217.800 euros."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 8,
+   "enunciado": "De conformidad con el artículo 69 de la LCSP, en relación con la unión temporal de empresas adjudicataria del contrato de obras, señale la afirmación incorrecta:",
+   "opciones": [
+    "Ambas empresas responderán solidariamente de las obligaciones que se deriven del contrato.",
+    "Su duración será coincidente con la del contrato, extinguiéndose una vez finalizada su ejecución.",
+    "Deberá nombrar un representante o apoderado único.",
+    "Si antes de la formalización del contrato se modificase su composición, quedará excluida del procedimiento."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 9,
+   "enunciado": "A efectos del artículo 3 de la LCSP, ¿qué consideración tiene la Agencia Española de Protección de Datos, A.A.I. (AEPD)?",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador no Administración Pública.",
+    "Entidad integrante del sector público que no tiene la condición de poder adjudicador.",
+    "Entidad excluida del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 10,
+   "enunciado": "En relación con el contrato licitado por la AEPD, ¿se encuentra sujeto a regulación armonizada?",
+   "opciones": [
+    "No, puesto que su valor estimado es inferior a 216.000 euros.",
+    "No, puesto que su valor estimado es inferior a 221.000 euros.",
+    "Sí, puesto que su valor estimado es superior a 140.000 euros.",
+    "Sí, puesto que su valor estimado es superior a 143.000 euros."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 11,
+   "enunciado": "En el contrato de servicios de vigilancia y seguridad de las dependencias de la AEPD, a efectos de acreditación de su solvencia, ¿podría exigirse la clasificación de los licitadores?",
+   "opciones": [
+    "No, dado que su valor estimado es inferior a 500.000 euros.",
+    "No, aunque los licitadores pueden acreditar su solvencia mediante su clasificación.",
+    "No, dado que los licitadores solo pueden obtener la clasificación como contratistas de obras.",
+    "Sí, dado que su valor estimado es superior a 100.000 euros."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 12,
+   "enunciado": "El pliego del contrato de vigilancia y seguridad de la AEPD exige garantía provisional por el importe máximo legalmente previsto. ¿Qué importe deberá constituir cada licitador?",
+   "opciones": [
+    "3.000 euros.",
+    "3.630 euros.",
+    "5.000 euros.",
+    "6.000 euros."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 13,
+   "enunciado": "¿Cuál de las siguientes constituye una forma de prestar la garantía provisional exigida en el contrato de vigilancia de la AEPD?",
+   "opciones": [
+    "Seguro de responsabilidad civil.",
+    "Certificado de solvencia bancaria.",
+    "Contrato de seguro de caución.",
+    "Bonos emitidos por sociedades privadas."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 14,
+   "enunciado": "Conforme a la LCSP, ¿de qué responde la garantía provisional exigida en el contrato de vigilancia y seguridad de la AEPD?",
+   "opciones": [
+    "De la correcta ejecución de las prestaciones contempladas en el contrato.",
+    "De las penalidades impuestas al contratista durante la ejecución del contrato.",
+    "Del mantenimiento de las ofertas hasta la adjudicación del contrato.",
+    "Del mantenimiento de las ofertas hasta la perfección del contrato."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 15,
+   "enunciado": "¿Cabe interponer recurso especial en materia de contratación contra el anuncio de licitación del contrato de servicios de vigilancia y seguridad de las dependencias de la AEPD?",
+   "opciones": [
+    "No, puesto que los anuncios de licitación no son susceptibles de recurso especial.",
+    "No, puesto que el presupuesto base de licitación, IVA excluido, no supera los 100.000 euros.",
+    "Sí, quedando en suspenso la tramitación del procedimiento.",
+    "Sí, correspondiendo su resolución al Tribunal Administrativo Central de Recursos Contractuales."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 16,
+   "enunciado": "De conformidad con la LCSP, ¿en qué momento se considerará perfeccionado el contrato licitado por la AEPD?",
+   "opciones": [
+    "Cuando se adjudique al licitador que efectúe la oferta económicamente más ventajosa.",
+    "Cuando se formalice en documento administrativo.",
+    "Cuando se formalice en documento privado.",
+    "Cuando el contrato se eleve a escritura pública."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 17,
+   "enunciado": "Si, como consecuencia de acontecimientos imprevisibles producidos durante el procedimiento de adjudicación del contrato licitado por la AEPD, no fuera posible formalizarlo antes del 1 de mayo de 2026, y existieran razones de interés público para no interrumpir la prestación del servicio, ¿podría prorrogarse el contrato vigente con SegurIbérica, S.L. ?",
+   "opciones": [
+    "No, puesto que el anuncio de licitación del nuevo contrato no se ha publicado con la antelación mínima requerida.",
+    "Sí, siempre que en el contrato estuvieran previstas una o varias prórrogas.",
+    "Sí, hasta que comience la ejecución del nuevo contrato y, en todo caso, por un período máximo de nueve meses.",
+    "Sí, hasta que comience la ejecución del nuevo contrato y, en todo caso, por un período máximo de tres meses."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 18,
+   "enunciado": "Califique jurídicamente el contrato previsto por Loterías y Apuestas del Estado, S.M.E., que tiene como objeto el arrendamiento con opción de compra de terminales electrónicos de venta y validación para su red comercial:",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato administrativo especial.",
+    "Contrato de suministro.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 19,
+   "enunciado": "A efectos del artículo 3 de la LCSP, ¿qué consideración tiene Loterías y Apuestas del Estado, S.M.E.?",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador no Administración Pública.",
+    "Entidad integrante del sector público que no tiene la condición de poder adjudicador.",
+    "Entidad excluida del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 20,
+   "enunciado": "Señale la respuesta correcta en relación con el contrato licitado por Loterías y Apuestas del Estado S.M.E.:",
+   "opciones": [
+    "Está sujeto a regulación armonizada y es susceptible de recurso especial en materia de contratación.",
+    "Está sujeto a regulación armonizada, pero no es susceptible de recurso especial en materia de contratación.",
+    "No está sujeto a regulación armonizada, ni es susceptible de recurso especial en materia de contratación.",
+    "No está sujeto a regulación armonizada, pero es susceptible de recurso especial en materia de contratación."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 21,
+   "enunciado": "¿Qué orden jurisdiccional sería competente para conocer de las cuestiones que pudieran suscitarse en relación con la adjudicación y con la extinción del contrato licitado por Loterías y Apuestas del Estado, S.M.E.?",
+   "opciones": [
+    "El contencioso-administrativo respecto a la adjudicación y el civil respecto a la extinción.",
+    "El civil respecto a la adjudicación y el contencioso-administrativo respecto a la extinción.",
+    "El contencioso-administrativo.",
+    "El civil."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 22,
+   "enunciado": "¿Qué plazo máximo de duración podrá tener el contrato de arrendamiento con opción de compra de los terminales electrónicos?",
+   "opciones": [
+    "Cinco años, prorrogables por periodos de hasta cinco años.",
+    "Cuatro años, prorrogables por periodos de hasta cuatro años.",
+    "Cinco años, incluyendo las posibles prórrogas previstas en el contrato.",
+    "Cuatro años, incluyendo las posibles prórrogas previstas en el contrato."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 23,
+   "enunciado": "A efectos del artículo 3 de la LCSP, ¿qué consideración tiene la Fundación Estatal, Salud, Infancia y Bienestar Social, F.S.P.?",
+   "opciones": [
+    "Administración Pública.",
+    "Poder adjudicador no Administración Pública.",
+    "Entidad integrante del sector público que no tiene la condición de poder adjudicador.",
+    "Entidad excluida del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 24,
+   "enunciado": "Califique jurídicamente el contrato que planea celebrar la Fundación Estatal, Salud, Infancia y Bienestar Social, F.S.P.:",
+   "opciones": [
+    "Contrato de gestión de servicios públicos.",
+    "Contrato de servicios.",
+    "Contrato administrativo especial.",
+    "Contrato de concesión de servicios."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-025",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 25,
+   "enunciado": "Conforme al artículo 15 de la LCSP, ¿qué entes pueden celebrar el tipo de contrato proyectado por la Fundación Estatal Salud, Infancia y Bienestar Social, F.S.P.?",
+   "opciones": [
+    "Solo aquellos que tengan la consideración de poderes adjudicadores.",
+    "Solo aquellos que tengan la consideración de Administración Pública.",
+    "Solo aquellos que cuenten con la preceptiva clasificación administrativa.",
+    "Todos los entes del sector público."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-026",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 26,
+   "enunciado": "Para acreditar la solvencia económica y financiera en el contrato proyectado por la Fundación Estatal Salud, Infancia y Bienestar Social, F.S.P., ¿cuál de los siguientes medios podría elegir el órgano de contratación conforme a la LCSP?",
+   "opciones": [
+    "Volumen anual de negocios referido al mejor ejercicio dentro de los cinco últimos disponibles.",
+    "Patrimonio neto al cierre del último ejercicio económico para el que esté vencida la obligación de aprobar las cuentas anuales.",
+    "Volumen anual de negocios referido al mejor ejercicio dentro de los diez últimos disponibles.",
+    "Patrimonio bruto al cierre del último ejercicio económico para el que esté vencida la obligación de aprobar las cuentas anuales."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-027",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 27,
+   "enunciado": "Al preparar el contrato de atención sanitaria proyectado por la Fundación Estatal Salud, Infancia y Bienestar Social, F.S.P., ¿deberá el órgano de contratación prever su división en lotes si la naturaleza o el objeto del contrato lo permiten?",
+   "opciones": [
+    "Sí, porque la división en lotes resulta obligatoria en contratos de esta tipología.",
+    "No, salvo que concurran motivos excepcionales de los que quedará constancia en el expediente.",
+    "Sí, salvo que existan motivos válidos, debidamente justificados en el expediente.",
+    "No, porque la división en lotes no está permitida en contratos de esta tipología."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-028",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 28,
+   "enunciado": "Teniendo en cuenta que el pliego del contrato proyectado por la Fundación prevé la revisión periódica y predeterminada de precios, ¿cuándo podrá tener lugar dicha revisión?",
+   "opciones": [
+    "Una vez transcurrido un año desde la formalización del contrato, sin que resulte exigible haber ejecutado el 20 % de su importe.",
+    "Una vez ejecutado, al menos, el 20 % del importe del contrato, aunque no haya transcurrido un año desde su formalización.",
+    "Una vez transcurrido un año desde la formalización y ejecutado, al menos, el 20 % del importe del contrato.",
+    "Desde la formalización del contrato, sin que resulte exigible el transcurso de un año ni la ejecución del 20 % de su importe."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-029",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 29,
+   "enunciado": "¿Cabría interponer recurso especial en materia de contratación frente a la memoria justificativa del contrato que pretende celebrar la Fundación Estatal, Salud, Infancia y Bienestar Social, F.S.P.?",
+   "opciones": [
+    "Sí, teniendo dicho recurso carácter potestativo y gratuito.",
+    "No, porque el órgano adjudicador no tiene la consideración de poder adjudicador.",
+    "No, porque el tipo de contrato no es susceptible de recurso especial.",
+    "No, porque la memoria justificativa no es una actuación susceptible de recurso especial."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-030",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 30,
+   "enunciado": "¿Qué plazo máximo de duración puede tener el contrato proyectado por la Fundación Estatal, Salud, Infancia y Bienestar Social?",
+   "opciones": [
+    "Diez años.",
+    "Quince años.",
+    "Veinticinco años.",
+    "Cuarenta años."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-031",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 31,
+   "enunciado": "De acuerdo con el artículo 15 de la LCSP, en el contrato que planea celebrar la Fundación Estatal, Salud, Infancia y Bienestar Social, la contraprestación a favor del contratista consistirá:",
+   "opciones": [
+    "Únicamente en el derecho a explotar los servicios objeto del contrato.",
+    "En el derecho a explotar los servicios objeto del contrato o en el derecho a percibir un precio.",
+    "En el derecho a explotar los servicios objeto del contrato, que estará acompañado del derecho a percibir un precio.",
+    "En el derecho a explotar los servicios objeto del contrato, que podrá estar acompañado del derecho a percibir un precio."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-032",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 32,
+   "enunciado": "Para que TRAGSA pueda ostentar la condición de medio propio personificado de la Administración General del Estado, la LCSP exige que más de un determinado porcentaje de su actividad se realice en el ejercicio de los cometidos que le hayan sido confiados por dicho poder adjudicador o por otras personas jurídicas controladas por el mismo. ¿Cuál es ese porcentaje?",
+   "opciones": [
+    "Más del 50%.",
+    "Más del 70%.",
+    "Más del 80%.",
+    "El 100%."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-033",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 33,
+   "enunciado": "En caso de que TRAGSA no cumpliera el requisito relativo al porcentaje mínimo de actividad exigido por el artículo 32 de la LCSP, el encargo realizado por el Ministerio para la Transición Ecológica y el Reto Demográfico incurriría en:",
+   "opciones": [
+    "Causa de nulidad de derecho administrativo.",
+    "Causa de anulabilidad de derecho administrativo.",
+    "Causa de invalidez de derecho civil.",
+    "Irregularidad no invalidante."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-034",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 34,
+   "enunciado": "Teniendo en cuenta que resultaba preceptiva la publicación en el perfil de contratante del documento de formalización del encargo realizado a TRAGSA, el importe del mismo debe ser superior a:",
+   "opciones": [
+    "50.000 euros, IVA excluido.",
+    "50.000 euros, IVA incluido.",
+    "5.000 euros, IVA excluido.",
+    "5.000 euros, IVA incluido."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-22-035",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 19",
+   "n": 35,
+   "enunciado": "¿Cuál de los contratos descritos en las publicaciones anteriores se corresponde con una modalidad contractual para la que la LCSP admite el pago aplazado?",
+   "opciones": [
+    "El contrato del Instituto Nacional de las Artes Escénicas y de la Música, O.A. (INAEM).",
+    "El contrato de Loterías y Apuestas del Estado, S.M.E., S.A.",
+    "El contrato de la Agencia Española de Protección de Datos, A.A.I. (AEPD).",
+    "Ninguno, pues la LCSP prohíbe esta modalidad de pago sin admitir excepciones."
+   ],
+   "caso": "caso-22"
+  },
+  {
+   "id": "pr-23-001",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 1,
+   "enunciado": "El Ministerio de Sanidad necesita mejorar la trazabilidad de los medicamentos, pero desconoce cuál es la solución técnica más adecuada. Para preparar la licitación, acuerda realizar una consulta preliminar del mercado. Conforme a la LCSP, señale la afirmación correcta:",
+   "opciones": [
+    "La publicación del objeto de la consulta en el perfil de contratante tendrá carácter potestativo.",
+    "El objeto contractual resultante podrá ajustarse únicamente a las características técnicas de alguno de los consultados.",
+    "Durante la consulta podrán revelarse a los participantes las soluciones propuestas por los demás.",
+    "La participación en la consulta no impide la posterior intervención en el procedimiento de contratación."
+   ]
+  },
+  {
+   "id": "pr-23-002",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 2,
+   "enunciado": "El Ministerio de Educación pretende contratar el mantenimiento de sus sistemas de climatización. De acuerdo con la LCSP, ¿cómo deberá iniciar el correspondiente expediente de contratación?",
+   "opciones": [
+    "Aprobando los pliegos de cláusulas administrativas y de prescripciones técnicas particulares.",
+    "Aprobando el gasto correspondiente al contrato.",
+    "Motivando la necesidad del contrato.",
+    "Justificando la elección del procedimiento de adjudicación."
+   ]
+  },
+  {
+   "id": "pr-23-003",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 3,
+   "enunciado": "El Ministerio de Cultura prepara la contratación de un servicio de vigilancia para varios de sus edificios y decide adjudicarlo mediante procedimiento abierto. De acuerdo con el artículo 116 de la LCSP, ¿cuál de los siguientes documentos NO deberá incorporarse al expediente de contratación?",
+   "opciones": [
+    "El pliego de cláusulas administrativas particulares.",
+    "El documento descriptivo.",
+    "El pliego de prescripciones técnicas particulares.",
+    "El certificado de existencia de crédito."
+   ]
+  },
+  {
+   "id": "pr-23-004",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 4,
+   "enunciado": "El Ministerio de Defensa pretende adquirir nuevos equipos informáticos mediante un contrato dividido en lotes, con un valor estimado de 500.000 euros. Según la LCSP, ¿cuál de los siguientes extremos deberá justificarse adecuadamente en el expediente de contratación?",
+   "opciones": [
+    "Las condiciones especiales de ejecución del contrato.",
+    "La clasificación exigida a los participantes.",
+    "El informe de insuficiencia de medios.",
+    "La decisión de dividir en lotes el objeto del contrato."
+   ]
+  },
+  {
+   "id": "pr-23-005",
+   "origen": "practicas",
+   "test": "Examen nº 19 - LCSP (arts 115 a 130)",
+   "n": 5,
+   "enunciado": "Conforme al artículo 117 de la LCSP, señale la afirmación incorrecta sobre la resolución de aprobación del expediente de contratación:",
+   "opciones": [
+    "En ella se dispone la apertura del procedimiento de adjudicación.",
+    "Con carácter general, implica la aprobación del gasto.",
+    "Conlleva la apertura del plazo de presentación de proposiciones.",
+    "Debe ser objeto de publicación en el perfil de contratante."
+   ]
+  }
+ ]
+}

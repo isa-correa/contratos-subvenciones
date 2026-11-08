@@ -1,0 +1,478 @@
+{
+ "pr-23-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 117.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No hay que detenerse en la aprobación: el expediente puede ultimarse más allá.",
+   "Puede adjudicarse y formalizarse, no solo recibir proposiciones.",
+   "Puede formalizarse en el mismo ejercicio, sin posponerlo al siguiente.",
+   "Correcta: el expediente puede ultimarse con la adjudicación y la formalización aunque la ejecución empiece en el ejercicio siguiente (art. 117.2)."
+  ]
+ },
+ "pr-23-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Es obra y 39.500 € es inferior a 40.000 €, así que sí puede ser menor.",
+   "Correcta: la redacción de un proyecto es un servicio y 18.000 € supera el límite de 15.000 €.",
+   "Es suministro y 14.500 € es inferior a 15.000 €, así que puede ser menor.",
+   "Es un servicio y 14.900 € es inferior a 15.000 €, así que puede ser menor."
+  ]
+ },
+ "pr-23-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: es una obra y 18.000 € es inferior a 40.000 € (art. 118.1).",
+   "Obra de 40.000 €: no es inferior al límite, así que no es menor.",
+   "Suministro de 15.000 €: no es inferior al límite, así que no es menor.",
+   "Servicio de 18.000 €: supera el límite de 15.000 €."
+  ]
+ },
+ "pr-23-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.2 a 118.4",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí es necesario: el informe del órgano de contratación sobre necesidad y no fraccionamiento (art. 118.2).",
+   "Correcta: el informe de la oficina de supervisión solo hace falta si la obra afecta a estabilidad, seguridad o estanqueidad (art. 118.4).",
+   "Sí es necesaria: la aprobación del gasto y la factura (art. 118.3).",
+   "Sí es necesario: el presupuesto de las obras y el proyecto si la norma lo exige (art. 118.4)."
+  ]
+ },
+ "pr-23-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.1",
+  "correcta": 2,
+  "justificaciones": [
+   "La tramitación excepcional no existe en la LCSP.",
+   "La emergencia exige acontecimientos catastróficos, grave peligro o defensa nacional, no basta acelerar la adjudicación.",
+   "Correcta: la tramitación urgente es la modalidad para acelerar la adjudicación por razones de interés público (art. 119.1).",
+   "La tramitación anticipada se refiere a ejercicios presupuestarios, no a acelerar la adjudicación."
+  ]
+ },
+ "pr-23-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Sí es especialidad: el expediente goza de preferencia en el despacho.",
+   "Sí es especialidad: cinco días para informes, prorrogables hasta diez (art. 119.2.a).",
+   "Sí es especialidad: el inicio de ejecución no puede pasar de un mes desde la formalización (art. 119.2.c).",
+   "Correcta: el plazo de quince días hábiles de espera antes de formalizar queda expresamente fuera de la reducción a la mitad (art. 119.2.b.1.º)."
+  ]
+ },
+ "pr-23-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: acelerar la adjudicación por interés público habilita la tramitación urgente (art. 119), no la de emergencia.",
+   "Sí habilita la emergencia (art. 120.1).",
+   "Sí habilita la emergencia: situaciones de grave peligro (art. 120.1).",
+   "Sí habilita la emergencia: necesidades de defensa nacional (art. 120.1)."
+  ]
+ },
+ "pr-23-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Es especialidad: puede ordenarse la ejecución sin tramitar expediente (art. 120.1.a).",
+   "Es especialidad: puede contratarse aunque no haya crédito, que se dota después (art. 120.1.a).",
+   "Correcta: el plazo de un mes se cuenta desde el acuerdo de emergencia, no desde una formalización que aquí no existe (art. 120.1.c).",
+   "Es especialidad: se da cuenta al Consejo de Ministros en treinta días (art. 120.1.b)."
+  ]
+ },
+ "pr-23-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 121.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los pliegos generales los aprueba el Consejo de Ministros, a propuesta del Ministro de Hacienda y previo dictamen del Consejo de Estado (art. 121.1).",
+   "El informe de la Junta Consultiva es el trámite de los pliegos de prescripciones técnicas generales, no de los administrativos.",
+   "No los aprueba el Ministro de Hacienda, sino el Consejo de Ministros.",
+   "Ni lo aprueba el ministro ni el trámite es el informe de la Junta."
+  ]
+ },
+ "pr-23-015": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 2,
+  "justificaciones": [
+   "La aprobación es previa o conjunta con la autorización del gasto, y siempre antes de licitar. La fórmula de la opción 0 omite el gasto.",
+   "No los aprueba el responsable del contrato, sino el órgano de contratación.",
+   "Correcta: los aprueba el órgano de contratación previamente a la autorización del gasto o conjuntamente con ella (art. 122.1).",
+   "No los aprueba el responsable del contrato."
+  ]
+ },
+ "pr-23-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No hace falta desistir: el error se corrige modificando el pliego.",
+   "Correcta: los pliegos solo pueden modificarse por error material, de hecho o aritmético, y en ese caso no hay retroacción (art. 122.1).",
+   "No hay retroacción: solo la conlleva la modificación que no sea un error material.",
+   "No hay retroacción, ni al inicio ni a la aprobación, en errores materiales."
+  ]
+ },
+ "pr-23-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No son no esenciales: la ley las califica de esenciales.",
+   "Ni son no esenciales ni dejan de ser causa de resolución.",
+   "Son esenciales, pero su incumplimiento sí es causa de resolución.",
+   "Correcta: son obligaciones esenciales a efectos del art. 211.1.f y su incumplimiento es causa de resolución (art. 122.2)."
+  ]
+ },
+ "pr-23-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122",
+  "correcta": 1,
+  "justificaciones": [
+   "No es nula: la estipulación es admisible si no contradice la ley.",
+   "Correcta: se admite si la Junta Consultiva de Contratación Pública del Estado informa con carácter previo (art. 122).",
+   "No hace falta dictamen del Consejo de Estado, sino informe de la Junta Consultiva.",
+   "No basta el informe del servicio jurídico: lo emite la Junta Consultiva."
+  ]
+ },
+ "pr-23-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 123",
+  "correcta": 3,
+  "justificaciones": [
+   "No lo aprueba el órgano de contratación ni hace falta dictamen del Consejo de Estado.",
+   "No lo aprueba el órgano de contratación.",
+   "Lo aprueba el Consejo de Ministros, pero previo informe de la Junta Consultiva, no dictamen del Consejo de Estado.",
+   "Correcta: el Consejo de Ministros, previo informe de la Junta Consultiva de Contratación Pública del Estado (art. 123)."
+  ]
+ },
+ "pr-23-020": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 126.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: solo se admite la referencia a una marca con la mención 'o equivalente' cuando no sea posible describir el objeto con precisión (art. 126).",
+   "El número de distribuidores no justifica la referencia.",
+   "Simplificar la descripción no justifica la referencia a una marca.",
+   "Un informe técnico basado en suministros anteriores no justifica la referencia."
+  ]
+ },
+ "pr-24-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.b",
+  "correcta": 2,
+  "justificaciones": [
+   "140.000 € es el umbral de la AGE, sus organismos autónomos y las entidades gestoras, y la Junta de Castilla y León no es ninguno de ellos.",
+   "El umbral se alcanza con la cifra igual, no solo superior, y no es de 140.000 €.",
+   "Correcta: para las entidades distintas de la AGE el umbral es igual o superior a 216.000 € (art. 22.1.b).",
+   "215.000 € no es el umbral actual y la expresión es 'igual o superior'."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-24-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el derecho de explotación implica la transferencia del riesgo operacional al concesionario (art. 15.2).",
+   "Un precio cierto no encaja con la concesión: la contrapartida es la explotación.",
+   "El riesgo operacional se transfiere al concesionario, no permanece en el poder adjudicador.",
+   "El riesgo operacional no desaparece por tratarse de un servicio público."
+  ]
+ },
+ "pr-24-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a",
+  "correcta": 2,
+  "justificaciones": [
+   "Los servicios sociales personalísimos no figuran entre los contratos privados del art. 25.1.a.",
+   "Las compraventas y donaciones de bienes muebles no son contratos privados del art. 25.1.a.",
+   "Correcta: los servicios de creación e interpretación artística y literaria son privados aunque los celebre una AP (art. 25.1.a.1.º).",
+   "No siempre son administrativos: hay contratos privados de las Administraciones."
+  ]
+ },
+ "pr-24-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 3,
+  "justificaciones": [
+   "No es administrativo especial: encaja en el tipo de servicios.",
+   "La obra no es una actividad sino un resultado de construcción.",
+   "El suministro consiste en adquirir bienes, no en hacer una actividad.",
+   "Correcta: el contrato de servicios tiene por objeto prestaciones de hacer consistentes en el desarrollo de una actividad (art. 17)."
+  ]
+ },
+ "pr-24-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 2,
+  "justificaciones": [
+   "Las fundaciones públicas son poderes adjudicadores, pero no Administraciones Públicas.",
+   "Las sociedades mercantiles estatales no son AP: son sector público.",
+   "Correcta: las universidades públicas son Administración Pública (arts. 3.1.c y 3.2.a).",
+   "Las mutuas colaboradoras son poderes adjudicadores, pero no AP."
+  ]
+ },
+ "pr-24-006": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: si la concesión de servicios lleva aparejada la ejecución de obras, el máximo es de cuarenta años, aunque sea sanitaria (art. 29.6).",
+   "Veinticinco años es el máximo de la concesión de servicios genérica, sin obras.",
+   "Cinco años no es el límite de las concesiones.",
+   "Diez años es el máximo de los servicios sanitarios sin obras, y aquí hay obras."
+  ]
+ },
+ "pr-24-007": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.4",
+  "correcta": 1,
+  "justificaciones": [
+   "Seis años excede el límite legal.",
+   "Correcta: cinco años como máximo, incluyendo las posibles prórrogas (art. 29.4).",
+   "Un año es el límite de los contratos menores.",
+   "Las prórrogas computan dentro del límite."
+  ]
+ },
+ "pr-24-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.3.c",
+  "correcta": 1,
+  "justificaciones": [
+   "Las Entidades Gestoras de la Seguridad Social son Administración Pública.",
+   "Correcta: las mutuas colaboradoras son poderes adjudicadores que no son Administraciones Públicas (art. 3.3.c).",
+   "Las entidades de carácter industrial o mercantil no son poderes adjudicadores.",
+   "Los fondos sin personalidad jurídica son sector público, pero no son poder adjudicador."
+  ]
+ },
+ "pr-24-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 26.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "El arrendamiento de un edificio queda excluido de la LCSP (art. 9.2).",
+   "Correcta: los contratos de una EPE, que no es AP, son privados (art. 26.1.b).",
+   "Un contrato de servicios de una CA es administrativo, no mixto.",
+   "Una concesión de obras de una AP es administrativa, no privada."
+  ]
+ },
+ "pr-24-010": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 25 y 26",
+  "correcta": 2,
+  "justificaciones": [
+   "No siempre son de regulación armonizada: depende del valor.",
+   "No siempre son privados: los de obras, suministro y servicios son administrativos.",
+   "Correcta: las AP celebran contratos administrativos y también privados (art. 26.1.a).",
+   "No siempre son administrativos."
+  ]
+ },
+ "pr-24-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.d",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la adquisición de energía primaria o transformada es suministro (art. 16.3.d).",
+   "No es mixto: la ley lo califica expresamente como suministro.",
+   "No es de servicios: la energía es un bien que se adquiere.",
+   "No es concesión de servicios: no hay explotación de un servicio con riesgo operacional."
+  ]
+ },
+ "pr-24-012": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 11.3",
+  "correcta": 3,
+  "justificaciones": [
+   "La concesión de obras está dentro de la LCSP.",
+   "Los contratos de creación e interpretación artística están en la LCSP, como privados.",
+   "Los contratos de servicios están en la LCSP.",
+   "Correcta: los servicios de arbitraje y conciliación están excluidos (art. 11.3)."
+  ]
+ },
+ "pr-24-014": {
+  "bloque": "lcsp-general",
+  "precepto": "DA 12.ª",
+  "correcta": 1,
+  "justificaciones": [
+   "Es al revés: la regla general son días hábiles.",
+   "Correcta: los plazos en días se cuentan en días hábiles, salvo que la LCSP diga que son naturales.",
+   "No se distingue entre procedimiento y ejecución.",
+   "Tampoco: no hay esa distinción."
+  ],
+  "revisar": "Cita DA 12.ª LCSP; confirmar la referencia en la nota del calendario de la app."
+ },
+ "pr-24-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.3",
+  "correcta": 2,
+  "justificaciones": [
+   "Los contratos basados en acuerdo marco no se perfeccionan con formalización, sino con adjudicación.",
+   "La publicación en el DOUE no perfecciona el contrato.",
+   "Correcta: se perfeccionan con su adjudicación (art. 36.3).",
+   "No se remite a otra legislación: es el art. 36.3 de la LCSP, salvo los contratos subvencionados."
+  ]
+ },
+ "pr-24-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 69.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No hace falta escritura en la presentación de la proposición.",
+   "Correcta: se exige la escritura pública una vez adjudicado el contrato a la unión (art. 69.1).",
+   "No se exige al publicar el anuncio.",
+   "No se exige al constituir la garantía."
+  ]
+ },
+ "pr-24-018": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: efectos y extinción de los contratos de entidades que no son poder adjudicador van al orden civil (art. 27.2.b).",
+   "El orden social no es competente.",
+   "El orden penal no es competente.",
+   "El contencioso conoce de la preparación y adjudicación, no de los efectos y la extinción."
+  ]
+ },
+ "pr-24-019": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6",
+  "correcta": 1,
+  "justificaciones": [
+   "Veinticinco años es el tope de la concesión de servicios genérica.",
+   "Correcta: las concesiones de obras tienen un máximo de cuarenta años (art. 29.6).",
+   "Cincuenta años excede el límite.",
+   "Sesenta años excede el límite."
+  ]
+ },
+ "pr-24-020": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13",
+  "correcta": 3,
+  "justificaciones": [
+   "Es correcta: construcción o ingeniería civil sobre un bien inmueble (art. 13.1).",
+   "Es correcta: trabajos que modifiquen la forma o sustancia del terreno o del vuelo (art. 13.2).",
+   "Es correcta: mejora del medio físico o natural (art. 13.2).",
+   "Es la incorrecta: la obra recae sobre un bien inmueble, no sobre un bien mueble."
+  ]
+ },
+ "pr-24-021": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 20.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Las concesiones de servicios pueden estar sujetas a regulación armonizada.",
+   "5.350.000 € no es el umbral vigente.",
+   "5.382.000 € no es el umbral vigente.",
+   "Correcta: el umbral de las concesiones de servicios es 5.404.000 € (art. 20.1)."
+  ],
+  "revisar": "Los umbrales de regulación armonizada se actualizan cada dos años."
+ },
+ "pr-24-022": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: suministros y servicios son recurribles si el valor estimado supera 100.000 € (art. 44.1.a).",
+   "140.000 € es un umbral de regulación armonizada, no de recurso.",
+   "216.000 € es un umbral de regulación armonizada, no de recurso.",
+   "500.000 € es el umbral de clasificación en obras."
+  ]
+ },
+ "pr-24-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 66.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No pueden contratar con independencia de su objeto social.",
+   "No solo pueden contratar obras.",
+   "Correcta: solo pueden ser adjudicatarias de contratos cuyas prestaciones estén dentro de sus fines o ámbito estatutario (art. 66.1).",
+   "Pueden ser adjudicatarias de contratos armonizados."
+  ]
+ },
+ "pr-24-024": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 62.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Convocar licitaciones corresponde al órgano de contratación.",
+   "Formalizar el contrato corresponde al órgano de contratación.",
+   "Correcta: supervisa la ejecución y adopta las decisiones e instrucciones para asegurar la correcta realización de la prestación (art. 62.1).",
+   "Los acuerdos de información previa no son función del responsable del contrato."
+  ]
+ },
+ "pr-24-025": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 57.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: pasados dos meses desde la interposición sin resolución puede entenderse desestimado (art. 57.5).",
+   "Tres meses no es el plazo legal.",
+   "Seis meses no es el plazo legal.",
+   "Quince días hábiles es el plazo para interponer el recurso."
+  ]
+ },
+ "pr-24-026": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 1.3",
+  "correcta": 2,
+  "justificaciones": [
+   "La incorporación es preceptiva, no progresiva.",
+   "Los criterios deben guardar relación con el objeto del contrato.",
+   "Correcta: de manera transversal y preceptiva, siempre que guarden relación con el objeto del contrato (art. 1.3).",
+   "No es progresiva ni vale sin relación con el objeto."
+  ]
+ },
+ "pr-24-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 82.1",
+  "correcta": 2,
+  "justificaciones": [
+   "La vigencia no es de un año, sino indefinida mientras se mantengan las condiciones.",
+   "La solvencia económica se justifica cada año y la técnica cada tres, al revés de lo que dice esta opción, y no es el plazo de vigencia.",
+   "Correcta: la vigencia es indefinida mientras se mantengan las condiciones (art. 82.1).",
+   "Es el plazo de justificación de la solvencia, no la vigencia de la clasificación."
+  ]
+ },
+ "pr-24-028": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 45.5",
+  "correcta": 3,
+  "justificaciones": [
+   "No son cuatro años ni prorrogables.",
+   "No son cuatro años: el mandato dura seis años (art. 45.5).",
+   "El mandato no es prorrogable.",
+   "Correcta: seis años sin posibilidad de prórroga (art. 45.5)."
+  ]
+ },
+ "pr-24-029": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 72.6",
+  "correcta": 3,
+  "justificaciones": [
+   "Tres años es el máximo para el resto de supuestos.",
+   "Cuatro años no es un plazo legal.",
+   "Un año no es un plazo legal.",
+   "Correcta: cinco años desde la condena por sentencia firme (art. 72.6)."
+  ]
+ },
+ "pr-24-030": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 53",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la tramitación se suspende cuando el acto recurrido es el acuerdo de adjudicación (art. 53).",
+   "El rescate de concesiones no suspende por sí solo.",
+   "El anuncio de licitación no suspende por sí solo.",
+   "Los pliegos no suspenden por sí solos."
+  ]
+ }
+}

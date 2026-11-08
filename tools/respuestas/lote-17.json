@@ -1,0 +1,554 @@
+{
+ "of-02-026": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.7",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El recurso especial es potestativo y gratuito para los recurrentes (**art. 44.7**).",
+   "No. Es gratuito, no hay tasa (**art. 44.7**).",
+   "No. Sí es potestativo y sí es gratuito (**art. 44.7**).",
+   "No. La gratuidad no depende de acreditar insuficiencia de recursos (**art. 44.7**)."
+  ]
+ },
+ "of-02-027": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 34.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los pactos no pueden ser contrarios al interés público, al ordenamiento jurídico ni a los principios de buena administración (**art. 34.1**).",
+   "No. La ley no habla de orden público ni de buena fe en esa lista (**art. 34.1**).",
+   "No. La moral y el orden público son la fórmula del Código Civil, no la de la LCSP (**art. 34.1**).",
+   "No. Los principios generales del derecho no figuran en la lista (**art. 34.1**)."
+  ]
+ },
+ "of-03-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un contrato de obras está sujeto a regulación armonizada desde 5.404.000 euros, y este vale 760.000 (**art. 20.1**).",
+   "No. La garantía provisional no es preceptiva: solo se exige de forma excepcional (**art. 106.1**).",
+   "No. Es cierto que la solvencia se acredita según el anuncio, pero aquí la clasificación es obligatoria, así que esta no es la respuesta correcta (**art. 77.1.a**).",
+   "Es esta. En obras de valor estimado igual o superior a 500.000 euros la clasificación como contratista de obras es requisito indispensable (**art. 77.1.a**)."
+  ]
+ },
+ "of-03-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Solo se exige excepcionalmente, y no puede superar el 3 % del presupuesto base de licitación, IVA excluido (**art. 106.1 y 2**).",
+   "No. No se exige en todo caso. La regla es que no procede (**art. 106.1**).",
+   "No. Ni se exige siempre ni el tope es del 5 % (**art. 106**).",
+   "No. Ni se exige siempre ni se calcula con IVA incluido (**art. 106**)."
+  ]
+ },
+ "of-03-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.7",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Cada lote es un contrato, salvo que haya ofertas integradoras, en cuyo caso todas las ofertas constituyen un contrato (**art. 99.7**).",
+   "No. La regla general es que cada lote es un contrato (**art. 99.7**).",
+   "No. Con ofertas integradoras, todas las ofertas constituyen un contrato (**art. 99.7**).",
+   "No. El número de lotes no cambia la regla (**art. 99.7**)."
+  ]
+ },
+ "of-03-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 89.1.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Esa declaración de plantilla es medio de solvencia en obras y en servicios, no en suministros (**arts. 88.1.e y 90.1.g**).",
+   "Es esta. La descripción de las instalaciones técnicas, de las medidas de calidad y de los medios de estudio e investigación es un medio de solvencia en suministros (**art. 89.1.c**).",
+   "No. La relación de suministros abarca como máximo los tres últimos años, no cinco (**art. 89.1.a**).",
+   "No. Las medidas de gestión medioambiental son un medio para obras y servicios, no para suministros (**arts. 88.1.d y 90.1.f**)."
+  ]
+ },
+ "of-03-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 84.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No se exige una certificación de todos los socios (**art. 84.1**).",
+   "No. Un acta del Consejo de Administración no acredita la capacidad de obrar (**art. 84.1**).",
+   "Es esta. Se acredita con la escritura o documento de constitución, los estatutos o el acta fundacional, inscritos en su caso en el registro que corresponda (**art. 84.1**).",
+   "No. Una declaración jurada no basta (**art. 84.1**)."
+  ]
+ },
+ "of-03-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 88.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la falsa. La relación de obras abarca los cinco últimos años, no tres (**art. 88.1.a**).",
+   "Es verdadera. Los títulos académicos y profesionales del empresario y los directivos son un medio válido (**art. 88.1.c**).",
+   "Es verdadera. La declaración de maquinaria, material y equipo técnico es un medio válido (**art. 88.1.f**).",
+   "Es verdadera. La declaración de plantilla media anual y directivos de los tres últimos años es un medio válido (**art. 88.1.e**)."
+  ]
+ },
+ "of-03-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 107.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El requerimiento se cumple en diez días hábiles, no en cinco (**art. 150.2**).",
+   "No. La garantía definitiva la constituye solo quien presenta la mejor oferta (**art. 107.1**).",
+   "No. No depende de un umbral de 100.000 euros. Solo puede eximirse con justificación en el pliego (**art. 107.1**).",
+   "Es esta. Con carácter general es el 5 % del precio final ofertado, excluido el IVA (**art. 107.1**)."
+  ]
+ },
+ "of-03-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Sí se tiene en cuenta. Los gastos generales de estructura (**art. 101.2**).",
+   "Sí se tiene en cuenta. El beneficio industrial (**art. 101.2**).",
+   "Es esta. El valor estimado no incluye el IVA (**art. 101.1.a**).",
+   "Sí se tienen en cuenta. Las eventuales prórrogas (**art. 101.2.a**)."
+  ]
+ },
+ "of-03-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Los criterios de solvencia se justifican en el expediente, pero no son lo que la ley manda motivar respecto del objeto (**art. 116.4.c**).",
+   "No. La elección del procedimiento se justifica en el expediente, pero no es una cuestión del objeto (**art. 116.4.a**).",
+   "No. El presupuesto no es lo que se motiva en relación con el objeto (**art. 99**).",
+   "Es esta. Si no se divide el objeto en lotes, hay que motivarlo en el expediente (**art. 99.3 y 116.4.g**)."
+  ]
+ },
+ "of-03-010": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.2.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El importe de adjudicación se conoce después y no entra en el cálculo previo (**art. 101**).",
+   "No. Los impuestos no se incluyen, y menos todos (**art. 101.1.a**).",
+   "No. El IVA queda fuera (**art. 101.1.a**).",
+   "Es esta. Deben tenerse en cuenta las opciones eventuales y las prórrogas (**art. 101.2.a**)."
+  ]
+ },
+ "of-03-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 84.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se acredita con la escritura o documento de constitución, los estatutos o el acta fundacional (**art. 84.1**).",
+   "No. La clasificación no acredita la capacidad de obrar, sino la solvencia (**art. 77**).",
+   "No. La clasificación no acredita la capacidad de obrar, y en servicios no se exige (**art. 77.1.b**).",
+   "No. El volumen anual de negocios es un medio de solvencia económica (**art. 87.1.a**)."
+  ]
+ },
+ "of-03-012": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 108.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El título de propiedad de inmuebles con tasación no es una forma de prestar garantía definitiva. Las formas son efectivo o valores, aval y seguro de caución (**art. 108.1**).",
+   "Sí es admisible. El contrato de seguro de caución (**art. 108.1.c**).",
+   "Sí es admisible. En efectivo o en valores de Deuda Pública (**art. 108.1.a**).",
+   "Sí es admisible. El aval prestado por una entidad bancaria (**art. 108.1.b**)."
+  ]
+ },
+ "of-03-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. La garantía provisional no se exige como regla general (**art. 106.1**).",
+   "Es esta. Solo puede exigirse excepcionalmente, por motivos de interés público y justificándolo en el expediente (**art. 106.1**).",
+   "No. La ley no la prohíbe en los contratos privados con ese argumento (**art. 106**).",
+   "No. El tope es el 3 % del presupuesto base de licitación sin IVA. El valor estimado solo sirve en acuerdos marco y sistemas dinámicos (**art. 106.2**)."
+  ]
+ },
+ "of-03-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La ley no exige que el objeto sea oneroso en este artículo (**art. 99.1**).",
+   "No. Dice 'determinado', no 'definido' (**art. 99.1**).",
+   "Es esta. El objeto de los contratos del sector público debe ser determinado (**art. 99.1**).",
+   "No. No exige que sea de interés público en ese artículo (**art. 99.1**)."
+  ]
+ },
+ "of-03-015": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 101.1.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El IVA nunca se incluye (**art. 101.1.a**).",
+   "No. No hay excepción para obras de más de 120.000 euros (**art. 101.1.a**).",
+   "No. El IVA no se incluye en ningún caso (**art. 101.1.a**).",
+   "Es esta. El valor estimado no incluye nunca el IVA (**art. 101.1.a**)."
+  ]
+ },
+ "of-03-016": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 103.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los costes de mano de obra de contratos que no son de obra se revisan cuando la recuperación de la inversión sea de cinco años o más y el factor trabajo sea significativo (**art. 103.2**).",
+   "No. Los costes financieros no son revisables en ningún caso (**art. 103.2**).",
+   "No. Los costes de amortización no son revisables en ningún caso (**art. 103.2**).",
+   "No. El beneficio industrial no es revisable en ningún caso (**art. 103.2**)."
+  ]
+ },
+ "of-04-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Hay que usar una pluralidad de criterios, no solo el precio (**art. 145.1**).",
+   "Es esta. Se adjudica con una pluralidad de criterios basados en la mejor relación calidad-precio (**art. 145.1**).",
+   "No. El criterio de coste-eficacia es una alternativa excepcional que exige justificación (**art. 145.1**).",
+   "No. Se evalúa con criterios económicos y cualitativos, no solo cualitativos (**art. 145.2**)."
+  ]
+ },
+ "of-04-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se inicia por el órgano de contratación motivando la necesidad del contrato (**art. 116.1**).",
+   "No. La convocatoria llega después de aprobar el expediente (**art. 117**).",
+   "No. El pliego se incorpora al expediente, no lo inicia (**art. 116.3**).",
+   "No. La aprobación del gasto se produce al aprobar el expediente (**art. 117.1**)."
+  ]
+ },
+ "of-04-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se cuenta el valor estimado, no el presupuesto de licitación, y el umbral es 40.000 euros (**art. 118.1**).",
+   "No. En obras el umbral es 40.000 euros, no 50.000 (**art. 118.1**).",
+   "Es esta. En obras, valor estimado inferior a 40.000 euros (**art. 118.1**).",
+   "No. Se usa el valor estimado y no el presupuesto de licitación (**art. 118.1**)."
+  ]
+ },
+ "of-04-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 122.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se aprueban antes de la autorización del gasto o junto con ella, no después (**art. 122.1**).",
+   "No. También pueden aprobarse conjuntamente con ella (**art. 122.1**).",
+   "No. También pueden aprobarse antes (**art. 122.1**).",
+   "Es esta. Previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación (**art. 122.1**)."
+  ]
+ },
+ "of-04-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 119.2.c",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En emergencia el mes se cuenta desde el acuerdo, no desde la formalización (**art. 120.1.c**).",
+   "No. Los cinco días para informes son propios de la tramitación urgente, no de la de emergencia (**art. 119.2.a**).",
+   "Es esta. En la tramitación urgente el plazo de inicio de la ejecución no puede exceder de un mes desde la formalización (**art. 119.2.c**).",
+   "No. No son dos meses, sino uno (**art. 119.2.c**)."
+  ]
+ },
+ "of-04-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 121.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. El órgano de contratación no aprueba pliegos generales (**art. 121.1**).",
+   "No. Los aprueba el Consejo de Ministros a propuesta del Ministro de Hacienda, no este Ministro previo informe de la Junta (**art. 121.1**).",
+   "No. El órgano de contratación no los aprueba y el informe preceptivo no es el de la Junta (**art. 121.1**).",
+   "Es esta. Los aprueba el Consejo de Ministros, a propuesta del Ministro de Hacienda y previo dictamen del Consejo de Estado (**art. 121.1**)."
+  ]
+ },
+ "of-04-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El umbral no es de 45.000 euros (**art. 118.1**).",
+   "No. El umbral no es de 55.000 euros (**art. 118.1**).",
+   "Es esta. Obras de valor estimado inferior a 40.000 euros (**art. 118.1**).",
+   "No. 50.000 euros no es el umbral (**art. 118.1**)."
+  ]
+ },
+ "of-04-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.1.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. El plazo de inicio de la ejecución no puede ser superior a un mes desde la adopción del acuerdo (**art. 120.1.c**).",
+   "No. El plazo es de un mes (**art. 120.1.c**).",
+   "No. El plazo es de un mes (**art. 120.1.c**).",
+   "No. El plazo es de un mes (**art. 120.1.c**)."
+  ]
+ },
+ "of-04-009": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.1.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Se da cuenta al Consejo de Ministros, no al Presidente (**art. 120.1.b**).",
+   "No. El plazo es de treinta días, no sesenta (**art. 120.1.b**).",
+   "No. Se da cuenta al Consejo de Ministros, no al Presidente (**art. 120.1.b**).",
+   "Es esta. Se da cuenta al Consejo de Ministros en el plazo máximo de treinta días (**art. 120.1.b**)."
+  ]
+ },
+ "of-04-010": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. Un requisito de ejecución es una condición del contrato, no un procedimiento (**art. 202**).",
+   "No. No es un procedimiento abreviado (**art. 131.2**).",
+   "No. No es un medio de acreditar la solvencia (**art. 87**).",
+   "Es esta. La asociación para la innovación es uno de los procedimientos de adjudicación (**art. 131.2**)."
+  ]
+ },
+ "of-04-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En suministros el contrato menor es el de valor estimado inferior a 15.000 euros, y 18.000 lo supera (**art. 118.1**).",
+   "No. 35.000 euros no es el umbral de suministros (**art. 118.1**).",
+   "No. 25.000 euros no es el umbral de suministros (**art. 118.1**).",
+   "No. 40.000 euros es el umbral de las obras, no el de suministros (**art. 118.1**)."
+  ]
+ },
+ "of-04-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Eso solo vale si se califica como servicio, y el umbral es 'inferior a' 15.000 (**art. 118.1**).",
+   "No. 5.000 euros es otra regla, la del anticipo de caja fija (**art. 118.5**).",
+   "Es esta. Arreglar una puerta es una obra de reparación, y el umbral de obras menores es inferior a 40.000 euros (**art. 118.1**).",
+   "No. 60.000 euros no es umbral de contrato menor (**art. 118.1**)."
+  ],
+  "ojo": "El enunciado no dice si es obra o servicio. Se resuelve como obra de reparación, con umbral de 40.000 euros.",
+  "revisar": "Calificación del arreglo de una puerta como obra. Si se tratara como servicio, el umbral sería 15.000 euros."
+ },
+ "of-04-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los contratos de servicios menores son los de valor estimado inferior a 15.000 euros (**art. 118.1**).",
+   "No. El umbral de obras es 40.000 euros, no 50.000 (**art. 118.1**).",
+   "No. En servicios el umbral es 15.000 euros, no 20.000 (**art. 118.1**).",
+   "No. En suministros el umbral es 15.000 euros, no 20.000 (**art. 118.1**)."
+  ]
+ },
+ "of-04-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.4.f",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No se exige en suministros (**art. 116.4.f**).",
+   "Es esta. El informe de insuficiencia de medios se justifica en los contratos de servicios (**art. 116.4.f**).",
+   "No. No se exige en suministros (**art. 116.4.f**).",
+   "No. No se exige en obras ni en suministros (**art. 116.4.f**)."
+  ]
+ },
+ "of-04-015": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 123",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los aprueba el Consejo de Ministros, a propuesta del ministro correspondiente y previo informe de la Junta Consultiva (**art. 123**).",
+   "No. No los aprueba la Ministra de Hacienda (**art. 123**).",
+   "No. Esa es la regla de los pliegos particulares, no de los generales (**art. 124**).",
+   "No. La Junta Consultiva informa pero no aprueba (**art. 123**)."
+  ]
+ },
+ "of-04-016": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 147.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El sorteo es el último criterio, si los anteriores no desempatan (**art. 147.2.d**).",
+   "Es esta. El primer criterio es el mayor porcentaje de trabajadores con discapacidad o en exclusión social en la plantilla (**art. 147.2.a**).",
+   "No. Las mujeres empleadas son el tercer criterio (**art. 147.2.c**).",
+   "No. Los contratos temporales son el segundo criterio (**art. 147.2.b**)."
+  ]
+ },
+ "of-04-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 118.1 y 29.8",
+  "correcta": 1,
+  "justificaciones": [
+   "No. El umbral de obras es 40.000 euros y no pueden prorrogarse (**arts. 118.1 y 29.8**).",
+   "Es esta. Valor estimado inferior a 40.000 euros y duración no superior a un año, sin prórroga (**arts. 118.1 y 29.8**).",
+   "No. Ni el umbral ni la duración son esos (**arts. 118.1 y 29.8**).",
+   "No. Los menores no pueden prorrogarse (**art. 29.8**)."
+  ]
+ },
+ "of-04-018": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.4",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El umbral no es de 15.000 euros (**art. 131.4**).",
+   "No. El umbral es de 30.000 euros, no de 100.000 (**art. 131.4**).",
+   "Es esta. Con valor estimado inferior a 30.000 euros no se aplican las reglas de preparación y adjudicación (**art. 131.4**).",
+   "No. El umbral no es de 40.000 euros (**art. 131.4**)."
+  ]
+ },
+ "of-04-019": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. En obras el umbral es 40.000 euros, no 60.000 (**art. 118.1**).",
+   "Es esta. En suministros y servicios, valor estimado inferior a 15.000 euros (**art. 118.1**).",
+   "No. El umbral depende del tipo de contrato (**art. 118.1**).",
+   "No. No existe un umbral general de 60.000 euros (**art. 118.1**)."
+  ]
+ },
+ "of-04-020": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. La regla ordinaria es la mejor relación calidad-precio, no el menor precio (**art. 131.2**).",
+   "No. La ley no fija un mínimo de dos ni un máximo de cinco criterios (**art. 131.2**).",
+   "Es esta. Ordinariamente se usa una pluralidad de criterios basados en la mejor relación calidad-precio (**art. 131.2**).",
+   "No. Ni hay ese número de criterios ni el principio es el menor precio (**art. 131.2**)."
+  ]
+ },
+ "of-04-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 145.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Hay que usar varios criterios (**art. 145.1**).",
+   "Es esta. Se utiliza una pluralidad de criterios basados en la mejor relación calidad-precio (**art. 145.1**).",
+   "No. Se usan criterios económicos y cualitativos (**art. 145.2**).",
+   "No. Tampoco son solo cuantitativos (**art. 145.2**)."
+  ]
+ },
+ "of-04-022": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 117.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No. La garantía provisional no es la regla. Solo se exige excepcionalmente (**art. 106.1**).",
+   "No. La preferencia de despacho es propia de la tramitación urgente (**art. 119.2.a**).",
+   "No. Eso se motiva en el informe de los contratos menores (**art. 118.2**).",
+   "Es esta. La resolución que aprueba el expediente implica también la aprobación del gasto (**art. 117.1**)."
+  ]
+ },
+ "of-04-023": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 120.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. Se puede actuar sin sujetarse a los requisitos formales, incluso el de la existencia de crédito suficiente (**art. 120.1.a**).",
+   "No. Se da cuenta al Consejo de Ministros, no al Consejo de Estado (**art. 120.1.b**).",
+   "Es esta. Las prestaciones complementarias sin carácter de emergencia se contratan por la tramitación ordinaria (**art. 120.2**).",
+   "No. El plazo de inicio es de un mes, no de dos (**art. 120.1.c**)."
+  ]
+ },
+ "of-05-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.b",
+  "correcta": 2,
+  "justificaciones": [
+   "No. El plazo mínimo es de quince días, y de veinte en obras (**art. 159.3**).",
+   "No. Solo se publica en el perfil de contratante (**art. 159.2**).",
+   "Es esta. No procede la garantía provisional (**art. 159.4.b**).",
+   "No. Se exige estar inscrito en el Registro Oficial de Licitadores, no tener clasificación (**art. 159.4.a**)."
+  ]
+ },
+ "of-05-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. En este supuesto no se requiere garantía definitiva (**art. 159.6.f**).",
+   "No. Tampoco se exige garantía del 2 % (**art. 159.6.f**).",
+   "No. No se exige clasificación (**art. 159.6**).",
+   "Es esta. Se exime a los licitadores de acreditar la solvencia (**art. 159.6.b**)."
+  ]
+ },
+ "of-05-003": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Las obras solo pueden por debajo de 80.000 euros (**art. 159.6**).",
+   "Es esta. Servicios por debajo de 60.000 euros evaluados solo con fórmulas (**art. 159.6**).",
+   "No. En el sumario las ofertas se evalúan solo con criterios de fórmula, así que no admite juicio de valor (**art. 159.6.c**).",
+   "No. El umbral en servicios es 60.000 euros (**art. 159.6**)."
+  ]
+ },
+ "of-05-004": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 151.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Se publica en 15 días, que son naturales salvo que la ley diga hábiles (**art. 151.1 y DA 12.ª**).",
+   "No. Diez días no es el plazo (**art. 151.1**).",
+   "No. El plazo es de 15 días, pero naturales, no hábiles (**DA 12.ª**).",
+   "No. El plazo no es de diez días (**art. 151.1**)."
+  ]
+ },
+ "of-05-005": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 131.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Es uno de los procedimientos de adjudicación (**art. 131.2**).",
+   "No. No es un medio de solvencia (**art. 87**).",
+   "No. No es un procedimiento abreviado (**art. 131.2**).",
+   "No. No es un requisito de ejecución (**art. 202**)."
+  ]
+ },
+ "of-05-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. En obras el plazo mínimo es de veinte días desde la publicación (**art. 159.3**).",
+   "No. Es un mínimo, no un máximo (**art. 159.3**).",
+   "No. En el simplificado no se reducen los plazos por urgencia (**art. 159.5**).",
+   "No. El mínimo en obras es de veinte días, no de veintiséis (**art. 159.3**)."
+  ]
+ },
+ "of-05-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Un contrato menor de servicios exige un valor estimado inferior a 15.000 euros (**art. 118.1**).",
+   "Es esta. En servicios intelectuales el juicio de valor puede llegar al 45 %, y el valor estimado debe ser inferior a 140.000 euros (**art. 159.1**).",
+   "No. En la AGE se sujeta a regulación armonizada desde 140.000 euros (**art. 22.1.a**).",
+   "No. La exención de solvencia del 159.6 no se aplica a prestaciones intelectuales (**art. 159.6**)."
+  ]
+ },
+ "of-05-008": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No. En obras el contrato menor es el de valor estimado inferior a 40.000 euros (**art. 118.1**).",
+   "No. El sumario exige evaluar solo con fórmulas, y aquí hay un 20 % de juicio de valor (**art. 159.6.c**).",
+   "Es esta. Cabe el abierto simplificado: obras hasta 2.000.000 de euros y juicio de valor que no supere el 25 % (**art. 159.1**).",
+   "No. Sí cabe, porque se cumplen las dos condiciones del art. 159.1."
+  ]
+ },
+ "of-05-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 158.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Se cuenta desde la apertura, no desde que acaba el plazo de presentación (**art. 158.1**).",
+   "Es esta. Quince días desde el siguiente a la apertura de las proposiciones (**art. 158.1**).",
+   "No. El plazo es de quince días y no se cuenta desde la publicación (**art. 158.1**).",
+   "No. Ni el plazo ni el origen son esos (**art. 158.1**)."
+  ]
+ }
+}

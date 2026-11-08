@@ -1,0 +1,704 @@
+{
+ "casos": {
+  "caso-61": {
+   "id": "caso-61",
+   "titulo": "Bloque III.- Supuesto 25",
+   "texto": "El Ministerio del Interior va a poner en marcha una nueva Oficina de Documentación para la expedición de DNI y pasaportes en el municipio de Alcalá de Henares, con apertura prevista para el segundo trimestre de 2026. La oficina se concibe como un punto de atención innovador, orientado a mejorar la experiencia del ciudadano y reducir los tiempos de espera. A tal fin, el órgano competente está impulsando de forma coordinada las actuaciones necesarias para su puesta en marcha y funcionamiento. En primer lugar, con carácter previo a la apertura, resulta imprescindible acometer las obras de adecuación del local en el que se ubicará la oficina. El expediente se tramita mediante procedimiento abierto, con un presupuesto base de licitación de 1.787.320 € (IVA excluido), previéndose en los pliegos una posible modificación de hasta el 20% del precio inicial, y estableciéndose como criterios de adjudicación el precio (70%) y el plazo de ejecución (30%), ambos evaluables mediante fórmulas. En segundo lugar, se prevé la celebración de un contrato cuyo objeto es el arrendamiento de equipos biométricos para la expedición de DNI y pasaportes, con una duración de un año, prorrogable por otro. El contrato, que se tramita mediante procedimiento abierto simplificado ordinario, tiene un presupuesto base de licitación de 58.450 € (IVA excluido), y se establece como criterio de adjudicación, además del precio, la ergonomía del equipo, que será evaluada mediante juicio de valor. En tercer lugar, consta la tramitación de un contrato de servicios en materia de ciberseguridad. El contrato se tramita mediante procedimiento abierto simplificado sumario, con una duración de un mes y un presupuesto base de licitación de 17.980 € (IVA incluido). No se contemplan prórrogas, modificaciones ni opciones eventuales, y todos los criterios de adjudicación son evaluables mediante fórmulas. Además, para la puesta en marcha de la nueva oficina, se prevé la tramitación de los siguientes expedientes de contratación: - Suministro de consumibles informáticos, adjudicado como contrato específico dentro de un sistema dinámico de adquisición. - Contrato menor de servicios de retirada y destrucción certificada de documentación. - Contrato de creación e interpretación artística y literaria para el acto institucional de apertura de la Oficina de Documentación. - Contrato de servicios sociales (Anexo IV), de apoyo y acompañamiento a colectivos vulnerables en la tramitación de DNI y pasaporte. En relación con el supuesto planteado, se formulan las siguientes preguntas:"
+  }
+ },
+ "calendarios": {
+  "feb2026": {
+   "titulo": "Calendario febrero 2026",
+   "year": 2026,
+   "meses": [
+    2
+   ],
+   "festivos": [],
+   "nota": "Los domingos también van en rojo."
+  }
+ },
+ "preguntas": [
+  {
+   "id": "pr-61-001",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 1,
+   "enunciado": "Conforme al artículo 135 de la Ley 9/2017, de Contratos del Sector Público (en adelante, LCSP), ¿dónde debe publicarse, al menos, el anuncio de licitación del contrato de obras de adecuación del local en el que se ubicará la nueva oficina?",
+   "opciones": [
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "Únicamente en el perfil de contratante."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-002",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 2,
+   "enunciado": "Publicado el anuncio de licitación del contrato de obras, una empresa interesada en concurrir sostiene que el PCAP introduce distintas cláusulas que favorecen a aquellas empresas que hayan contratado previamente con la Administración General del Estado. Antes de presentar su oferta, la empresa pretende impugnar los pliegos en vía administrativa. ¿Qué recurso procede interponer?",
+   "opciones": [
+    "Recurso especial en materia de contratación, en el plazo de quince días hábiles.",
+    "Recurso especial en materia de contratación, en el plazo de quince días.",
+    "Recurso de alzada, en el plazo de un mes.",
+    "Recurso potestativo de reposición, en el plazo de un mes."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-003",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 3,
+   "enunciado": "Si se acreditara que el PCAP incorpora cláusulas que, directa o indirectamente, otorgan ventajas a empresas que hubieren contratado previamente con la Administración General del Estado, ¿qué causa de invalidez concurriría?",
+   "opciones": [
+    "Causa de nulidad de derecho administrativo.",
+    "Causa de anulabilidad de derecho administrativo.",
+    "Causa de invalidez de derecho civil.",
+    "Ninguna, dado que la experiencia previa con las Administraciones Públicas debe valorarse como criterio de adjudicación."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-004",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 4,
+   "enunciado": "Teniendo en cuenta que el órgano de contratación decide utilizar el plazo mínimo previsto y que el anuncio de licitación se publicó en el perfil de contratante el lunes 2 de febrero de 2026, ¿hasta qué día pueden las empresas interesadas presentar una proposición en el procedimiento de contratación de las obras?",
+   "opciones": [
+    "Hasta el domingo 22 de febrero de 2026.",
+    "Hasta el lunes 23 de febrero de 2026.",
+    "Hasta el sábado 28 de febrero de 2026.",
+    "Hasta el lunes 2 de marzo de 2026."
+   ],
+   "caso": "caso-61",
+   "calendario": "feb2026"
+  },
+  {
+   "id": "pr-61-005",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 5,
+   "enunciado": "En el procedimiento de adjudicación del contrato de obras tramitado por el Ministerio del Interior, ¿cuántos sobres o archivos electrónicos deberá presentar en total cada licitador?",
+   "opciones": [
+    "Uno, que incluirá tanto la documentación acreditativa del cumplimiento de los requisitos previos como la proposición.",
+    "Dos: uno para la documentación acreditativa del cumplimiento de los requisitos previos y otro para la proposición.",
+    "Tres: uno para la documentación acreditativa del cumplimiento de los requisitos previos y dos para la proposición.",
+    "Cuatro: uno para la documentación acreditativa del cumplimiento de los requisitos previos y tres para la proposición."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-006",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 6,
+   "enunciado": "Una de las empresas que fue admitida en la licitación del contrato de obras obtuvo su clasificación como contratista de obras de los poderes adjudicadores por la Comisión de Clasificación y Registro de la Junta Superior de Contratación Administrativa de la Comunidad Valenciana, ¿fue correcta su admisión por la mesa de contratación?",
+   "opciones": [
+    "Sí, la clasificación obtenida en la Comunidad Valenciana produce eficacia general frente a todos los órganos de contratación.",
+    "Sí, dado que el valor estimado del contrato no exige la clasificación de los licitadores como contratistas de obras.",
+    "No, la clasificación obtenida en la Comunidad Valenciana solo produce efectos en dicha Comunidad Autónoma.",
+    "No, salvo que simultáneamente dispusiera de clasificación otorgada por la Junta Consultiva de Contratación Pública del Estado."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-007",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 7,
+   "enunciado": "Conforme al artículo 157 de la LCSP, en el contrato de obras, finalizado el plazo de presentación de proposiciones, ¿en qué plazo máximo debe proceder la mesa de contratación a la apertura de las mismas?",
+   "opciones": [
+    "Diez días hábiles.",
+    "Quince días.",
+    "Veinte días.",
+    "Dos meses."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-008",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 8,
+   "enunciado": "Tras la apertura de las proposiciones, ¿de qué plazo dispone el órgano de contratación, como máximo, para adjudicar el contrato de obras de adecuación del local en el que se ubicará la nueva Oficina de Documentación?",
+   "opciones": [
+    "Diez días hábiles.",
+    "Quince días.",
+    "Veinte días.",
+    "Dos meses."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-009",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 9,
+   "enunciado": "En el contrato de obras, una vez aceptada la propuesta de la mesa por el órgano de contratación, ¿qué plazo debe concederse al licitador que presentó la mejor oferta para aportar la documentación acreditativa del cumplimiento de los requisitos previos y de haber constituido la garantía definitiva que proceda?",
+   "opciones": [
+    "Diez días hábiles.",
+    "Diez días.",
+    "Siete días hábiles.",
+    "Siete días."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-010",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 10,
+   "enunciado": "Cumplido el requerimiento al que se refiere la pregunta anterior, el órgano de contratación adjudicará el contrato en el plazo de:",
+   "opciones": [
+    "Cinco días hábiles.",
+    "Diez días hábiles.",
+    "Quince días.",
+    "Dos meses."
+   ],
+   "caso": "caso-61",
+   "sigueA": "pr-61-009"
+  },
+  {
+   "id": "pr-61-011",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 11,
+   "enunciado": "Si el contrato fue adjudicado por 1.700.000 euros, IVA excluido, ¿qué importe debió prestar en concepto de garantía definitiva el licitador que realizó la mejor oferta?",
+   "opciones": [
+    "34.000 euros.",
+    "51.000 euros.",
+    "85.000 euros.",
+    "170.000 euros."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-012",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 12,
+   "enunciado": "Conforme al artículo 153 de la LCSP, remitida la notificación de la adjudicación del contrato de obras a los licitadores y candidatos, la formalización del contrato deberá efectuarse:",
+   "opciones": [
+    "No antes de que transcurran diez días.",
+    "No antes de que transcurran quince días.",
+    "No antes de que transcurran quince días hábiles.",
+    "No más tarde de los quince días hábiles siguientes."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-013",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 13,
+   "enunciado": "¿Qué consecuencias produciría la falta de formalización del contrato de obras dentro del plazo legalmente establecido por causas imputables al adjudicatario?",
+   "opciones": [
+    "El órgano de contratación acordaría la resolución del contrato e incautaría la garantía provisional.",
+    "El órgano de contratación acordaría la resolución del contrato e incautaría la garantía definitiva.",
+    "Se exigiría al adjudicatario el importe del 3% del presupuesto base de licitación, IVA excluido, en concepto de penalidad.",
+    "Se exigiría al adjudicatario el importe del 3% del precio de adjudicación, IVA excluido, en concepto de penalidad."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-014",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 14,
+   "enunciado": "Según el artículo 154 de la LCSP, una vez formalizado el contrato de obras, el anuncio de formalización debe publicarse, al menos:",
+   "opciones": [
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "Únicamente en el perfil de contratante."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-015",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 15,
+   "enunciado": "De acuerdo con el artículo 159.1 de la LCSP, ¿podría el órgano de contratación haber acordado la utilización del procedimiento abierto simplificado para adjudicar el contrato de obras?",
+   "opciones": [
+    "No, ya que el valor estimado del contrato excede el umbral máximo permitido para su utilización en contratos de obras.",
+    "No, ya que los pliegos contemplan criterios de adjudicación distintos del precio.",
+    "No, ya que la ponderación otorgada a los criterios de adjudicación distintos del precio excede el 25 por ciento del total.",
+    "Sí, dado que se cumplen las dos condiciones legalmente exigidas relativas al valor estimado y a los criterios de adjudicación."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-016",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 16,
+   "enunciado": "Califique el contrato que tiene como objeto el arrendamiento de equipos biométricos para la expedición de DNI y pasaportes:",
+   "opciones": [
+    "Contrato de servicios.",
+    "Contrato de suministro.",
+    "Contrato privado.",
+    "Contrato excluido del ámbito de aplicación de la LCSP."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-017",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 17,
+   "enunciado": "¿Es correcto adjudicar el contrato de arrendamiento de los equipos biométricos utilizando el procedimiento abierto simplificado?",
+   "opciones": [
+    "Solo si la ponderación otorgada al criterio de adjudicación evaluable mediante juicio de valor no supera el 45% del total.",
+    "Solo si la ponderación otorgada al criterio de adjudicación evaluable mediante juicio de valor no supera el 25% del total.",
+    "No, ya que uno de los criterios de adjudicación es evaluable mediante juicio de valor.",
+    "No, dado que el valor estimado del contrato excede de 100.000 euros."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-018",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 18,
+   "enunciado": "Una de las ofertas presentadas en la licitación del contrato de arrendamiento de equipos biométricos ha sido excluida por la mesa de contratación. ¿Cabría interponer recurso especial en materia de contratación contra dicho acto?",
+   "opciones": [
+    "Sí, mediante escrito que deberá presentarse en el plazo de quince días hábiles.",
+    "No, la exclusión de una oferta es un acto de trámite no susceptible de recurso especial en materia de contratación.",
+    "No, puesto que el contrato se tramita mediante procedimiento abierto simplificado.",
+    "No, puesto que el valor estimado del contrato no alcanza el umbral previsto en el artículo 44.1 de la LCSP."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-019",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 19,
+   "enunciado": "En caso de que resultara procedente la interposición de recurso especial contra el acuerdo de exclusión de la oferta, ¿se produciría la suspensión del procedimiento de adjudicación?",
+   "opciones": [
+    "Sí, interpuesto el recurso la tramitación del procedimiento quedará automáticamente en suspenso.",
+    "Solo si el recurrente lo solicitara expresamente en su escrito de interposición.",
+    "No, la interposición de un recurso especial no suspende en ningún caso la tramitación del procedimiento.",
+    "No, sin perjuicio de que el recurrente pueda solicitar la suspensión como medida cautelar."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-020",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 20,
+   "enunciado": "De resultar procedente, ¿cuál es el plazo máximo para notificar la resolución del recurso especial en materia de contratación?",
+   "opciones": [
+    "Un mes, transcurrido el cual el interesado podrá considerarlo desestimado.",
+    "Dos meses, transcurridos los cuales el interesado podrá considerarlo desestimado.",
+    "Tres meses, transcurridos los cuales el interesado podrá considerarlo desestimado.",
+    "Tres meses, transcurridos los cuales el interesado podrá considerarlo estimado."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-021",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 21,
+   "enunciado": "En el contrato de arrendamiento de los equipos biométricos, ¿qué importe puede exigir el órgano de contratación, como máximo, en concepto de garantía provisional?",
+   "opciones": [
+    "1169 €.",
+    "1753,5 €.",
+    "2922,5 €.",
+    "El procedimiento de adjudicación utilizado no admite la exigencia de garantía provisional."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-022",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 22,
+   "enunciado": "De acuerdo con la LCSP, ¿dónde debe publicarse el anuncio de licitación del contrato de arrendamiento de equipos biométricos?",
+   "opciones": [
+    "En el perfil de contratante, en el Boletín Oficial del Estado y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Diario Oficial de la Unión Europea.",
+    "En el perfil de contratante y en el Boletín Oficial del Estado.",
+    "Únicamente en el perfil de contratante."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-023",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 23,
+   "enunciado": "Tras la licitación, el órgano de contratación, mediante comunicación electrónica, requiere a la empresa BIOMETRÍA Integral, S.L, que ha obtenido la mejor puntuación, para que constituya la garantía definitiva. Teniendo en cuenta que se ha utilizado el procedimiento abierto simplificado, ¿de qué plazo dispone la empresa para constituir la garantía definitiva?",
+   "opciones": [
+    "Diez días hábiles.",
+    "Siete días hábiles.",
+    "Cinco días hábiles.",
+    "Diez días naturales."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-024",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 24,
+   "enunciado": "Si el órgano de contratación acordara hacer efectiva la prórroga del arrendamiento de los equipos biométricos, ¿con qué antelación mínima deberá preavisar a BIOMETRÍA Integral, S.L, para que esta resulte obligatoria?",
+   "opciones": [
+    "Dos meses, salvo que en el pliego que rija el contrato se establezca uno mayor.",
+    "Dos meses, salvo que en el pliego que rija el contrato se establezca uno menor.",
+    "Tres meses, salvo que en el pliego que rija el contrato se establezca uno menor.",
+    "La aplicación de la prórroga requiere consentimiento expreso del empresario, en ningún caso será obligatoria."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-025",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 25,
+   "enunciado": "¿Es correcto tramitar el contrato en materia de ciberseguridad utilizando el procedimiento abierto simplificado sumario regulado en el artículo 159.6 LCSP?",
+   "opciones": [
+    "No, si bien podría tramitarse como contrato menor.",
+    "No, ya que debería tramitarse como contrato menor.",
+    "Sí, aunque también podría tramitarse como contrato menor.",
+    "Sí, sin que quepa su tramitación como contrato menor."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-026",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 26,
+   "enunciado": "Señale la respuesta INCORRECTA en relación con el contrato de servicios en materia de ciberseguridad que se tramita mediante procedimiento abierto simplificado sumario:",
+   "opciones": [
+    "Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el anuncio de licitación.",
+    "No se requerirá la constitución de garantía provisional ni definitiva.",
+    "El plazo para la presentación de proposiciones no podrá ser inferior a diez días.",
+    "La oferta se presentará en un único sobre o archivo electrónico"
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-027",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 27,
+   "enunciado": "¿Cuándo debe considerarse perfeccionado el contrato de suministro de consumibles informáticos?",
+   "opciones": [
+    "Con su adjudicación.",
+    "Con su formalización.",
+    "Cuando se inicie la ejecución del contrato.",
+    "Cuando se cumpla el contrato, a satisfacción de la Administración."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-028",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 28,
+   "enunciado": "Conforme a la LCSP, ¿qué valor estimado podría tener como máximo el contrato menor de servicios de retirada y destrucción certificada de documentación?",
+   "opciones": [
+    "18.000 euros.",
+    "15.000 euros.",
+    "40.000 euros.",
+    "14.999,99 euros."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-029",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 29,
+   "enunciado": "¿Qué consideración tiene el contrato de creación e interpretación artística y literaria para el acto institucional de apertura de la Oficina de Documentación?",
+   "opciones": [
+    "Contrato excluido del ámbito de aplicación de la LCSP.",
+    "Contrato privado.",
+    "Contrato de servicios.",
+    "Contrato administrativo especial."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-61-030",
+   "origen": "practicas",
+   "test": "Bloque III.- Supuesto 25",
+   "n": 30,
+   "enunciado": "De acuerdo con la LCSP, ¿podría estar sujeto a regulación armonizada el contrato de servicios sociales de apoyo y acompañamiento a colectivos vulnerables en la tramitación de DNI y pasaporte?",
+   "opciones": [
+    "No, los contratos del Anexo IV no se consideran sujetos a regulación armonizada, cualquiera que sea su valor estimado.",
+    "Sí, siempre que su valor estimado sea igual o superior a 750.000 euros.",
+    "Sí, siempre que su valor estimado sea igual o superior a 216.000 euros.",
+    "Sí, siempre que su valor estimado sea igual o superior a 140.000 euros."
+   ],
+   "caso": "caso-61"
+  },
+  {
+   "id": "pr-62-001",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 1,
+   "enunciado": "De acuerdo con el artículo 192 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (en adelante LCSP), la cuantía total de las penalidades previstas en caso de cumplimiento defectuoso de la prestación objeto del contrato no podrá ser superior al:",
+   "opciones": [
+    "10% del precio del contrato, IVA excluido.",
+    "10% del valor estimado del contrato.",
+    "50% del precio del contrato, IVA excluido.",
+    "50% del valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "pr-62-002",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 2,
+   "enunciado": "Conforme al artículo 193.3 de la LCSP, cuando el contratista incurra en demora respecto al cumplimiento del plazo total, el órgano de contratación estará facultado para resolver el contrato o acordar la continuidad de su ejecución con imposición de nuevas penalidades. Esta facultad podrá ejercerse cada vez que las penalidades por demora acumuladas alcancen un múltiplo del:",
+   "opciones": [
+    "15 % del precio del contrato, IVA excluido.",
+    "5 % del precio del contrato, IVA excluido.",
+    "20 % del precio del contrato, IVA excluido.",
+    "10 % del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-62-003",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 3,
+   "enunciado": "Según el artículo 196 de la LCSP, si durante la ejecución de un contrato de obras, como consecuencia de los vicios del proyecto redactado por otro contratista, se causaran daños y perjuicios a terceros, ¿a quién correspondería la obligación de indemnizarles?",
+   "opciones": [
+    "Al contratista de las obras y subsidiariamente a la Administración.",
+    "A la Administración y subsidiariamente al contratista de las obras.",
+    "A la Administración, sin perjuicio de la posibilidad de repetir contra el redactor del proyecto.",
+    "Al redactor del proyecto, sin perjuicio de la posibilidad de repetir contra la Administración."
+   ]
+  },
+  {
+   "id": "pr-62-004",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 4,
+   "enunciado": "Conforme al artículo 198 de la LCSP, aprobadas las certificaciones de obra o los documentos que acrediten la conformidad con los bienes entregados o servicios prestados, la Administración tendrá la obligación de abonar el precio al contratista dentro del plazo máximo de:",
+   "opciones": [
+    "Noventa días.",
+    "Sesenta días",
+    "Treinta días.",
+    "Un mes."
+   ]
+  },
+  {
+   "id": "pr-62-005",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 5,
+   "enunciado": "De conformidad con lo previsto en el artículo 198 de la LCSP, el contratista podrá proceder a la suspensión del cumplimiento del contrato, debiendo comunicarlo a la Administración, con un mes de antelación, si la demora en el pago fuese superior a:",
+   "opciones": [
+    "Cuatro meses.",
+    "Cinco meses.",
+    "Seis meses.",
+    "Ocho meses."
+   ]
+  },
+  {
+   "id": "pr-62-006",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 6,
+   "enunciado": "Según la LCSP, en caso de demora del pago del precio por parte de la Administración, el contratista tendrá derecho a resolver el contrato y al resarcimiento de los perjuicios, cuando esta demora sea superior a:",
+   "opciones": [
+    "8 meses.",
+    "6 meses.",
+    "4 meses.",
+    "1 año."
+   ]
+  },
+  {
+   "id": "pr-62-007",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 7,
+   "enunciado": "De conformidad con el artículo 192 de la LCSP, las penalidades previstas para el caso de cumplimiento defectuoso de la prestación deberán ser proporcionales a la gravedad del incumplimiento y la cuantía de cada una de ellas no podrá superar el:",
+   "opciones": [
+    "50% del valor estimado del contrato, IVA incluido.",
+    "10% del precio del contrato, IVA excluido.",
+    "20% del precio del contrato, IVA excluido.",
+    "50% del precio del contrato, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-62-008",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 8,
+   "enunciado": "Conforme al artículo 204 de la LCSP, cuando en los PCAP se hubiese advertido expresamente esta posibilidad, los contratos podrán modificarse durante su vigencia hasta un máximo del:",
+   "opciones": [
+    "20% del valor estimado.",
+    "50% del precio inicial.",
+    "20% del presupuesto base de licitación.",
+    "20% del precio inicial."
+   ]
+  },
+  {
+   "id": "pr-62-009",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 9,
+   "enunciado": "De acuerdo con el artículo 208 de la LCSP, si la Administración acuerda la suspensión de un contrato de obras, el derecho del contratista a reclamar la indemnización por los daños y perjuicios derivados de dicha suspensión prescribirá en el plazo de:",
+   "opciones": [
+    "Seis meses contados desde que el contratista reciba la orden de reanudar la ejecución del contrato.",
+    "Seis meses contados desde la fecha en que se reanude la ejecución del contrato.",
+    "Un año contado desde que el contratista reciba la orden de reanudar la ejecución del contrato.",
+    "Un año contado desde la fecha en que se reanude la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "pr-62-010",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 10,
+   "enunciado": "Conforme al artículo 209 de la Ley de Contratos del Sector Público, los contratos se extinguirán:",
+   "opciones": [
+    "Por mutuo acuerdo.",
+    "Por su cumplimiento o por resolución.",
+    "Por mutuo acuerdo o expiración del plazo de cumplimiento.",
+    "Por incumplimiento del contratista o de la Administración."
+   ]
+  },
+  {
+   "id": "pr-62-011",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 11,
+   "enunciado": "Conforme a la LCSP, salvo que en el PCAP se determine otro plazo, ¿de cuánto tiempo dispondrá la Administración, desde la entrega o realización del objeto del contrato, para efectuar el acto formal y positivo de recepción o conformidad?",
+   "opciones": [
+    "Treinta días.",
+    "Un mes.",
+    "Sesenta días.",
+    "Tres meses."
+   ]
+  },
+  {
+   "id": "pr-62-012",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 12,
+   "enunciado": "De acuerdo con el artículo 210 de la LCSP, la responsabilidad del contratista quedará extinguida:",
+   "opciones": [
+    "Cuando tenga lugar la liquidación del contrato.",
+    "Cuando el contratista realice la totalidad de la prestación, según los términos del mismo, y a satisfacción de la Administración.",
+    "Transcurridos dos meses desde la finalización del plazo de garantía.",
+    "Transcurrido el plazo de garantía sin objeciones por parte de la Administración."
+   ]
+  },
+  {
+   "id": "pr-62-013",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 13,
+   "enunciado": "Conforme a la LCSP, un contrato de suministro se entiende cumplido cuando:",
+   "opciones": [
+    "Haya transcurrido el plazo establecido para la entrega.",
+    "Se produzca la liquidación del contrato.",
+    "Haya transcurrido sin objeciones el plazo de garantía señalado.",
+    "El contratista haya realizado la totalidad de la prestación, según los términos del contrato, y a satisfacción de la Administración."
+   ]
+  },
+  {
+   "id": "pr-62-014",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 14,
+   "enunciado": "Conforme al artículo 211 de la LCSP, ¿cuál de las siguientes NO es una causa de resolución de un contrato administrativo?",
+   "opciones": [
+    "La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento.",
+    "La demora en el cumplimiento de los plazos por parte del contratista.",
+    "El incumplimiento por el contratista de cualquiera de las obligaciones previstas en el contrato.",
+    "El mutuo acuerdo entre la Administración y el contratista."
+   ]
+  },
+  {
+   "id": "pr-62-015",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 15,
+   "enunciado": "Según la LCSP, cuando concurran diversas causas de resolución del contrato, con diferentes efectos en cuanto a las consecuencias económicas de la extinción, deberá atenderse a:",
+   "opciones": [
+    "La que suponga una situación más ventajosa para el contratista.",
+    "La que haya aparecido con posterioridad en el tiempo.",
+    "La que suponga una situación más ventajosa para la Administración.",
+    "La que haya aparecido con prioridad en el tiempo."
+   ]
+  },
+  {
+   "id": "pr-62-016",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 16,
+   "enunciado": "Según el artículo 214 de la LCSP, la cesión de los contratos deberá formalizarse:",
+   "opciones": [
+    "Entre el adjudicatario y el cesionario, en escritura pública.",
+    "Entre el adjudicatario y el cesionario, en documento privado.",
+    "Entre la Administración, el adjudicatario y el cesionario, en escritura pública.",
+    "Entre la Administración, el adjudicatario y el cesionario, en documento privado."
+   ]
+  },
+  {
+   "id": "pr-62-017",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 17,
+   "enunciado": "Señale la respuesta correcta en relación con la duración máxima de un acuerdo marco:",
+   "opciones": [
+    "No podrá exceder de tres años, salvo en casos excepcionales, debidamente justificados.",
+    "No podrá exceder de cuatro años, salvo en casos excepcionales, debidamente justificados.",
+    "No podrá exceder de cinco años, salvo en casos excepcionales, debidamente justificados.",
+    "No podrá exceder de cuatro años, en ningún caso."
+   ]
+  },
+  {
+   "id": "pr-62-018",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 18,
+   "enunciado": "Según el artículo 229 de la LCSP, los suministros, obras y servicios que se contraten de forma general y con características esencialmente homogéneas podrán declararse de contratación centralizada. En el ámbito estatal, ¿a quién corresponde adoptar esta decisión?",
+   "opciones": [
+    "Al órgano de contratación.",
+    "A la Junta de Contratación Centralizada.",
+    "Al Consejo de Ministros.",
+    "Al Ministro de Hacienda."
+   ]
+  },
+  {
+   "id": "pr-62-019",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 19,
+   "enunciado": "El órgano de contratación del sistema estatal de contratación centralizada es, según el artículo 229.5 de la LCSP:",
+   "opciones": [
+    "El Ministro de Hacienda.",
+    "La Junta de Contratación Centralizada.",
+    "La Junta Consultiva de Contratación Pública del Estado.",
+    "La Dirección General de Racionalización y Centralización de la Contratación."
+   ]
+  },
+  {
+   "id": "pr-62-020",
+   "origen": "practicas",
+   "test": "Examen nº 42 - LCSP (arts. 188 a 347)",
+   "n": 20,
+   "enunciado": "Según la LCSP, ¿cuál es el plazo máximo en el que debe ser instruido y resuelto un expediente para la resolución de un contrato?",
+   "opciones": [
+    "Tres meses.",
+    "Dos meses.",
+    "Seis meses.",
+    "Ocho meses."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "pr-42-009",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 9,
+   "enunciado": "En relación con los contratos que se pretenden celebrar en el Ministerio, se plantean distintas cuestiones sobre los procedimientos de adjudicación, sus requisitos y especialidades. Señale la respuesta correcta en cada caso: Conforme al artículo 159.1 de la LCSP, una de las condiciones que debe cumplir un contrato de servicios que quiere celebrar el Ministerio utilizando un procedimiento abierto simplificado es:",
+   "opciones": [
+    "Que ninguno de los criterios de adjudicación sea evaluable mediante juicios de valor.",
+    "Que su valor estimado sea igual o inferior a 100.000 euros.",
+    "Que en los criterios de adjudicación haya alguno evaluable mediante juicio de valor.",
+    "Que su valor estimado sea inferior a 140.000 euros."
+   ]
+  },
+  {
+   "id": "pr-42-010",
+   "origen": "practicas",
+   "test": "Ejercicio 21.- Procedimiento más ágil (4)",
+   "n": 10,
+   "enunciado": "En relación con los contratos que se pretenden celebrar en el Ministerio, se plantean distintas cuestiones sobre los procedimientos de adjudicación, sus requisitos y especialidades. Señale la respuesta correcta en cada caso: Un Ministerio tramita mediante procedimiento abierto simplificado un contrato de suministros de 95.000 euros, con un 20 % de criterios sujetos a juicio de valor. Señale la afirmación correcta:",
+   "opciones": [
+    "La oferta se presentará en un único archivo electrónico, al no superar los juicios de valor el 25 %.",
+    "Los criterios sujetos a juicio de valor deberán valorarse antes de abrir el archivo con la oferta evaluable mediante fórmulas.",
+    "Los licitadores estarán exentos de acreditar su solvencia al ser el valor estimado inferior a 140.000 euros.",
+    "El contrato podrá formalizarse mediante la firma de aceptación de la resolución de adjudicación."
+   ]
+  },
+  {
+   "id": "pr-43-001",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 1,
+   "enunciado": "Conforme a la Ley de Contratos del Sector Público, ¿cuál de las siguientes NO constituye una prerrogativa del órgano de contratación?",
+   "opciones": [
+    "Modificar los contratos por razones de interés público.",
+    "Declarar la responsabilidad imputable al contratista a raíz de la ejecución del contrato.",
+    "Acordar la resolución del contrato y determinar los efectos de esta.",
+    "Interpretar los contratos, pudiendo completar sus cláusulas cuando se susciten dudas en relación con su cumplimiento."
+   ]
+  },
+  {
+   "id": "pr-43-002",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 2,
+   "enunciado": "Conforme a la LCSP, el ejercicio de las prerrogativas del órgano de contratación exige audiencia al contratista. Si este formula oposición, ¿en cuál de los siguientes supuestos NO será preceptivo recabar dictamen del Consejo de Estado u órgano consultivo equivalente?",
+   "opciones": [
+    "En la interpretación del contrato.",
+    "En la suspensión de la ejecución del contrato.",
+    "En la resolución del contrato.",
+    "En la declaración de nulidad del contrato."
+   ]
+  },
+  {
+   "id": "pr-43-003",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 3,
+   "enunciado": "El Ministerio de Cultura adjudica a Patrimonio Sur, S. A., un contrato de obras cuyo precio inicial asciende a 6.000.000 €, IVA excluido. Durante su ejecución, una circunstancia sobrevenida e imprevisible hace necesaria, al amparo de lo previsto en el artículo 205 de la LCSP, una modificación no prevista en el PCAP, para la que el contratista presta su conformidad por escrito. Señale la respuesta correcta:",
+   "opciones": [
+    "La modificación no podrá acordarse al no estar prevista en el PCAP.",
+    "Será preceptivo recabar dictamen del Consejo de Estado cualquiera que sea el importe de la modificación.",
+    "Solo será preceptivo recabar dictamen del Consejo de Estado si el importe de la modificación supera 1.200.000 €.",
+    "Solo será preceptivo recabar dictamen del Consejo de Estado si el importe de la modificación supera 3.000.000 €."
+   ]
+  },
+  {
+   "id": "pr-43-004",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 4,
+   "enunciado": "Servicios Atlántico, S. L., adjudicataria de un contrato administrativo cuyo precio asciende a 200.000 €, IVA excluido, reclama a la Administración una indemnización por los perjuicios derivados del incumplimiento de las obligaciones contractuales asumidas por esta. ¿A partir de qué cuantía reclamada será preceptivo recabar dictamen del Consejo de Estado?",
+   "opciones": [
+    "20.000 €.",
+    "40.000 €.",
+    "50.000 €.",
+    "100.000 €."
+   ]
+  },
+  {
+   "id": "pr-43-005",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 5,
+   "enunciado": "Durante la ejecución de un contrato administrativo surge una duda sobre el alcance de una de sus cláusulas, que es resuelta por el órgano de contratación mediante el correspondiente acuerdo de interpretación. Señale la respuesta correcta en relación con dicho acuerdo:",
+   "opciones": [
+    "Pone fin a la vía administrativa y es inmediatamente ejecutivo.",
+    "Pone fin a la vía administrativa, pero no es inmediatamente ejecutivo.",
+    "No pone fin a la vía administrativa, aunque es inmediatamente ejecutivo.",
+    "No pone fin a la vía administrativa ni es inmediatamente ejecutivo."
+   ]
+  },
+  {
+   "id": "pr-43-006",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 6,
+   "enunciado": "En un contrato de obras para la reforma de un edificio administrativo, cuyo precio asciende a 600.000 €, IVA excluido, el contratista ejecuta la totalidad de las prestaciones, aunque se constatan varios cumplimientos defectuosos para los que el PCAP prevé penalidades. ¿Qué límites deberán respetar las penalidades que se impongan?",
+   "opciones": [
+    "Cada penalidad podrá alcanzar hasta 30.000 €, sin que el importe total de las penalidades pueda superar 60.000 €.",
+    "Cada penalidad podrá alcanzar hasta 60.000 €, sin que el importe total de las penalidades pueda superar 300.000 €.",
+    "Cada penalidad podrá alcanzar hasta 60.000 €, sin que el importe total de las penalidades pueda superar 360.000 €.",
+    "Cada penalidad podrá alcanzar hasta 60.000 €, sin límite máximo para el importe total de las penalidades."
+   ]
+  },
+  {
+   "id": "pr-43-007",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 7,
+   "enunciado": "Finalizado el plazo de entrega, la empresa TecnoVisión, S. L., adjudicataria de un contrato para el suministro de 1.000 ordenadores, entregó únicamente 800, comunicando que no suministrará los restantes. Si dicho incumplimiento parcial le resulta imputable, ¿cómo podrá actuar la Administración, atendidas las circunstancias del caso?",
+   "opciones": [
+    "Deberá resolver necesariamente el contrato.",
+    "Podrá imponer penalidades o, si dicha posibilidad estuviera prevista en el PCAP, resolver el contrato.",
+    "Podrá resolver el contrato o, si estuvieran previstas en el PCAP, imponer penalidades.",
+    "Podrá optar entre resolver el contrato o imponer penalidades, siempre que ambas posibilidades estuvieran previstas en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-43-008",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 8,
+   "enunciado": "Vialnova, S. A., adjudicataria de un contrato de obras para la construcción de una carretera, incumple, por causa que le es imputable, alguno de los plazos fijados para su ejecución. Conforme a la LCSP, ¿podría dicho incumplimiento determinar su constitución en mora?",
+   "opciones": [
+    "Sí, tanto si afecta al plazo total como a plazos parciales, sin necesidad de intimación previa por parte de la Administración.",
+    "Solo si afecta al plazo total, sin necesidad de intimación previa por parte de la Administración.",
+    "Sí, tanto si afecta al plazo total como a plazos parciales, previa intimación de la Administración.",
+    "Solo si afecta al plazo total, previa intimación de la Administración."
+   ]
+  },
+  {
+   "id": "pr-43-009",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 9,
+   "enunciado": "La empresa Vialnova, S. A., adjudicataria de las obras de construcción de una carretera cuyo precio asciende a 500.000 €, IVA excluido, incurre, por causa que le es imputable, en demora respecto del cumplimiento del plazo total. Si el PCAP no establece nada al respecto, ¿qué penalidad diaria podría imponerle la Administración?",
+   "opciones": [
+    "50 €",
+    "300 €",
+    "5.000 €",
+    "No podría imponerle penalidad alguna, al no estar prevista en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-43-010",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 10,
+   "enunciado": "La Administración ha optado por imponer penalidades diarias a Vialnova, S. A., por la demora en el cumplimiento del plazo total de unas obras cuyo precio asciende a 500.000 €, IVA excluido. ¿Cuál será el primer importe que deberán alcanzar las penalidades acumuladas para que el órgano de contratación pueda optar por resolver el contrato?",
+   "opciones": [
+    "15.000 €.",
+    "25.000 €",
+    "50.000 €.",
+    "La Administración ya no podrá resolver el contrato, al haber optado inicialmente por imponer penalidades."
+   ]
+  },
+  {
+   "id": "pr-43-011",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 11,
+   "enunciado": "Durante la ejecución de unas obras adjudicadas a Vialnova, S. A., por 500.000 €, IVA excluido, la empresa incumple, por causa que le es imputable, uno de los plazos parciales establecidos. El PCAP no establece nada al respecto y la dirección facultativa informa de que el retraso puede recuperarse durante los trabajos posteriores. ¿Qué penalidad diaria podría imponerle la Administración?",
+   "opciones": [
+    "50 €",
+    "300 €",
+    "5.000 €",
+    "No procede imponer penalidades diarias en este supuesto."
+   ]
+  },
+  {
+   "id": "pr-43-012",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 12,
+   "enunciado": "Durante la ejecución de un contrato de servicios de limpieza, en el que se realizan pagos mensuales al contratista, se acuerda imponer, conforme a lo previsto en los pliegos, una penalidad por cumplimiento defectuoso de la prestación. Señale la respuesta INCORRECTA:",
+   "opciones": [
+    "Se impone por acuerdo del órgano de contratación.",
+    "El acuerdo se adopta a propuesta del responsable del contrato.",
+    "El acuerdo de imposición es inmediatamente ejecutivo.",
+    "Se hace efectiva, en primer lugar, sobre la garantía constituida."
+   ]
+  },
+  {
+   "id": "pr-43-013",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 13,
+   "enunciado": "En un contrato de suministro de ordenadores, una inundación impide temporalmente el acceso al lugar de entrega. El responsable del contrato acredita que el retraso no es imputable al contratista, quien ofrece cumplir sus compromisos si se amplía el plazo de ejecución. ¿Cómo deberá actuar el órgano de contratación?",
+   "opciones": [
+    "Deberá resolver el contrato, al no ser el retraso imputable a la Administración.",
+    "Deberá concederle un plazo al menos igual al tiempo perdido, a no ser que el contratista pidiese otro mayor.",
+    "Deberá concederle un plazo al menos igual al tiempo perdido, a no ser que el contratista pidiese otro menor.",
+    "Deberá concederle, en todo caso, un plazo exactamente igual al tiempo perdido."
+   ]
+  },
+  {
+   "id": "pr-43-014",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 14,
+   "enunciado": "Durante la ejecución de las obras de construcción de un muro de contención, Mar de Alborán, S. A., causa daños en una finca colindante. Un informe técnico acredita que estos obedecen exclusivamente a un vicio del proyecto facilitado por la Administración y redactado por Ingeniería Delta, S. L. De acuerdo con el artículo 196.2 de la LCSP, ¿a quién corresponde indemnizar al perjudicado?",
+   "opciones": [
+    "A Mar de Alborán, S. A.",
+    "A la Administración, sin perjuicio de la posibilidad de repetir contra Ingeniería Delta, S. L.",
+    "A Ingeniería Delta, S. L.",
+    "A la Administración, sin perjuicio de la posibilidad de repetir contra Mar de Alborán, S. A."
+   ]
+  },
+  {
+   "id": "pr-43-015",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 15,
+   "enunciado": "Mar de Alborán, S. A., ejecuta unas obras para construir un muro de contención conforme a un proyecto redactado por Ingeniería Delta, S. L. Durante los trabajos se causan daños en una finca colindante y su propietario pretende requerir al órgano de contratación para que le informe sobre quién debe responder. ¿De qué plazo dispone, desde la producción del hecho, para formular el requerimiento?",
+   "opciones": [
+    "Seis meses, sin que el requerimiento interrumpa el plazo de prescripción de la acción.",
+    "Seis meses, quedando interrumpido el plazo de prescripción de la acción.",
+    "Un año, sin que el requerimiento interrumpa el plazo de prescripción de la acción.",
+    "Un año, quedando interrumpido el plazo de prescripción de la acción."
+   ]
+  },
+  {
+   "id": "pr-43-016",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 16,
+   "enunciado": "Antes del inicio de las obras, el contratista traslada varias excavadoras al lugar de ejecución de las mismas y hace acopio de materiales destinados a la construcción. Conforme a la LCSP, ¿podrá percibir un abono a cuenta por estas operaciones preparatorias?",
+   "opciones": [
+    "No, pues los abonos a cuenta solo proceden respecto de prestaciones ya realizadas.",
+    "Sí, en las condiciones señaladas en los pliegos, debiendo asegurarse los referidos pagos mediante la prestación de garantía.",
+    "Sí, cuando así se prevea en los pliegos, sin necesidad de asegurar el pago mediante la prestación de garantía.",
+    "Sí, con independencia de su previsión en los pliegos, siempre que el pago se asegure mediante la prestación de garantía."
+   ]
+  },
+  {
+   "id": "pr-43-017",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 17,
+   "enunciado": "En un contrato de servicios de limpieza de tracto sucesivo, ¿de qué plazo dispone la Administración para aprobar los documentos que acrediten la conformidad con los servicios prestados?",
+   "opciones": [
+    "De 30 días, a contar desde la prestación del servicio.",
+    "De 30 días, a contar desde la presentación de la factura.",
+    "De 60 días, a contar desde la prestación del servicio.",
+    "De 60 días, a contar desde la presentación de la factura."
+   ]
+  },
+  {
+   "id": "pr-43-018",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 18,
+   "enunciado": "En un contrato de servicios de limpieza de tracto sucesivo, con pagos mensuales, una vez prestado el servicio correspondiente al mes de septiembre y presentada la factura en tiempo y forma, la Administración aprueba, dentro del plazo legal, el documento de conformidad. ¿Desde qué momento se computa el plazo de 30 días para efectuar el pago?",
+   "opciones": [
+    "Desde la prestación del servicio correspondiente al mes de septiembre.",
+    "Desde la presentación de la factura.",
+    "Desde la aprobación del documento de conformidad.",
+    "Desde que finalice el plazo de que dispone la Administración para aprobar el documento de conformidad."
+   ]
+  },
+  {
+   "id": "pr-43-019",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 19,
+   "enunciado": "Presentada la factura en tiempo y forma, la Administración deja transcurrir el plazo legal sin abonar su importe, incurriendo en demora. Conforme a lo dispuesto en el artículo 198 de la LCSP, señale la respuesta correcta:",
+   "opciones": [
+    "Los intereses de demora solo comenzarán a devengarse cuando la demora en el pago supere los 30 días.",
+    "El derecho a la indemnización por costes de cobro solo nacerá cuando la demora en el pago supere los 60 días.",
+    "Si la demora fuese superior a tres meses, el contratista podrá proceder a la suspensión del cumplimiento del contrato.",
+    "Si la demora fuese superior a seis meses, el contratista tendrá derecho a resolver el contrato."
+   ]
+  },
+  {
+   "id": "pr-43-020",
+   "origen": "practicas",
+   "test": "Examen nº 32- LCSP (arts. 188 a 202)",
+   "n": 20,
+   "enunciado": "Conforme a la LCSP, y sin perjuicio de las normas tributarias y de la Seguridad Social, ¿para cuál de las siguientes finalidades NO podrán embargarse los abonos a cuenta, aun tratándose de obligaciones vinculadas a la ejecución del mismo contrato?",
+   "opciones": [
+    "Para pagar los salarios devengados por el personal del contratista y las cuotas sociales correspondientes.",
+    "Para pagar las obligaciones contraídas por el contratista con sus subcontratistas.",
+    "Para pagar las obligaciones contraídas por el contratista con sus suministradores.",
+    "Para satisfacer las indemnizaciones debidas a terceros por los daños causados durante la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "pr-44-001",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 1,
+   "enunciado": "Señale la afirmación INCORRECTA en relación con las modificaciones de los contratos administrativos:",
+   "opciones": [
+    "Solo podrán acordarse por razones de interés público.",
+    "Excepcionalmente, podrán acordarse aun cuando no estén previstas en los PCAP.",
+    "Con carácter general, deberán formalizarse en documento administrativo.",
+    "Únicamente deberán publicarse en el perfil de contratante cuando no estuvieran previstas en los PCAP."
+   ]
+  },
+  {
+   "id": "pr-44-002",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 2,
+   "enunciado": "Un ministerio adjudica un contrato con valor estimado de 240.000 euros y presupuesto base de licitación, IVA excluido, de 200.000 euros. El importe de adjudicación asciende a 180.000 euros, IVA excluido. El PCAP prevé modificaciones al alza hasta el máximo permitido. ¿Qué importe máximo, IVA excluido, podrán alcanzar dichas modificaciones?",
+   "opciones": [
+    "40.000 euros.",
+    "48.000 euros.",
+    "36.000 euros.",
+    "90.000 euros."
+   ]
+  },
+  {
+   "id": "pr-44-003",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 3,
+   "enunciado": "Conforme al artículo 205 de la LCSP, ¿cuál de los siguientes supuestos NO justifica acordar una modificación no prevista en el PCAP?",
+   "opciones": [
+    "La necesidad de añadir obras, suministros o servicios adicionales.",
+    "La concurrencia de circunstancias sobrevenidas e imprevisibles.",
+    "El mutuo acuerdo entre la Administración y el contratista.",
+    "El carácter no sustancial de la modificación."
+   ]
+  },
+  {
+   "id": "pr-44-004",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 4,
+   "enunciado": "El Ministerio del Interior adjudicó a Segurcam, S. L., un contrato de suministro de 40 cámaras de seguridad. Durante su ejecución resulta necesario adquirir 10 unidades adicionales compatibles con las suministradas. Se constata que, por razones técnicas, no es posible cambiar de contratista sin ocasionar graves problemas de funcionamiento. ¿Podría modificarse el contrato para adquirir las unidades adicionales?",
+   "opciones": [
+    "No, salvo que dicha modificación estuviera prevista en el PCAP.",
+    "No, salvo que Segurcam, S. L., hubiera sido el único licitador que concurrió al procedimiento de adjudicación.",
+    "Sí, aunque no estuviera prevista en el PCAP, hasta un máximo del 20 % del precio inicial, IVA excluido.",
+    "Sí, aunque no estuviera prevista en el PCAP, hasta un máximo del 50 % del precio inicial, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-44-005",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 5,
+   "enunciado": "Durante la ejecución de un contrato de obras para la construcción de una carretera aparecen restos arqueológicos, imprevisibles en el momento de la licitación, que obligan a cambiar su trazado. Para que la modificación pueda ampararse en el artículo 205.2.b) de la LCSP, ¿cuál de los siguientes NO constituye uno de los requisitos exigidos?",
+   "opciones": [
+    "Que una Administración diligente no hubiera podido prever la existencia de restos arqueológicos en el trazado previsto.",
+    "Que el cambio de contratista no resulte posible.",
+    "Que la modificación no altere la naturaleza global del contrato.",
+    "Que la alteración de la cuantía del contrato no exceda, aislada o conjuntamente, del 50 % del precio inicial, IVA excluido."
+   ]
+  },
+  {
+   "id": "pr-44-006",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 6,
+   "enunciado": "Durante las obras de reforma de una comisaría se plantea una modificación no sustancial para acondicionar dos despachos adicionales. La necesidad era previsible y el cambio de contratista sería posible. Aun así, conforme a la LCSP, ¿podría acordarse esta modificación?",
+   "opciones": [
+    "Sí, con un límite máximo del 10 % del precio inicial del contrato, IVA excluido.",
+    "Sí, con un límite máximo del 15 % del precio inicial del contrato, IVA excluido.",
+    "Sí, con un límite máximo del 20 % del precio inicial del contrato, IVA excluido.",
+    "No, salvo que dicha modificación estuviera prevista en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-44-007",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 7,
+   "enunciado": "Durante la ejecución de un contrato de servicios de limpieza se plantea una modificación no sustancial para incluir un despacho adicional. La necesidad era previsible y el cambio de contratista sería posible. Aun así, conforme a la LCSP, ¿podría acordarse esta modificación?",
+   "opciones": [
+    "Sí, con un límite máximo del 10 % del precio inicial del contrato, IVA excluido.",
+    "Sí, con un límite máximo del 15 % del precio inicial del contrato, IVA excluido.",
+    "Sí, con un límite máximo del 20 % del precio inicial del contrato, IVA excluido.",
+    "No, salvo que dicha modificación estuviera prevista en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-44-008",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 8,
+   "enunciado": "El Ministerio de Cultura adjudicó un contrato de obras para la reforma de un museo por un precio de 1.000.000 de euros, IVA excluido. Durante su ejecución surge la necesidad de realizar obras adicionales por importe de 200.000 euros, IVA excluido. Como razones técnicas impiden el cambio de contratista, se plantea su modificación al amparo del artículo 205.2.a) de la LCSP. ¿Es posible acordarla?",
+   "opciones": [
+    "No, porque la alteración de la cuantía del contrato excede del límite legalmente permitido.",
+    "Sí, pero requerirá la previa conformidad por escrito del contratista.",
+    "Sí, y será obligatoria para el contratista.",
+    "No, porque únicamente pueden acordarse modificaciones expresamente previstas en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-44-009",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 9,
+   "enunciado": "El Ministerio de Cultura adjudicó un contrato de servicios de limpieza de una biblioteca por un precio de 100.000 euros, IVA excluido. Durante su ejecución, una inundación imprevisible hace necesaria la ampliación del servicio por un importe de 60.000 euros, IVA excluido. Se plantea la modificación del contrato al amparo del artículo 205.2.b) de la LCSP. ¿Es posible acordarla?",
+   "opciones": [
+    "No, porque la alteración de la cuantía del contrato excede del límite legalmente permitido.",
+    "Sí, pero requerirá la previa conformidad por escrito del contratista.",
+    "Sí, y será obligatoria para el contratista.",
+    "No, porque únicamente pueden acordarse modificaciones expresamente previstas en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-44-010",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 10,
+   "enunciado": "El Ministerio de Hacienda adjudicó un contrato de suministro de ordenadores por 200.000 euros, IVA excluido. Durante su ejecución, circunstancias imprevisibles hacen necesario ampliar el suministro por importe de 30.000 euros, IVA excluido, por lo que se plantea modificar el contrato al amparo del artículo 205.2.b) de la LCSP. Teniendo en cuenta que previamente se acordó otra modificación al alza por importe de 50.000 euros, IVA excluido, ¿es posible acordar la nueva modificación?",
+   "opciones": [
+    "No, porque la alteración de la cuantía del contrato excede del límite legalmente permitido.",
+    "Sí, pero requerirá la previa conformidad por escrito del contratista.",
+    "Sí, y será obligatoria para el contratista.",
+    "No, porque únicamente pueden acordarse modificaciones expresamente previstas en el PCAP."
+   ]
+  },
+  {
+   "id": "pr-44-011",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 11,
+   "enunciado": "¿Cuál de las siguientes modificaciones podría acordar el órgano de contratación, pero requeriría la previa conformidad del contratista? En todos los casos se trata de la primera modificación del contrato y los porcentajes se calculan sobre su precio inicial, IVA excluido.",
+   "opciones": [
+    "Una modificación del 20 % expresamente prevista en el PCAP.",
+    "Una modificación del 20 % en un contrato de obras, que se pretende tramitar como no sustancial al amparo del artículo 205.2.c).",
+    "Una modificación del 20 % por circunstancias sobrevenidas e imprevisibles, al amparo del artículo 205.2.b).",
+    "Una modificación del 30 % por prestaciones adicionales, al amparo del artículo 205.2.a)."
+   ]
+  },
+  {
+   "id": "pr-44-012",
+   "origen": "practicas",
+   "test": "Examen nº 33- LCSP (arts. 203 a 207)",
+   "n": 12,
+   "enunciado": "Durante la construcción de un colegio, un movimiento sísmico imprevisible desestabiliza el terreno, lo que hace necesario modificar la prestación inicialmente pactada para continuar las obras con seguridad. Ante dicha circunstancia, se propone modificar el contrato al amparo del artículo 205.2.b) de la LCSP, incrementando su precio inicial, IVA excluido, un 30 %. En caso de oposición del contratista, ¿qué consecuencia jurídica tendría su negativa?",
+   "opciones": [
+    "Se suspendería la ejecución del contrato hasta que las partes alcanzaran un acuerdo.",
+    "Se descartaría la modificación y continuaría la ejecución en los términos inicialmente pactados.",
+    "Se resolvería el contrato conforme a lo establecido en el artículo 211.1.g) de la LCSP.",
+    "Podría imponerse la modificación previo dictamen favorable del Consejo de Estado."
+   ]
+  },
+  {
+   "id": "pr-45-001",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 1,
+   "enunciado": "En un edificio del Ministerio de Hacienda comienzan a producirse desprendimientos que obligan a su desalojo por razones de seguridad. Ante esta situación, el órgano de contratación acuerda suspender la ejecución del contrato de servicios de limpieza mientras se realizan las reparaciones necesarias. Conforme al artículo 208 de la LCSP, señale la afirmación INCORRECTA en relación con el acta de suspensión:",
+   "opciones": [
+    "Se extenderá de oficio o a solicitud del contratista.",
+    "En ella se consignarán las circunstancias que han motivado la suspensión y la situación de hecho en la ejecución del contrato.",
+    "La suspensión no podrá comenzar hasta que se extienda el acta correspondiente.",
+    "Solo se indemnizarán los períodos de suspensión que estuvieran documentados en la correspondiente acta."
+   ]
+  },
+  {
+   "id": "pr-45-002",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 2,
+   "enunciado": "El 7 de mayo de 2026, se acuerda suspender la ejecución de un contrato de servicios de limpieza mientras se realizan reparaciones en el edificio en el que este se desarrolla. El 7 de octubre de 2026, finalizadas las obras de reparación, el contratista recibe la orden de reanudar la ejecución. ¿Hasta qué fecha podrá reclamar el contratista la indemnización por los daños y perjuicios sufridos durante la suspensión?",
+   "opciones": [
+    "Hasta el 7 de noviembre de 2026.",
+    "Hasta el 7 de abril de 2027.",
+    "Hasta el 7 de mayo de 2027.",
+    "Hasta el 7 de octubre de 2027."
+   ]
+  },
+  {
+   "id": "pr-45-003",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 3,
+   "enunciado": "Acordada la suspensión de un contrato, y salvo que el pliego establezca otra cosa, ¿cuál de los siguientes conceptos NO está comprendido entre los daños y perjuicios indemnizables conforme al artículo 208.2.a) de la LCSP?",
+   "opciones": [
+    "Los gastos por mantenimiento de la garantía definitiva.",
+    "El beneficio industrial dejado de obtener durante el período de suspensión.",
+    "Los gastos salariales del personal que necesariamente deba quedar adscrito al contrato durante la suspensión.",
+    "Los gastos correspondientes a las pólizas de seguro previstas en el PCAP y vinculadas al objeto del contrato."
+   ]
+  },
+  {
+   "id": "pr-45-004",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 4,
+   "enunciado": "Conforme al artículo 209 de la Ley de Contratos del Sector Público, los contratos administrativos se extinguirán:",
+   "opciones": [
+    "Por su cumplimiento o por resolución.",
+    "Por finalización del plazo de duración o por resolución.",
+    "Por cumplimiento, suspensión o resolución.",
+    "Por el transcurso del plazo de garantía sin objeciones por parte de la Administración."
+   ]
+  },
+  {
+   "id": "pr-45-005",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 5,
+   "enunciado": "El Ministerio de Cultura adjudica un contrato de suministro de equipos informáticos para renovar el equipamiento de sus oficinas. Conforme a la LCSP, ¿cuándo se entenderá cumplido el contrato por el contratista?",
+   "opciones": [
+    "Con la mera entrega de la totalidad de los equipos contratados.",
+    "Una vez transcurrido el plazo de garantía sin objeciones por parte de la Administración.",
+    "Cuando haya realizado la totalidad de la prestación, de acuerdo con los términos del contrato y a satisfacción de la Administración.",
+    "Cuando la Administración haya abonado la totalidad del precio."
+   ]
+  },
+  {
+   "id": "pr-45-006",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 6,
+   "enunciado": "Sumobel, S. L., adjudicataria de un contrato de suministro, pone a disposición de la Administración la totalidad de los bienes contratados. Con carácter general, ¿en qué plazo desde su entrega deberá realizarse el acto formal y positivo de recepción o conformidad?",
+   "opciones": [
+    "Dentro de los diez días siguientes.",
+    "Dentro de los quince días siguientes.",
+    "Dentro de los treinta días siguientes.",
+    "Dentro del mes siguiente."
+   ]
+  },
+  {
+   "id": "pr-45-007",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 7,
+   "enunciado": "El Ministerio de Hacienda prepara la recepción del mobiliario adjudicado a Sumobel, S. L., por importe de 50.000 euros, IVA excluido. ¿Debe solicitar a la IGAE la designación de un representante para la comprobación material de la inversión?",
+   "opciones": [
+    "Sí, y la asistencia de la Intervención será obligatoria en todo caso.",
+    "Sí, para su asistencia potestativa al acto de recepción.",
+    "No, porque la solicitud es facultativa para el órgano gestor.",
+    "No, porque solo es obligatoria cuando la inversión supera los 50.000 euros."
+   ]
+  },
+  {
+   "id": "pr-45-008",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 8,
+   "enunciado": "El Ministerio de Asuntos Exteriores ha contratado dos suministros de mobiliario, cada uno por importe de 80.000 euros, IVA excluido: uno para su sede en Madrid y otro para la Embajada de España en París. ¿Con qué antelación a la fecha prevista para la terminación de cada suministro deberá solicitarse a la IGAE la designación de representante?",
+   "opciones": [
+    "Treinta días hábiles en ambos casos.",
+    "Treinta días naturales en Madrid y cuarenta y cinco días naturales en París.",
+    "Treinta días hábiles en Madrid y cuarenta y cinco días hábiles en París.",
+    "Cuarenta y cinco días hábiles en Madrid y treinta días hábiles en París."
+   ]
+  },
+  {
+   "id": "pr-45-009",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 9,
+   "enunciado": "Conforme a la LCSP, una vez recepcionado de conformidad el mobiliario suministrado por Sumovel, S.L., ¿en qué plazo deberá acordarse y notificarse al contratista la liquidación del contrato y abonarle, en su caso, el saldo resultante?",
+   "opciones": [
+    "Dentro de los treinta días siguientes.",
+    "Dentro del mes siguiente.",
+    "Dentro de los sesenta días siguientes.",
+    "Dentro de los dos meses siguientes."
+   ]
+  },
+  {
+   "id": "pr-45-010",
+   "origen": "practicas",
+   "test": "Examen nº 34- LCSP (arts 208 a 211)",
+   "n": 10,
+   "enunciado": "Conforme al artículo 210.3 de la LCSP, ¿cuándo quedará extinguida la responsabilidad de Sumovel, S.L., como adjudicataria del contrato de suministro de mobiliario?",
+   "opciones": [
+    "Con la entrega de la totalidad de los bienes contratados.",
+    "Cuando la Administración reciba de conformidad la totalidad del suministro.",
+    "Una vez abonado el saldo resultante de la liquidación del contrato.",
+    "Transcurrido el plazo de garantía sin objeciones por parte de la Administración."
+   ]
+  },
+  {
+   "id": "pr-46-001",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 1,
+   "enunciado": "¿Cuál de las siguientes NO es una causa general de resolución de los contratos prevista en el artículo 211 de la LCSP?",
+   "opciones": [
+    "La muerte o incapacidad sobrevenida del contratista individual.",
+    "La solicitud de declaración de concurso voluntario por parte del contratista.",
+    "El mutuo acuerdo entre la Administración y el contratista.",
+    "El incumplimiento de la obligación principal del contrato."
+   ]
+  },
+  {
+   "id": "pr-46-002",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 2,
+   "enunciado": "Conforme al artículo 211 de la LCSP, ¿cuál de las siguientes constituye, con carácter general, una causa de resolución del contrato?",
+   "opciones": [
+    "La demora de cinco meses en el pago por parte de la Administración.",
+    "La imposibilidad de ejecutar la prestación en los términos inicialmente pactados, aun cuando fuera posible modificar el contrato.",
+    "El impago de los salarios por parte del contratista a los trabajadores que estuvieran participando en la ejecución del contrato.",
+    "El incumplimiento de cualquier obligación contractual."
+   ]
+  },
+  {
+   "id": "pr-46-003",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 3,
+   "enunciado": "El Ministerio de Cultura adjudica un contrato para la digitalización de archivos con una duración de dos años, prorrogable por uno más. El plan de trabajos establece que la primera serie debe digitalizarse en los tres primeros meses. Conforme al artículo 211.1.d) de la LCSP, ¿qué plazo deberá superar el retraso injustificado en esta actividad para constituir, en todo caso, causa de resolución del contrato?",
+   "opciones": [
+    "Tres meses.",
+    "Seis meses.",
+    "Ocho meses.",
+    "Doce meses."
+   ]
+  },
+  {
+   "id": "pr-46-004",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 4,
+   "enunciado": "Durante la ejecución de un contrato de servicios, el contratista incumple una obligación calificada como esencial en el PCAP. Posteriormente, la Administración acumula una demora superior a seis meses en el pago de facturas ya conformadas. Ambas partes promueven la resolución del contrato, alegando el incumplimiento de la otra. Conforme al artículo 211.2 de la LCSP, ¿qué causa deberá prevalecer a efectos de las consecuencias económicas de la resolución?",
+   "opciones": [
+    "El incumplimiento de la obligación esencial por parte del contratista.",
+    "La demora en el pago por parte de la Administración.",
+    "La causa de resolución que hubiera sido invocada en primer lugar.",
+    "La causa que el órgano de contratación considere de mayor gravedad."
+   ]
+  },
+  {
+   "id": "pr-46-005",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 5,
+   "enunciado": "Un ministerio adjudicó un contrato de suministro de equipos informáticos para unas oficinas provisionales. El contratista incumplió el plazo de entrega injustificadamente y, como las oficinas han dejado de utilizarse, ambas partes consideran oportuno poner fin al contrato. Conforme a la LCSP, ¿sería posible resolverlo de mutuo acuerdo?",
+   "opciones": [
+    "Sí, porque ambas partes están conformes y razones de interés público hacen innecesaria la continuidad del contrato.",
+    "Sí, sin perjuicio de que la Administración pueda imponer las penalidades correspondientes por el incumplimiento.",
+    "No, porque concurre otra causa de resolución imputable al contratista.",
+    "No, porque la resolución por mutuo acuerdo solo puede acordarse antes de iniciarse la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "pr-46-006",
+   "origen": "practicas",
+   "test": "Examen nº 35 - LCSP (arts. 212 a 217)",
+   "n": 6,
+   "enunciado": "Conforme al artículo 212 de la LCSP, ¿cómo podrá iniciarse el procedimiento de resolución de un contrato administrativo?",
+   "opciones": [
+    "Exclusivamente de oficio, debiendo resolverse en el plazo máximo de seis meses.",
+    "Exclusivamente de oficio, debiendo resolverse en el plazo máximo de ocho meses.",
+    "De oficio o a instancia del contratista, debiendo resolverse en el plazo máximo de seis meses.",
+    "De oficio o a instancia del contratista, debiendo resolverse en el plazo máximo de ocho meses."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "pr-21-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No es hasta la adjudicación: la provisional se mantiene hasta la perfección del contrato.",
+   "La formalización perfecciona el contrato en las Administraciones Públicas, pero la ley no usa ese término aquí, sino la perfección.",
+   "Correcta: responde del mantenimiento de las ofertas hasta la perfección del contrato (art. 106.1).",
+   "El inicio de la ejecución es posterior a la perfección y no es el límite que fija la ley."
+  ]
+ },
+ "pr-21-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 1,
+  "justificaciones": [
+   "1.500 € es un máximo, no un importe fijo: el pliego puede fijar una cantidad menor.",
+   "Correcta: el límite es el 3 % del PBL sin IVA (art. 106.2): 3 % de 50.000 € = 1.500 €, como máximo.",
+   "1.815 € es el 3 % de 60.500 €, con IVA, y la base excluye el IVA.",
+   "Aunque se expresa como máximo, 1.815 € parte de una base con IVA."
+  ]
+ },
+ "pr-21-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 1,
+  "justificaciones": [
+   "12.000 € es el 3 % de 400.000 €, la suma de todos los lotes.",
+   "Correcta: solo cuenta el importe de los lotes a los que ofertas (art. 106.2): 100.000 + 10.000 = 110.000 €, y 3 % = 3.300 €.",
+   "3.000 € es el 3 % del lote 1 solo, y omite el lote 4.",
+   "300 € es el 3 % solo del lote 4, y omite el lote 1."
+  ]
+ },
+ "pr-21-029": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 106.2, 106.4 y 107.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: provisional 3 % de 100.000 € = 3.000 €; definitiva 5 % de 80.000 € = 4.000 €. Puede aplicar la provisional y completar con 1.000 € (art. 106.4).",
+   "1.840 € resulta de calcular sobre importes con IVA, y las garantías se calculan sin IVA.",
+   "Puede aplicar la provisional a la definitiva, así que no tiene que constituir una garantía nueva completa.",
+   "4.840 € usa el precio con IVA y descarta la posibilidad de aplicar la provisional."
+  ]
+ },
+ "pr-21-030": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: la constituye el licitador con la mejor oferta (art. 107.1).",
+   "Es la incorrecta: la exención no es posible en obras ni en concesión de obras, pero sí cabe en la concesión de servicios (art. 107.1).",
+   "Es correcta: responde, entre otros, de la obligación de formalizar en plazo (art. 110.a).",
+   "Es correcta: con precios unitarios se fija sobre el PBL sin IVA (art. 107.3)."
+  ]
+ },
+ "pr-21-031": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 111.2",
+  "correcta": 1,
+  "justificaciones": [
+   "Un mes no es el plazo: el acuerdo de devolución debe adoptarse en dos meses desde el fin del plazo de garantía.",
+   "Correcta: dos meses desde el 15 de septiembre llevan al 15 de noviembre de 2026 (art. 111.2).",
+   "Tres meses no es el plazo legal.",
+   "Un año no es el plazo: el art. 111.5 regula otros supuestos distintos."
+  ]
+ },
+ "pr-21-032": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: se extingue automáticamente y se devuelve inmediatamente después de la perfección del contrato (art. 106.4).",
+   "No son un mes: la ley dice inmediatamente.",
+   "No son dos meses: ese plazo es el de devolución de la definitiva.",
+   "Tampoco tres meses: el art. 106.4 dice inmediatamente."
+  ]
+ },
+ "pr-21-033": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 109.2 y 109.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 15 días para reponer o ampliar tras la ejecución de penalidades (art. 109.2) y 15 días para reajustar tras la notificación de la modificación (art. 109.3).",
+   "10 días no es el plazo de ninguno de los dos supuestos.",
+   "El reajuste también es de 15 días, no de 10.",
+   "La reposición es de 15 días, no de 10, y el reajuste es de 15."
+  ]
+ },
+ "pr-21-034": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la complementaria puede llegar al 5 % del precio final sin IVA (art. 107.2): 5 % de 80.000 € = 4.000 €.",
+   "4.840 € es el 5 % del precio con IVA, y la base excluye el IVA.",
+   "8.000 € es el 10 %, es decir, la garantía total, no la complementaria.",
+   "9.680 € es el 10 % del precio con IVA."
+  ]
+ },
+ "pr-21-035": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 108.1",
+  "correcta": 1,
+  "justificaciones": [
+   "Sí se admite: el efectivo es una forma de garantía del art. 108.1.a.",
+   "Correcta: las acciones de sociedades cotizadas no figuran entre las formas del art. 108.1. Solo valen valores de Deuda Pública.",
+   "Sí se admite: el aval es una forma de garantía del art. 108.1.b.",
+   "Sí se admite: contrato de seguro de caución."
+  ]
+ },
+ "pr-22-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.c y 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el INAEM, organismo autónomo, es Administración Pública (arts. 3.1.c y 3.2.a).",
+   "Es poder adjudicador, pero además Administración Pública: la AP es la categoría que le corresponde.",
+   "Sí es poder adjudicador, por ser Administración Pública.",
+   "Está dentro del ámbito de la LCSP."
+  ]
+ },
+ "pr-22-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 20.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No supera el umbral: 4.000.000 € es menor que 5.404.000 €.",
+   "5.538.000 € no es el umbral que recoge el art. 20.1.",
+   "5.440.000 € no es el umbral que recoge el art. 20.1.",
+   "Correcta: el umbral de las obras es 5.404.000 € (art. 20.1) y 4.000.000 € no lo alcanza."
+  ],
+  "revisar": "Umbrales de regulación armonizada (140.000, 216.000 y 5.404.000 €) se actualizan cada dos años."
+ },
+ "pr-22-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 88.1.a",
+  "correcta": 1,
+  "justificaciones": [
+   "Dos años no es el periodo de la relación de obras.",
+   "Correcta: relación de obras ejecutadas en los cinco últimos años (art. 88.1.a).",
+   "Tres años es el periodo de suministros y servicios, no de obras.",
+   "Cuatro años no es un periodo legal."
+  ]
+ },
+ "pr-22-004": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44.1 y 50.1",
+  "correcta": 3,
+  "justificaciones": [
+   "El recurso especial no exige que el contrato sea armonizado: en obras basta un valor estimado superior a 3.000.000 €.",
+   "Que el adjudicatario sea una UTE no excluye el recurso.",
+   "El plazo es de quince días hábiles, no naturales.",
+   "Correcta: INAEM es AP y el contrato supera 3.000.000 €, así que cabe recurso especial en quince días hábiles."
+  ]
+ },
+ "pr-22-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 100.1 y 101",
+  "correcta": 3,
+  "justificaciones": [
+   "4.000.000 € es el valor estimado, sin IVA.",
+   "4.356.000 € es el precio adjudicado con IVA, no el PBL.",
+   "4.400.000 € no corresponde a ningún cálculo legal.",
+   "Correcta: sin otros conceptos, el PBL sin IVA es 4.000.000 € y con IVA 4.840.000 € (art. 100.1)."
+  ]
+ },
+ "pr-22-006": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 69.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No es necesaria para licitar: se exige solo si se adjudica a la UTE.",
+   "No se exige tras la propuesta, sino una vez adjudicado el contrato a su favor.",
+   "Correcta: la formalización en escritura pública solo es necesaria cuando se adjudique el contrato a la unión (art. 69.1).",
+   "No se exige tras perfeccionarse el contrato, sino tras la adjudicación a su favor."
+  ]
+ },
+ "pr-22-007": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 107.1",
+  "correcta": 1,
+  "justificaciones": [
+   "108.000 € es el 3 % del precio sin IVA, y no es el porcentaje de la definitiva.",
+   "Correcta: 5 % del precio final sin IVA (art. 107.1): 5 % de 3.600.000 € = 180.000 €.",
+   "200.000 € es el 5 % del valor estimado, y la base es el precio final.",
+   "217.800 € es el 5 % del precio con IVA, y la base excluye el IVA."
+  ]
+ },
+ "pr-22-008": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 69",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: responden solidariamente (art. 69.3).",
+   "Es la incorrecta: la duración debe ser coincidente al menos con la del contrato hasta su extinción, no se extingue sin más al terminar la ejecución (art. 69.4).",
+   "Es correcta: nombra representante o apoderado único (art. 69.3).",
+   "Es correcta: si cambia su composición antes de formalizar, queda excluida (art. 69.8)."
+  ],
+  "ojo": "El art. 69.4 dice 'coincidente, al menos, con la del contrato hasta su extinción'. La opción 1 es la más imprecisa."
+ },
+ "pr-22-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.c y 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las autoridades administrativas independientes son Administración Pública (arts. 3.1.c y 3.2.a).",
+   "Es AP, que es poder adjudicador pero con categoría propia.",
+   "Es poder adjudicador, por ser Administración Pública.",
+   "Está dentro del ámbito de la LCSP."
+  ]
+ },
+ "pr-22-010": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 22.1 y 101",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: valor estimado de 200.000 € (100.000 + 100.000 de prórroga), inferior a los 216.000 € de las entidades distintas de la AGE y sus organismos (art. 22.1.b).",
+   "221.000 € no es el umbral que recoge el art. 22.1.b.",
+   "140.000 € es el umbral de la AGE, organismos autónomos y entidades gestoras, y la AEPD no entra en ese grupo.",
+   "143.000 € no es el umbral que recoge el art. 22."
+  ],
+  "revisar": "Umbrales de regulación armonizada (140.000, 216.000 y 5.404.000 €) se actualizan cada dos años."
+ },
+ "pr-22-011": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "La razón no es el valor: en servicios la clasificación no es exigible nunca.",
+   "Correcta: no se puede exigir, pero los licitadores pueden acreditar con ella su solvencia (art. 77.1.b).",
+   "Sí existe clasificación para contratos de servicios.",
+   "Falso: en servicios no es exigible, cualquiera que sea el valor."
+  ]
+ },
+ "pr-22-012": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: 3 % del PBL sin IVA (art. 106.2): 3 % de 100.000 € = 3.000 €.",
+   "3.630 € es el 3 % del PBL con IVA, y la base excluye el IVA.",
+   "5.000 € es el 5 % del PBL, y el máximo de la provisional es el 3 %.",
+   "6.000 € no responde a ningún cálculo legal."
+  ]
+ },
+ "pr-22-013": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "arts. 106.3 y 108.1",
+  "correcta": 2,
+  "justificaciones": [
+   "El seguro de responsabilidad civil no es una forma de garantía.",
+   "El certificado de solvencia bancaria no es una forma de garantía.",
+   "Correcta: el contrato de seguro de caución es una forma de garantía (art. 108.1).",
+   "Los bonos de sociedades privadas no valen: solo valores de Deuda Pública."
+  ]
+ },
+ "pr-22-014": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 106.1",
+  "correcta": 3,
+  "justificaciones": [
+   "La correcta ejecución la garantiza la definitiva, no la provisional.",
+   "Las penalidades las cubre la garantía definitiva.",
+   "No es hasta la adjudicación, sino hasta la perfección del contrato.",
+   "Correcta: la provisional responde del mantenimiento de las ofertas hasta la perfección del contrato (art. 106.1)."
+  ]
+ },
+ "pr-22-015": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.1, 44.2.a y 45.1",
+  "correcta": 3,
+  "justificaciones": [
+   "Los anuncios de licitación sí son recurribles (art. 44.2.a).",
+   "El umbral se mide sobre el valor estimado, que son 200.000 €, y supera 100.000 €.",
+   "La suspensión automática solo opera cuando el acto recurrido es la adjudicación (art. 53).",
+   "Correcta: es recurrible y, al ser un ente del sector público estatal, lo resuelve el TACRC (art. 45.1)."
+  ]
+ },
+ "pr-22-016": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 36.1",
+  "correcta": 1,
+  "justificaciones": [
+   "La adjudicación perfecciona solo los contratos menores y los basados en acuerdo marco.",
+   "Correcta: los contratos de poderes adjudicadores se perfeccionan con su formalización en documento administrativo (art. 36.1).",
+   "El documento privado no es la forma de perfección en el sector público.",
+   "La escritura pública es optativa y no perfecciona el contrato."
+  ]
+ },
+ "pr-22-017": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.4",
+  "correcta": 2,
+  "justificaciones": [
+   "El anuncio se publicó el 15 de enero de 2026, más de tres meses antes del 1 de mayo, así que cumple la antelación.",
+   "No hace falta que el contrato previera prórrogas.",
+   "Correcta: se prorroga hasta que comience el nuevo contrato y como máximo nueve meses (art. 29.4).",
+   "El máximo es de nueve meses, no tres."
+  ]
+ },
+ "pr-22-018": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No es de servicios: es arrendamiento de bienes muebles.",
+   "No es administrativo especial: encaja en suministro.",
+   "Correcta: el arrendamiento con opción de compra de bienes muebles es suministro (art. 16.1).",
+   "Está sujeto a la LCSP: no es un contrato excluido de su ámbito."
+  ]
+ },
+ "pr-22-019": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.h y 3.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No es AP: es una sociedad mercantil.",
+   "Es una sociedad que opera en régimen de mercado, y por tanto no cumple el art. 3.3.d.",
+   "Correcta: es sector público por ser sociedad mercantil estatal (art. 3.1.h) pero no poder adjudicador, al actuar en el mercado.",
+   "Está dentro del ámbito de la LCSP."
+  ],
+  "ojo": "Se trata la sociedad mercantil estatal de mercado como no poder adjudicador (art. 3.3.d). Si tu fuente la trata de otro modo, hay que revisar."
+ },
+ "pr-22-020": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 19.1 y 44.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No es poder adjudicador, así que no puede ser armonizado ni recurrible.",
+   "No es poder adjudicador, así que no puede ser armonizado.",
+   "Correcta: sin condición de poder adjudicador no hay regulación armonizada ni recurso especial.",
+   "No es recurrible, porque no lo licita un poder adjudicador."
+  ],
+  "ojo": "Se trata la sociedad mercantil estatal de mercado como no poder adjudicador (art. 3.3.d). Si tu fuente la trata de otro modo, hay que revisar."
+ },
+ "pr-22-021": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 27.1.d y 27.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la preparación y adjudicación van al contencioso (art. 27.1.d) y los efectos y la extinción al civil (art. 27.2.b), por no ser poder adjudicador.",
+   "Está al revés: la adjudicación es del contencioso.",
+   "Solo una parte es del orden contencioso: la preparación y la adjudicación.",
+   "Solo una parte es del orden civil: los efectos y la extinción."
+  ],
+  "ojo": "Se trata la sociedad mercantil estatal de mercado como no poder adjudicador (art. 3.3.d). Si tu fuente la trata de otro modo, hay que revisar."
+ },
+ "pr-22-022": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No son cinco años prorrogables: el tope incluye las prórrogas.",
+   "El límite no es de cuatro años.",
+   "Correcta: el arrendamiento de bienes muebles no puede exceder de cinco años, incluidas las prórrogas (art. 29.5).",
+   "Cuatro años no es el límite legal."
+  ]
+ },
+ "pr-22-023": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.e y 3.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "Las fundaciones públicas no son AP.",
+   "Correcta: la fundación pública es poder adjudicador sin ser Administración Pública (art. 3.3.b).",
+   "Sí es poder adjudicador, por mandato del art. 3.3.b.",
+   "Está dentro del ámbito de la LCSP."
+  ]
+ },
+ "pr-22-024": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15",
+  "correcta": 3,
+  "justificaciones": [
+   "La gestión de servicios públicos es una figura antigua, sustituida por la concesión de servicios.",
+   "No es de servicios: el contratista asume el riesgo operacional y se retribuye con tarifas.",
+   "No es administrativo especial: encaja en un tipo nominado.",
+   "Correcta: gestión de un servicio, explotación por tarifas y riesgo operacional: concesión de servicios (art. 15)."
+  ]
+ },
+ "pr-22-025": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la concesión de servicios la celebran poderes adjudicadores (art. 15.1).",
+   "No hace falta ser Administración Pública.",
+   "La clasificación no es requisito para el ente que contrata.",
+   "No todos los entes del sector público: solo poderes adjudicadores."
+  ]
+ },
+ "pr-22-026": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 87.1.c",
+  "correcta": 1,
+  "justificaciones": [
+   "El volumen de negocios se refiere a los tres últimos ejercicios, no a cinco.",
+   "Correcta: el patrimonio neto al cierre del último ejercicio vencido es un medio del art. 87.1.c.",
+   "El volumen de negocios se refiere a tres ejercicios, no a diez.",
+   "Es patrimonio neto, no bruto."
+  ]
+ },
+ "pr-22-027": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 99.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No es obligatoria siempre: se puede no dividir con motivos válidos.",
+   "Los motivos no tienen que ser excepcionales: bastan motivos válidos justificados.",
+   "Correcta: debe preverse la división en lotes salvo que existan motivos válidos justificados en el expediente (art. 99.3).",
+   "La división en lotes está permitida."
+  ]
+ },
+ "pr-22-028": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 103.5",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: en concesión de servicios no se exige el 20 % de ejecución, pero sí que haya pasado un año (art. 103.5).",
+   "Sí es exigible que haya transcurrido un año.",
+   "Fuera de la concesión de servicios haría falta también el 20 %, pero aquí no.",
+   "Sí es exigible un año desde la formalización."
+  ]
+ },
+ "pr-22-029": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 44.2",
+  "correcta": 3,
+  "justificaciones": [
+   "Aunque el recurso es potestativo y gratuito, la memoria justificativa no es recurrible.",
+   "La fundación es poder adjudicador, así que no es ese el motivo.",
+   "El contrato de 5.500.000 € sí es recurrible: supera 3.000.000 €.",
+   "Correcta: la memoria justificativa no figura entre los actos del art. 44.2."
+  ]
+ },
+ "pr-22-030": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la concesión de servicios sanitarios sin obras tiene un máximo de diez años.",
+   "Quince años no es un límite legal.",
+   "Veinticinco años es el máximo de las concesiones de servicios no sanitarias.",
+   "Cuarenta años es el máximo de las concesiones de obras."
+  ],
+  "revisar": "La duración máxima por tipo de concesión no figura en el texto de la plataforma; se aplica la regla de diez años para servicios sanitarios."
+ },
+ "pr-22-031": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 15.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: no es solo el derecho de explotar, la ley admite que se acompañe de un precio.",
+   "No: el derecho a percibir un precio por sí solo no es contrapartida de una concesión de servicios, la contrapartida siempre incluye el derecho a explotar.",
+   "No: el precio no acompaña siempre a la explotación, es solo una posibilidad.",
+   "Correcta: la contrapartida es el derecho a explotar los servicios, que puede ir acompañado del de percibir un precio (art. 15.1)."
+  ],
+  "ojo": "La trampa de la opción b es que convierte el precio en una alternativa a la explotación, cuando solo puede acompañarla."
+ },
+ "pr-22-032": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 32.2.b",
+  "correcta": 2,
+  "justificaciones": [
+   "Más del 50 % no es el requisito legal.",
+   "Más del 70 % no es el requisito legal.",
+   "Correcta: más del 80 % de la actividad debe realizarse en los cometidos confiados (art. 32.2.b).",
+   "No se exige el 100 %: el requisito legal es más del 80 %."
+  ]
+ },
+ "pr-22-033": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 40.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No es nulidad: el art. 39 no recoge esta causa.",
+   "Correcta: los encargos a medios propios que incumplan el art. 32 son anulables (art. 40.c).",
+   "El Derecho civil no se aplica a este supuesto.",
+   "Sí es invalidante: es anulabilidad."
+  ]
+ },
+ "pr-22-034": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 63.6",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: se publica la formalización de encargos superiores a 50.000 €, IVA excluido (art. 63.6).",
+   "El umbral se mide sin IVA.",
+   "5.000 € es el umbral de la publicación trimestral de información, no de la formalización.",
+   "5.000 € es otro umbral, y además se mide sin IVA."
+  ]
+ },
+ "pr-22-035": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 102.8",
+  "correcta": 1,
+  "justificaciones": [
+   "Un contrato de obras no admite pago aplazado salvo las modalidades del art. 102.8.",
+   "Correcta: el pago aplazado se admite en el arrendamiento financiero o con opción de compra (art. 102.8).",
+   "Un contrato de servicios no tiene esa modalidad.",
+   "La ley prohíbe el pago aplazado con excepciones: arrendamiento financiero y con opción de compra."
+  ],
+  "ojo": "Se trata la sociedad mercantil estatal de mercado como no poder adjudicador (art. 3.3.d). Si tu fuente la trata de otro modo, hay que revisar."
+ },
+ "pr-23-001": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 115",
+  "correcta": 3,
+  "justificaciones": [
+   "La publicidad de la consulta y del informe es obligatoria, no potestativa.",
+   "De las consultas no puede resultar un objeto que solo se ajuste a las características técnicas de uno de los consultados (art. 115.2).",
+   "No pueden revelarse a los participantes las soluciones propuestas por los demás.",
+   "Correcta: la participación en la consulta no impide intervenir después en el procedimiento (art. 115.3)."
+  ]
+ },
+ "pr-23-002": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Los pliegos se incorporan después, no inician el expediente.",
+   "La aprobación del gasto acompaña a la aprobación del expediente.",
+   "Correcta: el expediente se inicia por el órgano de contratación motivando la necesidad del contrato (art. 116.1).",
+   "La elección del procedimiento se justifica dentro del expediente, no lo inicia."
+  ]
+ },
+ "pr-23-003": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.3",
+  "correcta": 1,
+  "justificaciones": [
+   "El PCAP se incorpora siempre.",
+   "Correcta: el documento descriptivo sustituye a los pliegos solo en el diálogo competitivo (art. 116.3), no en el abierto.",
+   "El PPT se incorpora siempre.",
+   "El certificado de crédito se incorpora al expediente (art. 116.3)."
+  ]
+ },
+ "pr-23-004": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 116.4",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: deben justificarse los criterios de solvencia y adjudicación y las condiciones especiales de ejecución (art. 116.4.c).",
+   "La clasificación no es exigible en un contrato de suministro.",
+   "El informe de insuficiencia de medios solo se exige en contratos de servicios.",
+   "Lo que debe justificarse es la decisión de no dividir en lotes, no la de dividir (art. 116.4.g)."
+  ],
+  "ojo": "Si el contrato se dividiera, no hace falta justificarlo. La justificación se exige para no dividir."
+ },
+ "pr-23-005": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 117.1",
+  "correcta": 2,
+  "justificaciones": [
+   "Es correcta: dispone la apertura del procedimiento de adjudicación.",
+   "Es correcta: implica la aprobación del gasto, con excepciones.",
+   "Es la incorrecta: la resolución abre el procedimiento, pero el plazo de proposiciones lo abre el anuncio de licitación.",
+   "Es correcta: se publica en el perfil de contratante."
+  ]
+ }
+}

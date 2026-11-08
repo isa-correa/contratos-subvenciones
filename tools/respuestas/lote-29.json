@@ -1,0 +1,519 @@
+{
+ "pr-01-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social son Administración Pública (**art. 3.2.a, por la letra b del 3.1**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-002": {
+  "bloque": "lcsp-general",
+  "precepto": "arts. 3.1.f y 3.3.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es Administración Pública (art. 3.2): es poder adjudicador sin ser Administración Pública.",
+   "Es esta. Las Mutuas colaboradoras con la Seguridad Social son poder adjudicador sin ser Administración Pública (**arts. 3.1.f y 3.3.c**).",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es poder adjudicador sin ser Administración Pública."
+  ]
+ },
+ "pr-01-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los Organismos Autónomos son Administración Pública (**art. 3.2.a, por la letra c del 3.1**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La Administración General del Estado es Administración Pública (**art. 3.2.a, por la letra a del 3.1**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las Universidades públicas son Administración Pública (**art. 3.2.a, por la letra c del 3.1**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las Diputaciones Forales forman parte del sector público y son Administración Pública (**art. 3.1.l y 3.2.a**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.h",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es Administración Pública (art. 3.2): es sector público pero no poder adjudicador.",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es sector público pero no poder adjudicador.",
+   "Es esta. Una sociedad mercantil estatal es sector público (**art. 3.1.h**), pero no poder adjudicador si su fin es industrial o mercantil (**art. 3.3.d**)."
+  ],
+  "ojo": "Sería poder adjudicador solo si cumpliera el art. 3.3.d, es decir, si hubiera sido creada para necesidades de interés general sin carácter industrial o mercantil. Renfe Viajeros opera en el mercado."
+ },
+ "pr-01-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las autoridades administrativas independientes son Administración Pública (**art. 3.2.a, por la letra c del 3.1**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.g",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es Administración Pública (art. 3.2): es sector público pero no poder adjudicador.",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es sector público pero no poder adjudicador.",
+   "Es esta. Una entidad pública empresarial es sector público (**art. 3.1.g**), pero no es poder adjudicador por sí sola. Lo sería solo si cumple el art. 3.3.d."
+  ],
+  "ojo": "Renfe-Operadora actúa en el mercado, así que se considera que no cumple el art. 3.3.d. Otras EPE sin carácter mercantil sí podrían ser poder adjudicador."
+ },
+ "pr-01-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Las Administraciones de las Comunidades Autónomas son Administración Pública (**art. 3.2.a**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una agencia estatal es entidad de derecho público que no se financia con ingresos de mercado: es Administración Pública (**art. 3.2.b**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-012": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es Administración Pública (art. 3.2): es poder adjudicador sin ser Administración Pública.",
+   "Es esta. Las fundaciones públicas son poder adjudicador y no Administración Pública (**arts. 3.1.e y 3.3.b**).",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es poder adjudicador sin ser Administración Pública."
+  ]
+ },
+ "pr-01-013": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un consorcio con personalidad jurídica propia que no se financia con ingresos de mercado es Administración Pública (**art. 3.2.b**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-01-014": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.1.i",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es Administración Pública (art. 3.2): es sector público pero no poder adjudicador.",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es sector público pero no poder adjudicador.",
+   "Es esta. Los fondos sin personalidad jurídica son sector público (**art. 3.1.i**), pero no figuran como poder adjudicador (**art. 3.3**)."
+  ]
+ },
+ "pr-01-015": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 3.2.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un Ministerio es la Administración General del Estado: Administración Pública (**art. 3.2.a**).",
+   "No. No es poder adjudicador sin ser Administración Pública (art. 3.3): es Administración Pública.",
+   "No. No es una entidad del sector público que quede fuera de los poderes adjudicadores (art. 3.1): es Administración Pública."
+  ]
+ },
+ "pr-02-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de suministro.",
+   "Es esta. Los contratos de fabricación con características fijadas por la entidad contratante son de suministro (**art. 16.3.c**).",
+   "No. No es contrato de servicios. Es contrato de suministro.",
+   "No. No es contrato excluido. Es contrato de suministro."
+  ]
+ },
+ "pr-02-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de servicios.",
+   "No. No es contrato de suministro. Es contrato de servicios.",
+   "Es esta. Los programas de ordenador desarrollados a medida son contratos de servicios (**art. 17 y 16.3.b**).",
+   "No. No es contrato excluido. Es contrato de servicios."
+  ]
+ },
+ "pr-02-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.d",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de suministro.",
+   "Es esta. La adquisición de energía primaria o transformada es suministro (**art. 16.3.d**).",
+   "No. No es contrato de servicios. Es contrato de suministro.",
+   "No. No es contrato excluido. Es contrato de suministro."
+  ]
+ },
+ "pr-02-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 9.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato excluido.",
+   "No. No es contrato de suministro. Es contrato excluido.",
+   "No. No es contrato de servicios. Es contrato excluido.",
+   "Es esta. El arrendamiento de un inmueble queda excluido de la LCSP (**art. 9.2**)."
+  ]
+ },
+ "pr-02-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de servicios.",
+   "No. No es contrato de suministro. Es contrato de servicios.",
+   "Es esta. La redacción de un proyecto de obras es un servicio (**art. 17**), no una obra.",
+   "No. No es contrato excluido. Es contrato de servicios."
+  ]
+ },
+ "pr-02-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de suministro.",
+   "Es esta. El arrendamiento de bienes muebles, como vehículos, es contrato de suministro (**art. 16.1**).",
+   "No. No es contrato de servicios. Es contrato de suministro.",
+   "No. No es contrato excluido. Es contrato de suministro."
+  ]
+ },
+ "pr-02-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 11.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato excluido.",
+   "No. No es contrato de suministro. Es contrato excluido.",
+   "No. No es contrato de servicios. Es contrato excluido.",
+   "Es esta. Los contratos de servicios de arbitraje y conciliación quedan excluidos (**art. 11.3**)."
+  ]
+ },
+ "pr-02-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Ampliar una sala de un edificio es ejecutar una obra sobre un bien inmueble (**art. 13.2**).",
+   "No. No es contrato de suministro. Es contrato de obras.",
+   "No. No es contrato de servicios. Es contrato de obras.",
+   "No. No es contrato excluido. Es contrato de obras."
+  ]
+ },
+ "pr-02-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de servicios.",
+   "No. No es contrato de suministro. Es contrato de servicios.",
+   "Es esta. La modernización de portales web es una prestación de hacer: contrato de servicios (**art. 17**).",
+   "No. No es contrato excluido. Es contrato de servicios."
+  ]
+ },
+ "pr-02-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13 y Anexo I",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La instalación de calefacción o aire acondicionado en un edificio es trabajo del Anexo I: contrato de obras (**art. 13.1.a**).",
+   "No. No es contrato de suministro. Es contrato de obras.",
+   "No. No es contrato de servicios. Es contrato de obras.",
+   "No. No es contrato excluido. Es contrato de obras."
+  ],
+  "ojo": "Si la instalación fuese accesoria de un suministro, podría ser suministro. Aquí el objeto es la instalación en un edificio."
+ },
+ "pr-02-011": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de suministro.",
+   "Es esta. La adquisición de programas de ordenador, en forma de licencias, es suministro (**art. 16.3.b**).",
+   "No. No es contrato de servicios. Es contrato de suministro.",
+   "No. No es contrato excluido. Es contrato de suministro."
+  ]
+ },
+ "pr-02-012": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 13 y Anexo I",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Instalar un ascensor en un edificio es trabajo del Anexo I: contrato de obras (**art. 13.1.a**).",
+   "No. No es contrato de suministro. Es contrato de obras.",
+   "No. No es contrato de servicios. Es contrato de obras.",
+   "No. No es contrato excluido. Es contrato de obras."
+  ]
+ },
+ "pr-02-013": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 17",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de servicios.",
+   "No. No es contrato de suministro. Es contrato de servicios.",
+   "Es esta. La telefonía fija y móvil es una prestación de hacer: contrato de servicios (**art. 17**).",
+   "No. No es contrato excluido. Es contrato de servicios."
+  ]
+ },
+ "pr-02-014": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 6",
+  "correcta": 3,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato excluido.",
+   "No. No es contrato de suministro. Es contrato excluido.",
+   "No. No es contrato de servicios. Es contrato excluido.",
+   "Es esta. Los servicios públicos cuya utilización requiere tarifa, tasa o precio público de aplicación general no son contratos: quedan excluidos (**art. 6**)."
+  ]
+ },
+ "pr-02-015": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato de obras. Es contrato de suministro.",
+   "Es esta. La adquisición y el arrendamiento de equipos de telecomunicaciones es suministro (**art. 16.3.b**).",
+   "No. No es contrato de servicios. Es contrato de suministro.",
+   "No. No es contrato excluido. Es contrato de suministro."
+  ]
+ },
+ "pr-03-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un Ministerio es AGE y su umbral en suministros es 140.000 euros: 150.000 lo supera (**art. 21.1.a**).",
+   "No. Sí está sujeto: 150.000 euros es superior a 140.000."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un Organismo Autónomo estatal tiene umbral de 140.000 euros en servicios: 175.000 lo supera (**art. 22.1.a**).",
+   "No. Sí está sujeto: 175.000 euros es superior a 140.000."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está sujeto: el umbral de una universidad es 216.000, no 140.000.",
+   "Es esta. Una Universidad tiene umbral de 216.000 euros: 200.000 no lo alcanza (**art. 21.1.b**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Los Servicios Comunes de la Seguridad Social tienen umbral de 140.000 euros: 150.000 lo supera (**art. 21.1.a**).",
+   "No. Sí está sujeto: el umbral de los Servicios Comunes es 140.000 euros."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un Ayuntamiento tiene umbral de 216.000 euros: 225.000 lo supera (**art. 22.1.b**).",
+   "No. Sí está sujeto: 225.000 euros es superior a 216.000."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.b",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está sujeto: el umbral de una Comunidad Autónoma es 216.000, no 140.000.",
+   "Es esta. Una Comunidad Autónoma tiene umbral de 216.000 euros: 175.000 no lo alcanza (**art. 21.1.b**)."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 21.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una Mutua tiene umbral de 216.000 euros: 250.000 lo supera (**art. 21.1.b**).",
+   "No. Sí está sujeto: 250.000 euros es superior a 216.000."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.b",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una fundación pública tiene umbral de 216.000 euros y la ley dice 'igual o superior': 216.000 lo alcanza (**art. 22.1.b**).",
+   "No. Sí está sujeto: el umbral es 'igual o superior' y se alcanza exactamente."
+  ],
+  "revisar": "Umbrales de 2026 (140.000 euros AGE y 216.000 resto), que se actualizan cada dos años."
+ },
+ "pr-03-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 22.1.c",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No está sujeto: 500.000 no alcanza el umbral de 750.000 del Anexo IV.",
+   "Es esta. Los servicios del Anexo IV tienen umbral de 750.000 euros: 500.000 no lo alcanza (**art. 22.1.c**)."
+  ]
+ },
+ "pr-03-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 20",
+  "correcta": 1,
+  "justificaciones": [
+   "No. Habría sido sí si fuera poder adjudicador, porque 5.500.000 supera 5.404.000 (**art. 20**).",
+   "Es esta. RENFE-Operadora es una EPE sin carácter de poder adjudicador, así que sus contratos no son de regulación armonizada de la LCSP (**arts. 19 y 3.3**)."
+  ],
+  "ojo": "La respuesta depende de tratar a RENFE como no poder adjudicador. Si se considerara poder adjudicador, serían SARA."
+ },
+ "pr-04-001": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a.2.º",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato administrativo. Es contrato privado incluido en la LCSP.",
+   "Es esta. La suscripción a bases de datos es contrato privado aunque lo celebre una Administración (**art. 25.1.a.2.º**).",
+   "No. No es contrato excluido de la LCSP. Es contrato privado incluido en la LCSP."
+  ]
+ },
+ "pr-04-002": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un contrato de suministro de un Organismo Autónomo (Administración Pública) es administrativo (**art. 25.1.a**).",
+   "No. No es contrato privado incluido en la LCSP. Es contrato administrativo.",
+   "No. No es contrato excluido de la LCSP. Es contrato administrativo."
+  ]
+ },
+ "pr-04-003": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 26.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato administrativo. Es contrato privado incluido en la LCSP.",
+   "Es esta. Una EPE no es Administración Pública, así que sus contratos son privados (**art. 26.1.b**).",
+   "No. No es contrato excluido de la LCSP. Es contrato privado incluido en la LCSP."
+  ]
+ },
+ "pr-04-004": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Un contrato de servicios de una Comunidad Autónoma es administrativo (**art. 25.1.a**).",
+   "No. No es contrato privado incluido en la LCSP. Es contrato administrativo.",
+   "No. No es contrato excluido de la LCSP. Es contrato administrativo."
+  ]
+ },
+ "pr-04-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 26.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato administrativo. Es contrato privado incluido en la LCSP.",
+   "Es esta. Una fundación pública es poder adjudicador sin ser Administración Pública: sus contratos son privados (**art. 26.1.b**).",
+   "No. No es contrato excluido de la LCSP. Es contrato privado incluido en la LCSP."
+  ]
+ },
+ "pr-04-006": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 9.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es contrato administrativo. Es contrato excluido de la LCSP.",
+   "No. No es contrato privado incluido en la LCSP. Es contrato excluido de la LCSP.",
+   "Es esta. El arrendamiento de un inmueble queda excluido de la LCSP (**art. 9.2**)."
+  ]
+ },
+ "pr-04-007": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. La concesión de obras de una Administración Pública es contrato administrativo (**art. 25.1.a**).",
+   "No. No es contrato privado incluido en la LCSP. Es contrato administrativo.",
+   "No. No es contrato excluido de la LCSP. Es contrato administrativo."
+  ]
+ },
+ "pr-04-008": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 26.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No. No es contrato administrativo. Es contrato privado incluido en la LCSP.",
+   "Es esta. Una sociedad mercantil estatal no es Administración Pública: su contrato es privado, y el arrendamiento de bienes muebles está incluido como suministro (**arts. 16.1 y 26.1.b**).",
+   "No. No es contrato excluido de la LCSP. Es contrato privado incluido en la LCSP."
+  ]
+ },
+ "pr-04-009": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 25.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Es esta. Una autoridad administrativa independiente es Administración Pública: su contrato de obras es administrativo (**art. 25.1.a**).",
+   "No. No es contrato privado incluido en la LCSP. Es contrato administrativo.",
+   "No. No es contrato excluido de la LCSP. Es contrato administrativo."
+  ]
+ },
+ "pr-04-010": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 11.5",
+  "correcta": 2,
+  "justificaciones": [
+   "No. No es contrato administrativo. Es contrato excluido de la LCSP.",
+   "No. No es contrato privado incluido en la LCSP. Es contrato excluido de la LCSP.",
+   "Es esta. Los servicios relacionados con campañas políticas adjudicados por un partido político quedan excluidos (**art. 11.5**)."
+  ]
+ }
+}

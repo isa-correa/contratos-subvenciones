@@ -1,0 +1,331 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "au-07-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 9,
+   "enunciado": "La acreditación de la solvencia profesional o técnica en contratos distintos de obras, servicios o suministro podrá realizarse por los documentos y medios previstos para los contratos de:",
+   "opciones": [
+    "Obras.",
+    "Servicios.",
+    "Suministros.",
+    "Concesión de obras."
+   ]
+  },
+  {
+   "id": "au-07-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 10,
+   "enunciado": "La indicación del personal técnico o las unidades técnicas, integradas o no en la empresa, participantes en el contrato, constituye un medio para acreditar la solvencia técnica en los contratos de:",
+   "opciones": [
+    "Obras.",
+    "Servicios.",
+    "Suministros.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-07-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 11,
+   "enunciado": "Los títulos académicos y profesionales del empresario y los directivos de la empresa, siempre que no se evalúen como un criterio de adjudicación, constituyen un medio para acreditar la solvencia técnica de los empresarios en los contratos de:",
+   "opciones": [
+    "Obras, exclusivamente.",
+    "Servicios, exclusivamente.",
+    "Obras y servicios.",
+    "Servicios y suministros."
+   ]
+  },
+  {
+   "id": "au-07-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 12,
+   "enunciado": "La descripción de las instalaciones técnicas, de las medidas empleadas para garantizar la calidad y de los medios de estudio e investigación de la empresa constituye un medio para acreditar la solvencia técnica de los empresarios en los contratos de:",
+   "opciones": [
+    "Obras, exclusivamente.",
+    "Servicios, exclusivamente.",
+    "Obras y servicios.",
+    "Servicios y suministros."
+   ]
+  },
+  {
+   "id": "au-07-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 13,
+   "enunciado": "La indicación de la parte del contrato que el empresario tiene eventualmente el propósito de subcontratar constituye un medio de acreditar la solvencia técnica o profesional de los empresarios en los contratos de:",
+   "opciones": [
+    "Obras.",
+    "Servicios.",
+    "Suministros.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-07-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 14,
+   "enunciado": "La inscripción en el ROLECSP acredita frente a todos los órganos de contratación del sector público, a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de aptitud del empresario en cuanto a:",
+   "opciones": [
+    "Su personalidad y capacidad de obrar, exclusivamente.",
+    "La concurrencia o no concurrencia de las prohibiciones de contratar, exclusivamente.",
+    "La habilitación profesional o empresarial, entre otros aspectos.",
+    "Su clasificación, exclusivamente."
+   ]
+  },
+  {
+   "id": "au-07-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (7) - LCSP (arts 84 a 97)",
+   "n": 15,
+   "enunciado": "La inscripción en el Registro de Licitadores de una Comunidad Autónoma acreditará, a tenor de lo en él reflejado y salvo prueba en contrario, las condiciones de aptitud del empresario frente a:",
+   "opciones": [
+    "Todos los órganos de contratación del sector público.",
+    "Los órganos de contratación del sector público estatal.",
+    "Los órganos de contratación de las entidades locales incluidas en su ámbito territorial.",
+    "Los órganos de contratación los organismos o entidades dependientes del sector público estatal."
+   ]
+  },
+  {
+   "id": "au-08-001",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 1,
+   "enunciado": "De acuerdo con el artículo 100 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por presupuesto base de licitación se entenderá el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación:",
+   "opciones": [
+    "Siempre que por su cuantía no tenga que ser autorizada por el Consejo de Ministros.",
+    "Salvo que por su cuantía tenga que ser autorizado por el Consejo de Ministros.",
+    "Incluido el Impuesto sobre el Valor Añadido.",
+    "Excluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario."
+   ]
+  },
+  {
+   "id": "au-08-002",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 2,
+   "enunciado": "Según la LCSP, en el cálculo del valor estimado de los contratos deberán tenerse en cuenta, como mínimo, entre otros:",
+   "opciones": [
+    "Los costes derivados de la aplicación de las normativas laborales, solo en el supuesto de contratos de servicios.",
+    "Los gastos generales de estructura, excluido el beneficio industrial.",
+    "Cualquier forma de opción eventual y las eventuales prórrogas del contrato.",
+    "Las multas que pudieran imponerse al contratista durante la ejecución del contrato."
+   ]
+  },
+  {
+   "id": "au-08-003",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 3,
+   "enunciado": "Según la LCSP, el valor estimado en los contratos de obras, suministros y servicios será determinado del siguiente modo:",
+   "opciones": [
+    "El órgano de contratación tomara el importe total, incluyendo el IVA, pagadero según sus estimaciones.",
+    "El poder adjudicador tomara el importe total, sin incluir el IVA, pagadero según las estimaciones del contratista.",
+    "El órgano de contratación tomara el importe total, sin incluir el IVA, pagadero según sus estimaciones.",
+    "El poder de adjudicación tomará el importe total, incluyendo el IVA, pagadero según sus estimaciones."
+   ]
+  },
+  {
+   "id": "au-08-004",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 4,
+   "enunciado": "Señale la respuesta correcta en relación al cálculo del valor estimado de los contratos, según la LCSP:",
+   "opciones": [
+    "Vendrá determinado por el importe total, incluyendo el IVA, pagadero según las estimaciones del órgano de contratación.",
+    "No se tendrán en cuenta las eventuales prórrogas del contrato.",
+    "Tendrá en cuenta la totalidad de las modificaciones al alza previstas.",
+    "No se tendrán en cuenta las primas que se hayan previsto abonar a los candidatos o licitadores."
+   ]
+  },
+  {
+   "id": "au-08-005",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 5,
+   "enunciado": "El precio en los contratos del sector público podrá formularse:",
+   "opciones": [
+    "En precios unitarios, referidos a los distintos componentes de la prestación o unidades de la misma que se entreguen.",
+    "En términos de precios aplicables a tanto alzado a la totalidad o a parte de las prestaciones del contrato.",
+    "En precios provisionales, en circunstancias excepcionales.",
+    "Todas las respuestas anteriores son correctas."
+   ]
+  },
+  {
+   "id": "au-08-006",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 6,
+   "enunciado": "Según el artículo 101 de la LCSP, el valor estimado de los contratos vendrá determinado por el importe total del mismo:",
+   "opciones": [
+    "Sin incluir las eventuales prórrogas.",
+    "Sin incluir las posibles modificaciones previstas.",
+    "Sin incluir el Impuesto sobre el Valor Añadido.",
+    "Incluyendo el Impuesto sobre el Valor Añadido."
+   ]
+  },
+  {
+   "id": "au-08-007",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 7,
+   "enunciado": "Con arreglo al artículo 100 de la LCSP, el presupuesto base de licitación es:",
+   "opciones": [
+    "El límite máximo del gasto que en virtud de un contrato puede comprometer el órgano de contratación, incluido el IVA.",
+    "El límite máximo del gasto que en virtud de un contrato puede comprometer el órgano de contratación, excluido el IVA.",
+    "El mejor precio ofertado por los licitadores, excluido el IVA.",
+    "El mejor precio ofertado por los licitadores, incluido el IVA."
+   ]
+  },
+  {
+   "id": "au-08-008",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 8,
+   "enunciado": "Según el artículo 101 de la LCSP, en un contrato de suministros, el órgano de contratación tomará el importe total, sin incluir el Impuesto sobre el Valor Añadido, pagadero según sus estimaciones, para calcular el:",
+   "opciones": [
+    "Importe de adjudicación del contrato.",
+    "Presupuesto base de licitación del contrato.",
+    "Precio del contrato.",
+    "Valor estimado del contrato."
+   ]
+  },
+  {
+   "id": "au-08-009",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 9,
+   "enunciado": "Según lo dispuesto en el artículo 102 de la Ley de Contratos del Sector Público, los contratos del sector público tendrán siempre un precio cierto. En el precio se entenderá incluido, indicándose como partida independiente:",
+   "opciones": [
+    "El importe a abonar en concepto de Impuesto de Transmisiones Patrimoniales.",
+    "El importe a abonar en concepto de Impuesto sobre el Valor Añadido.",
+    "El importe a abonar en concepto de Impuesto de Sociedades.",
+    "El importe a abonar en concepto de Impuesto de Retención de Ingresos a Cuenta del IRPF."
+   ]
+  },
+  {
+   "id": "au-08-010",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 10,
+   "enunciado": "Señale la respuesta incorrecta en relación con el objeto del contrato:",
+   "opciones": [
+    "Deberá ser determinado.",
+    "Deberá cerrarse a una solución única.",
+    "No podrá fraccionarse con la finalidad de disminuir la cuantía del mismo.",
+    "Se podrá definir en atención a las necesidades o funcionalidades concretas que se pretenden satisfacer."
+   ]
+  },
+  {
+   "id": "au-08-011",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 11,
+   "enunciado": "Señale la respuesta correcta, de acuerdo con la LCSP, en relación con la división del contrato en lotes:",
+   "opciones": [
+    "Tendrá carácter excepcional.",
+    "Siempre que la naturaleza del contrato lo permita, deberá preverse la realización independiente de cada una de sus partes.",
+    "El órgano de contratación solo podrá dividir en lotes el objeto del contrato cuando existan motivos válidos.",
+    "La división en lotes deberá justificarse debidamente en el expediente."
+   ]
+  },
+  {
+   "id": "au-08-012",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 12,
+   "enunciado": "De acuerdo con la LCSP, cuando el órgano de contratación proceda a la división en lotes del objeto del contrato:",
+   "opciones": [
+    "Podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.",
+    "Deberá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.",
+    "Deberá limitar el número de lotes que pueden adjudicarse a cada licitador.",
+    "No podrá limitar el número de lotes que pueden adjudicarse a cada licitador."
+   ]
+  },
+  {
+   "id": "au-08-013",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 13,
+   "enunciado": "Según la LCSP, los contratos del sector público tendrán siempre un precio cierto, que se abonará al contratista:",
+   "opciones": [
+    "Al inicio del contrato.",
+    "En todo caso a la finalización del mismo, una vez recepcionado su objeto de conformidad.",
+    "Transcurrido el plazo de garantía, siempre que no existan vicios o defectos.",
+    "En función de la prestación realmente ejecutada y de acuerdo con lo pactado."
+   ]
+  },
+  {
+   "id": "au-08-014",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 14,
+   "enunciado": "Los contratos, cuando su naturaleza lo permita, podrán incluir, en función del cumplimiento o incumplimiento de determinados objetivos de plazos o de rendimiento:",
+   "opciones": [
+    "Infracciones y sanciones administrativas.",
+    "Cláusulas de revisión de precios.",
+    "Cláusulas de variación de precios.",
+    "Modificaciones de su objeto."
+   ]
+  },
+  {
+   "id": "au-08-015",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 15,
+   "enunciado": "Señale la respuesta correcta en relación con los contratos celebrados con precios provisionales:",
+   "opciones": [
+    "En los contratos celebrados con precios provisionales no cabrá la revisión de precios.",
+    "En los contratos celebrados con precios provisionales no se exigirán garantías.",
+    "Los contratos celebrados con precios provisionales no establecerán límites máximos de precios.",
+    "Solo podrán celebrarse en caso de extraordinaria urgencia o necesidad."
+   ]
+  },
+  {
+   "id": "au-08-016",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 16,
+   "enunciado": "Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función de:",
+   "opciones": [
+    "El valor acumulado del conjunto.",
+    "El valor individual de cada lote.",
+    "El valor promedio del conjunto de lotes.",
+    "El valor del lote de mayor cuantía."
+   ]
+  },
+  {
+   "id": "au-08-017",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 17,
+   "enunciado": "Indique la opción incorrecta en relación con el precio de los contratos, conforme al artículo 102 de la LCSP:",
+   "opciones": [
+    "En el precio se entenderá incluido el importe a abonar en concepto de Impuesto sobre el Valor Añadido.",
+    "El órgano de contratación podrá acordar el pago aplazado del precio cuando el flujo de tesorería así lo aconseje.",
+    "En los contratos podrá preverse que la totalidad o parte del precio sea satisfecho en moneda distinta del euro.",
+    "Podrá ser revisado, al alza o a la baja, teniendo en cuenta las variaciones económicas de costes acaecidas durante su ejecución."
+   ]
+  },
+  {
+   "id": "au-08-018",
+   "origen": "autoevaluacion",
+   "test": "Tema 4 (8) - LCSP (arts 98 a 105)",
+   "n": 18,
+   "enunciado": "Señale la respuesta correcta en relación con la revisión de precios en los contratos del Sector Público:",
+   "opciones": [
+    "Los precios de los contratos del sector público no podrán ser objeto de revisión en ningún caso.",
+    "Los precios de los contratos del sector público podrán ser objeto de revisión por una sola vez.",
+    "Cuando proceda, el PCAP deberá detallar la fórmula de revisión aplicable, que será invariable durante la vigencia del contrato.",
+    "Solo los contratos de suministro de energía podrán ser objeto de revisión periódica y predeterminada de precios."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "casos": {},
+ "calendarios": {},
+ "preguntas": [
+  {
+   "id": "of-10-019",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 19,
+   "enunciado": "De acuerdo con la LGS, en ningún caso serán gastos subvencionables:",
+   "opciones": [
+    "Los gastos notariales y registrales.",
+    "Los gastos de procedimientos judiciales.",
+    "Los gastos de asesoría jurídica o financiera.",
+    "Los gastos periciales para la realización del proyecto subvencionado."
+   ]
+  },
+  {
+   "id": "of-10-020",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 20,
+   "enunciado": "En la gestión de subvenciones, la fase de compromiso del gasto tiene lugar con:",
+   "opciones": [
+    "La publicación de la convocatoria de la subvención.",
+    "La resolución de concesión de la subvención.",
+    "La justificación por el beneficiario de la subvención.",
+    "El pago de la subvención."
+   ]
+  },
+  {
+   "id": "of-10-021",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 21,
+   "enunciado": "Señale cuál de los siguientes NO es un requisito en el procedimiento de concesión de una subvención en concurrencia competitiva:",
+   "opciones": [
+    "La publicación en el Boletín Oficial del Estado de las bases reguladoras.",
+    "La previa existencia de un plan estratégico de subvenciones.",
+    "La notificación de la resolución de concesión.",
+    "La previa realización de la actividad o el cumplimiento de la finalidad que determine su concesión."
+   ]
+  },
+  {
+   "id": "of-10-022",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 22,
+   "enunciado": "La resolución de concesión de una subvención conllevará:",
+   "opciones": [
+    "El compromiso del gasto.",
+    "El reconocimiento de la obligación.",
+    "La propuesta de pago.",
+    "La aprobación del gasto."
+   ]
+  },
+  {
+   "id": "of-10-023",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 23,
+   "enunciado": "De conformidad con lo dispuesto en la Ley 38/2003, podrán ser subvencionados con carácter excepcional:",
+   "opciones": [
+    "Los intereses deudores de las cuentas bancarias, cuando así lo prevea la normativa reguladora de la subvención.",
+    "Los intereses, recargos y sanciones administrativas y penales, cuando así lo prevea la normativa reguladora de la subvención.",
+    "Los gastos de procedimientos judiciales, cuando así lo prevea la normativa reguladora de la subvención.",
+    "Los gastos de garantía bancaria, cuando así lo prevea la normativa reguladora de la subvención."
+   ]
+  },
+  {
+   "id": "of-10-024",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 24,
+   "enunciado": "Según la LGS, ¿cuál es el instrumento habitual para canalizar las subvenciones previstas en los Presupuestos Generales del Estado?",
+   "opciones": [
+    "La encomienda de gestión.",
+    "El encargo a un medio propio.",
+    "El convenio.",
+    "El contrato."
+   ]
+  },
+  {
+   "id": "of-10-025",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 25,
+   "enunciado": "Según la Ley 38/2003, ¿cuándo requiere autorización la subcontratación con terceros de una actividad subvencionada?",
+   "opciones": [
+    "Cuando la actividad concertada exceda del 25% del importe de la subvención y sea superior a 100.000 euros.",
+    "Cuando la actividad concertada exceda del 20% del importe de la subvención y dicho importe sea superior a 60.000 euros.",
+    "Cuando la actividad concertada exceda del 20% del importe de la subvención y supere los 18.000 euros.",
+    "En cualquier supuesto en que la actividad concertada supere las cuantías establecidas en la Ley 9/2017 para el contrato menor."
+   ]
+  },
+  {
+   "id": "of-10-026",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 26,
+   "enunciado": "¿En qué caso, según lo dispuesto en la Ley 38/2003, serán subvencionables los intereses deudores de una cuenta bancaria?",
+   "opciones": [
+    "Siempre, salvo disposición expresa en contrario en las bases reguladoras.",
+    "Cuando resulten estrictamente necesarios y se realicen en el plazo establecido por las bases reguladoras.",
+    "Cuando el beneficiario de la subvención los abona efectivamente o cuando sean susceptibles de recuperación o compensación.",
+    "En ningún caso."
+   ]
+  },
+  {
+   "id": "of-10-027",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 27,
+   "enunciado": "En un procedimiento de concesión de subvenciones en régimen de concurrencia competitiva, debe tramitarse el oportuno expediente de gasto:",
+   "opciones": [
+    "Cuando se haya previsto expresamente en la normativa reguladora.",
+    "Solo antes de la resolución de concesión de las subvenciones.",
+    "Única y excepcionalmente si se contempla una cuantía adicional a la cuantía total máxima establecida en la convocatoria de subvenciones.",
+    "Con carácter previo a la convocatoria de las subvenciones."
+   ]
+  },
+  {
+   "id": "of-10-028",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 28,
+   "enunciado": "Señale la respuesta correcta según el artículo 31 de la Ley General de Subvenciones, en relación con los gastos subvencionables:",
+   "opciones": [
+    "El carácter subvencionable del gasto de amortización está sujeto a que la subvención haya contribuido a la compra de los bienes.",
+    "Cuando en las bases no se haya determinado el plazo en el que deba realizarse la actividad, los gastos deberán realizarse antes de que finalice el año natural en que se haya concedido la subvención.",
+    "Si en la normativa reguladora no se prevé, los gastos de garantía bancaria serán subvencionados con carácter general.",
+    "Los tributos no serán, en ningún caso, gastos subvencionables."
+   ]
+  },
+  {
+   "id": "of-10-029",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 29,
+   "enunciado": "Desde el punto de vista del procedimiento de gasto, en la gestión de subvenciones la fase del compromiso de gasto tiene lugar:",
+   "opciones": [
+    "Con la comprobación de la justificación de la subvención por el órgano concedente.",
+    "Con la resolución de la concesión de la subvención.",
+    "Con la convocatoria de la subvención.",
+    "Con la justificación del beneficiario de la actividad para la que se concedió."
+   ]
+  },
+  {
+   "id": "of-10-030",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 30,
+   "enunciado": "Con carácter previo a la convocatoria de subvenciones, la funcionaria que gestiona la subvención sabe que debe efectuar:",
+   "opciones": [
+    "El reconocimiento de la obligación.",
+    "La aprobación del gasto.",
+    "El reconocimiento de la obligación y la propuesta de gasto.",
+    "El compromiso del gasto."
+   ]
+  },
+  {
+   "id": "of-10-031",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 31,
+   "enunciado": "Conforme al Real Decreto 887/2006, la justificación por el beneficiario del cumplimiento de las condiciones impuestas y de la consecución de los objetivos previstos en el acto de concesión de una subvención, podrá revestir las siguientes modalidades:",
+   "opciones": [
+    "Cuenta justificativa simplificada o informe de auditor o memoria económica.",
+    "Cuentas anuales auditadas o memoria económica abreviada o auditoría de estados contables.",
+    "Memoria de actuación justificativa o detalle de ingresos y otras subvenciones o una muestra de las cuentas justificativas presentadas.",
+    "Cuenta justificativa o acreditación por módulos o presentación de estados contables."
+   ]
+  },
+  {
+   "id": "of-10-032",
+   "origen": "oficiales",
+   "test": "Tema 5 (3) - LGS (arts 22 a 34)",
+   "n": 32,
+   "enunciado": "El artículo 22.2 de la Ley 38/2003, habla de la concesión de las subvenciones nominativas previstas en los Presupuestos Generales del Estado, ¿cuál es el procedimiento para dicha concesión?",
+   "opciones": [
+    "La concurrencia competitiva.",
+    "La evaluación individualizada.",
+    "La subasta pública.",
+    "La concesión directa."
+   ]
+  },
+  {
+   "id": "of-11-001",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 1,
+   "enunciado": "Conforme a la LGS, el plazo máximo para resolver y notificar la resolución del procedimiento de reintegro de una subvención será, desde la fecha del acuerdo de iniciación, de:",
+   "opciones": [
+    "12 meses.",
+    "9 meses.",
+    "6 meses.",
+    "3 meses."
+   ]
+  },
+  {
+   "id": "of-11-002",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 2,
+   "enunciado": "Conforme a la LGS, en el supuesto en el que alguno de los beneficiarios tuviera que reintegrar las cantidades percibidas, dichas cantidades tendrán la consideración de:",
+   "opciones": [
+    "Pagos en formalización.",
+    "Ingresos del Tesoro Público.",
+    "Ingresos de derecho público.",
+    "Pagos indebidos."
+   ]
+  },
+  {
+   "id": "of-11-003",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 3,
+   "enunciado": "Conforme a la Ley General de Subvenciones el derecho de la Administración a liquidar el reintegro de una subvención:",
+   "opciones": [
+    "Prescribe a los 4 años desde el momento en que vence el plazo para presentar la justificación por parte del beneficiado.",
+    "Prescribe a los 4 años desde la fecha de la convocatoria.",
+    "Es imprescriptible.",
+    "Prescribe a los 4 años desde el inicio del procedimiento de reintegro."
+   ]
+  },
+  {
+   "id": "of-11-004",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 4,
+   "enunciado": "De conformidad con la Ley 38/2003, el derecho de la Administración a reconocer o liquidar el reintegro de una subvención prescribirá a los:",
+   "opciones": [
+    "Dos años.",
+    "Tres años.",
+    "Cuatro años.",
+    "No prescribe."
+   ]
+  },
+  {
+   "id": "of-11-005",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 5,
+   "enunciado": "¿A quién corresponderá el control financiero de las subvenciones?",
+   "opciones": [
+    "A la Subsecretaría del Ministerio de Hacienda, sin perjuicio de la competencia atribuida a la Junta Consultiva.",
+    "A la Intervención General de la Administración del Estado, sin perjuicio de la competencia atribuida al Tribunal de Cuentas.",
+    "A la Intervención General de la Administración del Estado, sin perjuicio de las competencias atribuidas al Consejo de Estado.",
+    "A la Abogacía del Estado, sin perjuicio de la competencia atribuida a la Intervención General de la Administración del Estado."
+   ]
+  },
+  {
+   "id": "of-11-006",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 6,
+   "enunciado": "Según establece el artículo 38 de la Ley 38/2003, los procedimientos para la exigencia del reintegro de las subvenciones, tendrán siempre carácter:",
+   "opciones": [
+    "Presupuestario.",
+    "Patrimonial.",
+    "Administrativo.",
+    "Sancionador."
+   ]
+  },
+  {
+   "id": "of-11-007",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 7,
+   "enunciado": "¿Cuál de las siguientes es una infracción grave conforme a la Ley General de Subvenciones?",
+   "opciones": [
+    "La incomparecencia en el lugar y tiempo señalados para rendir cuentas.",
+    "Impedir la entrada al local en que existan indicios probatorios de la correcta justificación de los fondos recibidos.",
+    "La falta de justificación del empleo dado a los fondos recibidos una vez transcurrido el plazo establecido para su presentación.",
+    "Las coacciones al personal controlador que realice el control financiero."
+   ]
+  },
+  {
+   "id": "of-11-008",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 8,
+   "enunciado": "El plazo de prescripción de las infracciones y sanciones en el ámbito de la Ley General de Subvenciones es de:",
+   "opciones": [
+    "3 años para las infracciones y 5 años para las sanciones.",
+    "4 años tanto para las infracciones como para las sanciones.",
+    "3 años tanto para las infracciones como para las sanciones.",
+    "5 años para las infracciones y 3 años para las sanciones."
+   ]
+  },
+  {
+   "id": "of-11-009",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 9,
+   "enunciado": "El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro de subvenciones será:",
+   "opciones": [
+    "12 meses desde la fecha del acuerdo de iniciación.",
+    "6 meses desde la fecha del acuerdo de iniciación.",
+    "9 meses desde la fecha del acuerdo de iniciación.",
+    "3 meses desde la fecha del acuerdo de iniciación."
+   ]
+  },
+  {
+   "id": "of-11-010",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 10,
+   "enunciado": "De acuerdo con el artículo 42 de la Ley 38/2003, en la tramitación del procedimiento de reintegro de subvenciones se garantizará, en todo caso, el derecho del interesado a:",
+   "opciones": [
+    "La revisión del expediente administrativo.",
+    "La presentación de alegaciones.",
+    "La presentación de medios de prueba.",
+    "La audiencia."
+   ]
+  },
+  {
+   "id": "of-11-011",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 11,
+   "enunciado": "Según la Ley 38/2003, de 17 de noviembre, General de Subvenciones, será causa de nulidad de la resolución de concesión:",
+   "opciones": [
+    "El incumplimiento de la obligación de justificación.",
+    "La carencia o insuficiencia de crédito.",
+    "La no adopción del comportamiento que fundamenta la concesión de la subvención.",
+    "La obtención de la subvención falseando las condiciones requeridas para ello."
+   ]
+  },
+  {
+   "id": "of-11-012",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 12,
+   "enunciado": "En relación con las subvenciones públicas, señale la afirmación correcta de conformidad con la Ley General de Subvenciones:",
+   "opciones": [
+    "El plazo máximo para resolver y notificar la resolución del procedimiento de reintegro de una subvención será de 6 meses.",
+    "Los Secretarios de Estado, en el ámbito de la AGE, son competentes para su concesión.",
+    "El Tribunal de Cuentas es el responsable de la administración y custodia de la Base de Datos Nacional de Subvenciones.",
+    "La obtención de una subvención falseando las condiciones requeridas para su concesión está tipificado como infracción grave."
+   ]
+  },
+  {
+   "id": "of-11-013",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 13,
+   "enunciado": "Siguiendo lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, ¿cuál de las siguientes infracciones se tipificaría como grave?",
+   "opciones": [
+    "La resistencia, obstrucción, excusa o negativa a las actuaciones de control financiero.",
+    "La presentación de cuentas justificativas inexactas o incompletas.",
+    "La falta de justificación del empleo dado a los fondos recibidos una vez transcurrido el plazo establecido para su presentación.",
+    "El incumplimiento de la obligación de llevar o conservar la contabilidad, los registros legalmente establecidos, los programas y archivos informáticos que les sirvan de soporte y los sistemas de codificación utilizados."
+   ]
+  },
+  {
+   "id": "of-11-014",
+   "origen": "oficiales",
+   "test": "Tema 5 (4) - LGS (arts 36 a Disposición adicional quinta)",
+   "n": 14,
+   "enunciado": "Según el artículo 54 de la Ley 38/2003, ¿en cuál de los siguientes supuestos se exime de responsabilidad por infracción administrativa en materia de subvenciones?",
+   "opciones": [
+    "Cuando la infracción derive de un error de derecho excusable apreciado por el órgano competente.",
+    "Cuando concurra fuerza mayor.",
+    "Cuando la infracción sea leve y se reintegre voluntariamente la subvención antes de la incoación del procedimiento.",
+    "Cuando la decisión sea colectiva, aunque el interesado hubiera votado a favor en la toma de decisiones."
+   ]
+  },
+  {
+   "id": "vo-01-001",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 1,
+   "enunciado": "En un contrato celebrado por la Administración se estableció que el contratista tenía que ejecutar la prestación en un plazo de diez días. En el cómputo de dicho plazo:",
+   "opciones": [
+    "Solo deben computarse los días hábiles.",
+    "No se excluyen los días inhábiles.",
+    "Se tienen en cuenta todos los días menos los sábados, domingos y festivos.",
+    "Se tienen en cuenta todos los días menos los sábados y domingos."
+   ]
+  },
+  {
+   "id": "vo-01-002",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 2,
+   "enunciado": "La Ley 9/2017, de Contratos del Sector Público, tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de:",
+   "opciones": [
+    "Publicidad, transparencia, eficacia y exclusividad en la contratación pública.",
+    "Eficacia y eficiencia en la contratación.",
+    "No discriminación e igualdad de trato entre los licitadores y coordinación entre las Administraciones Públicas.",
+    "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores."
+   ]
+  },
+  {
+   "id": "vo-01-003",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 3,
+   "enunciado": "Según el artículo 1 de la Ley de Contratos del Sector Público, en toda contratación pública se incorporarán:",
+   "opciones": [
+    "Criterios sociales y territoriales y se facilitará el acceso a empresas de economía social.",
+    "Criterios sociales y medioambientales aun cuando no guarden relación con el objeto del contrato.",
+    "Criterios sociales y económicos siempre que guarde relación con el objeto del contrato.",
+    "Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato."
+   ]
+  },
+  {
+   "id": "vo-01-004",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 4,
+   "enunciado": "De acuerdo con lo dispuesto en la LCSP, señale cuál de los siguientes NO es un poder adjudicador:",
+   "opciones": [
+    "Las Administraciones Públicas.",
+    "Las Entidades Públicas Empresariales.",
+    "Las Mutuas colaboradoras con la Seguridad Social.",
+    "Las fundaciones públicas."
+   ]
+  },
+  {
+   "id": "vo-01-005",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 5,
+   "enunciado": "A efectos del ámbito subjetivo de aplicación de la LCSP, las fundaciones públicas tienen la consideración de:",
+   "opciones": [
+    "Administraciones públicas.",
+    "Poderes Adjudicadores.",
+    "Entes del sector público con carácter de Administración pública.",
+    "Entes del sector público sin el carácter de Poder Adjudicador."
+   ]
+  },
+  {
+   "id": "vo-01-006",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 6,
+   "enunciado": "A los efectos de aplicación de la LCSP, tienen la consideración de Poder Adjudicador No Administración Pública, entre otras:",
+   "opciones": [
+    "Las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "Las fundaciones públicas y privadas.",
+    "Las Autoridades Administrativas Independientes.",
+    "Las Mutuas colaboradoras con la Seguridad Social."
+   ]
+  },
+  {
+   "id": "vo-01-007",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 7,
+   "enunciado": "¿Qué calificación jurídica reciben las entidades públicas empresariales a efectos de la aplicación de la Ley 9/2017, de Contratos del Sector Público?",
+   "opciones": [
+    "Administración pública.",
+    "Poder adjudicador.",
+    "Sector público.",
+    "Están excluidas del ámbito de aplicación de la LCSP."
+   ]
+  },
+  {
+   "id": "vo-01-009",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 9,
+   "enunciado": "Según la LCSP, se encuentran incluidos dentro de su ámbito de aplicación:",
+   "opciones": [
+    "Los contratos regulados en la legislación laboral.",
+    "Los contratos de concesión de obras.",
+    "La prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público.",
+    "Los contratos que tengan por objeto servicios relacionados con campañas políticas, adjudicados por un partido político."
+   ]
+  },
+  {
+   "id": "vo-01-011",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 11,
+   "enunciado": "Según el artículo 12 de la Ley 9/2017, se calificarán de acuerdo con las normas contenidas en la sección 1ª del Capítulo 2º del Título Preliminar, los siguientes tipos contractuales:",
+   "opciones": [
+    "Contratos de obras, concesión de obras, suministro, servicios y mixtos.",
+    "Contratos de obras, concesión pública, suministro y servicios.",
+    "Contratos de obras, concesión de obras, concesión de servicios, suministro y servicios.",
+    "Contratos de obras, suministro, servicios, concesión y mixtos."
+   ]
+  },
+  {
+   "id": "vo-01-012",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 12,
+   "enunciado": "De acuerdo con la Ley 9/2017, de Contratos del Sector Público, NO son contratos de obras aquellos que tienen por objeto:",
+   "opciones": [
+    "La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto.",
+    "La realización de alguno de los trabajos enumerados en el Anexo I de la Ley.",
+    "La realización de una obra que cumpla los requisitos fijados por la entidad contratante que ejerza una influencia decisiva en el tipo o proyecto de obra.",
+    "La redacción del proyecto de obras."
+   ]
+  },
+  {
+   "id": "vo-01-013",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 13,
+   "enunciado": "Según el artículo 14 de la LCSP, en los contratos de concesión de obras, el derecho de explotación de las obras implicará:",
+   "opciones": [
+    "El derecho del concesionario a la percepción de un precio cierto abonado por la Administración.",
+    "La transferencia al concesionario de un riesgo operacional en la explotación de dichas obras.",
+    "La asunción por el poder adjudicador del riesgo operacional.",
+    "El derecho a percibir un precio cierto abonado por la Administración, así como la transferencia de un riesgo operacional."
+   ]
+  },
+  {
+   "id": "vo-01-014",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 14,
+   "enunciado": "En una Dirección General se plantean la adquisición de un nuevo programa informático desarrollado a medida para gestionar un procedimiento. Según la LCSP, ¿qué consideración tendría la adquisición de ese programa?",
+   "opciones": [
+    "Contrato de consultoría y asistencia.",
+    "Contrato de servicios.",
+    "Contrato de suministro.",
+    "Contrato mixto."
+   ]
+  },
+  {
+   "id": "vo-01-015",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 15,
+   "enunciado": "Se consideran contratos de suministros, de acuerdo con la Ley de Contratos:",
+   "opciones": [
+    "Los contratos relativos a valores negociables.",
+    "Los contratos que tengan por objeto programas de ordenador desarrollados a medida.",
+    "Los contratos relativos a propiedades incorporales.",
+    "Los que tienen por objeto el arrendamiento financiero de productos o bienes muebles."
+   ]
+  },
+  {
+   "id": "vo-01-016",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 16,
+   "enunciado": "Según el artículo 16 de la LCSP, los contratos de fabricación, por los que la cosa que haya de ser entregada por el empresario deba elaborarse con arreglo a características peculiares fijadas previamente por la entidad contratante:",
+   "opciones": [
+    "Son contratos de servicios.",
+    "Son contratos de concesión de servicios.",
+    "Son contratos de suministro.",
+    "Son contratos mixtos."
+   ]
+  },
+  {
+   "id": "vo-01-017",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 17,
+   "enunciado": "Según la LCSP, ¿en cuál de los siguientes contratos aparece la figura del riesgo operacional?",
+   "opciones": [
+    "Contrato de obras.",
+    "Contrato de servicios.",
+    "Contrato de suministros.",
+    "Contrato de concesión de obras y de concesión de servicios."
+   ]
+  },
+  {
+   "id": "vo-01-018",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 18,
+   "enunciado": "Según el artículo 17 de la LCSP, los contratos de servicios que impliquen ejercicio de autoridad inherente a los poderes públicos:",
+   "opciones": [
+    "Serán celebrados bajo la modalidad de contratos mixtos.",
+    "Serán contratos de servicios cuando se obligue al adjudicatario a ejecutar el servicio por precio unitario.",
+    "Se consideran contratos de servicios siempre que su objeto sea una prestación.",
+    "Si implican el ejercicio de la autoridad inherente a los poderes públicos no pueden ser considerados contratos de servicios."
+   ]
+  },
+  {
+   "id": "vo-01-019",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 19,
+   "enunciado": "Según el artículo 15.1 de la Ley 9/2017, de Contratos del Sector Público, pueden realizar un contrato de concesión de servicios:",
+   "opciones": [
+    "Todos los entes del Sector Público.",
+    "Solo los entes que tengan la consideración de Administración Pública.",
+    "Solo los entes de la Administración General del Estado.",
+    "Todos los entes que tengan la consideración de Poderes Adjudicadores."
+   ]
+  },
+  {
+   "id": "vo-01-021",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 21,
+   "enunciado": "Para determinar las normas que regirán la adjudicación de los contratos mixtos, cuando este comprenda prestaciones propias de dos o más contratos de obras, suministros o servicios:",
+   "opciones": [
+    "El carácter de la prestación principal.",
+    "El carácter de la prestación secundaria.",
+    "El carácter de la prestación que elija el adjudicatario.",
+    "El carácter de la prestación que tenga mayor valor estimado."
+   ]
+  },
+  {
+   "id": "vo-01-022",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 22,
+   "enunciado": "Según la LCSP, los contratos que tengan por objeto la adquisición de energía, primaria o transformada, tendrán calificación de:",
+   "opciones": [
+    "Contrato de suministro.",
+    "Contrato mixto de servicio y suministro.",
+    "Contrato de servicios.",
+    "Contrato de concesión de servicios."
+   ]
+  },
+  {
+   "id": "vo-01-023",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 23,
+   "enunciado": "Están sujetos a regulación armonizada los contratos de suministro cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "140.000 euros, cuando se trata de contratos adjudicados por la Administración General del Estado.",
+    "5.404.000 euros, cuando se trata de contratos adjudicados por la Administración General del Estado.",
+    "216.000 euros, cuando se trata de contratos adjudicados por la Administración General del Estado.",
+    "750.000 euros, cuando se trata de contratos adjudicados por la Administración General del Estado."
+   ]
+  },
+  {
+   "id": "vo-01-024",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 24,
+   "enunciado": "Según el artículo 22 de la LCSP, están sujetos a regulación armonizada los contratos de servicios cuyo valor estimado sea igual o superior a:",
+   "opciones": [
+    "134.000 euros, cuando los contratos hayan de ser adjudicados por la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "212.000 euros, cuando los contratos hayan de adjudicarse por entidades del sector público distintas a la Administración General del Estado, sus Organismos Autónomos, o las Entidades Gestoras y Servicios Comunes de la Seguridad Social.",
+    "750.000 euros, cuando se trate de contratos que tengan por objeto los servicios sociales y otros servicios específicos enumerados en el anexo IV.",
+    "Los contratos de servicios en ningún caso estarán sujetos a regulación armonizada."
+   ]
+  },
+  {
+   "id": "vo-01-027",
+   "origen": "votaciones",
+   "test": "Clase 13 - Bloque III",
+   "n": 27,
+   "enunciado": "De conformidad con la LCSP, los contratos cuyo objeto sea la suscripción a bases de datos son: (ADMVO-PI 2021)",
+   "opciones": [
+    "Contratos de suministros.",
+    "Contratos privados.",
+    "Contratos de servicios.",
+    "Contratos administrativos, cuando los suscriba una Administración pública."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,552 @@
+{
+ "pr-53-001": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 149.2 LCSP y art. 85.1 RGLCAP",
+  "correcta": 1,
+  "justificaciones": [
+   "No: 140.000 euros no es el umbral aplicable.",
+   "Correcta: con un solo licitador es anormal la oferta inferior al PBL en más de 25 puntos: 200.000 x 75 % = 150.000, y 148.000 es menor.",
+   "No: 160.000 euros sería un descenso de 20 puntos, que corresponde a otros casos.",
+   "No: 180.000 euros sería un descenso de 10 puntos."
+  ],
+  "ojo": "El PCAP no fija parámetros propios, por lo que valen los reglamentarios del art. 85 del RGLCAP.",
+  "revisar": "El art. 85 del RGLCAP no está en el texto de la LCSP; está tomado de memoria y conviene confirmarlo."
+ },
+ "pr-53-002": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 149",
+  "correcta": 3,
+  "justificaciones": [
+   "No: que sea la única empresa no impide el control, el art. 85 RGLCAP prevé justo ese caso.",
+   "No: aunque el precio sea el único criterio, la anormalidad se controla igual.",
+   "No: la mesa propone, pero la exclusión la acuerda el órgano de contratación (art. 149.6).",
+   "Correcta: se puede excluir previa tramitación del procedimiento del art. 149, con audiencia al licitador."
+  ]
+ },
+ "pr-53-003": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "arts. 44 y 50 LCSP",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la exclusión es recurrible por recurso especial, en quince días hábiles (arts. 44.2.b y 50.1).",
+   "No: dos meses es el plazo del recurso contencioso, no del especial.",
+   "No: el recurso de reposición no cabe cuando procede el especial, y además el plazo del especial es otro.",
+   "No: sí cabe recurso, el especial."
+  ],
+  "ojo": "El servicio supera los 100.000 euros de valor estimado, umbral para el recurso especial en servicios."
+ },
+ "pr-53-004": {
+  "bloque": "lcsp-otros",
+  "precepto": "art. 323.2",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el Consejo de Ministros solo autoriza contratos de valor estimado igual o superior a 12 millones.",
+   "No: el ministro es órgano de contratación de su departamento, no de un organismo autónomo adscrito.",
+   "Correcta: el presidente o director del organismo autónomo es su órgano de contratación (art. 323.2).",
+   "No: el subsecretario del ministerio no lo es."
+  ]
+ },
+ "pr-53-005": {
+  "bloque": "lcsp-general",
+  "precepto": "art. 16.3.c",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los de fabricación, con características peculiares fijadas por el contratante, son contratos de suministro (art. 16.3.c).",
+   "No: aquí el empresario fabrica y entrega los bienes, no presta un servicio.",
+   "No: no hay mixto, el objeto es una sola prestación.",
+   "No: no es un contrato administrativo especial."
+  ]
+ },
+ "pr-53-006": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el 25 % de juicio de valor es del simplificado ordinario, y el procedimiento elegido es el 159.6.",
+   "Correcta: el simplificado del art. 159.6 exige que todos los criterios sean evaluables mediante fórmulas (art. 159.6.c).",
+   "No: no cabe un contrato menor, porque el contrato prevé una prórroga y el menor no admite prórroga (art. 29.8).",
+   "No: la ley no impone el contrato menor, y de todas formas no sería posible."
+  ],
+  "ojo": "El valor estimado con prórroga y modificación prevista se aproxima a 14.520 euros, pero el contrato menor no admite prórroga."
+ },
+ "pr-53-007": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: cinco días hábiles solo valen para compras corrientes de bienes disponibles en el mercado.",
+   "No: el plazo no es de diez días naturales.",
+   "Correcta: diez días hábiles desde el día siguiente a la publicación del anuncio, porque los uniformes se hacen a medida y no son compra corriente (art. 159.6.a).",
+   "No: quince días naturales es el plazo del simplificado ordinario."
+  ]
+ },
+ "pr-53-008": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 299",
+  "correcta": 1,
+  "justificaciones": [
+   "No: a los contratos de fabricación se les aplican directamente normas del contrato de obras que el pliego determine.",
+   "Correcta: sí, salvo las relativas a la publicidad y al procedimiento de adjudicación, que siguen al suministro (art. 299).",
+   "No: las excepciones son la publicidad y la adjudicación, no la ejecución y la extinción.",
+   "No: pueden ser normas generales y especiales."
+  ]
+ },
+ "pr-53-009": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.6.f",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el 5 % de 6.600 serían 330 euros, pero no se exige garantía.",
+   "No: el 5 % de 6.000 serían 300 euros, pero no se exige garantía.",
+   "No: 399,30 euros usa el PBL con IVA, que no es la base, y además no se exige.",
+   "Correcta: en el procedimiento del art. 159.6 no se requiere garantía definitiva (art. 159.6.f)."
+  ]
+ },
+ "pr-53-010": {
+  "bloque": "lcsp-disposiciones",
+  "precepto": "art. 29.2",
+  "correcta": 3,
+  "justificaciones": [
+   "No: la excepción del preaviso es para contratos de menos de dos meses, y este dura seis.",
+   "No: el preaviso mínimo no es de seis meses.",
+   "No: tampoco de tres meses.",
+   "Correcta: el preaviso debe producirse al menos con dos meses de antelación al fin del contrato (art. 29.2)."
+  ]
+ },
+ "pr-53-011": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 304.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los gastos de entrega y transporte son del contratista, salvo pacto en contrario (art. 304.1).",
+   "No: no corren a cargo de la AICA.",
+   "No: no se reparten por mitades.",
+   "No: no se dividen entre entrega y transporte, ambos son del contratista."
+  ]
+ },
+ "pr-53-012": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 301.2",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: se puede aumentar hasta el 10 % del precio del contrato, es decir, 600 euros sobre 6.000, si el PCAP lo prevé (art. 301.2).",
+   "No: el 10 % se calcula sobre el precio del contrato, no sobre el presupuesto base de licitación.",
+   "No: el límite es del 10 %, no del 15 %.",
+   "No: la cláusula es legal (art. 301.2)."
+  ],
+  "ojo": "Se calcula sobre el precio de adjudicación del contrato (6.000), sin sumar la prórroga."
+ },
+ "pr-53-013": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el límite de 60.000 euros es del art. 159.6, no del simplificado ordinario.",
+   "No: se admiten criterios de juicio de valor, con tope del 25 % (art. 159.1.b).",
+   "Correcta: 80.000 euros está por debajo de 140.000 y el juicio de valor pesa 25 sobre 100, que no supera el 25 % (art. 159.1).",
+   "No: el art. 159.6 exige valor inferior a 60.000 euros y solo fórmulas, y aquí no se cumple."
+  ],
+  "revisar": "El umbral de 140.000 euros es el de servicios de la AGE y sus organismos; el de otras entidades es 216.000 y se actualiza cada dos años."
+ },
+ "pr-53-014": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: diez días naturales no es el plazo.",
+   "No: diez días hábiles es el plazo del art. 159.6.",
+   "Correcta: el plazo mínimo es de quince días desde el siguiente a la publicación, naturales por la DA 12.ª (art. 159.3).",
+   "No: quince días son naturales, no hábiles."
+  ]
+ },
+ "pr-53-015": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "art. 159.4.d",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la garantía definitiva sí se exige; solo se dispensa en el procedimiento del art. 159.6.",
+   "Correcta: con criterios de juicio de valor, la oferta se presenta en dos sobres o archivos (art. 159.4.d).",
+   "No: la exención de solvencia es del art. 159.6.",
+   "No: formalizar con la firma de aceptación es del art. 159.6.g."
+  ]
+ },
+ "pr-53-016": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 313.1.b y 313.3",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 2.160 euros es el 3 % de 72.000.",
+   "No: 4.320 euros es el 6 % de 72.000 sin descontar lo ya prestado.",
+   "No: 1.440 euros es el 3 % de lo no prestado.",
+   "Correcta: servicios dejados de prestar = 72.000 menos 24.000 = 48.000, y el 6 % son 2.880 euros (art. 313.3)."
+  ]
+ },
+ "pr-53-017": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 77.1.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la clasificación es obligatoria desde 500.000 euros de valor estimado, y aquí son 450.000 (art. 77.1.a).",
+   "No: la clasificación sí puede usarse para acreditar la solvencia por debajo de 500.000 euros.",
+   "No: el umbral se compara con el valor estimado sin IVA, no con el PBL con IVA (544.500).",
+   "No: el valor estimado no supera 500.000 euros."
+  ]
+ },
+ "pr-53-018": {
+  "bloque": "lcsp-preparacion",
+  "precepto": "art. 118",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: contrato menor de servicios, valor estimado inferior a 15.000 euros, es decir, máximo 14.999,99 (art. 118).",
+   "No: 15.000 euros ya no es inferior al límite.",
+   "No: 39.999,99 euros es el límite del contrato menor de obras.",
+   "No: 40.000 euros no es el límite de servicios."
+  ],
+  "ojo": "Redactar un proyecto es un contrato de servicios, por eso el límite es 15.000 y no 40.000."
+ },
+ "pr-53-019": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 235",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el umbral se compara con el PBL sin IVA, que son 450.000, no 544.500.",
+   "No: el informe no es preceptivo siempre.",
+   "No: haber adjudicado el proyecto por contrato menor no influye en la supervisión.",
+   "Correcta: por debajo de 500.000 euros el informe es facultativo, salvo obras que afecten a estabilidad, seguridad o estanqueidad (art. 235)."
+  ]
+ },
+ "pr-53-020": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 236.1",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el replanteo se hace tras aprobar el proyecto, no antes.",
+   "Correcta: aprobado el proyecto y antes de aprobar el expediente de contratación (art. 236.1).",
+   "No: ya habría pasado el momento, el replanteo es previo a aprobar el expediente.",
+   "No: la comprobación del replanteo es posterior a la formalización, pero el replanteo del proyecto es previo."
+  ]
+ },
+ "pr-53-021": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 156.6 y 119.2.b",
+  "correcta": 3,
+  "justificaciones": [
+   "No: 35 días es el plazo de los contratos armonizados.",
+   "No: veintiséis días es el mínimo de obras sin reducir; con urgencia se reduce a la mitad.",
+   "No: quince días es el mínimo general no armonizado, pero para obras el mínimo es de 26 días.",
+   "Correcta: obras no armonizadas, 26 días, reducidos a la mitad por la tramitación urgente: 13 días (arts. 156.6 y 119.2.b)."
+  ]
+ },
+ "pr-53-022": {
+  "bloque": "lcsp-adjudicacion",
+  "precepto": "arts. 157.3 y 158.1",
+  "correcta": 2,
+  "justificaciones": [
+   "No: la apertura se hace en 20 días, y la adjudicación en 15 días naturales, no hábiles.",
+   "No: la apertura es en 20 días, y la adjudicación en 15 días con precio único, no en dos meses.",
+   "Correcta: apertura en 20 días desde el fin del plazo de proposiciones y adjudicación en 15 días desde la apertura, por ser el precio el único criterio (arts. 157.3 y 158.1).",
+   "No: dos meses es el plazo cuando hay varios criterios (art. 158.2)."
+  ]
+ },
+ "pr-53-023": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 237",
+  "correcta": 1,
+  "justificaciones": [
+   "No: la ejecución empieza con el acta de comprobación del replanteo, no con el replanteo del proyecto.",
+   "Correcta: acta de comprobación del replanteo, a más tardar un mes desde la formalización: 20 de marzo de 2026 (art. 237).",
+   "No: el replanteo del proyecto es previo a la contratación, y el plazo no es de dos meses.",
+   "No: el acta es correcta, pero el plazo es de un mes, no de dos."
+  ]
+ },
+ "pr-53-024": {
+  "bloque": "lcsp-tipos",
+  "precepto": "arts. 240.1 y 198.4",
+  "correcta": 1,
+  "justificaciones": [
+   "No: el pago son treinta días desde la aprobación de la certificación, no desde su expedición.",
+   "Correcta: se expide en los diez primeros días de abril y se abona en treinta días desde su aprobación (arts. 240.1 y 198.4).",
+   "No: el plazo de expedición es de diez días, no de cinco, y el pago cuenta desde la aprobación.",
+   "No: la aprobación es correcta, pero el plazo de expedición no es de cinco días."
+  ]
+ },
+ "pr-53-025": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "arts. 205.2.b y 206",
+  "correcta": 3,
+  "justificaciones": [
+   "No: las modificaciones no previstas pueden hacerse si cumplen el art. 205, como circunstancias imprevisibles.",
+   "No: el 20 % no es el tope de la modificación, es el límite de la obligatoriedad para el contratista.",
+   "No: no es obligatoria, porque 120.000 sobre 400.000 es el 30 %, por encima del 20 % (art. 206.1).",
+   "Correcta: como supera el 20 % del precio inicial, solo se acuerda con la conformidad por escrito del contratista (art. 206.2); si no, se resuelve el contrato."
+  ],
+  "ojo": "Una modificación por circunstancias imprevisibles puede llegar al 50 % (art. 205.2.b), pero la obligatoriedad para el contratista sólo alcanza el 20 %."
+ },
+ "pr-53-026": {
+  "bloque": "lcsp-ejecucion",
+  "precepto": "art. 210.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: terminar materialmente las obras no basta.",
+   "Correcta: se cumple con el acto formal y positivo de recepción de conformidad, el 28 de diciembre de 2026 (art. 210.2).",
+   "No: la certificación final se aprueba después de la recepción.",
+   "No: el plazo de garantía es posterior al cumplimiento."
+  ]
+ },
+ "pr-53-027": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 242.4.i",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el exceso de mediciones hasta el 10 % no es modificación.",
+   "No: el 3 % es el límite de los precios nuevos, no del exceso de mediciones.",
+   "Correcta: 32.000 sobre 400.000 es el 8 %, por debajo del 10 % del precio inicial (art. 242.4.i).",
+   "No: el requisito no es que no incremente el precio global, sino no superar el 10 % del precio inicial."
+  ]
+ },
+ "pr-53-028": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.1",
+  "correcta": 3,
+  "justificaciones": [
+   "No: el plazo no es de dos meses.",
+   "No: tres meses desde el 28 de diciembre no llegan al 18 de marzo.",
+   "No: el 28 de marzo de 2027 es domingo, y el plazo vence el siguiente día hábil.",
+   "Correcta: tres meses desde la recepción del 28 de diciembre de 2026 vencen el 28 de marzo de 2027, domingo, y pasan al lunes 29 de marzo (art. 243.1)."
+  ],
+  "ojo": "Para un plazo por meses se aplica supletoriamente la Ley 39/2015, que lo cuenta de fecha a fecha y lo traslada al siguiente día hábil si acaba en inhábil. El Lunes de Pascua es festivo solo en algunas comunidades."
+ },
+ "pr-53-029": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 243.2 y 243.3",
+  "correcta": 2,
+  "justificaciones": [
+   "No: el mínimo no son seis meses.",
+   "No: es un año, pero se cuenta desde la recepción, no desde el 18 de diciembre.",
+   "Correcta: no menos de un año, desde la recepción del 28 de diciembre de 2026 (art. 243.2 y 243.3).",
+   "No: ni seis meses ni se cuenta desde la recepción con ese plazo."
+  ]
+ },
+ "pr-53-030": {
+  "bloque": "lcsp-tipos",
+  "precepto": "art. 244.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: quince años a contar desde la recepción, el 28 de diciembre de 2026 (art. 244.1).",
+   "No: son quince años desde la recepción, no desde el fin del plazo de garantía.",
+   "No: el plazo no es de diez años, sino de quince (art. 244.1).",
+   "No: ni son diez años ni se cuentan desde el fin del plazo de garantía."
+  ]
+ },
+ "pr-54-001": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: una bonificación en las cotizaciones es un incentivo para estimular una conducta, es decir, fomento.",
+   "No: no se presta un servicio a la ciudadanía.",
+   "No: no limita derechos ni impone una conducta."
+  ]
+ },
+ "pr-54-002": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no se incentiva a nadie a actuar, se construye una infraestructura.",
+   "Correcta: construir y explotar una línea de tren es prestar un servicio público, aunque el ministerio se llame de Fomento.",
+   "No: no se limita ninguna actividad privada."
+  ],
+  "ojo": "El nombre del ministerio engaña: la actividad es de servicio público, no de fomento."
+ },
+ "pr-54-003": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: los incentivos fiscales para rehabilitar edificios estimulan una conducta privada, es decir, fomento.",
+   "No: no se presta ningún servicio.",
+   "No: no limita derechos ni sanciona."
+  ]
+ },
+ "pr-54-004": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no se concede ninguna ventaja para incentivar nada.",
+   "No: no se presta un servicio a los ciudadanos.",
+   "Correcta: requerir la subsanación de incumplimientos normativos es policía administrativa, una actividad de limitación."
+  ]
+ },
+ "pr-54-005": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 1,
+  "justificaciones": [
+   "No: no se incentiva a nadie.",
+   "Correcta: la recogida de residuos urbanos es un servicio que presta el ayuntamiento, un servicio público.",
+   "No: el ayuntamiento no restringe ninguna actividad ni derecho de los particulares."
+  ]
+ },
+ "pr-54-006": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: las becas son ayudas económicas que fomentan una actividad de interés, es decir, fomento.",
+   "No: no hay un servicio prestado directamente.",
+   "No: no se limita ningún derecho."
+  ]
+ },
+ "pr-54-007": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 2,
+  "justificaciones": [
+   "No: no se otorga ningún beneficio.",
+   "No: no se presta un servicio público.",
+   "Correcta: ordenar el cierre de un local por incumplir normas sanitarias es policía, actividad de limitación."
+  ]
+ },
+ "pr-54-008": {
+  "bloque": "subv-general",
+  "precepto": "Tipos de actividad administrativa (fomento)",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la ayuda a una entidad sin ánimo de lucro para un proyecto social es fomento, y suele canalizarse como subvención.",
+   "No: no se presta el servicio directamente, se financia a un tercero.",
+   "No: la Administración no restringe ninguna actividad de la entidad, la financia."
+  ]
+ },
+ "pr-55-001": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.1",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la ayuda a un estudiante, sin contraprestación y condicionada a requisitos, es una subvención de la Ley 38/2003 (art. 2.1).",
+   "No: aquí sí reúne los tres requisitos del art. 2.1.",
+   "No: sí tiene carácter de subvención.",
+   "No: no está entre las exclusiones del art. 4."
+  ]
+ },
+ "pr-55-002": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.4.a",
+  "correcta": 2,
+  "justificaciones": [
+   "No: las prestaciones de la Seguridad Social no son subvenciones.",
+   "No: la fórmula del art. 2.4 es “no tienen carácter de subvenciones”, no “no están comprendidas”.",
+   "Correcta: las prestaciones contributivas de la Seguridad Social no tienen carácter de subvención (art. 2.4.a).",
+   "No: las exclusiones del art. 4 son otras (premios sin solicitud, leyes electorales, partidos)."
+  ]
+ },
+ "pr-55-003": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: las aportaciones para financiar globalmente la actividad de otra Administración quedan fuera de la ley.",
+   "Correcta: no están comprendidas en el ámbito de aplicación las aportaciones entre Administraciones para financiar globalmente su actividad (art. 2.2).",
+   "No: la fórmula del art. 2.2 es “no están comprendidas”, no “no tienen carácter de subvención”.",
+   "No: las exclusiones del art. 4 son otras."
+  ]
+ },
+ "pr-55-004": {
+  "bloque": "subv-general",
+  "precepto": "art. 4.a",
+  "correcta": 3,
+  "justificaciones": [
+   "No: un premio concedido sin solicitud previa está excluido.",
+   "No: la fórmula adecuada es la de exclusión del art. 4.",
+   "No: la ley no lo califica como “no subvención”, sino como excluido.",
+   "Correcta: quedan excluidos los premios que se otorguen sin la previa solicitud del beneficiario (art. 4.a)."
+  ]
+ },
+ "pr-55-005": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.4.g",
+  "correcta": 2,
+  "justificaciones": [
+   "No: un beneficio fiscal no es una subvención.",
+   "No: la fórmula del art. 2.4 es “no tienen carácter de subvenciones”.",
+   "Correcta: los beneficios fiscales no tienen carácter de subvención (art. 2.4.g).",
+   "No: no figura en las exclusiones del art. 4."
+  ]
+ },
+ "pr-55-006": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.1 y 3.3",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: la ayuda condicionada al mantenimiento del empleo es una subvención, y la ley se aplica a la actividad subvencional de las comunidades (art. 3.3).",
+   "No: no hay ninguna exclusión aplicable.",
+   "No: sí tiene carácter de subvención.",
+   "No: no figura en el art. 4."
+  ]
+ },
+ "pr-55-007": {
+  "bloque": "subv-general",
+  "precepto": "art. 4.c",
+  "correcta": 3,
+  "justificaciones": [
+   "No: las subvenciones de la ley de financiación de partidos están excluidas.",
+   "No: la fórmula adecuada es la de exclusión.",
+   "No: no se califican como “no subvenciones” sino como excluidas.",
+   "Correcta: quedan excluidas las subvenciones de la LO 3/1987 de financiación de partidos políticos (art. 4.c)."
+  ]
+ },
+ "pr-55-008": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.4.j",
+  "correcta": 2,
+  "justificaciones": [
+   "No: las ayudas de emergencia social no son subvenciones.",
+   "No: la fórmula del art. 2.4 es “no tienen carácter de subvenciones”.",
+   "Correcta: las ayudas de emergencia o urgencia social gestionadas por servicios sociales no tienen carácter de subvención (art. 2.4.j).",
+   "No: no figura en las exclusiones del art. 4."
+  ],
+  "ojo": "La letra j) se añadió al art. 2.4 por la Ley 4/2026, de 1 de octubre, en vigor desde el 23 de octubre de 2026."
+ },
+ "pr-55-009": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.1 y 4.a",
+  "correcta": 0,
+  "justificaciones": [
+   "Correcta: el premio se otorga a quien se presenta voluntariamente, es decir, con solicitud previa, así que no está excluido y se rige por la ley.",
+   "No: el único premio excluido es el otorgado sin solicitud previa.",
+   "No: sí tiene carácter de subvención.",
+   "No: no encaja en el art. 4.a, porque hay solicitud."
+  ]
+ },
+ "pr-55-010": {
+  "bloque": "subv-general",
+  "precepto": "art. 2.2",
+  "correcta": 1,
+  "justificaciones": [
+   "No: es la aportación global entre Administraciones, que la ley deja fuera.",
+   "Correcta: aportaciones entre Administraciones para financiar globalmente una actividad no están comprendidas (art. 2.2).",
+   "No: la fórmula del art. 2.2 es “no están comprendidas”.",
+   "No: el art. 4 no recoge este supuesto."
+  ]
+ },
+ "pr-56-001": {
+  "bloque": "subv-general",
+  "precepto": "art. 5",
+  "correcta": 1,
+  "justificaciones": [
+   "Es correcta: las subvenciones de consorcios y mancomunidades se rigen por su instrumento de creación (art. 5.2).",
+   "Es la incorrecta: el régimen es esta ley y su desarrollo, las demás normas de derecho administrativo y, en su defecto, el derecho privado (art. 5.1)."
+  ],
+  "ojo": "La opción incorrecta invierte el orden de normas aplicables."
+ },
+ "pr-56-002": {
+  "bloque": "subv-general",
+  "precepto": "art. 6",
+  "correcta": 0,
+  "justificaciones": [
+   "Es la incorrecta: las subvenciones con fondos de la UE se rigen por las normas comunitarias y las nacionales de desarrollo, no exclusivamente por la normativa española (art. 6.1).",
+   "Es correcta: se rigen por las normas comunitarias aplicables y las nacionales de desarrollo o transposición (art. 6.1)."
+  ]
+ }
+}
