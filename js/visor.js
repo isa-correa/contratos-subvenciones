@@ -13,7 +13,6 @@
   var CERRAR = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>';
   var MAS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>';
   var MENOS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M5 12h14"/></svg>';
-  var AJUSTAR = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>';
   var ANT = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>';
   var SIG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>';
 
@@ -29,7 +28,6 @@
           '<button type="button" class="visor-b" data-v="sig" aria-label="Página o apunte siguiente">' + SIG + '</button>' +
           '<button type="button" class="visor-b visor-zoom" data-v="menos" aria-label="Alejar">' + MENOS + '</button>' +
           '<button type="button" class="visor-b visor-zoom" data-v="mas" aria-label="Acercar">' + MAS + '</button>' +
-          '<button type="button" class="visor-b" data-v="ajustar" aria-label="Ajustar a la ventana">' + AJUSTAR + '</button>' +
         '</div>' +
         '<button type="button" class="visor-x" data-v="cerrar" aria-label="Cerrar apuntes">' + CERRAR + '</button>' +
       '</div>' +
@@ -52,7 +50,6 @@
         else if (a === "sig") ir(pos + 1);
         else if (a === "mas") zoomCentro(PASO);
         else if (a === "menos") zoomCentro(1 / PASO);
-        else if (a === "ajustar") ajustar();
         return;
       }
       if (e.target === visor) cerrar();   // clic en la zona oscura de fuera
@@ -186,7 +183,10 @@
     else imagen.src = it.src;
   }
 
-  function cerrar() { if (visor.close) visor.close(); else visor.removeAttribute("open"); }
+  function cerrar() {
+    var cierra = function () { if (visor.close) visor.close(); else visor.removeAttribute("open"); };
+    if (window.Mov) window.Mov.dialogoSale(visor, false, cierra); else cierra();
+  }
 
   /* ids: lista de esquemas del catálogo (window.ESQUEMAS). Cada página es una vista distinta. */
   window.abrirVisor = function (ids, quien, inicio) {
@@ -201,7 +201,8 @@
     if (!lista.length) return;
     opener = quien || null; pos = 0;
     for (var k = 0; k < lista.length; k++) if (lista[k].id === inicio) { pos = k; break; }
-    if (visor.showModal) visor.showModal(); else visor.setAttribute("open", "");
+    if (!visor.open) { if (visor.showModal) visor.showModal(); else visor.setAttribute("open", ""); }
+    if (window.Mov) window.Mov.dialogoEntra(visor, false);
     medir(); pintar();
     escenario.focus({ preventScroll: true });
   };

@@ -148,7 +148,7 @@
       tiempo: tiempo, total: tiempo === "ritmo" ? ids.length * RITMO : 0, seg: 0, parado: false, agotado: false
     };
     casoPlegado = false; verFiltro = "todas"; scrollCaso = { lista: 0, texto: 0 };
-    guardarSesion(); arrancarReloj(); pintar();
+    guardarSesion(); arrancarReloj(); pintar("entrar");
   }
 
   /* ---------- Reloj ---------- */
@@ -198,9 +198,9 @@
       sup[ses.caso] = { a: r.a, f: r.f, b: r.b, veces: (sup[ses.caso] ? sup[ses.caso].veces : 0) + 1 };
       guardar(K_SUP, sup);
     }
-    guardarSesion(); pintar(); window.scrollTo(0, 0);
+    guardarSesion(); window.scrollTo(0, 0); pintar("entrar");
   }
-  function salirAlInicio() { ses = null; borrar(K_SESION); clearInterval(intervalo); pintar(); window.scrollTo(0, 0); }
+  function salirAlInicio() { ses = null; borrar(K_SESION); clearInterval(intervalo); window.scrollTo(0, 0); pintar("entrar"); }
 
   /* Respuesta múltiple (solo en algunos supuestos): p.correctas lista las válidas y la respuesta guardada es una lista. */
   function esMulti(p) { return !!p.correctas; }
@@ -225,7 +225,21 @@
   }
 
   /* ---------- Pintado ---------- */
-  function pintar() {
+  /* tipo dice qué movimiento lleva el repintado (ver js/movimiento.js). Sin tipo es un refresco de la misma pantalla y no se anima. */
+  function pintar(tipo) {
+    var M = window.Mov, antes = M ? M.antes(raiz) : null;
+    pintarPantalla();
+    if (M) M.despues(raiz, tipo, antes);
+  }
+  /* Mientras sale la tarjeta (0,12 s) no se aceptan más clics ni teclas, para no saltarse una pregunta. */
+  var ocupado = false;
+  function conSalida(dir, hacer) {
+    if (ocupado) return;
+    ocupado = true;
+    var fin = function () { ocupado = false; if (ses && !ses.fin && !ses.parado) hacer(); };
+    if (window.Mov) window.Mov.salida(raiz.querySelector(".tarjeta-cuerpo"), dir, fin); else fin();
+  }
+  function pintarPantalla() {
     if (!ses) return pintarInicio();
     if (ses.fin) return ses.modo === "supuesto" ? pintarResultadosCaso() : pintarResultados();
     if (ses.parado) return pintarPausa();
@@ -242,6 +256,8 @@
       h += '<div class="resumir"><button class="btn btn-principal" data-a="retomar">Retomar examen (' + guardada.ids.length + ' preguntas)</button></div>';
     }
     h += '<div class="pestanas" role="tablist" aria-label="Tipo de prueba">';
+    /* El fondo blanco de la pestaña activa es una pieza aparte para poder animarlo sin tocar el texto. */
+    h += '<i class="pestana-marca" aria-hidden="true" style="grid-column:' + (ajustes.modo === "supuesto" ? 2 : ajustes.modo === "apuntes" ? 3 : 1) + '"></i>';
     h += '<button class="pestana" role="tab" aria-selected="' + (ajustes.modo === "examen") + '" data-a="modo" data-v="examen">Examen</button>';
     h += '<button class="pestana" role="tab" aria-selected="' + (ajustes.modo === "supuesto") + '" data-a="modo" data-v="supuesto">Supuestos</button>';
     h += '<button class="pestana" role="tab" aria-selected="' + (ajustes.modo === "apuntes") + '" data-a="modo" data-v="apuntes">Apuntes</button>';
@@ -570,6 +586,7 @@
       var y = cuerpo.scrollTop;
       cont.outerHTML = htmlOpciones(p, i, true);
       cuerpo.scrollTop = y;
+      if (window.Mov) window.Mov.respuesta(raiz.querySelector(".opciones"));
       var bl = raiz.querySelector('[data-a="blanco"]'); if (bl) bl.disabled = true;
       var sg = raiz.querySelector('[data-a="siguiente"]'); if (sg) sg.disabled = false;
     } else pintar();
@@ -578,7 +595,7 @@
   }
   function siguiente() {
     if (ses.pos >= ses.ids.length - 1) return terminar();
-    ses.pos++; guardarSesion(); pintar();
+    conSalida(1, function () { ses.pos++; guardarSesion(); pintar("adelante"); });
   }
 
   /* ---------- Pausa ---------- */
@@ -605,7 +622,7 @@
     h += '<div class="cuenta" aria-label="' + hechas + " de " + ses.ids.length + ' respondidas">' + hechas + " de " + ses.ids.length + "</div>" + htmlReloj() + "</header>";
     h += '<div class="progreso" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + pct + '" aria-label="Preguntas respondidas"><i style="width:' + pct + '%"></i></div>';
     h += abrirReparto(c);
-    h += '<section class="lista-preg" aria-label="Preguntas" tabindex="0">' + consigna(c);
+    h += '<section class="lista-preg" data-flip-id="lista" aria-label="Preguntas" tabindex="0">' + consigna(c);
     ses.ids.forEach(function (id, n) {
       var p = PREGUNTAS[id], r = ses.resp[id];
       h += '<article class="preg"><h3><span>' + (n + 1) + ".</span> " + esc(p.enunciado) + "</h3>";
@@ -652,7 +669,7 @@
     return h + (lista ? "</ul>" : "");
   }
   function panelCaso(c) {
-    var h = '<section class="caso" aria-label="Enunciado del supuesto"><div class="caso-cab"><span>' + esc(titulo(c)) + "</span>";
+    var h = '<section class="caso" data-flip-id="caso" aria-label="Enunciado del supuesto"><div class="caso-cab"><span>' + esc(titulo(c)) + "</span>";
     h += '<button class="enlace plegar" data-a="plegar" aria-expanded="' + !casoPlegado + '">' + (casoPlegado ? "Mostrar" : "Plegar") + "</button></div>";
     if (!casoPlegado) h += '<div class="caso-texto" tabindex="0">' + textoCaso(c.texto) + "</div>";
     return h + "</section>";
@@ -742,6 +759,7 @@
       window.scrollTo({ top: window.scrollY + a.getBoundingClientRect().top - arriba, behavior: suave });
     }
     a.focus({ preventScroll: true });
+    if (window.Mov) window.Mov.resaltar(a);
   }
   function alternarNav(b) {
     navAbierto = b.getAttribute("aria-expanded") !== "true";
@@ -829,12 +847,18 @@
   }
   function abrirDialogo(html) {
     dialogo.innerHTML = html;
-    if (dialogo.showModal) dialogo.showModal(); else dialogo.setAttribute("open", "");
+    /* Si aún se está cerrando el anterior, sigue abierto: no se vuelve a abrir. */
+    if (!dialogo.open) { if (dialogo.showModal) dialogo.showModal(); else dialogo.setAttribute("open", ""); }
+    if (window.Mov) window.Mov.dialogoEntra(dialogo, true);
     var titulo = dialogo.querySelector("h2");
     if (titulo) { titulo.tabIndex = -1; titulo.focus({ preventScroll: true }); }
     dialogo.scrollTop = 0;
   }
-  function cerrarDialogo() { saliendo = false; if (dialogo.close) dialogo.close(); else dialogo.removeAttribute("open"); }
+  function cerrarDialogo() {
+    saliendo = false;
+    var cierra = function () { if (dialogo.close) dialogo.close(); else dialogo.removeAttribute("open"); };
+    if (window.Mov) window.Mov.dialogoSale(dialogo, true, cierra); else cierra();
+  }
 
   function dialogoSalir() {
     saliendo = true;
@@ -847,11 +871,11 @@
 
   /* ---------- Eventos ---------- */
   function clic(e) {
-    var b = e.target.closest("[data-a]"); if (!b || b.disabled) return;
+    var b = e.target.closest("[data-a]"); if (!b || b.disabled || ocupado) return;
     var a = b.dataset.a, v = b.dataset.v;
     switch (a) {
-      case "modo": ajustes.modo = v; guardarAjustes(); pintar(); break;
-      case "tema-abrir": temasAbiertos[v] = b.getAttribute("aria-expanded") !== "true"; repintarInicio('[data-a="tema-abrir"][data-v="' + v + '"]'); break;
+      case "modo": if (ajustes.modo === v) break; ajustes.modo = v; guardarAjustes(); pintar("pestana"); break;
+      case "tema-abrir": alternarTema(b, v); break;
       case "empezar-falladas":
         var pf = poolFalladas(); if (!pf.length) break;
         guardarAjustes();
@@ -875,15 +899,15 @@
         empezar("examen", generar(poolExamen(), ajustes.n), null, ajustes.tiempo);
         break;
       case "empezar-caso": guardarAjustes(); empezar("supuesto", idsCaso(ajustes.caso), ajustes.caso, ajustes.tiempo); break;
-      case "retomar": ses = leer(K_SESION, null); arrancarReloj(); pintar(); break;
+      case "retomar": ses = leer(K_SESION, null); arrancarReloj(); pintar("entrar"); break;
       case "responder": responder(+v); break;
       case "blanco": ses.resp[ses.ids[ses.pos]] = null; guardarSesion(); siguiente(); break;
       case "siguiente": siguiente(); break;
-      case "atras": if (ses.pos > 0) { ses.pos--; guardarSesion(); pintar(); } break;
+      case "atras": if (ses.pos > 0) conSalida(-1, function () { ses.pos--; guardarSesion(); pintar("atras"); }); break;
       case "salir": dialogoSalir(); break;
       case "pausar":
         if (!ses.parado) recordarScroll();
-        ses.parado = !ses.parado; guardarSesion(); pintar();
+        ses.parado = !ses.parado; guardarSesion(); pintar("entrar");
         anunciar(ses.parado ? "En pausa." : "Reanudado.");
         break;
       case "marcar":
@@ -896,7 +920,7 @@
         } else if (ses.resp[id] === i) delete ses.resp[id]; else ses.resp[id] = i;
         guardarSesion(); pintar();
         break;
-      case "plegar": casoPlegado = !casoPlegado; pintar(); break;
+      case "plegar": casoPlegado = !casoPlegado; pintar("plegar"); break;
       case "corregir":
         var faltan = ses.ids.length - ses.ids.filter(function (x) { return ses.resp[x] !== undefined && ses.resp[x] !== null; }).length;
         if (faltan) {
@@ -905,7 +929,7 @@
         break;
       case "calendario": abrirDialogo(htmlCalendario(v)); break;
       case "cerrar": cerrarDialogo(); break;
-      case "guardar-salir": guardarSesion(); cerrarDialogo(); ses = null; clearInterval(intervalo); pintar(); window.scrollTo(0, 0); break;
+      case "guardar-salir": guardarSesion(); cerrarDialogo(); ses = null; clearInterval(intervalo); window.scrollTo(0, 0); pintar("entrar"); break;
       case "terminar-ya": cerrarDialogo(); terminar(); break;
       case "descartar": cerrarDialogo(); salirAlInicio(); break;
       case "nuevo": salirAlInicio(); break;
@@ -922,19 +946,32 @@
   function alternar(b) {
     var abrir = b.getAttribute("aria-expanded") !== "true";
     var antes = b.getBoundingClientRect().top;
+    var M = window.Mov;
     raiz.querySelectorAll('.acordeon[aria-expanded="true"]').forEach(function (o) {
       o.setAttribute("aria-expanded", "false"); o.querySelector("span").textContent = "Ver justificación";
-      document.getElementById(o.getAttribute("aria-controls")).hidden = true;
+      var j = document.getElementById(o.getAttribute("aria-controls"));
+      /* La que se cierra por debajo del botón pulsado se anima; las de otras preguntas se cierran de golpe, para que el botón no se mueva. */
+      if (o === b && M) M.cerrar(j); else j.hidden = true;
     });
     if (abrir) {
       b.setAttribute("aria-expanded", "true"); b.querySelector("span").textContent = "Ocultar justificación";
-      document.getElementById(b.getAttribute("aria-controls")).hidden = false;
+      var dentro = document.getElementById(b.getAttribute("aria-controls"));
+      if (M) M.abrir(dentro); else dentro.hidden = false;
     }
     var dif = b.getBoundingClientRect().top - antes;
     if (!dif) return;
     var zona = b.closest(".lista-preg");
     if (zona) zona.scrollTop += dif;
     else window.scrollTo({ top: window.scrollY + dif, behavior: "instant" });
+  }
+  /* Temas, grupos y bloques de apuntes: se abren y cierran en su sitio, sin repintar la pantalla. */
+  function alternarTema(b, v) {
+    var abrir = b.getAttribute("aria-expanded") !== "true", dentro = document.getElementById(b.getAttribute("aria-controls"));
+    temasAbiertos[v] = abrir;
+    b.setAttribute("aria-expanded", abrir);
+    if (!dentro) return;
+    if (window.Mov) { if (abrir) window.Mov.abrir(dentro); else window.Mov.cerrar(dentro); }
+    else dentro.hidden = !abrir;
   }
   function repintarInicio(selector) {
     var y = window.scrollY; pintar(); window.scrollTo(0, y);
@@ -964,7 +1001,7 @@
     setTimeout(function () { repintarInicio(sel); }, 0);
   }
   function teclas(e) {
-    if (!ses || ses.fin || ses.parado || ses.modo !== "examen" || dialogo.open) return;
+    if (!ses || ses.fin || ses.parado || ses.modo !== "examen" || dialogo.open || ocupado) return;
     if (e.ctrlKey || e.metaKey || e.altKey) return;
     var k = e.key.toLowerCase(), i = LETRAS.indexOf(k);
     var p = PREGUNTAS[ses.ids[ses.pos]];
@@ -978,5 +1015,5 @@
   raiz.addEventListener("input", function (e) { if (e.target.dataset && e.target.dataset.a === "busca-apuntes") buscarApuntes(e.target.value); });
   document.addEventListener("keydown", teclas);
   window.addEventListener("pagehide", guardarSesion);
-  pintar();
+  pintar("entrar");
 })();

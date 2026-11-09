@@ -99,8 +99,13 @@ button:disabled{cursor:not-allowed}
 .panel h3{font-size:var(--t-m);font-weight:600}
 .nota{font-size:var(--t-s);color:var(--tinta-2)}
 .pestanas{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--e1);padding:var(--e1);background:var(--pista);border-radius:var(--r-m)}
-.pestana{min-height:48px;border:0;border-radius:var(--r-s);background:none;color:var(--blanco);font-weight:600}
-.pestana[aria-selected="true"]{background:var(--blanco);color:var(--violeta-oscuro)}
+.pestana{position:relative;z-index:1;grid-row:1;min-height:48px;border:0;border-radius:var(--r-s);background:none;color:var(--blanco);font-weight:600}
+.pestana:nth-of-type(1){grid-column:1}
+.pestana:nth-of-type(2){grid-column:2}
+.pestana:nth-of-type(3){grid-column:3}
+.pestana[aria-selected="true"]{color:var(--violeta-oscuro)}
+/* Fondo de la pestaña activa: pieza aparte que se desliza (js/movimiento.js) */
+.pestana-marca{grid-row:1;border-radius:var(--r-s);background:var(--blanco)}
 fieldset{border:0;margin:0;padding:0;display:grid;gap:var(--e2);min-width:0}
 legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 .tema{border:2px solid var(--borde);border-radius:var(--r-s);overflow:hidden}
@@ -252,7 +257,10 @@ i.cuadro{display:block;min-width:0;min-height:0;width:20px;height:20px;flex:none
 .nav-leyenda{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:var(--e2) var(--e4);font-size:var(--t-xs);font-weight:500}
 .nav-leyenda li{display:flex;align-items:center;gap:var(--e2)}
 .nav-res .btn{width:100%}
-.resultado:focus{outline:none}
+/* Al llegar desde "Ir a una pregunta" se marca un momento y el contorno se apaga solo. */
+.resultado{outline:3px solid transparent;outline-offset:var(--e2);transition:outline-color .5s ease}
+.resultado:focus{outline-color:transparent}
+.resultado.resaltado{outline-color:var(--violeta);transition-duration:.15s}
 /* Móvil: el acordeón se queda pegado arriba mientras se baja por las respuestas. */
 .res-pag .nav-res{position:sticky;top:max(var(--e2),env(safe-area-inset-top));z-index:5}
 .reparto.res{grid-template-rows:auto minmax(0,2fr) minmax(0,3fr)}
@@ -266,6 +274,10 @@ i.cuadro{display:block;min-width:0;min-height:0;width:20px;height:20px;flex:none
 /* ---------- Diálogo y calendario ---------- */
 .dialogo{border:0;border-radius:var(--r-l);padding:var(--e5) var(--e4);width:min(560px,calc(100vw - 2*var(--e4)));max-height:calc(100dvh - 2*var(--e4));color:var(--tinta)}
 .dialogo::backdrop{background:var(--pista);opacity:.75}
+.dialogo[open]::backdrop,.visor[open]::backdrop{animation:velo-entra .18s ease-out}
+.dialogo.cerrando::backdrop,.visor.cerrando::backdrop{animation:velo-sale .12s ease-in forwards}
+@keyframes velo-entra{from{opacity:0}}
+@keyframes velo-sale{to{opacity:0}}
 .dialogo h2{font-size:var(--t-xl);font-weight:700;line-height:1.25;margin-bottom:var(--e2)}
 .dialogo-x{position:sticky;top:calc(var(--e2) - var(--e5));z-index:1;height:0;display:flex;justify-content:flex-end}
 .dialogo-x+h2{padding-right:calc(44px + var(--e3))}
@@ -340,14 +352,21 @@ i.cuadro{display:block;min-width:0;min-height:0;width:20px;height:20px;flex:none
   .enunciado{font-size:var(--t-m)}
   .btn{min-height:48px}
 }
-@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+/* Cambios de estado: color, borde y sombra se funden en lugar de saltar. Las flechas giran. */
+.btn,.btn-cuadrado,.btn-pausa,.btn-apoyo,.btn-claro,.opcion,.check,.chip,.filtro,.pestana,.tema-cab,.tema-abrir,.grupo-abrir,.acordeon,.apunte,.cuadro,.nav-toggle,.enlace{
+  transition:background-color .15s ease,border-color .15s ease,color .15s ease,box-shadow .15s ease,opacity .15s ease}
+/* Las pestañas cambian de color al ritmo del fondo blanco que aparece (js/movimiento.js). */
+.pestana{transition:color .18s ease-out,background-color .15s ease}
+.btn-principal{transition:background-color .15s ease,color .15s ease,box-shadow .1s ease,transform .1s ease}
+.tema-abrir svg,.grupo-abrir svg,.acordeon svg,.nav-toggle svg{transition:transform .2s ease}
+@media (prefers-reduced-motion:reduce){*,::backdrop{transition:none!important;animation:none!important}}
 .dialogo h2:focus{outline:none}
 
 /* ---------- Visor de apuntes ---------- */
 .visor{--giro:0;padding:0;border:0;border-radius:var(--r-l);overflow:hidden;max-width:none;max-height:none;
   width:min(1500px,calc(100vw - 2*var(--e5)));height:calc(100dvh - 2*var(--e5));background:var(--blanco-fondo);color:var(--blanco)}
 .visor[open]{display:flex;flex-direction:column}
-.visor::backdrop{background:color-mix(in srgb,var(--pista) 82%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.visor::backdrop{background:color-mix(in srgb,var(--pista) 82%,transparent)}
 .visor-cab{flex:none;display:flex;align-items:center;gap:var(--e3);padding:var(--e3) var(--e4);background:var(--violeta-oscuro)}
 .visor-tit{flex:1;min-width:0}
 .visor-tit h2{font-size:var(--t-l);font-weight:600;line-height:1.25;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}

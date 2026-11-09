@@ -47,3 +47,10 @@ python3 tools/esquemas.py <carpeta ordenado>   # los pasa a WebP y regenera data
 
 `tools/esquemas.py` usa `tools/nuevos/<id>.png` en lugar del dibujo antiguo si existe. Para cambiar un esquema,
 se edita su bloque en `tools/nuevos/generar.py` (los estilos comunes están en `tools/nuevos/base.css`).
+
+## Movimiento
+
+Las animaciones van en `js/movimiento.js`, con GSAP 3.13 y su plugin Flip copiados en `js/vendor/` (sin CDN, se publican con el resto).
+`pintar(tipo)` decide qué se anima: `"entrar"` (pantalla nueva), `"adelante"` y `"atras"` (otra pregunta), `"pestana"` y `"plegar"`.
+Sin tipo es un refresco de la misma pantalla y no se mueve nada. Con "reducir movimiento" activado en el sistema no se anima nada,
+y si GSAP no carga la app funciona igual.
