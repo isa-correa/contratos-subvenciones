@@ -18,7 +18,7 @@ No es una procedencia: la pregunta sigue siendo Oficial, de Votaciones o la que 
 
 ## Estadísticas
 
-Cada tema y bloque muestra preguntas dominadas, falladas y pendientes. Se puede repasar solo lo fallado y reiniciar las estadísticas. Todo se guarda en el navegador con claves `contratos-*`, para no mezclarse con otros tests publicados en el mismo dominio.
+Cada tema y bloque muestra preguntas dominadas, falladas y pendientes. En Examen solo salen las pendientes: una pregunta acertada ya no vuelve a salir y una fallada solo sale en «Repasar solo las falladas» (si la aciertas ahí, pasa a dominada). Las que dejas en blanco siguen pendientes. Cuando quedan menos pendientes que el número elegido, el examen se hace con las que quedan. «Reiniciar estadísticas» lo pone todo a cero y vuelven a salir todas. Todo se guarda en el navegador con claves `contratos-*`, para no mezclarse con otros tests publicados en el mismo dominio.
 
 ## Cuestionarios de clase en Supuestos
 

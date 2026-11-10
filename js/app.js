@@ -105,7 +105,8 @@
   function guardarAjustes() { guardar(K_AJUSTES, ajustes); }
 
   /* ---------- Generar examen ---------- */
-  function poolExamen() {
+  /* Todas las preguntas de lo que tienes marcado, hechas o no. Sirve para contar y para sacar las falladas. */
+  function poolFiltrado() {
     var ya = {}; /* Si la misma pregunta está en dos tests, solo cuenta una vez. */
     return Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) {
       if (p.caso || SOLO_SUPUESTOS[p.tema] || ajustes.bloques.indexOf(p.bloque) < 0 || ajustes.origenes.indexOf(p.origen) < 0) return false;
@@ -114,6 +115,15 @@
       if (ya[k]) return false;
       ya[k] = 1;
       return true;
+    });
+  }
+  /* El examen normal solo saca las pendientes: las acertadas no vuelven y las falladas solo salen en "Repasar solo las falladas".
+     Todo vuelve a salir al reiniciar las estadísticas. Si una pendiente depende de "la pregunta anterior", entra también su pareja. */
+  function poolExamen() {
+    var cx = contexto(), pool = poolFiltrado();
+    var pend = pool.filter(function (p) { return estadoPreg(p, cx) === "p"; });
+    return pool.filter(function (p) {
+      return estadoPreg(p, cx) === "p" || pend.some(function (q) { return q.sigueA === p.id; });
     });
   }
   /* Reparto proporcional al número de preguntas de cada tema, y dentro de cada tema primero las que aún no has acertado. */
@@ -142,8 +152,10 @@
     /* Las que dependen de "la pregunta anterior" siempre salen justo detrás de ella. */
     pool.filter(function (p) { return p.sigueA; }).forEach(function (p) {
       var i = elegidas.findIndex(function (x) { return x.id === p.sigueA; });
-      if (i < 0 || elegidas.length < 2) return;
-      /* Entra quitando la última que no tenga pareja, para no dejar una pregunta suelta. */
+      if (i < 0) return;
+      /* Si aún cabe (quedan pocas pendientes), entra sin más. Si no, entra quitando la última que no tenga pareja, para no dejar una pregunta suelta. */
+      if (elegidas.length < n) { elegidas.splice(i + 1, 0, p); return; }
+      if (elegidas.length < 2) return;
       var quita = -1;
       for (var k = elegidas.length - 1; k >= 0 && quita < 0; k--) {
         var x = elegidas[k], siguiente = elegidas[k + 1];
@@ -320,7 +332,7 @@
   }
   /* Las falladas de lo que tienes marcado. Si una depende de "la pregunta anterior", entra también su pareja. */
   function poolFalladas() {
-    var cx = contexto(), pool = poolExamen();
+    var cx = contexto(), pool = poolFiltrado();
     var f = pool.filter(function (p) { return estadoPreg(p, cx) === "f"; });
     return pool.filter(function (p) { return estadoPreg(p, cx) === "f" || f.some(function (q) { return q.sigueA === p.id; }); });
   }
@@ -328,9 +340,9 @@
   function formExamen() {
     var cx = contexto();
     var todas = Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) { return !p.caso && !SOLO_SUPUESTOS[p.tema]; });
-    var pool = poolExamen();
+    var pool = poolExamen(), filtrado = poolFiltrado();
     var maxN = pool.length;
-    if (ajustes.n > maxN) {
+    if (ajustes.n > maxN && maxN >= LONGITUDES[0]) {
       var valido = LONGITUDES.filter(function (l) { return l <= maxN; }).pop();
       if (valido) ajustes.n = valido;
     }
@@ -370,14 +382,16 @@
       var off = l > maxN;
       h += '<label class="chip' + (ajustes.n === l && !off ? " marcado" : "") + '"><input type="radio" name="n" data-a="n" value="' + l + '"' + (ajustes.n === l && !off ? " checked" : "") + (off ? " disabled" : "") + "><span>" + l + "</span></label>";
     });
-    h += '</div><p class="nota">Hay ' + maxN + " preguntas con estos filtros. Si marcas varios temas, se reparten en proporción a las preguntas de cada uno.</p></fieldset></div>";
-    h += panelTiempo(ajustes.n);
-    var puede = maxN >= 10 && ajustes.n <= maxN;
-    h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-examen"' + (puede ? "" : " disabled") + ">Empezar examen</button>";
+    var nUsar = Math.min(ajustes.n, maxN);
+    h += '</div><p class="nota">' + (maxN === 1 ? "Queda 1 pregunta pendiente" : "Quedan " + maxN + " preguntas pendientes") + " con estos filtros." + (maxN && maxN < ajustes.n ? " El examen tendrá " + plural(maxN, "pregunta", "preguntas") + "." : "") +
+      " Las que aciertas ya no vuelven a salir y las que fallas solo salen en «Repasar solo las falladas». Si marcas varios temas, se reparten en proporción a las preguntas de cada uno.</p></fieldset></div>";
+    h += panelTiempo(nUsar);
+    var puede = maxN > 0;
+    h += '<div class="acciones"><button class="btn btn-principal" data-a="empezar-examen"' + (puede ? "" : " disabled") + ">Empezar examen" + (puede && nUsar < ajustes.n ? " (" + nUsar + ")" : "") + "</button>";
     var falladas = poolFalladas().length;
     h += '<button class="btn btn-secundario" data-a="empezar-falladas"' + (falladas ? "" : " disabled") + ">Repasar solo las falladas (" + falladas + ")</button>";
-    if (!puede) h += '<p class="pagina-sub">' + (ajustes.bloques.length ? "Con estos filtros no llegas a 10 preguntas. Marca más temas o procedencias." : "Abre un tema y marca lo que quieres incluir.") + "</p>";
-    if (maxN) h += '<p class="pagina-sub">Con estos filtros: ' + textoConteo(contar(pool, cx)) + ".</p>";
+    if (!puede) h += '<p class="pagina-sub">' + (!ajustes.bloques.length ? "Abre un tema y marca lo que quieres incluir." : filtrado.length ? "Ya has hecho todas las preguntas de estos filtros. Repasa las falladas, marca otros temas o reinicia las estadísticas para que vuelvan a salir todas." : "Con estos filtros no hay preguntas. Marca más temas o procedencias.") + "</p>";
+    if (filtrado.length) h += '<p class="pagina-sub">Con estos filtros: ' + textoConteo(contar(filtrado, cx)) + ".</p>";
     h += botonReinicio() + "</div>";
     return h;
   }
@@ -903,7 +917,7 @@
         empezar("examen", generar(pf, Math.min(ajustes.n, pf.length)), null, ajustes.tiempo);
         break;
       case "reiniciar":
-        abrirDialogo('<h2>¿Qué quieres reiniciar?</h2><p class="nota">Las estadísticas vuelven a cero y no se puede deshacer. Un examen o supuesto a medias no se toca.</p><div class="dialogo-acciones">' +
+        abrirDialogo('<h2>¿Qué quieres reiniciar?</h2><p class="nota">Las estadísticas vuelven a cero y las preguntas que ya habías hecho vuelven a salir en Examen. No se puede deshacer. Un examen o supuesto a medias no se toca.</p><div class="dialogo-acciones">' +
           '<button class="btn btn-claro" data-a="reset" data-v="examen">Solo exámenes (dominadas, falladas y pendientes)</button>' +
           '<button class="btn btn-claro" data-a="reset" data-v="supuestos">Solo supuestos</button>' +
           '<button class="btn btn-claro" data-a="reset" data-v="todo">Todo</button>' +
@@ -917,7 +931,8 @@
         break;
       case "empezar-examen":
         guardarAjustes();
-        empezar("examen", generar(poolExamen(), ajustes.n), null, ajustes.tiempo);
+        var pe = poolExamen(); if (!pe.length) break;
+        empezar("examen", generar(pe, Math.min(ajustes.n, pe.length)), null, ajustes.tiempo);
         break;
       case "empezar-caso": guardarAjustes(); empezar("supuesto", idsCaso(ajustes.caso), ajustes.caso, ajustes.tiempo); break;
       case "retomar": ses = leer(K_SESION, null); arrancarReloj(); pintar("entrar"); break;
