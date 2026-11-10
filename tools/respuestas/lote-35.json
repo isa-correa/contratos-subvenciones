@@ -300,14 +300,14 @@
  "pr-24-014": {
   "bloque": "lcsp-general",
   "precepto": "DA 12.ª",
-  "correcta": 1,
+  "correcta": 0,
   "justificaciones": [
-   "Es al revés: la regla general son días hábiles.",
-   "Correcta: los plazos en días se cuentan en días hábiles, salvo que la LCSP diga que son naturales.",
-   "No se distingue entre procedimiento y ejecución.",
-   "Tampoco: no hay esa distinción."
+   "Es esta. La **disposición adicional 12.ª** dice que los plazos por días se entienden naturales, salvo que la ley indique expresamente que solo cuentan los hábiles. Ejemplo de excepción: los 15 días hábiles que hay que esperar entre la adjudicación y la formalización (art. 153.3).",
+   "No. Lo has puesto al revés. La regla general de la LCSP son los días **naturales**, no los hábiles.",
+   "No. La LCSP no distingue entre procedimiento y ejecución: la regla es la misma para todo.",
+   "No. Tampoco hay esa distinción entre procedimiento y ejecución."
   ],
-  "revisar": "Cita DA 12.ª LCSP; confirmar la referencia en la nota del calendario de la app."
+  "ojo": "Si el último día del plazo es inhábil, se prorroga al primer día hábil siguiente (misma disposición). No confundas con la Ley 39/2015, donde los plazos por días son hábiles."
  },
  "pr-24-015": {
   "bloque": "lcsp-disposiciones",
