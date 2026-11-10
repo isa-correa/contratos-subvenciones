@@ -10,6 +10,12 @@ Se publica tal cual en GitHub Pages: no necesita compilar nada. Solo hay que sub
 2. Las respuestas razonadas van en `tools/respuestas/*.json`, por id de pregunta (método en `tools/trabajo/INSTRUCCIONES.md`).
 3. `python3 tools/construir.py` valida y genera `data/contratos.js`, `data/subvenciones.js` y `data/mixtos.js`. Un supuesto que mezcla leyes se añade a `MIXTOS` en `construir.py`. Solo entran las preguntas con respuesta.
 
+## Lo que más cae
+
+El profesor marca en `LCSP_apuntes_fuente.html` lo que más se pregunta (recuadros «Pregunta de examen», «La pregunta estrella», frases como «muy preguntado») y lo que casi no cae. Esas marcas están en `tools/marcas.py`, cada una atada a sus artículos, y `construir.py` se las pone a las preguntas cuyo precepto los cite. Hay tres niveles: Estrella del profesor, Clave de examen y Poco preguntado.
+
+No es una procedencia: la pregunta sigue siendo Oficial, de Votaciones o la que sea, y además lleva la marca. En Examen, la casilla «Solo estrella y clave de examen» deja solo esas preguntas; sin marcarla, salen mezcladas con el resto. La marca se ve en la cabecera de la pregunta y en Soluciones, donde la justificación dice además qué comentó el profesor. Para añadir o quitar una marca, se edita `MARCAS` en `tools/marcas.py` y se vuelve a ejecutar `construir.py`.
+
 ## Estadísticas
 
 Cada tema y bloque muestra preguntas dominadas, falladas y pendientes. Se puede repasar solo lo fallado y reiniciar las estadísticas. Todo se guarda en el navegador con claves `contratos-*`, para no mezclarse con otros tests publicados en el mismo dominio.

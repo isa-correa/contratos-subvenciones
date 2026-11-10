@@ -211,6 +211,13 @@ legend{padding:0;margin-bottom:var(--e2);font-size:var(--t-l);font-weight:700}
 .razon.es{padding:var(--e3);background:var(--ok-fondo);border-radius:var(--r-s)}
 .ojo{padding:var(--e3);border:2px solid var(--violeta);border-radius:var(--r-s)}
 .ojo b{font-weight:700}
+/* Marca del profesor: texto con icono en la línea de cabecera, sin caja propia. */
+.sello{display:inline-flex;align-items:center;gap:var(--e1);font-weight:700;color:var(--violeta-oscuro);white-space:nowrap}
+.sello svg{width:1.15em;height:1.15em;flex:none}
+.sello.poco{font-weight:600;color:var(--tinta-2)}
+.resultado-cab .sello{margin-left:var(--e3)}
+.preg .etiqueta{margin:0 0 var(--e1)}
+.nota-profe{margin:var(--e3) 0}
 .revisar{padding:var(--e3);border:2px dashed var(--borde);border-radius:var(--r-s);font-size:var(--t-s)}
 .revisar b{font-weight:700}
 .filtros{display:flex;flex-wrap:wrap;gap:var(--e2)}

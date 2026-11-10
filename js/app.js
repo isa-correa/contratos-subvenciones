@@ -12,6 +12,17 @@
   });
   var ORIGENES = [["oficiales", "Oficiales"], ["votaciones", "Votaciones"], ["autoevaluacion", "Autoevaluación"], ["practicas", "Clases prácticas"]];
   var NOMBRE_ORIGEN = {}; ORIGENES.forEach(function (o) { NOMBRE_ORIGEN[o[0]] = o[1]; });
+  /* Lo que el profesor marca en sus apuntes como muy preguntado o poco preguntado (sale de tools/marcas.py). */
+  var MARCAS = { estrella: "Estrella del profesor", clave: "Clave de examen", poco: "Poco preguntado" };
+  function esClave(p) { return !!(p.marca && p.marca.nivel !== "poco"); }
+  function htmlMarca(p) {
+    if (!p.marca) return "";
+    var n = p.marca.nivel, icono = n === "estrella" ? ICONOS.estrella : n === "clave" ? ICONOS.estrellaHueca : "";
+    return '<span class="sello ' + n + '">' + icono + MARCAS[n] + "</span>";
+  }
+  function htmlNotaMarca(p) {
+    return p.marca ? '<p class="ojo nota-profe"><b>' + (p.marca.nivel === "poco" ? "Poco preguntado" : "El profesor") + ":</b> " + esc(p.marca.nota) + "</p>" : "";
+  }
   var LONGITUDES = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
   var RITMO = 67; /* 1 min 7 s por pregunta */
   var LETRAS = "abcdef";
@@ -28,6 +39,8 @@
     elegida: '<svg class="marca" viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="12" fill="none" stroke="currentColor" stroke-width="3"/><circle cx="14" cy="14" r="6" fill="currentColor"/></svg>',
     cerrar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>',
     libro: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21.5zM4 21.5V5.5M8 7h8"/></svg>',
+    estrella: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3-4.6-4.4 6.3-.9z"/></svg>',
+    estrellaHueca: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3-4.6-4.4 6.3-.9z"/></svg>',
     calendario: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/></svg>'
   };
 
@@ -59,7 +72,7 @@
 
   /* ---------- Estado ---------- */
   var ajustes = Object.assign({
-    modo: "examen", bloques: null, origenes: ORIGENES.map(function (o) { return o[0]; }), n: 10, tiempo: "libre", caso: null
+    modo: "examen", bloques: null, origenes: ORIGENES.map(function (o) { return o[0]; }), n: 10, tiempo: "libre", caso: null, soloClave: false
   }, leer(K_AJUSTES, {}));
   /* Temas que solo se practican en Supuestos: no aparecen en Examen ni entran en sus preguntas. */
   var SOLO_SUPUESTOS = { mixtos: 1 };
@@ -96,6 +109,7 @@
     var ya = {}; /* Si la misma pregunta está en dos tests, solo cuenta una vez. */
     return Object.keys(PREGUNTAS).map(function (id) { return PREGUNTAS[id]; }).filter(function (p) {
       if (p.caso || SOLO_SUPUESTOS[p.tema] || ajustes.bloques.indexOf(p.bloque) < 0 || ajustes.origenes.indexOf(p.origen) < 0) return false;
+      if (ajustes.soloClave && !esClave(p)) return false;
       var k = p.dup || p.id;
       if (ya[k]) return false;
       ya[k] = 1;
@@ -346,6 +360,11 @@
       h += '<label class="check' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " marcado" : "") + '"><input type="checkbox" data-a="origen" value="' + o[0] + '"' + (ajustes.origenes.indexOf(o[0]) >= 0 ? " checked" : "") + "><span>" + o[1] + "</span><b>" + cuantas + "</b></label>";
     });
     h += "</fieldset></div>";
+    var antes = ajustes.soloClave; ajustes.soloClave = true;
+    var nClave = poolExamen().length; ajustes.soloClave = antes;
+    h += '<div class="panel"><fieldset><legend>Lo que más cae</legend><p class="nota">Solo preguntas de lo que el profesor marca en los apuntes como estrella o pregunta de examen. Se combina con los temas y la procedencia que elijas. De momento solo hay marcas en contratos.</p>';
+    h += '<label class="check' + (ajustes.soloClave ? " marcado" : "") + '"><input type="checkbox" data-a="soloClave" value="1"' + (ajustes.soloClave ? " checked" : "") + "><span>Solo estrella y clave de examen</span><b>" + nClave + "</b></label>";
+    h += "</fieldset></div>";
     h += '<div class="panel"><fieldset><legend>Número de preguntas</legend><div class="rejilla">';
     LONGITUDES.forEach(function (l) {
       var off = l > maxN;
@@ -519,7 +538,7 @@
     h += '<div class="cuenta" aria-label="Pregunta ' + (ses.pos + 1) + " de " + ses.ids.length + '">' + numero + " de " + ses.ids.length + "</div>" + htmlReloj() + "</header>";
     h += '<div class="progreso" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + pct + '" aria-label="Avance del examen"><i style="width:' + pct + '%"></i></div>';
     h += '<div class="pila"><div class="tarjeta"><div class="tarjeta-cuerpo" data-scroll>';
-    h += '<div class="col-preg" data-scroll><div class="etiqueta"><span>' + esc(BLOQUES[p.bloque]) + "</span></div>";
+    h += '<div class="col-preg" data-scroll><div class="etiqueta"><span>' + esc(BLOQUES[p.bloque]) + "</span>" + htmlMarca(p) + "</div>";
     h += '<h1 class="enunciado" id="enunciado" tabindex="-1">' + esc(p.enunciado) + "</h1>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
     h += '</div><div class="col-opc" data-scroll>' + htmlOpciones(p, r, respondida);
@@ -625,7 +644,7 @@
     h += '<section class="lista-preg" data-flip-id="lista" aria-label="Preguntas" tabindex="0">' + consigna(c);
     ses.ids.forEach(function (id, n) {
       var p = PREGUNTAS[id], r = ses.resp[id];
-      h += '<article class="preg"><h3><span>' + (n + 1) + ".</span> " + esc(p.enunciado) + "</h3>";
+      h += '<article class="preg">' + (p.marca ? '<p class="etiqueta">' + htmlMarca(p) + "</p>" : "") + "<h3><span>" + (n + 1) + ".</span> " + esc(p.enunciado) + "</h3>";
       if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
       if (esMulti(p)) h += '<p class="nota">Marca todas las correctas. Solo cuenta si marcas exactamente las que son.</p>';
       h += '<div class="opciones" role="group" aria-label="Opciones de la pregunta ' + (n + 1) + '">';
@@ -696,6 +715,8 @@
   function htmlFiltros(ids) {
     var c = calcular(ids);
     var op = [["todas", "Todas", ids.length], ["falladas", "Falladas", c.f], ["blanco", "En blanco", c.b]];
+    var nClave = ids.filter(function (id) { return esClave(PREGUNTAS[id]); }).length;
+    if (nClave) op.push(["clave", "Estrella y clave", nClave]);
     return '<div class="filtros" role="group" aria-label="Filtrar resultados">' + op.map(function (o) {
       return '<button class="filtro" data-a="filtro" data-v="' + o[0] + '" aria-pressed="' + (verFiltro === o[0]) + '">' + o[1] + " (" + o[2] + ")</button>";
     }).join("") + "</div>";
@@ -709,7 +730,7 @@
   function htmlResultado(id, n) {
     var p = PREGUNTAS[id], r = ses.resp[id], e = estado(id);
     var rotulo = { acierto: ["estado-ok", "Acertada"], fallo: ["estado-ko", "Fallada"], blanco: ["estado-nu", "En blanco"] }[e];
-    var h = '<article class="resultado" id="res-' + id + '" tabindex="-1" data-estado="' + e + '"><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
+    var h = '<article class="resultado" id="res-' + id + '" tabindex="-1" data-estado="' + e + '"' + (esClave(p) ? ' data-clave="1"' : "") + '><div class="resultado-cab"><span>Pregunta ' + (n + 1) + " · " + esc(NOMBRE_ORIGEN[p.origen] || "") + htmlMarca(p) + '</span><span class="' + rotulo[0] + '">' + rotulo[1] + "</span></div>";
     h += '<p class="resultado-q">' + esc(p.enunciado) + "</p>";
     if (p.calendario) h += '<button class="btn-apoyo" data-a="calendario" data-v="' + p.calendario + '">' + ICONOS.calendario + "Ver calendario</button>";
     var ok = esMulti(p) ? p.correctas : [p.correcta], mias = marcadas(r);
@@ -720,7 +741,7 @@
       h += '<div class="linea' + cl + '"><b>' + LETRAS[i] + ")</b><span>" + (nota ? "<small>" + nota + "</small>" : "") + esc(o) + "</span>" + icono + "</div>";
     });
     h += '<button class="acordeon" data-a="acordeon" aria-expanded="false" aria-controls="j-' + id + '"><span>Ver justificación</span>' + ICONOS.flecha + "</button>";
-    h += '<div class="justificacion" id="j-' + id + '" hidden><p class="precepto">' + esc(p.precepto) + "</p>";
+    h += '<div class="justificacion" id="j-' + id + '" hidden><p class="precepto">' + esc(p.precepto) + "</p>" + htmlNotaMarca(p);
     p.opciones.forEach(function (o, i) {
       h += '<div class="razon' + (ok.indexOf(i) >= 0 ? " es" : "") + '"><b class="l">' + LETRAS[i] + ")</b><span>" + rico(p.justificaciones[i]) + "</span></div>";
     });
@@ -817,7 +838,7 @@
   }
   function aplicarFiltro() {
     var quiero = { todas: null, falladas: "fallo", blanco: "blanco" }[verFiltro];
-    raiz.querySelectorAll(".resultado").forEach(function (a) { a.hidden = quiero && a.dataset.estado !== quiero; });
+    raiz.querySelectorAll(".resultado").forEach(function (a) { a.hidden = verFiltro === "clave" ? !a.dataset.clave : quiero && a.dataset.estado !== quiero; });
     raiz.querySelectorAll(".filtro").forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.v === verFiltro); });
   }
 
@@ -988,6 +1009,7 @@
     }
     else if (a === "bloque") ajustes.bloques = lista(ajustes.bloques, c.value, c.checked);
     else if (a === "origen") ajustes.origenes = lista(ajustes.origenes, c.value, c.checked);
+    else if (a === "soloClave") ajustes.soloClave = c.checked;
     else if (a === "n") ajustes.n = +c.value;
     else if (a === "tiempo") ajustes.tiempo = c.value;
     else if (a === "caso") ajustes.caso = c.value;

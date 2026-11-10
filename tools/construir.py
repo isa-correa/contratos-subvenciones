@@ -3,7 +3,9 @@ import re
 """Une preguntas y respuestas razonadas en data/contratos.js.
 Solo entran las preguntas con respuesta. Si algo no cuadra, avisa y para.
 Uso (desde la raíz del proyecto): python3 tools/construir.py"""
-import glob, json, re, sys
+import glob, json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from marcas import marca  # lo que el profesor marca como muy preguntado o poco preguntado
 D = json.load(open("tools/preguntas.json", encoding="utf8"))
 R = {}
 for f in sorted(glob.glob("tools/respuestas/*.json")):
@@ -54,7 +56,11 @@ for p in D["preguntas"]:
         err.append(f"{p['id']}: bloque {r['bloque']}")
     if re.search("[—–]", json.dumps(r, ensure_ascii=False)):
         err.append(f"{p['id']}: lleva raya o semirraya")
-    salida.append({**p, **r})
+    q = {**p, **r}
+    m = marca(q)
+    if m:
+        q["marca"] = m
+    salida.append(q)
 grupos = {}
 for p in salida:
     grupos.setdefault(clave(p), []).append(p)
